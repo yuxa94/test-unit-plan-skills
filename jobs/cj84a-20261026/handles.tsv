@@ -1,0 +1,211 @@
+DB	CONC	AcDbPolyline	
+DC	CONC	AcDbPolyline	
+DD	CONC	AcDbPolyline	
+DE	CONC	AcDbPolyline	
+DF	CONC	AcDbPolyline	
+E0	WAL	AcDbPolyline	
+E1	A_HAT	AcDbHatch	
+E2	WAL	AcDbPolyline	
+E3	A_HAT	AcDbHatch	
+E4	WAL	AcDbPolyline	
+E5	A_HAT	AcDbHatch	
+E6	WAL	AcDbPolyline	
+E7	A_HAT	AcDbHatch	
+E8	WAL	AcDbPolyline	
+E9	A_HAT	AcDbHatch	
+EA	WAL	AcDbPolyline	
+EB	A_HAT	AcDbHatch	
+EC	WAL	AcDbPolyline	
+ED	A_HAT	AcDbHatch	
+EE	WAL	AcDbPolyline	
+EF	A_HAT	AcDbHatch	
+F0	WAL	AcDbPolyline	
+F1	A_HAT	AcDbHatch	
+F2	WAL	AcDbPolyline	
+F3	A_HAT	AcDbHatch	
+F4	WAL	AcDbPolyline	
+F5	A_HAT	AcDbHatch	
+F6	WAL	AcDbPolyline	
+F7	A_HAT	AcDbHatch	
+F8	WAL_DRY	AcDbPolyline	
+F9	WAL_DRY	AcDbPolyline	
+FA	WAL_DRY	AcDbPolyline	
+FB	WAL_DRY	AcDbPolyline	
+FC	WAL_DRY	AcDbPolyline	
+FD	WAL_DRY	AcDbPolyline	
+FE	WAL_DRY	AcDbPolyline	
+FF	WAL_DRY	AcDbPolyline	
+100	WAL_DRY	AcDbPolyline	
+101	WAL_DRY	AcDbPolyline	
+102	WAL_DRY	AcDbPolyline	
+103	WAL_DRY	AcDbPolyline	
+104	WAL_DRY	AcDbPolyline	
+105	CEN_WALL	AcDbLine	
+106	CEN_WALL	AcDbLine	
+107	CEN_CON	AcDbLine	
+108	CEN_CON	AcDbLine	
+109	CEN_WALL	AcDbLine	
+10A	CEN_CON	AcDbLine	
+10B	CEN_WALL	AcDbLine	
+10C	CEN_CON	AcDbLine	
+10D	CEN_CON	AcDbLine	
+10E	CEN_CON	AcDbLine	
+10F	CEN_CON	AcDbLine	
+110	CEN_CON	AcDbLine	
+111	CEN_WALL	AcDbLine	
+112	CEN_WALL	AcDbLine	
+113	CEN_WALL	AcDbLine	
+114	CEN_WALL	AcDbLine	
+115	CEN_CON	AcDbLine	
+116	CEN_WALL	AcDbLine	
+117	CEN_CON	AcDbLine	
+118	CEN_CON	AcDbLine	
+119	CEN_CON	AcDbLine	
+11A	CEN_WALL	AcDbLine	
+11B	CEN_CON	AcDbLine	
+11C	CEN_WALL	AcDbLine	
+11D	CEN_WALL	AcDbLine	
+11E	CEN_CON	AcDbLine	
+11F	CEN_WALL	AcDbLine	
+120	CEN_WALL	AcDbLine	
+121	CEN_CON	AcDbLine	
+122	CEN_CON	AcDbLine	
+123	CEN_WALL	AcDbLine	
+124	CEN_CON	AcDbLine	
+125	CEN_WALL	AcDbLine	
+126	CEN_CON	AcDbLine	
+129	SINA-F-FRAME	AcDbBlockReference	A$C016A76E2
+14C	SINA-F-FRAME	AcDbBlockReference	A$C65D858C3
+167	SINA-F-FRAME	AcDbBlockReference	A$C016A76E2
+168	SINA-F-FRAME	AcDbBlockReference	A$C3C3C21E6
+17C	SINA-F-FRAME	AcDbBlockReference	A$C3C3C21E6
+17D	DOOR	AcDbBlockReference	FSD-1100(100)
+18F	DOOR	AcDbBlockReference	DOOR-800(100)
+19D	DOOR	AcDbBlockReference	SD_750
+1B0	WIN	AcDbBlockReference	WIN_이중창_3600
+1E1	WIN	AcDbBlockReference	WIN_이중창_1000
+205	WIN	AcDbBlockReference	WIN_이중창_1500
+22B	WIN	AcDbBlockReference	WIN_이중창_1500
+22C	WIN	AcDbBlockReference	WIN_이중창_1800
+252	WIN	AcDbBlockReference	WIN_이중창_1800
+253	0	AcDbBlockReference	실외기창_1000
+284	AA-XXXX-UBR	AcDbBlockReference	A$C84b07bde
+301	FUR	AcDbBlockReference	UBR 부부욕실 1600x2300
+3E3	FUR	AcDbBlockReference	UBR 공용욕실 1500x2200
+3F6	수전	AcDbBlockReference	수전
+41C	AA-XXXX-UBR	AcDbBlockReference	A$C4e4a4905
+4CC	수전	AcDbBlockReference	FD
+4DC	수전	AcDbBlockReference	수전
+4DD	수전	AcDbBlockReference	수전
+4E0	F-FUR-설치	AcDbBlockReference	쿡탑
+63A	FUR	AcDbBlockReference	싱크
+705	FUR_가전	AcDbBlockReference	세탁기-850
+719	FUR_가구	AcDbBlockReference	식탁-1300x800
+74A	A-ELE8	AcDbBlockReference	A$C8273e713
+753	ETC	AcDbBlockReference	A$C24669fbc
+760	0	AcDbBlockReference	X - 단위세대$0$200207-발코니배수구
+774	FUR_가구	AcDbBlockReference	A$Ca96da67e
+77F	FIN	AcDbPolyline	
+780	FIN	AcDbPolyline	
+781	FIN	AcDbPolyline	
+782	FIN	AcDbPolyline	
+783	FIN	AcDbPolyline	
+784	FIN	AcDbPolyline	
+785	FIN	AcDbPolyline	
+786	FIN	AcDbPolyline	
+787	FIN	AcDbPolyline	
+788	FIN	AcDbPolyline	
+789	FIN	AcDbPolyline	
+78A	FIN	AcDbPolyline	
+78B	FIN	AcDbPolyline	
+78C	바닥타일	AcDbPolyline	
+78D	바닥타일	AcDbHatch	
+78E	바닥타일	AcDbPolyline	
+78F	바닥타일	AcDbHatch	
+790	바닥타일	AcDbPolyline	
+791	바닥타일	AcDbHatch	
+794	INS	AcDbPolyline	
+795	INS	AcDbHatch	
+796	INS	AcDbPolyline	
+797	INS	AcDbHatch	
+798	INS	AcDbPolyline	
+799	INS	AcDbHatch	
+79A	INS	AcDbPolyline	
+79B	INS	AcDbHatch	
+79C	INS	AcDbPolyline	
+79D	INS	AcDbHatch	
+79E	INS	AcDbPolyline	
+79F	INS	AcDbHatch	
+7A0	INS	AcDbPolyline	
+7A1	INS	AcDbHatch	
+7A2	INS	AcDbPolyline	
+7A3	INS	AcDbHatch	
+7A4	INS	AcDbPolyline	
+7A5	INS	AcDbHatch	
+7A6	INS	AcDbPolyline	
+7A7	INS	AcDbHatch	
+7A8	INS	AcDbPolyline	
+7A9	INS	AcDbHatch	
+7AA	INS	AcDbPolyline	
+7AB	INS	AcDbHatch	
+7AC	INS	AcDbPolyline	
+7AD	INS	AcDbHatch	
+7AE	INS	AcDbPolyline	
+7AF	INS	AcDbHatch	
+7B0	INS	AcDbPolyline	
+7B1	INS	AcDbHatch	
+7B2	INS	AcDbPolyline	
+7B3	INS	AcDbHatch	
+7B4	INS	AcDbPolyline	
+7B5	INS	AcDbHatch	
+7B6	INS	AcDbPolyline	
+7B7	INS	AcDbHatch	
+7B8	INS	AcDbPolyline	
+7B9	INS	AcDbHatch	
+7BA	INS	AcDbPolyline	
+7BB	INS	AcDbHatch	
+7BC	INS	AcDbPolyline	
+7BD	INS	AcDbHatch	
+7BE	INS	AcDbPolyline	
+7BF	INS	AcDbHatch	
+7C0	INS	AcDbPolyline	
+7C1	INS	AcDbHatch	
+7C2	INS	AcDbPolyline	
+7C3	INS	AcDbHatch	
+AD7	실명	AcDbText	
+AD8	실명	AcDbText	
+AD9	실명	AcDbText	
+ADA	실명	AcDbText	
+ADB	실명	AcDbText	
+ADC	실명	AcDbText	
+ADD	실명	AcDbText	
+ADE	실명	AcDbText	
+ADF	실명	AcDbText	
+AE0	실명	AcDbText	
+AE1	실명	AcDbText	
+AE2	실명	AcDbText	
+AE3	실명	AcDbText	
+AE4	실명	AcDbText	
+AE7	DIM	AcDbRotatedDimension	
+B1D	DIM	AcDbRotatedDimension	
+B51	DIM	AcDbRotatedDimension	
+B85	DIM	AcDbRotatedDimension	
+BB9	DIM	AcDbRotatedDimension	
+BED	DIM	AcDbRotatedDimension	
+C21	DIM	AcDbRotatedDimension	
+C55	DIM	AcDbRotatedDimension	
+C89	DIM	AcDbRotatedDimension	
+CBD	DIM	AcDbRotatedDimension	
+CF1	DIM	AcDbRotatedDimension	
+D25	DIM	AcDbRotatedDimension	
+D5A	DIM	AcDbRotatedDimension	
+D8E	DIM	AcDbRotatedDimension	
+DC2	DIM	AcDbRotatedDimension	
+DF6	DIM	AcDbRotatedDimension	
+E2A	DIM	AcDbRotatedDimension	
+E5E	DIM	AcDbRotatedDimension	
+E92	DIM	AcDbRotatedDimension	
+EC6	DIM	AcDbRotatedDimension	
+EFA	DIM	AcDbRotatedDimension	
+F2E	DIM	AcDbRotatedDimension	
+F62	DIM	AcDbRotatedDimension	

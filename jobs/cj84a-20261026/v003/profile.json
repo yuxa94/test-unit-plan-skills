@@ -1,0 +1,363 @@
+{
+ "project": {
+  "name": {
+   "value": "청주 월명",
+   "status": "user_confirmed"
+  },
+  "unit_type": {
+   "value": "84A",
+   "status": "user_confirmed"
+  },
+  "variant": {
+   "value": "basic",
+   "status": "user_confirmed"
+  },
+  "drawing_scale": {
+   "value": "1/50",
+   "status": "project_confirmed"
+  },
+  "units": {
+   "value": "mm",
+   "status": "project_confirmed"
+  }
+ },
+ "standards": {
+  "layer_scheme": {
+   "value": "custom(청주 원본)",
+   "status": "proposed",
+   "note": "원본 재현 시험이라 원본 레이어 이름 사용"
+  },
+  "template_dwg": {
+   "value": "input/cj_plan.dwg",
+   "status": "project_confirmed"
+  },
+  "text_style": {
+   "value": "HAUD01",
+   "status": "observed"
+  }
+ },
+ "zoning": {
+  "source": {
+   "value": "U-84A(기본) 벽 중심선(CEN_CON/CEN_WALL) + 시트 실명",
+   "status": "user_confirmed"
+  },
+  "boundary_meaning": {
+   "value": "wall_centerline",
+   "status": "user_confirmed"
+  },
+  "virtual_splits": {
+   "value": "현관/거실, 거실/주방, 침실1/드레스룸",
+   "status": "user_confirmed"
+  }
+ },
+ "walls": {
+  "assemblies": {
+   "value": "원본 실측(외벽·코어측 RC250, 세대내 RC200, 경량100, 조적190)",
+   "status": "user_confirmed"
+  },
+  "assignment": {
+   "value": "explicit (중심선별 실측 오프셋)",
+   "status": "user_confirmed"
+  },
+  "show_concrete_hatch": {
+   "value": false,
+   "status": "observed",
+   "note": "원본: RC 무해치, 조적(WAL)만 ANSI31"
+  }
+ },
+ "insulation": {
+  "method": {
+   "value": "internal",
+   "status": "project_confirmed"
+  },
+  "by_exposure": {
+   "value": {
+    "exterior_direct": 155,
+    "exterior_indirect": 110,
+    "party_wall": 0,
+    "core": 110
+   },
+   "status": "user_confirmed",
+   "note": "core=110은 간접외기로 본 가정(proposed)"
+  },
+  "material": {
+   "value": "압출법보온판 특호",
+   "status": "project_confirmed"
+  },
+  "dewproofing": {
+   "value": {
+    "thickness_mm": 10,
+    "width_mm": null
+   },
+   "status": "unresolved",
+   "note": "폭 미확인 → 미작도"
+  },
+  "symbol": {
+   "value": "hatch_dash",
+   "status": "user_confirmed"
+  }
+ },
+ "doors": {
+  "rules": {
+   "value": [
+    {
+     "room": "현관",
+     "to": "__core__",
+     "width": 1100,
+     "swing": "out"
+    },
+    {
+     "room": "침실1",
+     "to": [
+      "거실",
+      "주방/식당",
+      "현관"
+     ],
+     "width": 900
+    },
+    {
+     "room": "침실2",
+     "to": [
+      "거실",
+      "현관",
+      "주방/식당"
+     ],
+     "width": 900
+    },
+    {
+     "room": "침실3",
+     "to": [
+      "거실",
+      "현관",
+      "주방/식당"
+     ],
+     "width": 900
+    },
+    {
+     "room": "욕실1",
+     "to": [
+      "현관",
+      "거실",
+      "주방/식당"
+     ],
+     "width": 800
+    },
+    {
+     "room": "팬트리",
+     "to": [
+      "주방/식당",
+      "거실",
+      "현관"
+     ],
+     "width": 800
+    },
+    {
+     "room": "욕실2",
+     "to": [
+      "드레스룸",
+      "침실1"
+     ],
+     "width": 800
+    },
+    {
+     "room": "드레스룸",
+     "to": [
+      "침실1"
+     ],
+     "type": "open"
+    },
+    {
+     "room": "하향식피난구",
+     "to": [
+      "발코니1"
+     ],
+     "width": 750,
+     "type": "sliding"
+    }
+   ],
+   "status": "user_confirmed"
+  },
+  "source": {
+   "value": "rule",
+   "status": "user_confirmed"
+  }
+ },
+ "windows": {
+  "rules": {
+   "value": [
+    {
+     "room": "거실",
+     "type": "double"
+    },
+    {
+     "room": "침실1",
+     "type": "double"
+    },
+    {
+     "room": "침실2",
+     "type": "double"
+    },
+    {
+     "room": "침실3",
+     "type": "double"
+    },
+    {
+     "room": "주방/식당",
+     "type": "double"
+    },
+    {
+     "room": "드레스룸",
+     "type": "double"
+    },
+    {
+     "room": "하향식피난구",
+     "type": "outdoor_unit",
+     "width": 1000,
+     "facing": "exterior"
+    }
+   ],
+   "status": "user_confirmed"
+  },
+  "widths_mm": {
+   "value": [
+    1000,
+    1500,
+    1800,
+    3600
+   ],
+   "status": "user_confirmed"
+  },
+  "margin_mm": {
+   "value": 300,
+   "status": "user_confirmed"
+  },
+  "source": {
+   "value": "rule",
+   "status": "user_confirmed"
+  }
+ },
+ "bathroom": {
+  "system": {
+   "value": "ubr",
+   "status": "user_confirmed"
+  },
+  "rooms": {
+   "value": [
+    {
+     "room": "욕실1",
+     "ubr": "공용",
+     "door_to": [
+      "현관",
+      "거실",
+      "주방/식당"
+     ],
+     "door_width": 800
+    },
+    {
+     "room": "욕실2",
+     "ubr": "부부",
+     "door_to": [
+      "드레스룸",
+      "침실1"
+     ],
+     "door_width": 800
+    }
+   ],
+   "status": "user_confirmed"
+  },
+  "rule": {
+   "value": "UBR 실제 외곽선이 안목 안 + UBR 문이 door_to 실에 면함; 욕실 문은 UBR 문 위치를 따름",
+   "status": "user_confirmed"
+  }
+ },
+ "kitchen_furniture": {
+  "config": {
+   "value": {
+    "room": "주방/식당",
+    "layout": "I",
+    "depth": 650,
+    "fridge": 900,
+    "min_len": 1800,
+    "sink": "싱크",
+    "cooktop": "쿡탑",
+    "gap": 600,
+    "table": "식탁-1300x800",
+    "washer": {
+     "block": "세탁기-850",
+     "room": "발코니2"
+    },
+    "reserved": {
+     "orient": "V",
+     "n": [
+      1,
+      0
+     ],
+     "face": 6465,
+     "span": [
+      5285,
+      8592.1
+     ],
+     "walls": [
+      [
+       "W11",
+       [
+        5285,
+        6985
+       ]
+      ],
+      [
+       "W9",
+       [
+        6792.1,
+        6992.1
+       ]
+      ],
+      [
+       "W11",
+       [
+        6985,
+        7375.0
+       ]
+      ],
+      [
+       "W9",
+       [
+        6992.1,
+        8592.1
+       ]
+      ]
+     ]
+    }
+   },
+   "status": "user_confirmed"
+  }
+ },
+ "finish": {
+  "floor_pattern": {
+   "value": {
+    "balcony": "_USER 300 grid"
+   },
+   "status": "observed"
+  }
+ },
+ "dimensions": {
+  "dimstyle_mc": {
+   "value": "MCDIM-50",
+   "status": "observed"
+  },
+  "dimstyle_clear": {
+   "value": "HAUD-100",
+   "status": "observed"
+  }
+ },
+ "annotation": {
+  "room_name_height": {
+   "value": 120,
+   "status": "observed"
+  },
+  "sheet": {
+   "value": null,
+   "status": "unresolved"
+  }
+ }
+}

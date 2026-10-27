@@ -1,0 +1,6 @@
+(upc:run "C:/temp/cj84b/outputs/cj84B-basic-v003.dwg" "C:/temp/cj84b/operations" "kit-003" (quote (lambda (doc / ms o hs h old) (setq ms (vla-get-modelspace doc)) (upc:set (upc:pline ms '((6815.0 5285.0) (7465.0 5285.0) (7465.0 10890.0) (6815.0 10890.0)) t) "FUR")
+ (upc:set (upc:pline ms '((6815.0 10240.0) (10678.6 10240.0) (10678.6 10890.0) (6815.0 10890.0)) t) "FUR")
+ (setq o (vla-insertblock ms (upc:pt 7865.0 10871.7) "싱크" 1 1 1 4.712389)) (upc:set o "FUR")
+ (setq o (vla-insertblock ms (upc:pt 196410.4 470551.0) "쿡탑" -1 1 1 1.570796)) (upc:set o "FUR")
+ (setq o (vla-insertblock ms (upc:pt 8510.0 6912.5) "식탁-1300x800" 1 1 1 0.000000)) (upc:set o "FUR_가구")
+ (setq o (vla-insertblock ms (upc:pt 11805.0 9610.0) "세탁기-850" 1 1 1 0.000000)) (upc:set o "FUR_가전"))))

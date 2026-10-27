@@ -1,0 +1,2680 @@
+MS			2416
+L	0	c=7 lt=Continuous lw=-3	0
+L	Defpoints	c=129 lt=Continuous lw=-3	0
+L	DIM	c=7 lt=Continuous lw=-3	0
+L	MARK	c=7 lt=Continuous lw=-3	0
+L	A-dims	c=7 lt=Continuous lw=-3	0
+L	26Aunit_중간세대$0$ELE1	c=4 lt=Continuous lw=-3	0
+L	26Aunit_중간세대$0$TILE	c=8 lt=Continuous lw=-3	0
+L	26Aunit_중간세대$0$단열재-천정결로	c=4 lt=26Aunit_중간세대$0$HID lw=-3	0
+L	26Aunit_중간세대$0$ETC	c=8 lt=Continuous lw=-3	0
+L	26Aunit_중간세대$0$경량칸막이	c=7 lt=Continuous lw=-3	0
+L	26Aunit_중간세대$0$미설치가구	c=8 lt=Continuous lw=-3	0
+L	26Aunit_중간세대$0$설치가구	c=6 lt=Continuous lw=-3	0
+L	26Aunit_중간세대$0$단열재-벽체결로	c=6 lt=Continuous lw=-3	0
+L	26Aunit_중간세대$0$단열재-압출법-HAT	c=8 lt=Continuous lw=-3	0
+L	26Aunit_중간세대$0$UBR	c=9 lt=Continuous lw=-3	0
+L	26Aunit_중간세대$0$ACCESSORY	c=7 lt=Continuous lw=-3	0
+L	26Aunit_중간세대$0$욕실타일	c=11 lt=Continuous lw=-3	0
+L	26Aunit_중간세대$0$CERAMIC	c=5 lt=Continuous lw=-3	0
+L	26Aunit_중간세대$0$우오수	c=7 lt=Continuous lw=-3	0
+L	26Aunit_중간세대$0$수전및배수	c=6 lt=Continuous lw=-3	0
+L	26Aunit_중간세대$0$Defpoint	c=146 lt=Continuous lw=0	0
+L	26Aunit_중간세대$0$세대병합	c=7 lt=26Aunit_중간세대$0$HD lw=-3	0
+L	26Aunit_중간세대$0$AA-WAXM-CONC	c=2 lt=Continuous lw=-3	0
+L	26Aunit_중간세대$0$AA-WAXM-BRCK	c=3 lt=Continuous lw=-3	0
+L	26Aunit_중간세대$0$AA-XXXX-CNTL	c=1 lt=26Aunit_중간세대$0$CEN lw=-3	0
+L	26Aunit_중간세대$0$AA-XXXX-INSL	c=8 lt=Continuous lw=-3	0
+L	26Aunit_중간세대$0$AA-XXXX-DOOR	c=4 lt=Continuous lw=-3	0
+L	26Aunit_중간세대$0$단차이	c=7 lt=Continuous lw=-3	0
+L	26Aunit_중간세대$0$15-석고보드	c=9 lt=Continuous lw=-3	0
+L	26Aunit_중간세대$0$AA-XXXX-SYM1	c=9 lt=26Aunit_중간세대$0$HD lw=-3	0
+L	26Aunit_중간세대$0$A11-해치-설비공간	c=8 lt=Continuous lw=-3	0
+L	26Aunit_중간세대$0$A17-기타-단차이	c=7 lt=Continuous lw=-3	0
+L	26Aunit_중간세대$0$A02-벽체-MC선	c=192 lt=26Aunit_중간세대$0$ACAD_ISO10W100 lw=-3	0
+L	26Aunit_중간세대$0$A17-기타-ETC	c=7 lt=Continuous lw=-3	0
+L	26Aunit_중간세대$0$A05-난간-투시형	c=6 lt=Continuous lw=-3	0
+L	26Aunit_중간세대$0$A04-PD ST	c=4 lt=Continuous lw=-3	0
+L	26Aunit_중간세대$0$A05-난간-폐쇄형	c=7 lt=Continuous lw=-3	0
+L	26Aunit_중간세대$0$A04-창호	c=4 lt=Continuous lw=-3	0
+L	26Aunit_중간세대$0$A08-HID-HID2	c=15 lt=26Aunit_중간세대$0$HIDX2 lw=-3	0
+L	26Aunit_중간세대$0$A02-벽체-조적	c=3 lt=Continuous lw=-3	0
+L	26Aunit_중간세대$0$A11-해치-조적	c=8 lt=Continuous lw=-3	0
+L	26Aunit_측세대$0$ELE1	c=4 lt=Continuous lw=-3	0
+L	26Aunit_측세대$0$TILE	c=8 lt=Continuous lw=-3	0
+L	26Aunit_측세대$0$단열재-천정결로	c=4 lt=26Aunit_측세대$0$HID lw=-3	0
+L	26Aunit_측세대$0$ETC	c=8 lt=Continuous lw=-3	0
+L	26Aunit_측세대$0$경량칸막이	c=7 lt=Continuous lw=-3	0
+L	26Aunit_측세대$0$미설치가구	c=8 lt=Continuous lw=-3	0
+L	26Aunit_측세대$0$설치가구	c=6 lt=Continuous lw=-3	0
+L	26Aunit_측세대$0$단열재-비드법	c=251 lt=Continuous lw=-3	0
+L	26Aunit_측세대$0$단열재-벽체결로	c=6 lt=Continuous lw=-3	0
+L	26Aunit_측세대$0$단열재-압출법-HAT	c=8 lt=Continuous lw=-3	0
+L	26Aunit_측세대$0$UBR	c=9 lt=Continuous lw=-3	0
+L	26Aunit_측세대$0$ACCESSORY	c=7 lt=Continuous lw=-3	0
+L	26Aunit_측세대$0$욕실타일	c=11 lt=Continuous lw=-3	0
+L	26Aunit_측세대$0$CERAMIC	c=5 lt=Continuous lw=-3	0
+L	26Aunit_측세대$0$우오수	c=7 lt=Continuous lw=-3	0
+L	26Aunit_측세대$0$수전및배수	c=6 lt=Continuous lw=-3	0
+L	26Aunit_측세대$0$Defpoint	c=146 lt=Continuous lw=0	0
+L	26Aunit_측세대$0$세대병합	c=7 lt=26Aunit_측세대$0$HD lw=-3	0
+L	26Aunit_측세대$0$AA-WAXM-CONC	c=2 lt=Continuous lw=-3	0
+L	26Aunit_측세대$0$AA-WAXM-BRCK	c=3 lt=Continuous lw=-3	0
+L	26Aunit_측세대$0$AA-XXXX-CNTL	c=1 lt=26Aunit_측세대$0$CEN lw=-3	0
+L	26Aunit_측세대$0$AA-XXXX-INSL	c=8 lt=Continuous lw=-3	0
+L	26Aunit_측세대$0$AA-XXXX-DOOR	c=4 lt=Continuous lw=-3	0
+L	26Aunit_측세대$0$단차이	c=7 lt=Continuous lw=-3	0
+L	26Aunit_측세대$0$15-석고보드	c=9 lt=Continuous lw=-3	0
+L	26Aunit_측세대$0$AA-XXXX-SYM1	c=9 lt=26Aunit_측세대$0$HD lw=-3	0
+L	26Aunit_측세대$0$A11-해치-설비공간	c=8 lt=Continuous lw=-3	0
+L	26Aunit_측세대$0$A17-기타-단차이	c=7 lt=Continuous lw=-3	0
+L	26Aunit_측세대$0$A02-벽체-MC선	c=192 lt=26Aunit_측세대$0$ACAD_ISO10W100 lw=-3	0
+L	26Aunit_측세대$0$A17-기타-ETC	c=7 lt=Continuous lw=-3	0
+L	26Aunit_측세대$0$A05-난간-투시형	c=6 lt=Continuous lw=-3	0
+L	26Aunit_측세대$0$A04-PD ST	c=4 lt=Continuous lw=-3	0
+L	26Aunit_측세대$0$A05-난간-폐쇄형	c=7 lt=Continuous lw=-3	0
+L	26Aunit_측세대$0$A04-창호	c=4 lt=Continuous lw=-3	0
+L	26Aunit_측세대$0$A08-HID-HID2	c=15 lt=26Aunit_측세대$0$HIDX2 lw=-3	0
+L	26Aunit_측세대$0$A02-벽체-조적	c=3 lt=Continuous lw=-3	0
+L	26Aunit_측세대$0$A11-해치-조적	c=8 lt=Continuous lw=-3	0
+L	26Bunit_약자_중간세대$0$WID	c=4 lt=Continuous lw=-3	0
+L	26Bunit_약자_중간세대$0$ELE1	c=4 lt=Continuous lw=-3	0
+L	26Bunit_약자_중간세대$0$TILE	c=8 lt=Continuous lw=-3	0
+L	26Bunit_약자_중간세대$0$단열재-천정결로	c=4 lt=26Bunit_약자_중간세대$0$HID lw=-3	0
+L	26Bunit_약자_중간세대$0$ETC	c=8 lt=Continuous lw=-3	0
+L	26Bunit_약자_중간세대$0$경량칸막이	c=7 lt=Continuous lw=-3	0
+L	26Bunit_약자_중간세대$0$미설치가구	c=8 lt=Continuous lw=-3	0
+L	26Bunit_약자_중간세대$0$설치가구	c=6 lt=Continuous lw=-3	0
+L	26Bunit_약자_중간세대$0$단열재-비드법	c=251 lt=Continuous lw=-3	0
+L	26Bunit_약자_중간세대$0$단열재-벽체결로	c=6 lt=Continuous lw=-3	0
+L	26Bunit_약자_중간세대$0$AA-FFXM-SANI	c=6 lt=Continuous lw=-3	0
+L	26Bunit_약자_중간세대$0$단열재-압출법-HAT	c=8 lt=Continuous lw=-3	0
+L	26Bunit_약자_중간세대$0$UBR	c=9 lt=Continuous lw=-3	0
+L	26Bunit_약자_중간세대$0$ACCESSORY	c=7 lt=Continuous lw=-3	0
+L	26Bunit_약자_중간세대$0$욕실타일	c=11 lt=Continuous lw=-3	0
+L	26Bunit_약자_중간세대$0$CERAMIC	c=5 lt=Continuous lw=-3	0
+L	26Bunit_약자_중간세대$0$우오수	c=7 lt=Continuous lw=-3	0
+L	26Bunit_약자_중간세대$0$수전및배수	c=6 lt=Continuous lw=-3	0
+L	26Bunit_약자_중간세대$0$Defpoint	c=146 lt=Continuous lw=0	0
+L	26Bunit_약자_중간세대$0$세대병합	c=7 lt=26Bunit_약자_중간세대$0$HD lw=-3	0
+L	26Bunit_약자_중간세대$0$RESTROOM	c=6 lt=26Bunit_약자_중간세대$0$HIDDEN lw=-3	0
+L	26Bunit_약자_중간세대$0$AA-WAXM-CONC	c=2 lt=Continuous lw=-3	0
+L	26Bunit_약자_중간세대$0$AA-WAXM-BRCK	c=3 lt=Continuous lw=-3	0
+L	26Bunit_약자_중간세대$0$AA-XXXX-CNTL	c=1 lt=26Bunit_약자_중간세대$0$CEN lw=-3	0
+L	26Bunit_약자_중간세대$0$AA-XXXX-INSL	c=8 lt=Continuous lw=-3	0
+L	26Bunit_약자_중간세대$0$AA-XXXX-DOOR	c=4 lt=Continuous lw=-3	0
+L	26Bunit_약자_중간세대$0$단차이	c=7 lt=Continuous lw=-3	0
+L	26Bunit_약자_중간세대$0$15-석고보드	c=9 lt=Continuous lw=-3	0
+L	26Bunit_약자_중간세대$0$AA-XXXX-SYM1	c=9 lt=26Bunit_약자_중간세대$0$HD lw=-3	0
+L	26Bunit_약자_중간세대$0$A11-해치-설비공간	c=8 lt=Continuous lw=-3	0
+L	26Bunit_약자_중간세대$0$A17-기타-단차이	c=7 lt=Continuous lw=-3	0
+L	26Bunit_약자_중간세대$0$A02-벽체-MC선	c=192 lt=26Bunit_약자_중간세대$0$ACAD_ISO10W100 lw=-3	0
+L	26Bunit_약자_중간세대$0$A17-기타-ETC	c=7 lt=Continuous lw=-3	0
+L	26Bunit_약자_중간세대$0$A05-난간-투시형	c=6 lt=Continuous lw=-3	0
+L	26Bunit_약자_중간세대$0$A04-PD ST	c=4 lt=Continuous lw=-3	0
+L	26Bunit_약자_중간세대$0$A05-난간-폐쇄형	c=7 lt=Continuous lw=-3	0
+L	26Bunit_약자_중간세대$0$A04-창호	c=4 lt=Continuous lw=-3	0
+L	26Bunit_약자_중간세대$0$A02-벽체-조적	c=3 lt=Continuous lw=-3	0
+L	26Bunit_약자_중간세대$0$A11-해치-조적	c=8 lt=Continuous lw=-3	0
+L	26Bunit_약자_측세대$0$WID	c=4 lt=Continuous lw=-3	0
+L	26Bunit_약자_측세대$0$ELE1	c=4 lt=Continuous lw=-3	0
+L	26Bunit_약자_측세대$0$TILE	c=8 lt=Continuous lw=-3	0
+L	26Bunit_약자_측세대$0$단열재-천정결로	c=4 lt=26Bunit_약자_측세대$0$HID lw=-3	0
+L	26Bunit_약자_측세대$0$ETC	c=8 lt=Continuous lw=-3	0
+L	26Bunit_약자_측세대$0$경량칸막이	c=7 lt=Continuous lw=-3	0
+L	26Bunit_약자_측세대$0$미설치가구	c=8 lt=Continuous lw=-3	0
+L	26Bunit_약자_측세대$0$설치가구	c=6 lt=Continuous lw=-3	0
+L	26Bunit_약자_측세대$0$단열재-비드법	c=251 lt=Continuous lw=-3	0
+L	26Bunit_약자_측세대$0$단열재-벽체결로	c=6 lt=Continuous lw=-3	0
+L	26Bunit_약자_측세대$0$AA-FFXM-SANI	c=6 lt=Continuous lw=-3	0
+L	26Bunit_약자_측세대$0$단열재-압출법-HAT	c=8 lt=Continuous lw=-3	0
+L	26Bunit_약자_측세대$0$UBR	c=9 lt=Continuous lw=-3	0
+L	26Bunit_약자_측세대$0$ACCESSORY	c=7 lt=Continuous lw=-3	0
+L	26Bunit_약자_측세대$0$욕실타일	c=11 lt=Continuous lw=-3	0
+L	26Bunit_약자_측세대$0$CERAMIC	c=5 lt=Continuous lw=-3	0
+L	26Bunit_약자_측세대$0$우오수	c=7 lt=Continuous lw=-3	0
+L	26Bunit_약자_측세대$0$수전및배수	c=6 lt=Continuous lw=-3	0
+L	26Bunit_약자_측세대$0$Defpoint	c=146 lt=Continuous lw=0	0
+L	26Bunit_약자_측세대$0$세대병합	c=7 lt=26Bunit_약자_측세대$0$HD lw=-3	0
+L	26Bunit_약자_측세대$0$RESTROOM	c=6 lt=26Bunit_약자_측세대$0$HIDDEN lw=-3	0
+L	26Bunit_약자_측세대$0$AA-WAXM-CONC	c=2 lt=Continuous lw=-3	0
+L	26Bunit_약자_측세대$0$AA-WAXM-BRCK	c=3 lt=Continuous lw=-3	0
+L	26Bunit_약자_측세대$0$AA-XXXX-CNTL	c=1 lt=26Bunit_약자_측세대$0$CEN lw=-3	0
+L	26Bunit_약자_측세대$0$AA-XXXX-INSL	c=8 lt=Continuous lw=-3	0
+L	26Bunit_약자_측세대$0$AA-XXXX-DOOR	c=4 lt=Continuous lw=-3	0
+L	26Bunit_약자_측세대$0$단차이	c=7 lt=Continuous lw=-3	0
+L	26Bunit_약자_측세대$0$15-석고보드	c=9 lt=Continuous lw=-3	0
+L	26Bunit_약자_측세대$0$AA-XXXX-SYM1	c=9 lt=26Bunit_약자_측세대$0$HD lw=-3	0
+L	26Bunit_약자_측세대$0$A11-해치-설비공간	c=8 lt=Continuous lw=-3	0
+L	26Bunit_약자_측세대$0$A17-기타-단차이	c=7 lt=Continuous lw=-3	0
+L	26Bunit_약자_측세대$0$A02-벽체-MC선	c=192 lt=26Bunit_약자_측세대$0$ACAD_ISO10W100 lw=-3	0
+L	26Bunit_약자_측세대$0$A17-기타-ETC	c=7 lt=Continuous lw=-3	0
+L	26Bunit_약자_측세대$0$A05-난간-투시형	c=6 lt=Continuous lw=-3	0
+L	26Bunit_약자_측세대$0$A04-PD ST	c=4 lt=Continuous lw=-3	0
+L	26Bunit_약자_측세대$0$A05-난간-폐쇄형	c=7 lt=Continuous lw=-3	0
+L	26Bunit_약자_측세대$0$A04-창호	c=4 lt=Continuous lw=-3	0
+L	26Bunit_약자_측세대$0$A08-HID-HID2	c=15 lt=26Bunit_약자_측세대$0$HIDX2 lw=-3	0
+L	26Bunit_약자_측세대$0$A02-벽체-조적	c=3 lt=Continuous lw=-3	0
+L	26Bunit_약자_측세대$0$A11-해치-조적	c=8 lt=Continuous lw=-3	0
+L	37Aunit_중간세대$0$AA-DWXM-DOOR	c=7 lt=Continuous lw=-3	0
+L	37Aunit_중간세대$0$ELE1	c=4 lt=Continuous lw=-3	0
+L	37Aunit_중간세대$0$TILE	c=8 lt=Continuous lw=-3	0
+L	37Aunit_중간세대$0$단열재-천정결로	c=4 lt=37Aunit_중간세대$0$HID lw=-3	0
+L	37Aunit_중간세대$0$ETC	c=8 lt=Continuous lw=-3	0
+L	37Aunit_중간세대$0$경량칸막이	c=7 lt=Continuous lw=-3	0
+L	37Aunit_중간세대$0$미설치가구	c=8 lt=Continuous lw=-3	0
+L	37Aunit_중간세대$0$설치가구	c=6 lt=Continuous lw=-3	0
+L	37Aunit_중간세대$0$단열재-벽체결로	c=6 lt=Continuous lw=-3	0
+L	37Aunit_중간세대$0$단열재-압출법-HAT	c=8 lt=Continuous lw=-3	0
+L	37Aunit_중간세대$0$UBR	c=9 lt=Continuous lw=-3	0
+L	37Aunit_중간세대$0$ACCESSORY	c=7 lt=Continuous lw=-3	0
+L	37Aunit_중간세대$0$욕실타일	c=11 lt=Continuous lw=-3	0
+L	37Aunit_중간세대$0$CERAMIC	c=5 lt=Continuous lw=-3	0
+L	37Aunit_중간세대$0$우오수	c=7 lt=Continuous lw=-3	0
+L	37Aunit_중간세대$0$수전및배수	c=6 lt=Continuous lw=-3	0
+L	37Aunit_중간세대$0$TEX_DIP	c=30 lt=Continuous lw=-3	0
+L	37Aunit_중간세대$0$세대병합	c=7 lt=37Aunit_중간세대$0$HD lw=-3	0
+L	37Aunit_중간세대$0$AA-WAXM-CONC	c=2 lt=Continuous lw=-3	0
+L	37Aunit_중간세대$0$AA-WAXM-BRCK	c=3 lt=Continuous lw=-3	0
+L	37Aunit_중간세대$0$AA-XXXX-CNTL	c=1 lt=37Aunit_중간세대$0$CEN lw=-3	0
+L	37Aunit_중간세대$0$AA-XXXX-INSL	c=8 lt=Continuous lw=-3	0
+L	37Aunit_중간세대$0$AA-XXXX-DOOR	c=4 lt=Continuous lw=-3	0
+L	37Aunit_중간세대$0$단차이	c=7 lt=Continuous lw=-3	0
+L	37Aunit_중간세대$0$15-석고보드	c=9 lt=Continuous lw=-3	0
+L	37Aunit_중간세대$0$AA-XXXX-SYM1	c=9 lt=37Aunit_중간세대$0$HD lw=-3	0
+L	37Aunit_중간세대$0$A11-해치-설비공간	c=8 lt=Continuous lw=-3	0
+L	37Aunit_중간세대$0$A17-기타-단차이	c=7 lt=Continuous lw=-3	0
+L	37Aunit_중간세대$0$A02-벽체-MC선	c=192 lt=37Aunit_중간세대$0$ACAD_ISO10W100 lw=-3	0
+L	37Aunit_중간세대$0$A17-기타-ETC	c=7 lt=Continuous lw=-3	0
+L	37Aunit_중간세대$0$A05-난간-투시형	c=6 lt=Continuous lw=-3	0
+L	37Aunit_중간세대$0$A04-PD ST	c=4 lt=Continuous lw=-3	0
+L	37Aunit_중간세대$0$A05-난간-폐쇄형	c=7 lt=Continuous lw=-3	0
+L	37Aunit_중간세대$0$A04-창호	c=4 lt=Continuous lw=-3	0
+L	37Aunit_중간세대$0$A08-HID-HID2	c=15 lt=37Aunit_중간세대$0$HIDX2 lw=-3	0
+L	37Aunit_중간세대$0$A02-벽체-조적	c=3 lt=Continuous lw=-3	0
+L	37Aunit_중간세대$0$A11-해치-조적	c=8 lt=Continuous lw=-3	0
+L	37Bunit_약자_중간세대$0$WID	c=4 lt=Continuous lw=-3	0
+L	37Bunit_약자_중간세대$0$AA-DWXM-DOOR	c=7 lt=Continuous lw=-3	0
+L	37Bunit_약자_중간세대$0$ELE1	c=4 lt=Continuous lw=-3	0
+L	37Bunit_약자_중간세대$0$TILE	c=8 lt=Continuous lw=-3	0
+L	37Bunit_약자_중간세대$0$단열재-천정결로	c=4 lt=37Bunit_약자_중간세대$0$HID lw=-3	0
+L	37Bunit_약자_중간세대$0$ETC	c=8 lt=Continuous lw=-3	0
+L	37Bunit_약자_중간세대$0$경량칸막이	c=7 lt=Continuous lw=-3	0
+L	37Bunit_약자_중간세대$0$미설치가구	c=8 lt=Continuous lw=-3	0
+L	37Bunit_약자_중간세대$0$설치가구	c=6 lt=Continuous lw=-3	0
+L	37Bunit_약자_중간세대$0$단열재-벽체결로	c=6 lt=Continuous lw=-3	0
+L	37Bunit_약자_중간세대$0$AA-FFXM-SANI	c=6 lt=Continuous lw=-3	0
+L	37Bunit_약자_중간세대$0$단열재-압출법-HAT	c=8 lt=Continuous lw=-3	0
+L	37Bunit_약자_중간세대$0$UBR	c=9 lt=Continuous lw=-3	0
+L	37Bunit_약자_중간세대$0$ACCESSORY	c=7 lt=Continuous lw=-3	0
+L	37Bunit_약자_중간세대$0$욕실타일	c=11 lt=Continuous lw=-3	0
+L	37Bunit_약자_중간세대$0$CERAMIC	c=5 lt=Continuous lw=-3	0
+L	37Bunit_약자_중간세대$0$우오수	c=7 lt=Continuous lw=-3	0
+L	37Bunit_약자_중간세대$0$수전및배수	c=6 lt=Continuous lw=-3	0
+L	37Bunit_약자_중간세대$0$TEX_DIP	c=30 lt=Continuous lw=-3	0
+L	37Bunit_약자_중간세대$0$세대병합	c=7 lt=37Bunit_약자_중간세대$0$HD lw=-3	0
+L	37Bunit_약자_중간세대$0$RESTROOM	c=6 lt=37Bunit_약자_중간세대$0$HIDDEN lw=-3	0
+L	37Bunit_약자_중간세대$0$AA-WAXM-CONC	c=2 lt=Continuous lw=-3	0
+L	37Bunit_약자_중간세대$0$AA-WAXM-BRCK	c=3 lt=Continuous lw=-3	0
+L	37Bunit_약자_중간세대$0$AA-XXXX-CNTL	c=1 lt=37Bunit_약자_중간세대$0$CEN lw=-3	0
+L	37Bunit_약자_중간세대$0$AA-XXXX-INSL	c=8 lt=Continuous lw=-3	0
+L	37Bunit_약자_중간세대$0$AA-XXXX-DOOR	c=4 lt=Continuous lw=-3	0
+L	37Bunit_약자_중간세대$0$단차이	c=7 lt=Continuous lw=-3	0
+L	37Bunit_약자_중간세대$0$15-석고보드	c=9 lt=Continuous lw=-3	0
+L	37Bunit_약자_중간세대$0$AA-XXXX-SYM1	c=9 lt=37Bunit_약자_중간세대$0$HD lw=-3	0
+L	37Bunit_약자_중간세대$0$A11-해치-설비공간	c=8 lt=Continuous lw=-3	0
+L	37Bunit_약자_중간세대$0$A17-기타-단차이	c=7 lt=Continuous lw=-3	0
+L	37Bunit_약자_중간세대$0$A02-벽체-MC선	c=192 lt=37Bunit_약자_중간세대$0$ACAD_ISO10W100 lw=-3	0
+L	37Bunit_약자_중간세대$0$A17-기타-ETC	c=7 lt=Continuous lw=-3	0
+L	37Bunit_약자_중간세대$0$A05-난간-투시형	c=6 lt=Continuous lw=-3	0
+L	37Bunit_약자_중간세대$0$A04-PD ST	c=4 lt=Continuous lw=-3	0
+L	37Bunit_약자_중간세대$0$A05-난간-폐쇄형	c=7 lt=Continuous lw=-3	0
+L	37Bunit_약자_중간세대$0$A04-창호	c=4 lt=Continuous lw=-3	0
+L	37Bunit_약자_중간세대$0$A08-HID-HID2	c=15 lt=37Bunit_약자_중간세대$0$HIDX2 lw=-3	0
+L	37Bunit_약자_중간세대$0$A02-벽체-조적	c=3 lt=Continuous lw=-3	0
+L	37Bunit_약자_중간세대$0$A11-해치-조적	c=8 lt=Continuous lw=-3	0
+L	46unit-측세대$0$AA-DWXM-DOOR	c=7 lt=Continuous lw=-3	0
+L	46unit-측세대$0$ELE1	c=4 lt=Continuous lw=-3	0
+L	46unit-측세대$0$TILE	c=8 lt=Continuous lw=-3	0
+L	46unit-측세대$0$단열재-천정결로	c=4 lt=46unit-측세대$0$HID lw=-3	0
+L	46unit-측세대$0$ETC	c=8 lt=Continuous lw=-3	0
+L	46unit-측세대$0$경량칸막이	c=7 lt=Continuous lw=-3	0
+L	46unit-측세대$0$미설치가구	c=8 lt=Continuous lw=-3	0
+L	46unit-측세대$0$설치가구	c=6 lt=Continuous lw=-3	0
+L	46unit-측세대$0$단열재-벽체결로	c=6 lt=Continuous lw=-3	0
+L	46unit-측세대$0$단열재-압출법-HAT	c=8 lt=Continuous lw=-3	0
+L	46unit-측세대$0$UBR	c=9 lt=Continuous lw=-3	0
+L	46unit-측세대$0$ACCESSORY	c=7 lt=Continuous lw=-3	0
+L	46unit-측세대$0$욕실타일	c=11 lt=Continuous lw=-3	0
+L	46unit-측세대$0$CERAMIC	c=5 lt=Continuous lw=-3	0
+L	46unit-측세대$0$우오수	c=7 lt=Continuous lw=-3	0
+L	46unit-측세대$0$수전및배수	c=6 lt=Continuous lw=-3	0
+L	46unit-측세대$0$06-창호-문	c=4 lt=Continuous lw=-3	0
+L	46unit-측세대$0$TEX_DIP	c=30 lt=Continuous lw=-3	0
+L	46unit-측세대$0$F-KIT FUR	c=6 lt=Continuous lw=-3	0
+L	46unit-측세대$0$HID	c=7 lt=46unit-측세대$0$HD lw=-3	0
+L	46unit-측세대$0$HAT-타일	c=8 lt=Continuous lw=-3	0
+L	46unit-측세대$0$세대병합	c=7 lt=46unit-측세대$0$HD lw=-3	0
+L	46unit-측세대$0$AA-WAXM-CONC	c=2 lt=Continuous lw=-3	0
+L	46unit-측세대$0$AA-WAXM-BRCK	c=3 lt=Continuous lw=-3	0
+L	46unit-측세대$0$AA-XXXX-CNTL	c=1 lt=46unit-측세대$0$CEN lw=-3	0
+L	46unit-측세대$0$AA-XXXX-INSL	c=8 lt=Continuous lw=-3	0
+L	46unit-측세대$0$15-석고보드	c=9 lt=Continuous lw=-3	0
+L	46unit-측세대$0$AA-XXXX-SYM1	c=9 lt=46unit-측세대$0$HD lw=-3	0
+L	46unit-측세대$0$A11-해치-설비공간	c=8 lt=Continuous lw=-3	0
+L	46unit-측세대$0$A17-기타-단차이	c=7 lt=Continuous lw=-3	0
+L	46unit-측세대$0$A02-벽체-MC선	c=192 lt=46unit-측세대$0$ACAD_ISO10W100 lw=-3	0
+L	46unit-측세대$0$A17-기타-ETC	c=7 lt=Continuous lw=-3	0
+L	46unit-측세대$0$A05-난간-투시형	c=6 lt=Continuous lw=-3	0
+L	46unit-측세대$0$A04-PD ST	c=4 lt=Continuous lw=-3	0
+L	46unit-측세대$0$A05-난간-폐쇄형	c=7 lt=Continuous lw=-3	0
+L	46unit-측세대$0$A04-창호	c=4 lt=Continuous lw=-3	0
+L	46unit-측세대$0$A08-HID-HID2	c=15 lt=46unit-측세대$0$HIDX2 lw=-3	0
+L	46unit-측세대$0$A02-벽체-조적	c=3 lt=Continuous lw=-3	0
+L	46unit-측세대$0$A11-해치-조적	c=8 lt=Continuous lw=-3	0
+L	Tower 1201-3층복도$0$door	c=4 lt=Continuous lw=-3	0
+L	Tower 1201-3층복도$0$AA-DWXM-DOOR	c=7 lt=Continuous lw=-3	0
+L	Tower 1201-3층복도$0$ST	c=7 lt=Continuous lw=-3	0
+L	Tower 1201-3층복도$0$계단_000	c=7 lt=Continuous lw=-3	0
+L	Tower 1201-3층복도$0$헨드레일_000	c=8 lt=Continuous lw=-3	0
+L	Tower 1201-3층복도$0$LEADER	c=7 lt=Continuous lw=-3	0
+L	Tower 1201-3층복도$0$우오수	c=7 lt=Continuous lw=-3	0
+L	Tower 1201-3층복도$0$DR-ER	c=4 lt=Continuous lw=-3	0
+L	Tower 1201-3층복도$0$Defpoint	c=146 lt=Continuous lw=0	0
+L	Tower 1201-3층복도$0$HANDRAIL	c=6 lt=Continuous lw=-3	0
+L	Tower 1201-3층복도$0$소방	c=6 lt=Tower 1201-3층복도$0$HD lw=-3	0
+L	Tower 1201-3층복도$0$ELE7	c=7 lt=Continuous lw=-3	0
+L	Tower 1201-3층복도$0$AA-WAXM-CONC	c=2 lt=Continuous lw=-3	0
+L	Tower 1201-3층복도$0$AA-XXXX-CNTL	c=1 lt=Tower 1201-3층복도$0$CEN lw=-3	0
+L	Tower 1201-3층복도$0$AA-XXXX-DOOR	c=4 lt=Continuous lw=-3	0
+L	Tower 1201-3층복도$0$A11-해치-설비공간	c=8 lt=Continuous lw=-3	0
+L	Tower 1201-3층복도$0$A06-시설물-계단	c=4 lt=Continuous lw=-3	0
+L	Tower 1201-3층복도$0$A15-해치-코아바닥	c=15 lt=Continuous lw=-3	0
+L	Tower 1201-3층복도$0$AA-XXXX-ELEV	c=4 lt=Continuous lw=-3	0
+L	Tower 1201-기준층복도$0$door	c=4 lt=Continuous lw=-3	0
+L	Tower 1201-기준층복도$0$ST	c=7 lt=Continuous lw=-3	0
+L	Tower 1201-기준층복도$0$계단_000	c=7 lt=Continuous lw=-3	0
+L	Tower 1201-기준층복도$0$헨드레일_000	c=8 lt=Continuous lw=-3	0
+L	Tower 1201-기준층복도$0$LEADER	c=7 lt=Continuous lw=-3	0
+L	Tower 1201-기준층복도$0$우오수	c=7 lt=Continuous lw=-3	0
+L	Tower 1201-기준층복도$0$DR-ER	c=4 lt=Continuous lw=-3	0
+L	Tower 1201-기준층복도$0$Defpoint	c=146 lt=Continuous lw=0	0
+L	Tower 1201-기준층복도$0$소방	c=6 lt=Tower 1201-기준층복도$0$HD lw=-3	0
+L	Tower 1201-기준층복도$0$ELE7	c=7 lt=Continuous lw=-3	0
+L	Tower 1201-기준층복도$0$AA-WAXM-CONC	c=2 lt=Continuous lw=-3	0
+L	Tower 1201-기준층복도$0$AA-XXXX-CNTL	c=1 lt=Tower 1201-기준층복도$0$CEN lw=-3	0
+L	Tower 1201-기준층복도$0$AA-XXXX-DOOR	c=4 lt=Continuous lw=-3	0
+L	Tower 1201-기준층복도$0$A11-해치-설비공간	c=8 lt=Continuous lw=-3	0
+L	Tower 1201-기준층복도$0$A06-시설물-계단	c=4 lt=Continuous lw=-3	0
+L	Tower 1201-기준층복도$0$A15-해치-코아바닥	c=15 lt=Continuous lw=-3	0
+L	Tower 1201-기준층복도$0$AA-XXXX-ELEV	c=4 lt=Continuous lw=-3	0
+L	X-Sheet(건축)$0$LH_SHEET	c=4 lt=Continuous lw=-3	0
+L	판상 1206.7-기준층복도$0$WID	c=4 lt=Continuous lw=-3	0
+L	판상 1206.7-기준층복도$0$door	c=4 lt=Continuous lw=-3	0
+L	판상 1206.7-기준층복도$0$계단_000	c=7 lt=Continuous lw=-3	0
+L	판상 1206.7-기준층복도$0$헨드레일_000	c=8 lt=Continuous lw=-3	0
+L	판상 1206.7-기준층복도$0$AA-DWXM-WIND	c=4 lt=Continuous lw=-3	0
+L	판상 1206.7-기준층복도$0$LEADER	c=7 lt=Continuous lw=-3	0
+L	판상 1206.7-기준층복도$0$우오수	c=7 lt=Continuous lw=-3	0
+L	판상 1206.7-기준층복도$0$DR-ER	c=4 lt=Continuous lw=-3	0
+L	판상 1206.7-기준층복도$0$Defpoint	c=146 lt=Continuous lw=0	0
+L	판상 1206.7-기준층복도$0$AA-WAXS-FINL	c=9 lt=Continuous lw=-3	0
+L	판상 1206.7-기준층복도$0$모르타르	c=5 lt=Continuous lw=-3	0
+L	판상 1206.7-기준층복도$0$소방	c=6 lt=판상 1206.7-기준층복도$0$HD lw=-3	0
+L	판상 1206.7-기준층복도$0$ELE7	c=7 lt=Continuous lw=-3	0
+L	판상 1206.7-기준층복도$0$AA-WAXM-CONC	c=2 lt=Continuous lw=-3	0
+L	판상 1206.7-기준층복도$0$AA-XXXX-CNTL	c=1 lt=판상 1206.7-기준층복도$0$CEN lw=-3	0
+L	판상 1206.7-기준층복도$0$AA-XXXX-DOOR	c=4 lt=Continuous lw=-3	0
+L	판상 1206.7-기준층복도$0$A11-해치-설비공간	c=8 lt=Continuous lw=-3	0
+L	판상 1206.7-기준층복도$0$A17-기타-ETC	c=7 lt=Continuous lw=-3	0
+L	판상 1206.7-기준층복도$0$A04-PD ST	c=4 lt=Continuous lw=-3	0
+L	판상 1206.7-기준층복도$0$A06-시설물-계단	c=4 lt=Continuous lw=-3	0
+L	판상 1206.7-기준층복도$0$A15-해치-코아바닥	c=15 lt=Continuous lw=-3	0
+L	판상 1206.7-기준층복도$0$A04-창호	c=4 lt=Continuous lw=-3	0
+L	판상 1206.7-기준층복도$0$OPEN	c=1 lt=판상 1206.7-기준층복도$0$ACAD_ISO10W100 lw=-3	0
+L	판상 1206.7-기준층복도$0$A02-벽체-조적	c=3 lt=Continuous lw=-3	0
+L	판상 1206.7-기준층복도$0$A11-해치-조적	c=8 lt=Continuous lw=-3	0
+L	판상 1206.7-기준층복도$0$소화기구함	c=7 lt=판상 1206.7-기준층복도$0$HID lw=-3	0
+L	판상 1206.7-기준층복도$0$AA-XXXX-ELEV	c=4 lt=Continuous lw=-3	0
+L	WID	c=4 lt=Continuous lw=-3	0
+L	SYM	c=7 lt=Continuous lw=-3	0
+L	TEXT1	c=3 lt=Continuous lw=-3	0
+L	설치가구	c=6 lt=Continuous lw=-3	0
+L	임시	c=150 lt=Continuous lw=-3	0
+L	AA-MKXM	c=7 lt=Continuous lw=-3	0
+L	AA-BORD-FORM	c=7 lt=Continuous lw=-3	0
+L	Defpoint	c=146 lt=Continuous lw=0	0
+L	HID	c=7 lt=HD lw=-3	0
+L	LH_SHEET_TEXT	c=7 lt=Continuous lw=-3	0
+L	SOL-253	c=253 lt=Continuous lw=-3	0
+L	CIRCLE	c=7 lt=Continuous lw=-3	0
+L	AA-XXXX-DIMS	c=7 lt=Continuous lw=-3	0
+L	AA-WAXM-BRCK	c=3 lt=Continuous lw=-3	0
+L	XREF	c=7 lt=Continuous lw=-3	0
+L	A11-해치-설비공간	c=8 lt=Continuous lw=-3	0
+L	A17-기타-단차이	c=7 lt=Continuous lw=-3	0
+L	U	c=7 lt=Continuous lw=-3	0
+L	A12-문자-실명	c=7 lt=Continuous lw=-3	0
+L	A11-해치-바닥	c=15 lt=Continuous lw=-3	0
+L	A12-문자-재료명	c=3 lt=Continuous lw=-3	0
+L	A01-중심선-아파트	c=1 lt=CEN lw=-3	0
+L	A04-창호	c=4 lt=Continuous lw=-3	0
+L	TEXT-2	c=6 lt=Continuous lw=-3	0
+L	점자표식	c=7 lt=Continuous lw=-3	0
+L	설비배관부분	c=9 lt=Continuous lw=-3	0
+L	A13-심볼-기호	c=7 lt=Continuous lw=-3	0
+L	A13-심볼-레벨	c=7 lt=Continuous lw=-3	0
+L	A04-TEXT-창호	c=6 lt=Continuous lw=-3	0
+L	A04-창호BOX	c=7 lt=Continuous lw=-3	0
+L	LED	c=7 lt=Continuous lw=-3	0
+L	A02-벽체-조적	c=3 lt=Continuous lw=-3	0
+L	A11-해치-조적	c=8 lt=Continuous lw=-3	0
+L	TEXT	c=3 lt=Continuous lw=-3	0
+L	form	c=7 lt=Continuous lw=-3	0
+L	FIN	c=6 lt=Continuous lw=-3	0
+L	2	c=8 lt=Continuous lw=-3	0
+L	CEN	c=1 lt=CEN lw=-3	0
+L	WAL	c=3 lt=Continuous lw=-3	0
+L	CON	c=2 lt=Continuous lw=-3	0
+L	기호	c=3 lt=HID lw=-3	0
+L	TEXT-기호	c=2 lt=Continuous lw=-3	0
+L	COL	c=2 lt=Continuous lw=-3	0
+L	HAT	c=8 lt=Continuous lw=-3	0
+L	HATCH	c=5 lt=Continuous lw=-3	0
+L	STEEL	c=6 lt=Continuous lw=-3	0
+L	리벳	c=6 lt=Continuous lw=-3	0
+L	RUBBER PACKING	c=1 lt=Continuous lw=-3	0
+L	PATH	c=9 lt=Continuous lw=-3	0
+L	ELE	c=7 lt=Continuous lw=-3	0
+L	TTEX	c=6 lt=Continuous lw=-3	0
+L	A_INS	c=8 lt=Continuous lw=-3	0
+L	0_LEAD	c=7 lt=Continuous lw=-3	0
+L	0_NDIM	c=7 lt=Continuous lw=-3	0
+L	16-지시선2	c=7 lt=Continuous lw=-3	0
+L	COCN	c=4 lt=CEN lw=-3	0
+L	7	c=2 lt=Continuous lw=-3	0
+L	A02-벽체-콘크리트	c=2 lt=Continuous lw=-3	0
+L	A03-마감-석고보드	c=9 lt=Continuous lw=-3	0
+L	A09-단열재-비드법	c=5 lt=Continuous lw=-3	0
+L	A10-가구-욕실	c=7 lt=Continuous lw=-3	0
+L	욕실외벽등	c=7 lt=Continuous lw=-3	0
+L	arch	c=253 lt=Continuous lw=-3	0
+L	A_WAL	c=1 lt=Continuous lw=-3	0
+L	A_FIN	c=4 lt=Continuous lw=-3	0
+L	10	c=6 lt=Continuous lw=-3	0
+L	A_HAT	c=8 lt=Continuous lw=-3	0
+L	ARHT	c=7 lt=Continuous lw=-3	0
+L	A-DET	c=3 lt=Continuous lw=-3	0
+L	RXSBSEC	c=1 lt=Continuous lw=-3	0
+L	RXDIM	c=7 lt=Continuous lw=-3	0
+L	05-마감바닥	c=4 lt=Continuous lw=-3	0
+L	APT	c=3 lt=Continuous lw=-3	0
+L	2SEC	c=2 lt=Continuous lw=-3	0
+L	철근	c=3 lt=Continuous lw=-3	0
+L	37Aunit_측세대$0$AA-DWXM-DOOR	c=7 lt=Continuous lw=-3	0
+L	37Aunit_측세대$0$ELE1	c=4 lt=Continuous lw=-3	0
+L	37Aunit_측세대$0$TILE	c=8 lt=Continuous lw=-3	0
+L	37Aunit_측세대$0$단열재-천정결로	c=4 lt=37Aunit_측세대$0$HID lw=-3	0
+L	37Aunit_측세대$0$ETC	c=8 lt=Continuous lw=-3	0
+L	37Aunit_측세대$0$경량칸막이	c=7 lt=Continuous lw=-3	0
+L	37Aunit_측세대$0$미설치가구	c=8 lt=Continuous lw=-3	0
+L	37Aunit_측세대$0$설치가구	c=6 lt=Continuous lw=-3	0
+L	37Aunit_측세대$0$단열재-비드법	c=251 lt=Continuous lw=-3	0
+L	37Aunit_측세대$0$단열재-벽체결로	c=6 lt=Continuous lw=-3	0
+L	37Aunit_측세대$0$단열재-압출법-HAT	c=8 lt=Continuous lw=-3	0
+L	37Aunit_측세대$0$UBR	c=9 lt=Continuous lw=-3	0
+L	37Aunit_측세대$0$ACCESSORY	c=7 lt=Continuous lw=-3	0
+L	37Aunit_측세대$0$욕실타일	c=11 lt=Continuous lw=-3	0
+L	37Aunit_측세대$0$CERAMIC	c=5 lt=Continuous lw=-3	0
+L	37Aunit_측세대$0$우오수	c=7 lt=Continuous lw=-3	0
+L	37Aunit_측세대$0$수전및배수	c=6 lt=Continuous lw=-3	0
+L	37Aunit_측세대$0$TEX_DIP	c=30 lt=Continuous lw=-3	0
+L	37Aunit_측세대$0$세대병합	c=7 lt=37Aunit_측세대$0$HD lw=-3	0
+L	37Aunit_측세대$0$AA-WAXM-CONC	c=2 lt=Continuous lw=-3	0
+L	37Aunit_측세대$0$AA-WAXM-BRCK	c=3 lt=Continuous lw=-3	0
+L	37Aunit_측세대$0$AA-XXXX-CNTL	c=1 lt=37Aunit_측세대$0$CEN lw=-3	0
+L	37Aunit_측세대$0$AA-XXXX-INSL	c=8 lt=Continuous lw=-3	0
+L	37Aunit_측세대$0$AA-XXXX-DOOR	c=4 lt=Continuous lw=-3	0
+L	37Aunit_측세대$0$단차이	c=7 lt=Continuous lw=-3	0
+L	37Aunit_측세대$0$15-석고보드	c=9 lt=Continuous lw=-3	0
+L	37Aunit_측세대$0$AA-XXXX-SYM1	c=9 lt=37Aunit_측세대$0$HD lw=-3	0
+L	37Aunit_측세대$0$A11-해치-설비공간	c=8 lt=Continuous lw=-3	0
+L	37Aunit_측세대$0$A17-기타-단차이	c=7 lt=Continuous lw=-3	0
+L	37Aunit_측세대$0$A02-벽체-MC선	c=192 lt=37Aunit_측세대$0$ACAD_ISO10W100 lw=-3	0
+L	37Aunit_측세대$0$A17-기타-ETC	c=7 lt=Continuous lw=-3	0
+L	37Aunit_측세대$0$A05-난간-투시형	c=6 lt=Continuous lw=-3	0
+L	37Aunit_측세대$0$A04-PD ST	c=4 lt=Continuous lw=-3	0
+L	37Aunit_측세대$0$A05-난간-폐쇄형	c=7 lt=Continuous lw=-3	0
+L	37Aunit_측세대$0$A04-창호	c=4 lt=Continuous lw=-3	0
+L	37Aunit_측세대$0$A08-HID-HID2	c=15 lt=37Aunit_측세대$0$HIDX2 lw=-3	0
+L	37Aunit_측세대$0$A02-벽체-조적	c=3 lt=Continuous lw=-3	0
+L	37Aunit_측세대$0$A11-해치-조적	c=8 lt=Continuous lw=-3	0
+L	37Bunit_약자_측세대$0$WID	c=4 lt=Continuous lw=-3	0
+L	37Bunit_약자_측세대$0$AA-DWXM-DOOR	c=7 lt=Continuous lw=-3	0
+L	37Bunit_약자_측세대$0$ELE1	c=4 lt=Continuous lw=-3	0
+L	37Bunit_약자_측세대$0$TILE	c=8 lt=Continuous lw=-3	0
+L	37Bunit_약자_측세대$0$단열재-천정결로	c=4 lt=37Bunit_약자_측세대$0$HID lw=-3	0
+L	37Bunit_약자_측세대$0$ETC	c=8 lt=Continuous lw=-3	0
+L	37Bunit_약자_측세대$0$경량칸막이	c=7 lt=Continuous lw=-3	0
+L	37Bunit_약자_측세대$0$미설치가구	c=8 lt=Continuous lw=-3	0
+L	37Bunit_약자_측세대$0$설치가구	c=6 lt=Continuous lw=-3	0
+L	37Bunit_약자_측세대$0$단열재-비드법	c=251 lt=Continuous lw=-3	0
+L	37Bunit_약자_측세대$0$단열재-벽체결로	c=6 lt=Continuous lw=-3	0
+L	37Bunit_약자_측세대$0$AA-FFXM-SANI	c=6 lt=Continuous lw=-3	0
+L	37Bunit_약자_측세대$0$단열재-압출법-HAT	c=8 lt=Continuous lw=-3	0
+L	37Bunit_약자_측세대$0$UBR	c=9 lt=Continuous lw=-3	0
+L	37Bunit_약자_측세대$0$ACCESSORY	c=7 lt=Continuous lw=-3	0
+L	37Bunit_약자_측세대$0$욕실타일	c=11 lt=Continuous lw=-3	0
+L	37Bunit_약자_측세대$0$CERAMIC	c=5 lt=Continuous lw=-3	0
+L	37Bunit_약자_측세대$0$우오수	c=7 lt=Continuous lw=-3	0
+L	37Bunit_약자_측세대$0$수전및배수	c=6 lt=Continuous lw=-3	0
+L	37Bunit_약자_측세대$0$TEX_DIP	c=30 lt=Continuous lw=-3	0
+L	37Bunit_약자_측세대$0$세대병합	c=7 lt=37Bunit_약자_측세대$0$HD lw=-3	0
+L	37Bunit_약자_측세대$0$RESTROOM	c=6 lt=37Bunit_약자_측세대$0$HIDDEN lw=-3	0
+L	37Bunit_약자_측세대$0$AA-WAXM-CONC	c=2 lt=Continuous lw=-3	0
+L	37Bunit_약자_측세대$0$AA-WAXM-BRCK	c=3 lt=Continuous lw=-3	0
+L	37Bunit_약자_측세대$0$AA-XXXX-CNTL	c=1 lt=37Bunit_약자_측세대$0$CEN lw=-3	0
+L	37Bunit_약자_측세대$0$AA-XXXX-INSL	c=8 lt=Continuous lw=-3	0
+L	37Bunit_약자_측세대$0$AA-XXXX-DOOR	c=4 lt=Continuous lw=-3	0
+L	37Bunit_약자_측세대$0$단차이	c=7 lt=Continuous lw=-3	0
+L	37Bunit_약자_측세대$0$15-석고보드	c=9 lt=Continuous lw=-3	0
+L	37Bunit_약자_측세대$0$AA-XXXX-SYM1	c=9 lt=37Bunit_약자_측세대$0$HD lw=-3	0
+L	37Bunit_약자_측세대$0$A11-해치-설비공간	c=8 lt=Continuous lw=-3	0
+L	37Bunit_약자_측세대$0$A17-기타-단차이	c=7 lt=Continuous lw=-3	0
+L	37Bunit_약자_측세대$0$A02-벽체-MC선	c=192 lt=37Bunit_약자_측세대$0$ACAD_ISO10W100 lw=-3	0
+L	37Bunit_약자_측세대$0$A17-기타-ETC	c=7 lt=Continuous lw=-3	0
+L	37Bunit_약자_측세대$0$A05-난간-투시형	c=6 lt=Continuous lw=-3	0
+L	37Bunit_약자_측세대$0$A04-PD ST	c=4 lt=Continuous lw=-3	0
+L	37Bunit_약자_측세대$0$A05-난간-폐쇄형	c=7 lt=Continuous lw=-3	0
+L	37Bunit_약자_측세대$0$A04-창호	c=4 lt=Continuous lw=-3	0
+L	37Bunit_약자_측세대$0$A08-HID-HID2	c=15 lt=37Bunit_약자_측세대$0$HIDX2 lw=-3	0
+L	37Bunit_약자_측세대$0$A02-벽체-조적	c=3 lt=Continuous lw=-3	0
+L	37Bunit_약자_측세대$0$A11-해치-조적	c=8 lt=Continuous lw=-3	0
+L	26Aunit_중간세대$0$05-가구-미설치	c=9 lt=26Aunit_중간세대$0$HD lw=-3	0
+L	26Aunit_중간세대$0$SOL-옹벽	c=252 lt=Continuous lw=-3	0
+L	26Aunit_중간세대$0$DR-ER	c=4 lt=Continuous lw=-3	0
+L	26Aunit_중간세대$0$AA-WAXS-FINL	c=9 lt=Continuous lw=-3	0
+L	26Aunit_측세대$0$05-가구-미설치	c=9 lt=26Aunit_측세대$0$HD lw=-3	0
+L	26Aunit_측세대$0$SOL-옹벽	c=252 lt=Continuous lw=-3	0
+L	26Aunit_측세대$0$DR-ER	c=4 lt=Continuous lw=-3	0
+L	26Aunit_측세대$0$AA-WAXS-FINL	c=9 lt=Continuous lw=-3	0
+L	26Bunit_약자_중간세대$0$05-가구-미설치	c=9 lt=26Bunit_약자_중간세대$0$HD lw=-3	0
+L	26Bunit_약자_중간세대$0$SOL-옹벽	c=252 lt=Continuous lw=-3	0
+L	26Bunit_약자_중간세대$0$DR-ER	c=4 lt=Continuous lw=-3	0
+L	26Bunit_약자_중간세대$0$AA-WAXS-FINL	c=9 lt=Continuous lw=-3	0
+L	26Bunit_약자_측세대$0$05-가구-미설치	c=9 lt=26Bunit_약자_측세대$0$HD lw=-3	0
+L	26Bunit_약자_측세대$0$SOL-옹벽	c=252 lt=Continuous lw=-3	0
+L	26Bunit_약자_측세대$0$DR-ER	c=4 lt=Continuous lw=-3	0
+L	26Bunit_약자_측세대$0$AA-WAXS-FINL	c=9 lt=Continuous lw=-3	0
+L	37Aunit_중간세대$0$05-가구-미설치	c=9 lt=37Aunit_중간세대$0$HD lw=-3	0
+L	37Aunit_중간세대$0$DR-ER	c=4 lt=Continuous lw=-3	0
+L	37Aunit_중간세대$0$F-KIT FUR	c=6 lt=Continuous lw=-3	0
+L	37Aunit_중간세대$0$AA-WAXS-FINL	c=9 lt=Continuous lw=-3	0
+L	37Bunit_약자_중간세대$0$05-가구-미설치	c=9 lt=37Bunit_약자_중간세대$0$HD lw=-3	0
+L	37Bunit_약자_중간세대$0$DR-ER	c=4 lt=Continuous lw=-3	0
+L	37Bunit_약자_중간세대$0$F-KIT FUR	c=6 lt=Continuous lw=-3	0
+L	37Bunit_약자_중간세대$0$AA-WAXS-FINL	c=9 lt=Continuous lw=-3	0
+L	46unit-측세대$0$05-가구-미설치	c=9 lt=46unit-측세대$0$HD lw=-3	0
+L	46unit-측세대$0$AA-DWXM-WIND	c=4 lt=Continuous lw=-3	0
+L	46unit-측세대$0$DR-ER	c=4 lt=Continuous lw=-3	0
+L	46unit-측세대$0$AA-WAXS-FINL	c=9 lt=Continuous lw=-3	0
+L	46unit-측세대$0$AA-XXXX-DOOR	c=4 lt=Continuous lw=-3	0
+L	37Aunit_측세대$0$05-가구-미설치	c=9 lt=37Aunit_측세대$0$HD lw=-3	0
+L	37Aunit_측세대$0$DR-ER	c=4 lt=Continuous lw=-3	0
+L	37Aunit_측세대$0$F-KIT FUR	c=6 lt=Continuous lw=-3	0
+L	37Aunit_측세대$0$AA-WAXS-FINL	c=9 lt=Continuous lw=-3	0
+L	37Bunit_약자_측세대$0$05-가구-미설치	c=9 lt=37Bunit_약자_측세대$0$HD lw=-3	0
+L	37Bunit_약자_측세대$0$AA-DWXM-WIND	c=4 lt=Continuous lw=-3	0
+L	37Bunit_약자_측세대$0$DR-ER	c=4 lt=Continuous lw=-3	0
+L	37Bunit_약자_측세대$0$F-KIT FUR	c=6 lt=Continuous lw=-3	0
+L	37Bunit_약자_측세대$0$AA-WAXS-FINL	c=9 lt=Continuous lw=-3	0
+L	Tower 1201-3층복도$0$A04-창호	c=4 lt=Continuous lw=-3	0
+L	Tower 1201-기준층복도$0$A04-창호	c=4 lt=Continuous lw=-3	0
+L	26Aunit_중간세대$0$REV-CD	c=2 lt=Continuous lw=-3	0
+L	37Aunit_중간세대$0$REV-CD	c=2 lt=Continuous lw=-3	0
+L	37Bunit_약자_중간세대$0$REV-CD	c=2 lt=Continuous lw=-3	0
+L	X-Sheet(건축)$0$AA-XXXX-KEYMAP	c=7 lt=Continuous lw=-3	0
+L	37Aunit_측세대$0$REV-CD	c=2 lt=Continuous lw=-3	0
+L	37Bunit_약자_측세대$0$REV-CD	c=2 lt=Continuous lw=-3	0
+DS		CPDIM1	0
+DS		SCALE 40	0
+DS		SCALE 40-4	0
+DS		SCALE 40-2	0
+DS		SCALE 40-3	0
+DS		SCALE 40_내부	0
+DS		NDIM	0
+DS		사본 SDIM	0
+DS		26Aunit_중간세대$0$SCALE 40_내부	0
+DS		26Aunit_측세대$0$SCALE 40_내부	0
+DS		26Bunit_약자_중간세대$0$SCALE 40_내부	0
+DS		26Bunit_약자_측세대$0$SCALE 40_내부	0
+DS		37Aunit_중간세대$0$SCALE 40_내부	0
+DS		37Bunit_약자_중간세대$0$SCALE 40_내부	0
+DS		46unit-측세대$0$SCALE 40_내부	0
+DS		Tower 1201-3층복도$0$SCALE 40_내부	0
+DS		Tower 1201-기준층복도$0$SCALE 40_내부	0
+DS		X-Sheet(건축)$0$ISO-25	0
+DS		판상 1206.7-기준층복도$0$SCALE 40_내부	0
+DS		37Aunit_측세대$0$SCALE 40_내부	0
+DS		37Bunit_약자_측세대$0$SCALE 40_내부	0
+T	TEXT1	세대병합구간 배근평면도(W=180) |h=120 |st=맑은고딕	4
+T	TEXT-2	수평근 : D10@150 |h=100 |st=맑은고딕	4
+T	TEXT-2	수직근 : D10@250 |h=100 |st=맑은고딕	4
+B	0	세대병합구간-180	4
+T	LH_SHEET_TEXT	005 |h=120 |st=맑은고딕	1
+T	LH_SHEET_TEXT	004 |h=120 |st=맑은고딕	1
+T	LH_SHEET_TEXT	003 |h=120 |st=맑은고딕	1
+T	LH_SHEET_TEXT	001 |h=120 |st=맑은고딕	1
+T	LH_SHEET_TEXT	002 |h=120 |st=맑은고딕	1
+T	LH_SHEET_TEXT	A02- |h=120 |st=맑은고딕	5
+T	A04-TEXT-창호	24X22 |h=100 |st=맑은고딕	2
+E	판상 1206.7-기준층복도$0$A15-해치-코아바닥	Line	204
+LT	판상 1206.7-기준층복도$0$A15-해치-코아바닥	ByLayer	204
+B	판상 1206.7-기준층복도$0$AA-XXXX-DOOR	판상 1206.7-기준층복도$0$A$C2EA20488	1
+E	판상 1206.7-기준층복도$0$A04-창호	Polyline	6
+E	판상 1206.7-기준층복도$0$A04-창호	Arc	4
+E	판상 1206.7-기준층복도$0$A04-창호	Circle	1
+LT	판상 1206.7-기준층복도$0$A04-창호	ByLayer	117
+E	판상 1206.7-기준층복도$0$A04-창호	Line	106
+B	판상 1206.7-기준층복도$0$door	판상 1206.7-기준층복도$0$세대현관1000	8
+E	판상 1206.7-기준층복도$0$AA-XXXX-DOOR	Arc	10
+E	판상 1206.7-기준층복도$0$AA-XXXX-DOOR	Polyline	14
+LT	판상 1206.7-기준층복도$0$AA-XXXX-DOOR	ByLayer	316
+E	판상 1206.7-기준층복도$0$AA-XXXX-DOOR	Line	292
+E	판상 1206.7-기준층복도$0$모르타르	Polyline	4
+LT	판상 1206.7-기준층복도$0$모르타르	ByLayer	4
+E	판상 1206.7-기준층복도$0$WID	Line	2
+LT	판상 1206.7-기준층복도$0$WID	ByLayer	2
+E	판상 1206.7-기준층복도$0$AA-WAXM-CONC	Line	86
+LT	판상 1206.7-기준층복도$0$AA-WAXM-CONC	ByLayer	87
+E	판상 1206.7-기준층복도$0$AA-XXXX-CNTL	Line	17
+LT	판상 1206.7-기준층복도$0$AA-XXXX-CNTL	ByLayer	17
+B	판상 1206.7-기준층복도$0$AA-XXXX-ELEV	판상 1206.7-기준층복도$0$15	2
+E	판상 1206.7-기준층복도$0$AA-XXXX-ELEV	Line	12
+LT	판상 1206.7-기준층복도$0$AA-XXXX-ELEV	ByLayer	32
+E	판상 1206.7-기준층복도$0$AA-XXXX-ELEV	Polyline	20
+E	판상 1206.7-기준층복도$0$AA-WAXM-CONC	Polyline	1
+E	판상 1206.7-기준층복도$0$ELE7	Line	16
+LT	판상 1206.7-기준층복도$0$ELE7	ByLayer	16
+B	판상 1206.7-기준층복도$0$DR-ER	판상 1206.7-기준층복도$0$우수	5
+E	판상 1206.7-기준층복도$0$우오수	Circle	5
+LT	판상 1206.7-기준층복도$0$우오수	ByLayer	15
+E	판상 1206.7-기준층복도$0$우오수	Line	10
+B	판상 1206.7-기준층복도$0$door	판상 1206.7-기준층복도$0$SD-R 1100	2
+E	판상 1206.7-기준층복도$0$소방	Polyline	1
+LT	판상 1206.7-기준층복도$0$소방	ByLayer	3
+E	판상 1206.7-기준층복도$0$소방	Line	2
+B	판상 1206.7-기준층복도$0$A17-기타-ETC	판상 1206.7-기준층복도$0$A$C3DF80884	4
+E	판상 1206.7-기준층복도$0$A17-기타-ETC	Wipeout	4
+E	판상 1206.7-기준층복도$0$A17-기타-ETC	Polyline	4
+LT	판상 1206.7-기준층복도$0$A17-기타-ETC	ByLayer	132
+E	판상 1206.7-기준층복도$0$A17-기타-ETC	Circle	128
+E	판상 1206.7-기준층복도$0$Defpoint	Text	1
+T	판상 1206.7-기준층복도$0$Defpoint	15+15-90m/min |h=150 |st=판상 1206.7-기준층복도$0$맑은고딕	1
+E	판상 1206.7-기준층복도$0$LEADER	Polyline	9
+LT	판상 1206.7-기준층복도$0$LEADER	ByLayer	9
+E	판상 1206.7-기준층복도$0$계단_000	Line	32
+LT	판상 1206.7-기준층복도$0$계단_000	ByLayer	64
+E	판상 1206.7-기준층복도$0$헨드레일_000	Line	36
+LT	판상 1206.7-기준층복도$0$헨드레일_000	ByLayer	40
+E	판상 1206.7-기준층복도$0$헨드레일_000	Polyline	4
+E	판상 1206.7-기준층복도$0$계단_000	Polyline	32
+E	판상 1206.7-기준층복도$0$A06-시설물-계단	Line	5
+LT	판상 1206.7-기준층복도$0$A06-시설물-계단	ByLayer	16
+E	판상 1206.7-기준층복도$0$A06-시설물-계단	Circle	4
+E	판상 1206.7-기준층복도$0$A06-시설물-계단	Polyline	7
+E	판상 1206.7-기준층복도$0$Defpoint	Polyline	1
+LT	판상 1206.7-기준층복도$0$Defpoint	ByLayer	1
+E	판상 1206.7-기준층복도$0$AA-DWXM-WIND	Polyline	14
+LT	판상 1206.7-기준층복도$0$AA-DWXM-WIND	ByLayer	32
+E	판상 1206.7-기준층복도$0$AA-DWXM-WIND	Line	18
+E	판상 1206.7-기준층복도$0$A11-해치-설비공간	Hatch	2
+H	판상 1206.7-기준층복도$0$A11-해치-설비공간	DASH s=15 a=180	2
+E	판상 1206.7-기준층복도$0$A11-해치-조적	Hatch	2
+H	판상 1206.7-기준층복도$0$A11-해치-조적	_USER s=50 a=45	2
+E	판상 1206.7-기준층복도$0$A02-벽체-조적	Line	14
+LT	판상 1206.7-기준층복도$0$A02-벽체-조적	ByLayer	14
+E	판상 1206.7-기준층복도$0$AA-WAXS-FINL	Line	5
+LT	판상 1206.7-기준층복도$0$AA-WAXS-FINL	ByLayer	5
+B	판상 1206.7-기준층복도$0$A04-창호	판상 1206.7-기준층복도$0$TPS점검구	1
+E	판상 1206.7-기준층복도$0$OPEN	Line	2
+LT	판상 1206.7-기준층복도$0$OPEN	ByLayer	2
+E	판상 1206.7-기준층복도$0$A04-PD ST	Line	2
+LT	판상 1206.7-기준층복도$0$A04-PD ST	ByLayer	2
+E	판상 1206.7-기준층복도$0$소화기구함	Polyline	2
+LT	판상 1206.7-기준층복도$0$소화기구함	ByLayer	6
+E	판상 1206.7-기준층복도$0$소화기구함	Line	4
+B	0	판상 1206.7-기준층복도$0$AW-1350	1
+B	0	판상 1206.7-기준층복도	1
+T	Defpoints	W=150 |h=169.14 |st=46unit-측세대$0$맑은고딕	2
+B	46unit-측세대$0$ELE1	46unit-측세대$0$DP-15	2
+T	Defpoints	15 |h=30 |st=46unit-측세대$0$맑은고딕	6
+LT	46unit-측세대$0$ELE1	ByLayer	8
+E	46unit-측세대$0$ELE1	Line	8
+E	46unit-측세대$0$A04-창호	Line	130
+LT	46unit-측세대$0$A04-창호	ByLayer	156
+E	46unit-측세대$0$A04-창호	Polyline	84
+B	46unit-측세대$0$ELE1	46unit-측세대$0$BP-15	2
+E	46unit-측세대$0$단열재-벽체결로	Polyline	12
+LT	46unit-측세대$0$단열재-벽체결로	ByLayer	12
+B	46unit-측세대$0$AA-XXXX-DOOR	46unit-측세대$0$WD-1_900(조적+보드)	2
+T	46unit-측세대$0$TEX_DIP	WD-B_900 |h=50 |st=46unit-측세대$0$맑은고딕	4
+E	46unit-측세대$0$TEX_DIP	Text	4
+LT	46unit-측세대$0$AA-DWXM-DOOR	46unit-측세대$0$HID	6
+E	46unit-측세대$0$AA-DWXM-DOOR	Line	6
+LT	46unit-측세대$0$AA-DWXM-DOOR	46unit-측세대$0$CENTER2	2
+E	46unit-측세대$0$AA-DWXM-DOOR	Arc	2
+LT	46unit-측세대$0$AA-DWXM-DOOR	ByLayer	14
+E	46unit-측세대$0$AA-DWXM-DOOR	Polyline	14
+E	46unit-측세대$0$TILE	Line	128
+LT	46unit-측세대$0$TILE	ByLayer	128
+B	46unit-측세대$0$미설치가구	46unit-측세대$0$A$C129D7D33	2
+LT	46unit-측세대$0$미설치가구	46unit-측세대$0$HID	200
+E	46unit-측세대$0$미설치가구	Polyline	32
+B	0	46unit-측세대$0$Atype UBR	2
+E	46unit-측세대$0$ACCESSORY	Circle	2
+B	46unit-측세대$0$ACCESSORY	46unit-측세대$0$A$C1AB05FC4	2
+LT	46unit-측세대$0$욕실타일	ByLayer	8
+E	46unit-측세대$0$욕실타일	Line	8
+E	46unit-측세대$0$ETC	Arc	8
+E	46unit-측세대$0$ETC	Line	10
+B	46unit-측세대$0$ETC	46unit-측세대$0$ubr 수건걸이	2
+E	46unit-측세대$0$ACCESSORY	Spline	2
+B	46unit-측세대$0$ACCESSORY	46unit-측세대$0$ubr 휴지걸이	2
+B	46unit-측세대$0$CERAMIC	46unit-측세대$0$ubr 변기	2
+LT	46unit-측세대$0$ETC	ByLayer	354
+E	46unit-측세대$0$ETC	Polyline	336
+LT	46unit-측세대$0$CERAMIC	ByLayer	130
+E	46unit-측세대$0$CERAMIC	Polyline	130
+LT	46unit-측세대$0$ACCESSORY	ByLayer	290
+E	46unit-측세대$0$ACCESSORY	Polyline	288
+E	46unit-측세대$0$ACCESSORY	Ellipse	32
+LT	46unit-측세대$0$UBR	Continuous	48
+E	46unit-측세대$0$UBR	Polyline	246
+E	46unit-측세대$0$UBR	Point	6
+E	46unit-측세대$0$UBR	Circle	16
+E	46unit-측세대$0$UBR	Arc	50
+LT	46unit-측세대$0$UBR	ByLayer	798
+E	46unit-측세대$0$UBR	Line	534
+E	46unit-측세대$0$A02-벽체-조적	Line	18
+LT	46unit-측세대$0$A02-벽체-조적	ByLayer	18
+E	46unit-측세대$0$A02-벽체-MC선	Line	50
+LT	46unit-측세대$0$A02-벽체-MC선	ByLayer	50
+E	46unit-측세대$0$AA-XXXX-CNTL	Line	32
+LT	46unit-측세대$0$AA-XXXX-CNTL	ByLayer	32
+B	46unit-측세대$0$F-KIT FUR	46unit-측세대$0$세탁공간 1100 x 1050	2
+B	46unit-측세대$0$DR-ER	46unit-측세대$0$우수	6
+E	46unit-측세대$0$설치가구	Line	1074
+LT	46unit-측세대$0$설치가구	ByLayer	1420
+E	46unit-측세대$0$설치가구	Polyline	26
+LT	46unit-측세대$0$미설치가구	46unit-측세대$0$HIDDEN	16
+E	46unit-측세대$0$미설치가구	Line	104
+B	46unit-측세대$0$미설치가구	46unit-측세대$0$A$C514F5E0B	2
+E	46unit-측세대$0$수전및배수	Line	96
+LT	46unit-측세대$0$수전및배수	ByLayer	128
+E	46unit-측세대$0$수전및배수	Arc	28
+E	46unit-측세대$0$수전및배수	Circle	4
+B	46unit-측세대$0$AA-XXXX-CNTL	46unit-측세대$0$A$C0B526BDD	4
+LT	46unit-측세대$0$A17-기타-단차이	ByLayer	8
+E	46unit-측세대$0$A17-기타-단차이	Line	8
+B	46unit-측세대$0$우오수	46unit-측세대$0$우수	2
+E	46unit-측세대$0$우오수	Circle	12
+LT	46unit-측세대$0$우오수	ByLayer	128
+E	46unit-측세대$0$우오수	Line	66
+E	46unit-측세대$0$우오수	Polyline	2
+E	46unit-측세대$0$우오수	Arc	48
+B	46unit-측세대$0$DR-ER	46unit-측세대$0$세탁기드레인	2
+E	46unit-측세대$0$AA-WAXM-CONC	Line	112
+LT	46unit-측세대$0$AA-WAXM-CONC	ByLayer	118
+E	46unit-측세대$0$단열재-압출법-HAT	Hatch	12
+H	46unit-측세대$0$단열재-압출법-HAT	ANSI37 s=2 a=0	8
+B	46unit-측세대$0$AA-WAXM-BRCK	46unit-측세대$0$A$C04F4520F	2
+LT	46unit-측세대$0$A17-기타-ETC	46unit-측세대$0$HID	48
+E	46unit-측세대$0$A17-기타-ETC	Line	52
+B	46unit-측세대$0$AA-DWXM-WIND	46unit-측세대$0$BP-24	2
+T	Defpoints	24 |h=30 |st=46unit-측세대$0$맑은고딕	2
+B	46unit-측세대$0$A04-창호	46unit-측세대$0$BPW-15	2
+LT	46unit-측세대$0$A04-창호	Continuous	58
+B	46unit-측세대$0$15-석고보드	46unit-측세대$0$A$C24D9142C	2
+B	46unit-측세대$0$AA-XXXX-DOOR	46unit-측세대$0$9x22 WD-경량벽	2
+LT	46unit-측세대$0$06-창호-문	46unit-측세대$0$HID	6
+E	46unit-측세대$0$06-창호-문	Line	6
+LT	46unit-측세대$0$06-창호-문	46unit-측세대$0$CENTER2	2
+E	46unit-측세대$0$06-창호-문	Arc	2
+LT	46unit-측세대$0$06-창호-문	ByLayer	16
+E	46unit-측세대$0$06-창호-문	Polyline	16
+B	46unit-측세대$0$미설치가구	46unit-측세대$0$A$C4111651A	2
+E	46unit-측세대$0$미설치가구	Arc	80
+B	46unit-측세대$0$미설치가구	46unit-측세대$0$A$C600D4504	2
+B	46unit-측세대$0$미설치가구	46unit-측세대$0$에어컨	2
+B	46unit-측세대$0$미설치가구	46unit-측세대$0$냉장고	2
+B	46unit-측세대$0$AA-DWXM-WIND	46unit-측세대$0$DP-18	2
+T	Defpoints	18 |h=30 |st=46unit-측세대$0$맑은고딕	2
+E	46unit-측세대$0$15-석고보드	Line	126
+LT	46unit-측세대$0$15-석고보드	ByLayer	156
+E	46unit-측세대$0$A08-HID-HID2	Line	6
+LT	46unit-측세대$0$A08-HID-HID2	ByLayer	6
+E	46unit-측세대$0$HID	Line	8
+LT	46unit-측세대$0$HID	ByLayer	8
+E	46unit-측세대$0$단열재-천정결로	Line	14
+LT	46unit-측세대$0$단열재-천정결로	ByLayer	14
+E	46unit-측세대$0$HAT-타일	Line	8
+LT	46unit-측세대$0$HAT-타일	ByLayer	8
+E	46unit-측세대$0$경량칸막이	Line	82
+LT	46unit-측세대$0$경량칸막이	ByLayer	120
+E	46unit-측세대$0$경량칸막이	Polyline	38
+E	46unit-측세대$0$A05-난간-투시형	Polyline	6
+LT	46unit-측세대$0$A05-난간-투시형	ByLayer	6
+E	46unit-측세대$0$15-석고보드	Polyline	30
+E	46unit-측세대$0$AA-WAXM-CONC	Polyline	6
+E	46unit-측세대$0$A11-해치-조적	Hatch	4
+H	46unit-측세대$0$A11-해치-조적	LINE s=15 a=45	4
+E	46unit-측세대$0$A11-해치-설비공간	Hatch	4
+H	46unit-측세대$0$A11-해치-설비공간	DASH s=15 a=0	4
+E	46unit-측세대$0$AA-XXXX-INSL	Line	4
+LT	46unit-측세대$0$AA-XXXX-INSL	ByLayer	32
+B	46unit-측세대$0$설치가구	46unit-측세대$0$A$C3DAC221C	2
+LT	46unit-측세대$0$설치가구	46unit-측세대$0$HD	18
+B	46unit-측세대$0$설치가구	46unit-측세대$0$서랍표준	2
+B	46unit-측세대$0$AA-WAXM-BRCK	46unit-측세대$0$DSUS850	2
+E	46unit-측세대$0$설치가구	Arc	306
+E	46unit-측세대$0$설치가구	Circle	48
+B	46unit-측세대$0$AA-WAXM-BRCK	46unit-측세대$0$asdhf6r545	2
+LT	46unit-측세대$0$설치가구	46unit-측세대$0$DASHED	12
+LT	46unit-측세대$0$설치가구	46unit-측세대$0$HID	4
+LT	46unit-측세대$0$F-KIT FUR	ByLayer	2
+E	46unit-측세대$0$F-KIT FUR	Polyline	2
+E	46unit-측세대$0$A04-PD ST	Line	6
+LT	46unit-측세대$0$A04-PD ST	ByLayer	6
+B	46unit-측세대$0$설치가구	46unit-측세대$0$신발장 1400X450	2
+E	46unit-측세대$0$AA-XXXX-SYM1	Line	2
+LT	46unit-측세대$0$AA-XXXX-SYM1	ByLayer	4
+E	46unit-측세대$0$AA-XXXX-SYM1	Polyline	2
+B	46unit-측세대$0$AA-WAXS-FINL	46unit-측세대$0$A$C08947341	4
+T	Defpoints	46_측세대 |h=28.19 |st=46unit-측세대$0$맑은고딕	2
+B	46unit-측세대$0$05-가구-미설치	46unit-측세대$0$A$C201803CB	2
+B	46unit-측세대$0$미설치가구	46unit-측세대$0$실외기	2
+E	46unit-측세대$0$A05-난간-폐쇄형	Line	4
+LT	46unit-측세대$0$A05-난간-폐쇄형	ByLayer	4
+E	46unit-측세대$0$AA-XXXX-INSL	Polyline	28
+H	46unit-측세대$0$단열재-압출법-HAT	ANSI37 s=2 a=90	4
+E	46unit-측세대$0$A11-해치-설비공간	Line	2
+LT	46unit-측세대$0$A11-해치-설비공간	ByLayer	2
+LT	46unit-측세대$0$A17-기타-ETC	ByLayer	8
+E	46unit-측세대$0$A17-기타-ETC	Polyline	2
+E	46unit-측세대$0$A17-기타-ETC	Arc	2
+E	46unit-측세대$0$세대병합	Polyline	2
+LT	46unit-측세대$0$세대병합	ByLayer	2
+B	0	46unit-측세대	2
+E	37Aunit_측세대$0$단열재-압출법-HAT	Hatch	4
+H	37Aunit_측세대$0$단열재-압출법-HAT	ANSI37 s=2 a=90	2
+E	37Aunit_측세대$0$단열재-벽체결로	Polyline	4
+LT	37Aunit_측세대$0$단열재-벽체결로	ByLayer	4
+E	37Aunit_측세대$0$A05-난간-투시형	Polyline	2
+LT	37Aunit_측세대$0$A05-난간-투시형	ByLayer	3
+E	37Aunit_측세대$0$AA-XXXX-CNTL	Line	16
+LT	37Aunit_측세대$0$AA-XXXX-CNTL	ByLayer	16
+B	37Aunit_측세대$0$AA-WAXS-FINL	37Aunit_측세대$0$A$C08947341	2
+B	37Aunit_측세대$0$AA-WAXM-BRCK	37Aunit_측세대$0$Atype UBR	1
+E	37Aunit_측세대$0$ACCESSORY	Circle	1
+B	37Aunit_측세대$0$ACCESSORY	37Aunit_측세대$0$A$C1AB05FC4	1
+LT	37Aunit_측세대$0$TILE	ByLayer	61
+E	37Aunit_측세대$0$TILE	Line	60
+LT	37Aunit_측세대$0$욕실타일	ByLayer	4
+E	37Aunit_측세대$0$욕실타일	Line	4
+E	37Aunit_측세대$0$ETC	Arc	4
+E	37Aunit_측세대$0$ETC	Line	5
+B	37Aunit_측세대$0$ETC	37Aunit_측세대$0$ubr 수건걸이	1
+E	37Aunit_측세대$0$ACCESSORY	Spline	1
+B	37Aunit_측세대$0$ACCESSORY	37Aunit_측세대$0$ubr 휴지걸이	1
+B	37Aunit_측세대$0$CERAMIC	37Aunit_측세대$0$ubr 변기	1
+LT	37Aunit_측세대$0$ETC	ByLayer	177
+E	37Aunit_측세대$0$ETC	Polyline	168
+LT	37Aunit_측세대$0$CERAMIC	ByLayer	65
+E	37Aunit_측세대$0$CERAMIC	Polyline	65
+LT	37Aunit_측세대$0$ACCESSORY	ByLayer	145
+E	37Aunit_측세대$0$ACCESSORY	Polyline	144
+E	37Aunit_측세대$0$ACCESSORY	Ellipse	16
+LT	37Aunit_측세대$0$UBR	Continuous	24
+E	37Aunit_측세대$0$UBR	Polyline	123
+E	37Aunit_측세대$0$UBR	Point	3
+E	37Aunit_측세대$0$UBR	Circle	8
+E	37Aunit_측세대$0$UBR	Arc	25
+LT	37Aunit_측세대$0$UBR	ByLayer	399
+E	37Aunit_측세대$0$UBR	Line	267
+B	37Aunit_측세대$0$A04-창호	37Aunit_측세대$0$BPW-12	1
+LT	37Aunit_측세대$0$ELE1	Continuous	1
+E	37Aunit_측세대$0$ELE1	Line	3
+T	Defpoints	12 |h=30 |st=37Aunit_측세대$0$맑은고딕	1
+E	37Aunit_측세대$0$A04-창호	Polyline	34
+LT	37Aunit_측세대$0$A04-창호	Continuous	28
+E	37Aunit_측세대$0$A04-창호	Line	61
+E	37Aunit_측세대$0$A02-벽체-MC선	Line	20
+LT	37Aunit_측세대$0$A02-벽체-MC선	ByLayer	20
+H	37Aunit_측세대$0$단열재-압출법-HAT	ANSI37 s=2 a=0	2
+B	37Aunit_측세대$0$미설치가구	37Aunit_측세대$0$냉장고	1
+LT	37Aunit_측세대$0$미설치가구	37Aunit_측세대$0$HID	46
+E	37Aunit_측세대$0$미설치가구	Line	38
+B	37Aunit_측세대$0$15-석고보드	37Aunit_측세대$0$A$C24D9142C	1
+LT	37Aunit_측세대$0$A17-기타-ETC	37Aunit_측세대$0$HID	27
+E	37Aunit_측세대$0$A17-기타-ETC	Line	28
+B	37Aunit_측세대$0$AA-WAXM-BRCK	37Aunit_측세대$0$A$C04F4520F	1
+E	37Aunit_측세대$0$15-석고보드	Polyline	14
+LT	37Aunit_측세대$0$15-석고보드	ByLayer	73
+E	37Aunit_측세대$0$15-석고보드	Line	59
+E	37Aunit_측세대$0$미설치가구	Polyline	16
+E	37Aunit_측세대$0$AA-XXXX-INSL	Line	1
+LT	37Aunit_측세대$0$AA-XXXX-INSL	ByLayer	12
+E	37Aunit_측세대$0$세대병합	Polyline	1
+LT	37Aunit_측세대$0$세대병합	ByLayer	1
+E	37Aunit_측세대$0$A11-해치-설비공간	Hatch	2
+H	37Aunit_측세대$0$A11-해치-설비공간	DASH s=15 a=0	2
+B	37Aunit_측세대$0$미설치가구	37Aunit_측세대$0$A$C600D4504	1
+E	37Aunit_측세대$0$A11-해치-조적	Hatch	2
+H	37Aunit_측세대$0$A11-해치-조적	_USER s=50 a=45	2
+E	37Aunit_측세대$0$A02-벽체-조적	Line	10
+LT	37Aunit_측세대$0$A02-벽체-조적	ByLayer	10
+B	37Aunit_측세대$0$AA-WAXM-BRCK	37Aunit_측세대$0$WD-1_900(조적+보드)	1
+T	37Aunit_측세대$0$TEX_DIP	WD-B_900 |h=50 |st=37Aunit_측세대$0$맑은고딕	1
+E	37Aunit_측세대$0$TEX_DIP	Text	1
+LT	37Aunit_측세대$0$AA-DWXM-DOOR	37Aunit_측세대$0$HID	3
+E	37Aunit_측세대$0$AA-DWXM-DOOR	Line	3
+LT	37Aunit_측세대$0$AA-DWXM-DOOR	37Aunit_측세대$0$CENTER2	1
+E	37Aunit_측세대$0$AA-DWXM-DOOR	Arc	1
+LT	37Aunit_측세대$0$AA-DWXM-DOOR	ByLayer	7
+E	37Aunit_측세대$0$AA-DWXM-DOOR	Polyline	7
+LT	37Aunit_측세대$0$A04-창호	ByLayer	67
+B	37Aunit_측세대$0$A04-창호	37Aunit_측세대$0$DP-24	1
+T	Defpoints	24 |h=30 |st=37Aunit_측세대$0$맑은고딕	1
+LT	37Aunit_측세대$0$ELE1	ByLayer	2
+B	37Aunit_측세대$0$A04-창호	37Aunit_측세대$0$BP-30	1
+T	Defpoints	30 |h=30 |st=37Aunit_측세대$0$맑은고딕	1
+E	37Aunit_측세대$0$AA-WAXM-CONC	Line	43
+LT	37Aunit_측세대$0$AA-WAXM-CONC	ByLayer	46
+E	37Aunit_측세대$0$A08-HID-HID2	Line	2
+LT	37Aunit_측세대$0$A08-HID-HID2	ByLayer	2
+E	37Aunit_측세대$0$경량칸막이	Line	20
+LT	37Aunit_측세대$0$경량칸막이	ByLayer	33
+E	37Aunit_측세대$0$경량칸막이	Polyline	13
+B	37Aunit_측세대$0$05-가구-미설치	37Aunit_측세대$0$A$C201803CB	1
+B	37Aunit_측세대$0$미설치가구	37Aunit_측세대$0$실외기	1
+LT	37Aunit_측세대$0$A17-기타-ETC	ByLayer	4
+E	37Aunit_측세대$0$A17-기타-ETC	Polyline	2
+E	37Aunit_측세대$0$A17-기타-ETC	Arc	1
+E	37Aunit_측세대$0$A05-난간-투시형	Line	1
+E	37Aunit_측세대$0$A04-PD ST	Line	3
+LT	37Aunit_측세대$0$A04-PD ST	ByLayer	3
+E	37Aunit_측세대$0$단열재-천정결로	Line	6
+LT	37Aunit_측세대$0$단열재-천정결로	ByLayer	6
+E	37Aunit_측세대$0$A17-기타-단차이	Line	2
+LT	37Aunit_측세대$0$A17-기타-단차이	ByLayer	2
+B	37Aunit_측세대$0$미설치가구	37Aunit_측세대$0$에어컨	1
+E	37Aunit_측세대$0$TILE	Polyline	1
+B	37Aunit_측세대$0$미설치가구	37Aunit_측세대$0$A$C129D7D33	1
+E	37Aunit_측세대$0$AA-WAXM-CONC	Polyline	3
+B	0	37Aunit_측세대$0$세탁공간 1100 x 1000	1
+B	37Aunit_측세대$0$DR-ER	37Aunit_측세대$0$우수	3
+E	37Aunit_측세대$0$설치가구	Polyline	13
+LT	37Aunit_측세대$0$설치가구	ByLayer	704
+E	37Aunit_측세대$0$설치가구	Line	520
+B	37Aunit_측세대$0$설치가구	37Aunit_측세대$0$A$C068F09EB	1
+LT	37Aunit_측세대$0$미설치가구	37Aunit_측세대$0$HIDDEN	8
+B	37Aunit_측세대$0$미설치가구	37Aunit_측세대$0$A$C514F5E0B	1
+E	37Aunit_측세대$0$수전및배수	Line	48
+LT	37Aunit_측세대$0$수전및배수	ByLayer	64
+E	37Aunit_측세대$0$수전및배수	Arc	14
+E	37Aunit_측세대$0$수전및배수	Circle	2
+B	37Aunit_측세대$0$AA-XXXX-CNTL	37Aunit_측세대$0$A$C0B526BDD	2
+LT	37Aunit_측세대$0$단차이	ByLayer	2
+E	37Aunit_측세대$0$단차이	Line	2
+B	37Aunit_측세대$0$우오수	37Aunit_측세대$0$우수	1
+E	37Aunit_측세대$0$우오수	Circle	6
+LT	37Aunit_측세대$0$우오수	ByLayer	64
+E	37Aunit_측세대$0$우오수	Line	33
+E	37Aunit_측세대$0$우오수	Polyline	1
+E	37Aunit_측세대$0$우오수	Arc	24
+B	37Aunit_측세대$0$DR-ER	37Aunit_측세대$0$세탁기드레인	1
+E	37Aunit_측세대$0$AA-XXXX-DOOR	Polyline	1
+LT	37Aunit_측세대$0$AA-XXXX-DOOR	ByLayer	1
+T	Defpoints	37A_SIDE |h=28.19 |st=37Aunit_측세대$0$맑은고딕	1
+E	37Aunit_측세대$0$A05-난간-폐쇄형	Line	2
+LT	37Aunit_측세대$0$A05-난간-폐쇄형	ByLayer	2
+E	37Aunit_측세대$0$AA-XXXX-INSL	Polyline	11
+E	37Aunit_측세대$0$A11-해치-설비공간	Line	1
+LT	37Aunit_측세대$0$A11-해치-설비공간	ByLayer	1
+E	37Aunit_측세대$0$단열재-비드법	Line	1
+LT	37Aunit_측세대$0$단열재-비드법	ByLayer	1
+E	37Aunit_측세대$0$설치가구	Arc	153
+E	37Aunit_측세대$0$설치가구	Circle	24
+E	37Aunit_측세대$0$AA-XXXX-SYM1	Polyline	1
+LT	37Aunit_측세대$0$AA-XXXX-SYM1	ByLayer	2
+E	37Aunit_측세대$0$AA-XXXX-SYM1	Line	1
+B	37Aunit_측세대$0$F-KIT FUR	37Aunit_측세대$0$주방 2600 NN	1
+B	37Aunit_측세대$0$AA-WAXM-BRCK	37Aunit_측세대$0$DSUS850	1
+B	37Aunit_측세대$0$AA-WAXM-BRCK	37Aunit_측세대$0$asdhf6r545	1
+LT	37Aunit_측세대$0$설치가구	37Aunit_측세대$0$HID	6
+E	37Aunit_측세대$0$REV-CD	Polyline	1
+LT	37Aunit_측세대$0$REV-CD	ByLayer	1
+B	0	37Aunit_측세대	1
+E	37Aunit_중간세대$0$A05-난간-투시형	Polyline	4
+LT	37Aunit_중간세대$0$A05-난간-투시형	ByLayer	6
+E	37Aunit_중간세대$0$단열재-압출법-HAT	Hatch	8
+H	37Aunit_중간세대$0$단열재-압출법-HAT	ANSI37 s=2 a=0	8
+E	37Aunit_중간세대$0$단열재-벽체결로	Polyline	8
+LT	37Aunit_중간세대$0$단열재-벽체결로	ByLayer	8
+E	37Aunit_중간세대$0$AA-XXXX-CNTL	Line	32
+LT	37Aunit_중간세대$0$AA-XXXX-CNTL	ByLayer	32
+B	37Aunit_중간세대$0$AA-WAXS-FINL	37Aunit_중간세대$0$A$C08947341	4
+B	37Aunit_중간세대$0$AA-WAXM-BRCK	37Aunit_중간세대$0$Atype UBR	2
+E	37Aunit_중간세대$0$ACCESSORY	Circle	2
+B	37Aunit_중간세대$0$ACCESSORY	37Aunit_중간세대$0$A$C1AB05FC4	2
+LT	37Aunit_중간세대$0$TILE	ByLayer	120
+E	37Aunit_중간세대$0$TILE	Line	118
+LT	37Aunit_중간세대$0$욕실타일	ByLayer	8
+E	37Aunit_중간세대$0$욕실타일	Line	8
+E	37Aunit_중간세대$0$ETC	Arc	8
+E	37Aunit_중간세대$0$ETC	Line	10
+B	37Aunit_중간세대$0$ETC	37Aunit_중간세대$0$ubr 수건걸이	2
+E	37Aunit_중간세대$0$ACCESSORY	Spline	2
+B	37Aunit_중간세대$0$ACCESSORY	37Aunit_중간세대$0$ubr 휴지걸이	2
+B	37Aunit_중간세대$0$CERAMIC	37Aunit_중간세대$0$ubr 변기	2
+LT	37Aunit_중간세대$0$ETC	ByLayer	354
+E	37Aunit_중간세대$0$ETC	Polyline	336
+LT	37Aunit_중간세대$0$CERAMIC	ByLayer	130
+E	37Aunit_중간세대$0$CERAMIC	Polyline	130
+LT	37Aunit_중간세대$0$ACCESSORY	ByLayer	290
+E	37Aunit_중간세대$0$ACCESSORY	Polyline	288
+E	37Aunit_중간세대$0$ACCESSORY	Ellipse	32
+LT	37Aunit_중간세대$0$UBR	Continuous	48
+E	37Aunit_중간세대$0$UBR	Polyline	246
+E	37Aunit_중간세대$0$UBR	Point	6
+E	37Aunit_중간세대$0$UBR	Circle	16
+E	37Aunit_중간세대$0$UBR	Arc	50
+LT	37Aunit_중간세대$0$UBR	ByLayer	798
+E	37Aunit_중간세대$0$UBR	Line	534
+B	37Aunit_중간세대$0$A04-창호	37Aunit_중간세대$0$BPW-12	2
+LT	37Aunit_중간세대$0$ELE1	Continuous	2
+E	37Aunit_중간세대$0$ELE1	Line	6
+T	Defpoints	12 |h=30 |st=37Aunit_중간세대$0$맑은고딕	2
+E	37Aunit_중간세대$0$A04-창호	Polyline	68
+LT	37Aunit_중간세대$0$A04-창호	Continuous	56
+E	37Aunit_중간세대$0$A04-창호	Line	122
+E	37Aunit_중간세대$0$A02-벽체-MC선	Line	40
+LT	37Aunit_중간세대$0$A02-벽체-MC선	ByLayer	40
+B	37Aunit_중간세대$0$미설치가구	37Aunit_중간세대$0$냉장고	2
+LT	37Aunit_중간세대$0$미설치가구	37Aunit_중간세대$0$HID	92
+E	37Aunit_중간세대$0$미설치가구	Line	76
+B	37Aunit_중간세대$0$15-석고보드	37Aunit_중간세대$0$A$C24D9142C	2
+LT	37Aunit_중간세대$0$A17-기타-ETC	37Aunit_중간세대$0$HID	54
+E	37Aunit_중간세대$0$A17-기타-ETC	Line	56
+B	37Aunit_중간세대$0$AA-WAXM-BRCK	37Aunit_중간세대$0$A$C04F4520F	2
+E	37Aunit_중간세대$0$15-석고보드	Polyline	28
+LT	37Aunit_중간세대$0$15-석고보드	ByLayer	142
+E	37Aunit_중간세대$0$15-석고보드	Line	114
+E	37Aunit_중간세대$0$미설치가구	Polyline	32
+E	37Aunit_중간세대$0$AA-WAXM-CONC	Line	86
+LT	37Aunit_중간세대$0$AA-WAXM-CONC	ByLayer	90
+E	37Aunit_중간세대$0$AA-XXXX-INSL	Line	2
+LT	37Aunit_중간세대$0$AA-XXXX-INSL	ByLayer	20
+E	37Aunit_중간세대$0$세대병합	Polyline	2
+LT	37Aunit_중간세대$0$세대병합	ByLayer	2
+E	37Aunit_중간세대$0$A11-해치-설비공간	Hatch	4
+H	37Aunit_중간세대$0$A11-해치-설비공간	DASH s=15 a=0	4
+B	37Aunit_중간세대$0$미설치가구	37Aunit_중간세대$0$A$C600D4504	2
+E	37Aunit_중간세대$0$A11-해치-조적	Hatch	4
+H	37Aunit_중간세대$0$A11-해치-조적	_USER s=50 a=45	4
+E	37Aunit_중간세대$0$A02-벽체-조적	Line	18
+LT	37Aunit_중간세대$0$A02-벽체-조적	ByLayer	18
+B	37Aunit_중간세대$0$AA-WAXM-BRCK	37Aunit_중간세대$0$WD-1_900(조적+보드)	2
+T	37Aunit_중간세대$0$TEX_DIP	WD-B_900 |h=50 |st=37Aunit_중간세대$0$맑은고딕	2
+E	37Aunit_중간세대$0$TEX_DIP	Text	2
+LT	37Aunit_중간세대$0$AA-DWXM-DOOR	37Aunit_중간세대$0$HID	6
+E	37Aunit_중간세대$0$AA-DWXM-DOOR	Line	6
+LT	37Aunit_중간세대$0$AA-DWXM-DOOR	37Aunit_중간세대$0$CENTER2	2
+E	37Aunit_중간세대$0$AA-DWXM-DOOR	Arc	2
+LT	37Aunit_중간세대$0$AA-DWXM-DOOR	ByLayer	14
+E	37Aunit_중간세대$0$AA-DWXM-DOOR	Polyline	14
+LT	37Aunit_중간세대$0$A04-창호	ByLayer	134
+B	37Aunit_중간세대$0$A04-창호	37Aunit_중간세대$0$DP-24	2
+T	Defpoints	24 |h=30 |st=37Aunit_중간세대$0$맑은고딕	2
+LT	37Aunit_중간세대$0$ELE1	ByLayer	4
+B	37Aunit_중간세대$0$A04-창호	37Aunit_중간세대$0$BP-30	2
+T	Defpoints	30 |h=30 |st=37Aunit_중간세대$0$맑은고딕	2
+E	37Aunit_중간세대$0$A08-HID-HID2	Line	4
+LT	37Aunit_중간세대$0$A08-HID-HID2	ByLayer	4
+E	37Aunit_중간세대$0$경량칸막이	Line	40
+LT	37Aunit_중간세대$0$경량칸막이	ByLayer	66
+E	37Aunit_중간세대$0$경량칸막이	Polyline	26
+B	37Aunit_중간세대$0$05-가구-미설치	37Aunit_중간세대$0$A$C201803CB	2
+B	37Aunit_중간세대$0$미설치가구	37Aunit_중간세대$0$실외기	2
+LT	37Aunit_중간세대$0$A17-기타-ETC	ByLayer	8
+E	37Aunit_중간세대$0$A17-기타-ETC	Polyline	4
+E	37Aunit_중간세대$0$A17-기타-ETC	Arc	2
+E	37Aunit_중간세대$0$A05-난간-투시형	Line	2
+E	37Aunit_중간세대$0$A04-PD ST	Line	6
+LT	37Aunit_중간세대$0$A04-PD ST	ByLayer	6
+E	37Aunit_중간세대$0$단열재-천정결로	Line	8
+LT	37Aunit_중간세대$0$단열재-천정결로	ByLayer	8
+E	37Aunit_중간세대$0$A17-기타-단차이	Line	4
+LT	37Aunit_중간세대$0$A17-기타-단차이	ByLayer	4
+B	37Aunit_중간세대$0$미설치가구	37Aunit_중간세대$0$에어컨	2
+E	37Aunit_중간세대$0$TILE	Polyline	2
+B	37Aunit_중간세대$0$미설치가구	37Aunit_중간세대$0$A$C129D7D33	2
+E	37Aunit_중간세대$0$AA-WAXM-CONC	Polyline	4
+B	0	37Aunit_중간세대$0$세탁공간 1100 x 1000	2
+B	37Aunit_중간세대$0$DR-ER	37Aunit_중간세대$0$우수	6
+E	37Aunit_중간세대$0$설치가구	Polyline	26
+LT	37Aunit_중간세대$0$설치가구	ByLayer	1408
+E	37Aunit_중간세대$0$설치가구	Line	1040
+B	37Aunit_중간세대$0$설치가구	37Aunit_중간세대$0$A$C068F09EB	2
+LT	37Aunit_중간세대$0$미설치가구	37Aunit_중간세대$0$HIDDEN	16
+B	37Aunit_중간세대$0$미설치가구	37Aunit_중간세대$0$A$C514F5E0B	2
+E	37Aunit_중간세대$0$수전및배수	Line	96
+LT	37Aunit_중간세대$0$수전및배수	ByLayer	128
+E	37Aunit_중간세대$0$수전및배수	Arc	28
+E	37Aunit_중간세대$0$수전및배수	Circle	4
+B	37Aunit_중간세대$0$AA-XXXX-CNTL	37Aunit_중간세대$0$A$C0B526BDD	4
+LT	37Aunit_중간세대$0$단차이	ByLayer	4
+E	37Aunit_중간세대$0$단차이	Line	4
+B	37Aunit_중간세대$0$우오수	37Aunit_중간세대$0$우수	2
+E	37Aunit_중간세대$0$우오수	Circle	12
+LT	37Aunit_중간세대$0$우오수	ByLayer	128
+E	37Aunit_중간세대$0$우오수	Line	66
+E	37Aunit_중간세대$0$우오수	Polyline	2
+E	37Aunit_중간세대$0$우오수	Arc	48
+B	37Aunit_중간세대$0$DR-ER	37Aunit_중간세대$0$세탁기드레인	2
+E	37Aunit_중간세대$0$AA-XXXX-DOOR	Polyline	2
+LT	37Aunit_중간세대$0$AA-XXXX-DOOR	ByLayer	2
+T	Defpoints	37A_중간 |h=30 |st=37Aunit_중간세대$0$맑은고딕	2
+E	37Aunit_중간세대$0$A05-난간-폐쇄형	Line	4
+LT	37Aunit_중간세대$0$A05-난간-폐쇄형	ByLayer	4
+E	37Aunit_중간세대$0$AA-XXXX-INSL	Polyline	18
+E	37Aunit_중간세대$0$설치가구	Arc	306
+E	37Aunit_중간세대$0$설치가구	Circle	48
+E	37Aunit_중간세대$0$AA-XXXX-SYM1	Polyline	2
+LT	37Aunit_중간세대$0$AA-XXXX-SYM1	ByLayer	4
+E	37Aunit_중간세대$0$AA-XXXX-SYM1	Line	2
+B	37Aunit_중간세대$0$F-KIT FUR	37Aunit_중간세대$0$주방 2600 NN	2
+B	37Aunit_중간세대$0$AA-WAXM-BRCK	37Aunit_중간세대$0$DSUS850	2
+B	37Aunit_중간세대$0$AA-WAXM-BRCK	37Aunit_중간세대$0$asdhf6r545	2
+LT	37Aunit_중간세대$0$설치가구	37Aunit_중간세대$0$HID	12
+E	37Aunit_중간세대$0$REV-CD	Polyline	2
+LT	37Aunit_중간세대$0$REV-CD	ByLayer	2
+B	0	37Aunit_중간세대	2
+E	37Bunit_약자_측세대$0$A11-해치-설비공간	Line	1
+LT	37Bunit_약자_측세대$0$A11-해치-설비공간	ByLayer	1
+E	37Bunit_약자_측세대$0$단열재-비드법	Line	1
+LT	37Bunit_약자_측세대$0$단열재-비드법	ByLayer	1
+E	37Bunit_약자_측세대$0$단열재-압출법-HAT	Hatch	4
+H	37Bunit_약자_측세대$0$단열재-압출법-HAT	ANSI37 s=2 a=90	2
+E	37Bunit_약자_측세대$0$단열재-벽체결로	Polyline	4
+LT	37Bunit_약자_측세대$0$단열재-벽체결로	ByLayer	4
+B	XREF	37Bunit_약자_측세대$0$세탁공간 1100 x 1000	1
+B	37Bunit_약자_측세대$0$DR-ER	37Bunit_약자_측세대$0$우수	3
+E	37Bunit_약자_측세대$0$설치가구	Polyline	13
+LT	37Bunit_약자_측세대$0$설치가구	ByLayer	704
+E	37Bunit_약자_측세대$0$설치가구	Line	520
+B	37Bunit_약자_측세대$0$설치가구	37Bunit_약자_측세대$0$A$C068F09EB	1
+E	37Bunit_약자_측세대$0$미설치가구	Polyline	16
+LT	37Bunit_약자_측세대$0$미설치가구	37Bunit_약자_측세대$0$HIDDEN	8
+E	37Bunit_약자_측세대$0$미설치가구	Line	38
+B	37Bunit_약자_측세대$0$미설치가구	37Bunit_약자_측세대$0$A$C514F5E0B	1
+E	37Bunit_약자_측세대$0$수전및배수	Line	48
+LT	37Bunit_약자_측세대$0$수전및배수	ByLayer	64
+E	37Bunit_약자_측세대$0$수전및배수	Arc	14
+E	37Bunit_약자_측세대$0$수전및배수	Circle	2
+B	37Bunit_약자_측세대$0$AA-XXXX-CNTL	37Bunit_약자_측세대$0$A$C0B526BDD	2
+LT	37Bunit_약자_측세대$0$단차이	ByLayer	2
+E	37Bunit_약자_측세대$0$단차이	Line	2
+B	37Bunit_약자_측세대$0$우오수	37Bunit_약자_측세대$0$우수	1
+E	37Bunit_약자_측세대$0$우오수	Circle	6
+LT	37Bunit_약자_측세대$0$우오수	ByLayer	64
+E	37Bunit_약자_측세대$0$우오수	Line	33
+E	37Bunit_약자_측세대$0$우오수	Polyline	1
+E	37Bunit_약자_측세대$0$우오수	Arc	24
+B	37Bunit_약자_측세대$0$DR-ER	37Bunit_약자_측세대$0$세탁기드레인	1
+E	37Bunit_약자_측세대$0$A02-벽체-조적	Line	10
+LT	37Bunit_약자_측세대$0$A02-벽체-조적	ByLayer	10
+E	37Bunit_약자_측세대$0$AA-XXXX-CNTL	Line	16
+LT	37Bunit_약자_측세대$0$AA-XXXX-CNTL	ByLayer	16
+B	37Bunit_약자_측세대$0$AA-WAXS-FINL	37Bunit_약자_측세대$0$A$C08947341	2
+B	37Bunit_약자_측세대$0$A04-창호	37Bunit_약자_측세대$0$BPW-12	1
+LT	37Bunit_약자_측세대$0$ELE1	Continuous	1
+E	37Bunit_약자_측세대$0$ELE1	Line	3
+T	Defpoints	12 |h=30 |st=37Bunit_약자_측세대$0$맑은고딕	1
+E	37Bunit_약자_측세대$0$A04-창호	Polyline	34
+LT	37Bunit_약자_측세대$0$A04-창호	Continuous	54
+E	37Bunit_약자_측세대$0$A04-창호	Line	61
+E	37Bunit_약자_측세대$0$A02-벽체-MC선	Line	20
+LT	37Bunit_약자_측세대$0$A02-벽체-MC선	ByLayer	20
+H	37Bunit_약자_측세대$0$단열재-압출법-HAT	ANSI37 s=2 a=0	2
+B	37Bunit_약자_측세대$0$미설치가구	37Bunit_약자_측세대$0$냉장고	1
+LT	37Bunit_약자_측세대$0$미설치가구	37Bunit_약자_측세대$0$HID	46
+E	37Bunit_약자_측세대$0$A05-난간-투시형	Polyline	2
+LT	37Bunit_약자_측세대$0$A05-난간-투시형	ByLayer	2
+B	37Bunit_약자_측세대$0$15-석고보드	37Bunit_약자_측세대$0$A$C24D9142C	1
+LT	37Bunit_약자_측세대$0$A17-기타-ETC	37Bunit_약자_측세대$0$HID	30
+E	37Bunit_약자_측세대$0$A17-기타-ETC	Line	32
+B	37Bunit_약자_측세대$0$AA-WAXM-BRCK	37Bunit_약자_측세대$0$A$C04F4520F	1
+E	37Bunit_약자_측세대$0$AA-WAXM-CONC	Line	44
+LT	37Bunit_약자_측세대$0$AA-WAXM-CONC	ByLayer	46
+E	37Bunit_약자_측세대$0$세대병합	Polyline	1
+LT	37Bunit_약자_측세대$0$세대병합	ByLayer	1
+E	37Bunit_약자_측세대$0$A11-해치-설비공간	Hatch	2
+H	37Bunit_약자_측세대$0$A11-해치-설비공간	DASH s=15 a=0	2
+B	37Bunit_약자_측세대$0$미설치가구	37Bunit_약자_측세대$0$A$C600D4504	1
+E	37Bunit_약자_측세대$0$15-석고보드	Line	67
+LT	37Bunit_약자_측세대$0$15-석고보드	ByLayer	78
+E	37Bunit_약자_측세대$0$15-석고보드	Polyline	11
+E	37Bunit_약자_측세대$0$A11-해치-조적	Hatch	2
+H	37Bunit_약자_측세대$0$A11-해치-조적	_USER s=50 a=45	2
+B	37Bunit_약자_측세대$0$AA-WAXM-BRCK	37Bunit_약자_측세대$0$WD-1_900(조적+보드)	1
+T	37Bunit_약자_측세대$0$TEX_DIP	WD-B_900 |h=50 |st=37Bunit_약자_측세대$0$맑은고딕	1
+E	37Bunit_약자_측세대$0$TEX_DIP	Text	1
+LT	37Bunit_약자_측세대$0$AA-DWXM-DOOR	37Bunit_약자_측세대$0$HID	3
+E	37Bunit_약자_측세대$0$AA-DWXM-DOOR	Line	3
+LT	37Bunit_약자_측세대$0$AA-DWXM-DOOR	37Bunit_약자_측세대$0$CENTER2	1
+E	37Bunit_약자_측세대$0$AA-DWXM-DOOR	Arc	1
+LT	37Bunit_약자_측세대$0$AA-DWXM-DOOR	ByLayer	7
+E	37Bunit_약자_측세대$0$AA-DWXM-DOOR	Polyline	7
+B	37Bunit_약자_측세대$0$AA-DWXM-WIND	37Bunit_약자_측세대$0$DP-24	1
+T	Defpoints	24 |h=30 |st=37Bunit_약자_측세대$0$맑은고딕	1
+LT	37Bunit_약자_측세대$0$ELE1	ByLayer	2
+LT	37Bunit_약자_측세대$0$A04-창호	ByLayer	41
+B	37Bunit_약자_측세대$0$AA-DWXM-WIND	37Bunit_약자_측세대$0$BP-30	1
+T	Defpoints	30 |h=30 |st=37Bunit_약자_측세대$0$맑은고딕	1
+E	37Bunit_약자_측세대$0$경량칸막이	Line	20
+LT	37Bunit_약자_측세대$0$경량칸막이	ByLayer	33
+E	37Bunit_약자_측세대$0$경량칸막이	Polyline	13
+B	37Bunit_약자_측세대$0$05-가구-미설치	37Bunit_약자_측세대$0$A$C201803CB	1
+B	37Bunit_약자_측세대$0$미설치가구	37Bunit_약자_측세대$0$실외기	1
+LT	37Bunit_약자_측세대$0$A17-기타-ETC	ByLayer	4
+E	37Bunit_약자_측세대$0$A17-기타-ETC	Polyline	1
+E	37Bunit_약자_측세대$0$A17-기타-ETC	Arc	1
+E	37Bunit_약자_측세대$0$A05-난간-폐쇄형	Line	2
+LT	37Bunit_약자_측세대$0$A05-난간-폐쇄형	ByLayer	2
+E	37Bunit_약자_측세대$0$TILE	Line	72
+LT	37Bunit_약자_측세대$0$TILE	ByLayer	73
+E	37Bunit_약자_측세대$0$A04-PD ST	Line	3
+LT	37Bunit_약자_측세대$0$A04-PD ST	ByLayer	3
+E	37Bunit_약자_측세대$0$단열재-천정결로	Line	6
+LT	37Bunit_약자_측세대$0$단열재-천정결로	ByLayer	6
+E	37Bunit_약자_측세대$0$A17-기타-단차이	Line	2
+LT	37Bunit_약자_측세대$0$A17-기타-단차이	ByLayer	2
+B	37Bunit_약자_측세대$0$미설치가구	37Bunit_약자_측세대$0$에어컨	1
+E	37Bunit_약자_측세대$0$TILE	Polyline	1
+E	37Bunit_약자_측세대$0$AA-WAXM-CONC	Polyline	2
+E	37Bunit_약자_측세대$0$AA-XXXX-DOOR	Polyline	1
+LT	37Bunit_약자_측세대$0$AA-XXXX-DOOR	ByLayer	1
+B	37Bunit_약자_측세대$0$미설치가구	37Bunit_약자_측세대$0$A$C129D7D33	1
+E	37Bunit_약자_측세대$0$WID	Polyline	3
+LT	37Bunit_약자_측세대$0$WID	ByLayer	3
+E	37Bunit_약자_측세대$0$AA-FFXM-SANI	Polyline	2
+LT	37Bunit_약자_측세대$0$AA-FFXM-SANI	ByLayer	2
+B	37Bunit_약자_측세대$0$UBR	37Bunit_약자_측세대$0$26B_37B UBR 고령자	1
+B	37Bunit_약자_측세대$0$ETC	37Bunit_약자_측세대$0$ubr 수건걸이	1
+B	37Bunit_약자_측세대$0$RESTROOM	37Bunit_약자_측세대$0$A$C77413591	1
+E	37Bunit_약자_측세대$0$RESTROOM	Polyline	1
+LT	37Bunit_약자_측세대$0$RESTROOM	Continuous	71
+E	37Bunit_약자_측세대$0$RESTROOM	Line	44
+E	37Bunit_약자_측세대$0$RESTROOM	Arc	26
+B	37Bunit_약자_측세대$0$RESTROOM	37Bunit_약자_측세대$0$A$C725E256F	1
+E	37Bunit_약자_측세대$0$ACCESSORY	Circle	1
+B	37Bunit_약자_측세대$0$A11-해치-조적	37Bunit_약자_측세대$0$A$C1AB05FC4	1
+LT	37Bunit_약자_측세대$0$욕실타일	ByLayer	4
+E	37Bunit_약자_측세대$0$욕실타일	Line	4
+E	37Bunit_약자_측세대$0$ETC	Arc	4
+E	37Bunit_약자_측세대$0$ETC	Line	5
+E	37Bunit_약자_측세대$0$ACCESSORY	Spline	1
+B	37Bunit_약자_측세대$0$ACCESSORY	37Bunit_약자_측세대$0$ubr 휴지걸이	1
+B	37Bunit_약자_측세대$0$CERAMIC	37Bunit_약자_측세대$0$ubr 변기	1
+LT	37Bunit_약자_측세대$0$ETC	ByLayer	177
+E	37Bunit_약자_측세대$0$ETC	Polyline	168
+LT	37Bunit_약자_측세대$0$CERAMIC	ByLayer	65
+E	37Bunit_약자_측세대$0$CERAMIC	Polyline	65
+LT	37Bunit_약자_측세대$0$ACCESSORY	ByLayer	145
+E	37Bunit_약자_측세대$0$ACCESSORY	Polyline	144
+E	37Bunit_약자_측세대$0$ACCESSORY	Ellipse	16
+E	37Bunit_약자_측세대$0$UBR	Polyline	5
+E	37Bunit_약자_측세대$0$UBR	Point	4
+E	37Bunit_약자_측세대$0$UBR	Circle	10
+E	37Bunit_약자_측세대$0$UBR	Arc	25
+LT	37Bunit_약자_측세대$0$UBR	ByLayer	355
+E	37Bunit_약자_측세대$0$UBR	Line	315
+T	Defpoints	37B_약자중간 |h=28.19 |st=37Bunit_약자_측세대$0$맑은고딕	1
+E	37Bunit_약자_측세대$0$AA-XXXX-INSL	Line	1
+LT	37Bunit_약자_측세대$0$AA-XXXX-INSL	ByLayer	12
+E	37Bunit_약자_측세대$0$AA-XXXX-INSL	Polyline	11
+B	37Bunit_약자_측세대$0$RESTROOM	37Bunit_약자_측세대$0$고령자-현관-손잡이2	1
+E	37Bunit_약자_측세대$0$A08-HID-HID2	Line	2
+LT	37Bunit_약자_측세대$0$A08-HID-HID2	ByLayer	2
+E	37Bunit_약자_측세대$0$설치가구	Arc	153
+E	37Bunit_약자_측세대$0$설치가구	Circle	24
+E	37Bunit_약자_측세대$0$AA-XXXX-SYM1	Polyline	1
+LT	37Bunit_약자_측세대$0$AA-XXXX-SYM1	ByLayer	2
+E	37Bunit_약자_측세대$0$AA-XXXX-SYM1	Line	1
+B	37Bunit_약자_측세대$0$F-KIT FUR	37Bunit_약자_측세대$0$주방 2600 NN	1
+B	37Bunit_약자_측세대$0$AA-WAXM-BRCK	37Bunit_약자_측세대$0$DSUS850	1
+B	37Bunit_약자_측세대$0$AA-WAXM-BRCK	37Bunit_약자_측세대$0$asdhf6r545	1
+LT	37Bunit_약자_측세대$0$설치가구	37Bunit_약자_측세대$0$HID	6
+E	37Bunit_약자_측세대$0$REV-CD	Polyline	1
+LT	37Bunit_약자_측세대$0$REV-CD	ByLayer	1
+B	XREF	37Bunit_약자_측세대	1
+B	0	37Bunit_약자_중간세대$0$세탁공간 1100 x 1000	2
+B	37Bunit_약자_중간세대$0$DR-ER	37Bunit_약자_중간세대$0$우수	6
+E	37Bunit_약자_중간세대$0$설치가구	Polyline	26
+LT	37Bunit_약자_중간세대$0$설치가구	ByLayer	1408
+E	37Bunit_약자_중간세대$0$설치가구	Line	1040
+B	37Bunit_약자_중간세대$0$설치가구	37Bunit_약자_중간세대$0$A$C068F09EB	2
+E	37Bunit_약자_중간세대$0$미설치가구	Polyline	32
+LT	37Bunit_약자_중간세대$0$미설치가구	37Bunit_약자_중간세대$0$HIDDEN	16
+E	37Bunit_약자_중간세대$0$미설치가구	Line	76
+B	37Bunit_약자_중간세대$0$미설치가구	37Bunit_약자_중간세대$0$A$C514F5E0B	2
+E	37Bunit_약자_중간세대$0$수전및배수	Line	96
+LT	37Bunit_약자_중간세대$0$수전및배수	ByLayer	128
+E	37Bunit_약자_중간세대$0$수전및배수	Arc	28
+E	37Bunit_약자_중간세대$0$수전및배수	Circle	4
+B	37Bunit_약자_중간세대$0$AA-XXXX-CNTL	37Bunit_약자_중간세대$0$A$C0B526BDD	4
+LT	37Bunit_약자_중간세대$0$단차이	ByLayer	4
+E	37Bunit_약자_중간세대$0$단차이	Line	4
+B	37Bunit_약자_중간세대$0$우오수	37Bunit_약자_중간세대$0$우수	2
+E	37Bunit_약자_중간세대$0$우오수	Circle	12
+LT	37Bunit_약자_중간세대$0$우오수	ByLayer	128
+E	37Bunit_약자_중간세대$0$우오수	Line	66
+E	37Bunit_약자_중간세대$0$우오수	Polyline	2
+E	37Bunit_약자_중간세대$0$우오수	Arc	48
+B	37Bunit_약자_중간세대$0$DR-ER	37Bunit_약자_중간세대$0$세탁기드레인	2
+E	37Bunit_약자_중간세대$0$A02-벽체-조적	Line	20
+LT	37Bunit_약자_중간세대$0$A02-벽체-조적	ByLayer	20
+E	37Bunit_약자_중간세대$0$단열재-압출법-HAT	Hatch	8
+H	37Bunit_약자_중간세대$0$단열재-압출법-HAT	ANSI37 s=2 a=0	8
+E	37Bunit_약자_중간세대$0$단열재-벽체결로	Polyline	8
+LT	37Bunit_약자_중간세대$0$단열재-벽체결로	ByLayer	8
+E	37Bunit_약자_중간세대$0$AA-XXXX-CNTL	Line	32
+LT	37Bunit_약자_중간세대$0$AA-XXXX-CNTL	ByLayer	32
+B	37Bunit_약자_중간세대$0$AA-WAXS-FINL	37Bunit_약자_중간세대$0$A$C08947341	4
+B	37Bunit_약자_중간세대$0$A04-창호	37Bunit_약자_중간세대$0$BPW-12	2
+LT	37Bunit_약자_중간세대$0$ELE1	Continuous	2
+E	37Bunit_약자_중간세대$0$ELE1	Line	6
+T	Defpoints	12 |h=30 |st=37Bunit_약자_중간세대$0$맑은고딕	2
+E	37Bunit_약자_중간세대$0$A04-창호	Polyline	68
+LT	37Bunit_약자_중간세대$0$A04-창호	Continuous	56
+E	37Bunit_약자_중간세대$0$A04-창호	Line	122
+E	37Bunit_약자_중간세대$0$A02-벽체-MC선	Line	40
+LT	37Bunit_약자_중간세대$0$A02-벽체-MC선	ByLayer	40
+B	37Bunit_약자_중간세대$0$미설치가구	37Bunit_약자_중간세대$0$냉장고	2
+LT	37Bunit_약자_중간세대$0$미설치가구	37Bunit_약자_중간세대$0$HID	92
+E	37Bunit_약자_중간세대$0$A05-난간-투시형	Polyline	4
+LT	37Bunit_약자_중간세대$0$A05-난간-투시형	ByLayer	4
+B	37Bunit_약자_중간세대$0$15-석고보드	37Bunit_약자_중간세대$0$A$C24D9142C	2
+LT	37Bunit_약자_중간세대$0$A17-기타-ETC	37Bunit_약자_중간세대$0$HID	60
+E	37Bunit_약자_중간세대$0$A17-기타-ETC	Line	64
+B	37Bunit_약자_중간세대$0$AA-WAXM-BRCK	37Bunit_약자_중간세대$0$A$C04F4520F	2
+E	37Bunit_약자_중간세대$0$AA-WAXM-CONC	Line	86
+LT	37Bunit_약자_중간세대$0$AA-WAXM-CONC	ByLayer	90
+E	37Bunit_약자_중간세대$0$세대병합	Polyline	2
+LT	37Bunit_약자_중간세대$0$세대병합	ByLayer	2
+E	37Bunit_약자_중간세대$0$A11-해치-설비공간	Hatch	4
+H	37Bunit_약자_중간세대$0$A11-해치-설비공간	DASH s=15 a=0	4
+B	37Bunit_약자_중간세대$0$미설치가구	37Bunit_약자_중간세대$0$A$C600D4504	2
+E	37Bunit_약자_중간세대$0$15-석고보드	Line	126
+LT	37Bunit_약자_중간세대$0$15-석고보드	ByLayer	148
+E	37Bunit_약자_중간세대$0$15-석고보드	Polyline	22
+E	37Bunit_약자_중간세대$0$A11-해치-조적	Hatch	4
+H	37Bunit_약자_중간세대$0$A11-해치-조적	_USER s=50 a=45	4
+B	37Bunit_약자_중간세대$0$AA-WAXM-BRCK	37Bunit_약자_중간세대$0$WD-1_900(조적+보드)	2
+T	37Bunit_약자_중간세대$0$TEX_DIP	WD-B_900 |h=50 |st=37Bunit_약자_중간세대$0$맑은고딕	2
+E	37Bunit_약자_중간세대$0$TEX_DIP	Text	2
+LT	37Bunit_약자_중간세대$0$AA-DWXM-DOOR	37Bunit_약자_중간세대$0$HID	6
+E	37Bunit_약자_중간세대$0$AA-DWXM-DOOR	Line	6
+LT	37Bunit_약자_중간세대$0$AA-DWXM-DOOR	37Bunit_약자_중간세대$0$CENTER2	2
+E	37Bunit_약자_중간세대$0$AA-DWXM-DOOR	Arc	2
+LT	37Bunit_약자_중간세대$0$AA-DWXM-DOOR	ByLayer	14
+E	37Bunit_약자_중간세대$0$AA-DWXM-DOOR	Polyline	14
+LT	37Bunit_약자_중간세대$0$A04-창호	ByLayer	134
+B	37Bunit_약자_중간세대$0$A04-창호	37Bunit_약자_중간세대$0$DP-24	2
+T	Defpoints	24 |h=30 |st=37Bunit_약자_중간세대$0$맑은고딕	2
+LT	37Bunit_약자_중간세대$0$ELE1	ByLayer	4
+B	37Bunit_약자_중간세대$0$A04-창호	37Bunit_약자_중간세대$0$BP-30	2
+T	Defpoints	30 |h=30 |st=37Bunit_약자_중간세대$0$맑은고딕	2
+E	37Bunit_약자_중간세대$0$경량칸막이	Line	40
+LT	37Bunit_약자_중간세대$0$경량칸막이	ByLayer	66
+E	37Bunit_약자_중간세대$0$경량칸막이	Polyline	26
+B	37Bunit_약자_중간세대$0$05-가구-미설치	37Bunit_약자_중간세대$0$A$C201803CB	2
+B	37Bunit_약자_중간세대$0$미설치가구	37Bunit_약자_중간세대$0$실외기	2
+LT	37Bunit_약자_중간세대$0$A17-기타-ETC	ByLayer	8
+E	37Bunit_약자_중간세대$0$A17-기타-ETC	Polyline	2
+E	37Bunit_약자_중간세대$0$A17-기타-ETC	Arc	2
+E	37Bunit_약자_중간세대$0$A05-난간-폐쇄형	Line	4
+LT	37Bunit_약자_중간세대$0$A05-난간-폐쇄형	ByLayer	4
+E	37Bunit_약자_중간세대$0$TILE	Line	142
+LT	37Bunit_약자_중간세대$0$TILE	ByLayer	144
+E	37Bunit_약자_중간세대$0$A04-PD ST	Line	6
+LT	37Bunit_약자_중간세대$0$A04-PD ST	ByLayer	6
+E	37Bunit_약자_중간세대$0$단열재-천정결로	Line	8
+LT	37Bunit_약자_중간세대$0$단열재-천정결로	ByLayer	8
+E	37Bunit_약자_중간세대$0$A17-기타-단차이	Line	4
+LT	37Bunit_약자_중간세대$0$A17-기타-단차이	ByLayer	4
+B	37Bunit_약자_중간세대$0$미설치가구	37Bunit_약자_중간세대$0$에어컨	2
+E	37Bunit_약자_중간세대$0$TILE	Polyline	2
+E	37Bunit_약자_중간세대$0$AA-WAXM-CONC	Polyline	4
+E	37Bunit_약자_중간세대$0$AA-XXXX-DOOR	Polyline	2
+LT	37Bunit_약자_중간세대$0$AA-XXXX-DOOR	ByLayer	2
+B	37Bunit_약자_중간세대$0$미설치가구	37Bunit_약자_중간세대$0$A$C129D7D33	2
+E	37Bunit_약자_중간세대$0$WID	Polyline	6
+LT	37Bunit_약자_중간세대$0$WID	ByLayer	6
+E	37Bunit_약자_중간세대$0$AA-FFXM-SANI	Polyline	4
+LT	37Bunit_약자_중간세대$0$AA-FFXM-SANI	ByLayer	4
+B	37Bunit_약자_중간세대$0$UBR	37Bunit_약자_중간세대$0$26B_37B UBR 고령자	2
+B	37Bunit_약자_중간세대$0$ETC	37Bunit_약자_중간세대$0$ubr 수건걸이	2
+B	37Bunit_약자_중간세대$0$RESTROOM	37Bunit_약자_중간세대$0$A$C77413591	2
+E	37Bunit_약자_중간세대$0$RESTROOM	Polyline	2
+LT	37Bunit_약자_중간세대$0$RESTROOM	Continuous	142
+E	37Bunit_약자_중간세대$0$RESTROOM	Line	88
+E	37Bunit_약자_중간세대$0$RESTROOM	Arc	52
+B	37Bunit_약자_중간세대$0$RESTROOM	37Bunit_약자_중간세대$0$A$C725E256F	2
+E	37Bunit_약자_중간세대$0$ACCESSORY	Circle	2
+B	37Bunit_약자_중간세대$0$A11-해치-조적	37Bunit_약자_중간세대$0$A$C1AB05FC4	2
+LT	37Bunit_약자_중간세대$0$욕실타일	ByLayer	8
+E	37Bunit_약자_중간세대$0$욕실타일	Line	8
+E	37Bunit_약자_중간세대$0$ETC	Arc	8
+E	37Bunit_약자_중간세대$0$ETC	Line	10
+E	37Bunit_약자_중간세대$0$ACCESSORY	Spline	2
+B	37Bunit_약자_중간세대$0$ACCESSORY	37Bunit_약자_중간세대$0$ubr 휴지걸이	2
+B	37Bunit_약자_중간세대$0$CERAMIC	37Bunit_약자_중간세대$0$ubr 변기	2
+LT	37Bunit_약자_중간세대$0$ETC	ByLayer	354
+E	37Bunit_약자_중간세대$0$ETC	Polyline	336
+LT	37Bunit_약자_중간세대$0$CERAMIC	ByLayer	130
+E	37Bunit_약자_중간세대$0$CERAMIC	Polyline	130
+LT	37Bunit_약자_중간세대$0$ACCESSORY	ByLayer	290
+E	37Bunit_약자_중간세대$0$ACCESSORY	Polyline	288
+E	37Bunit_약자_중간세대$0$ACCESSORY	Ellipse	32
+E	37Bunit_약자_중간세대$0$UBR	Polyline	10
+E	37Bunit_약자_중간세대$0$UBR	Point	8
+E	37Bunit_약자_중간세대$0$UBR	Circle	20
+E	37Bunit_약자_중간세대$0$UBR	Arc	50
+LT	37Bunit_약자_중간세대$0$UBR	ByLayer	710
+E	37Bunit_약자_중간세대$0$UBR	Line	630
+T	Defpoints	37B_약자중간 |h=30 |st=37Bunit_약자_중간세대$0$맑은고딕	2
+E	37Bunit_약자_중간세대$0$AA-XXXX-INSL	Line	2
+LT	37Bunit_약자_중간세대$0$AA-XXXX-INSL	ByLayer	22
+E	37Bunit_약자_중간세대$0$AA-XXXX-INSL	Polyline	20
+B	37Bunit_약자_중간세대$0$RESTROOM	37Bunit_약자_중간세대$0$고령자-현관-손잡이2	2
+E	37Bunit_약자_중간세대$0$A08-HID-HID2	Line	4
+LT	37Bunit_약자_중간세대$0$A08-HID-HID2	ByLayer	4
+E	37Bunit_약자_중간세대$0$설치가구	Arc	306
+E	37Bunit_약자_중간세대$0$설치가구	Circle	48
+E	37Bunit_약자_중간세대$0$AA-XXXX-SYM1	Polyline	2
+LT	37Bunit_약자_중간세대$0$AA-XXXX-SYM1	ByLayer	4
+E	37Bunit_약자_중간세대$0$AA-XXXX-SYM1	Line	2
+B	37Bunit_약자_중간세대$0$F-KIT FUR	37Bunit_약자_중간세대$0$주방 2600 NN	2
+B	37Bunit_약자_중간세대$0$AA-WAXM-BRCK	37Bunit_약자_중간세대$0$DSUS850	2
+B	37Bunit_약자_중간세대$0$AA-WAXM-BRCK	37Bunit_약자_중간세대$0$asdhf6r545	2
+LT	37Bunit_약자_중간세대$0$설치가구	37Bunit_약자_중간세대$0$HID	12
+E	37Bunit_약자_중간세대$0$REV-CD	Polyline	2
+LT	37Bunit_약자_중간세대$0$REV-CD	ByLayer	2
+B	0	37Bunit_약자_중간세대	2
+E	26Aunit_측세대$0$AA-WAXM-CONC	Polyline	4
+LT	26Aunit_측세대$0$AA-WAXM-CONC	ByLayer	64
+E	26Aunit_측세대$0$A11-해치-설비공간	Line	6
+LT	26Aunit_측세대$0$A11-해치-설비공간	ByLayer	6
+E	26Aunit_측세대$0$단열재-비드법	Line	2
+LT	26Aunit_측세대$0$단열재-비드법	ByLayer	2
+E	26Aunit_측세대$0$TILE	Line	116
+LT	26Aunit_측세대$0$TILE	ByLayer	116
+B	0	26Aunit_측세대$0$세탁공간 1100 x 1000	2
+B	26Aunit_측세대$0$DR-ER	26Aunit_측세대$0$우수	6
+E	26Aunit_측세대$0$설치가구	Polyline	26
+LT	26Aunit_측세대$0$설치가구	ByLayer	1142
+E	26Aunit_측세대$0$설치가구	Line	796
+B	26Aunit_측세대$0$설치가구	26Aunit_측세대$0$A$C068F09EB	2
+E	26Aunit_측세대$0$미설치가구	Polyline	26
+LT	26Aunit_측세대$0$미설치가구	26Aunit_측세대$0$HIDDEN	16
+E	26Aunit_측세대$0$미설치가구	Line	76
+B	26Aunit_측세대$0$미설치가구	26Aunit_측세대$0$A$C514F5E0B	2
+E	26Aunit_측세대$0$수전및배수	Line	96
+LT	26Aunit_측세대$0$수전및배수	ByLayer	128
+E	26Aunit_측세대$0$수전및배수	Arc	28
+E	26Aunit_측세대$0$수전및배수	Circle	4
+B	26Aunit_측세대$0$AA-XXXX-CNTL	26Aunit_측세대$0$A$C0B526BDD	4
+LT	26Aunit_측세대$0$단차이	ByLayer	4
+E	26Aunit_측세대$0$단차이	Line	4
+B	26Aunit_측세대$0$우오수	26Aunit_측세대$0$우수	2
+E	26Aunit_측세대$0$우오수	Circle	12
+LT	26Aunit_측세대$0$우오수	ByLayer	128
+E	26Aunit_측세대$0$우오수	Line	66
+E	26Aunit_측세대$0$우오수	Polyline	2
+E	26Aunit_측세대$0$우오수	Arc	48
+B	26Aunit_측세대$0$DR-ER	26Aunit_측세대$0$세탁기드레인	2
+E	26Aunit_측세대$0$A02-벽체-MC선	Line	34
+LT	26Aunit_측세대$0$A02-벽체-MC선	ByLayer	34
+E	26Aunit_측세대$0$AA-XXXX-CNTL	Line	22
+LT	26Aunit_측세대$0$AA-XXXX-CNTL	ByLayer	22
+E	26Aunit_측세대$0$A02-벽체-조적	Line	12
+LT	26Aunit_측세대$0$A02-벽체-조적	ByLayer	12
+B	26Aunit_측세대$0$미설치가구	26Aunit_측세대$0$A$C02C91EFD	2
+T	26Aunit_측세대$0$Defpoint	800*750 |h=100 |st=26Aunit_측세대$0$맑은고딕	2
+E	26Aunit_측세대$0$Defpoint	Text	2
+LT	26Aunit_측세대$0$미설치가구	26Aunit_측세대$0$HID	86
+B	26Aunit_측세대$0$AA-WAXS-FINL	26Aunit_측세대$0$A$C08947341	8
+B	26Aunit_측세대$0$SOL-옹벽	26Aunit_측세대$0$DP-21	2
+T	Defpoints	21 |h=30 |st=26Aunit_측세대$0$맑은고딕	2
+LT	26Aunit_측세대$0$ELE1	ByLayer	4
+E	26Aunit_측세대$0$ELE1	Line	4
+E	26Aunit_측세대$0$A04-창호	Line	46
+LT	26Aunit_측세대$0$A04-창호	ByLayer	74
+E	26Aunit_측세대$0$A04-창호	Polyline	28
+B	26Aunit_측세대$0$미설치가구	26Aunit_측세대$0$냉장고	2
+E	26Aunit_측세대$0$단열재-벽체결로	Polyline	4
+LT	26Aunit_측세대$0$단열재-벽체결로	ByLayer	4
+B	26Aunit_측세대$0$15-석고보드	26Aunit_측세대$0$A$C24D9142C	2
+LT	26Aunit_측세대$0$A17-기타-ETC	26Aunit_측세대$0$HID	54
+E	26Aunit_측세대$0$A17-기타-ETC	Line	56
+B	26Aunit_측세대$0$AA-WAXM-BRCK	26Aunit_측세대$0$A$C04F4520F	2
+E	26Aunit_측세대$0$AA-WAXM-CONC	Line	60
+E	26Aunit_측세대$0$AA-XXXX-INSL	Line	4
+LT	26Aunit_측세대$0$AA-XXXX-INSL	ByLayer	22
+B	26Aunit_측세대$0$SOL-옹벽	26Aunit_측세대$0$BP-24	2
+T	Defpoints	24 |h=30 |st=26Aunit_측세대$0$맑은고딕	2
+E	26Aunit_측세대$0$세대병합	Polyline	2
+LT	26Aunit_측세대$0$세대병합	ByLayer	2
+E	26Aunit_측세대$0$15-석고보드	Line	84
+LT	26Aunit_측세대$0$15-석고보드	ByLayer	114
+E	26Aunit_측세대$0$단열재-천정결로	Line	10
+LT	26Aunit_측세대$0$단열재-천정결로	ByLayer	10
+E	26Aunit_측세대$0$A17-기타-단차이	Line	4
+LT	26Aunit_측세대$0$A17-기타-단차이	ByLayer	4
+E	26Aunit_측세대$0$경량칸막이	Line	40
+LT	26Aunit_측세대$0$경량칸막이	ByLayer	68
+E	26Aunit_측세대$0$경량칸막이	Polyline	28
+LT	26Aunit_측세대$0$A17-기타-ETC	ByLayer	8
+E	26Aunit_측세대$0$A17-기타-ETC	Polyline	4
+E	26Aunit_측세대$0$A17-기타-ETC	Arc	2
+E	26Aunit_측세대$0$A05-난간-투시형	Polyline	4
+LT	26Aunit_측세대$0$A05-난간-투시형	ByLayer	4
+B	26Aunit_측세대$0$설치가구	26Aunit_측세대$0$신발장 1300X450	2
+E	26Aunit_측세대$0$AA-XXXX-SYM1	Line	2
+LT	26Aunit_측세대$0$AA-XXXX-SYM1	ByLayer	4
+E	26Aunit_측세대$0$AA-XXXX-SYM1	Polyline	2
+E	26Aunit_측세대$0$설치가구	Circle	48
+E	26Aunit_측세대$0$설치가구	Arc	280
+E	26Aunit_측세대$0$A11-해치-조적	Hatch	2
+H	26Aunit_측세대$0$A11-해치-조적	_U s=50 a=45	2
+E	26Aunit_측세대$0$단열재-압출법-HAT	Hatch	4
+H	26Aunit_측세대$0$단열재-압출법-HAT	ANSI37 s=2 a=0	4
+E	26Aunit_측세대$0$15-석고보드	Polyline	30
+B	26Aunit_측세대$0$미설치가구	26Aunit_측세대$0$A$C600D4504	2
+B	26Aunit_측세대$0$미설치가구	26Aunit_측세대$0$에어컨	2
+E	26Aunit_측세대$0$AA-XXXX-DOOR	Polyline	2
+LT	26Aunit_측세대$0$AA-XXXX-DOOR	ByLayer	2
+B	26Aunit_측세대$0$AA-WAXM-BRCK	26Aunit_측세대$0$Atype UBR	2
+E	26Aunit_측세대$0$ACCESSORY	Circle	2
+B	26Aunit_측세대$0$ACCESSORY	26Aunit_측세대$0$A$C1AB05FC4	2
+LT	26Aunit_측세대$0$욕실타일	ByLayer	8
+E	26Aunit_측세대$0$욕실타일	Line	8
+E	26Aunit_측세대$0$ETC	Arc	8
+E	26Aunit_측세대$0$ETC	Line	10
+B	26Aunit_측세대$0$ETC	26Aunit_측세대$0$ubr 수건걸이	2
+E	26Aunit_측세대$0$ACCESSORY	Spline	2
+B	26Aunit_측세대$0$ACCESSORY	26Aunit_측세대$0$ubr 휴지걸이	2
+B	26Aunit_측세대$0$CERAMIC	26Aunit_측세대$0$ubr 변기	2
+LT	26Aunit_측세대$0$ETC	ByLayer	354
+E	26Aunit_측세대$0$ETC	Polyline	336
+LT	26Aunit_측세대$0$CERAMIC	ByLayer	130
+E	26Aunit_측세대$0$CERAMIC	Polyline	130
+LT	26Aunit_측세대$0$ACCESSORY	ByLayer	290
+E	26Aunit_측세대$0$ACCESSORY	Polyline	288
+E	26Aunit_측세대$0$ACCESSORY	Ellipse	32
+LT	26Aunit_측세대$0$UBR	Continuous	48
+E	26Aunit_측세대$0$UBR	Polyline	246
+E	26Aunit_측세대$0$UBR	Point	6
+E	26Aunit_측세대$0$UBR	Circle	16
+E	26Aunit_측세대$0$UBR	Arc	50
+LT	26Aunit_측세대$0$UBR	ByLayer	798
+E	26Aunit_측세대$0$UBR	Line	534
+T	Defpoints	26A_SIDE |h=28.19 |st=26Aunit_측세대$0$맑은고딕	2
+E	26Aunit_측세대$0$AA-XXXX-INSL	Polyline	18
+E	26Aunit_측세대$0$A11-해치-설비공간	Hatch	4
+H	26Aunit_측세대$0$A11-해치-설비공간	DASH s=15 a=0	4
+E	26Aunit_측세대$0$A04-PD ST	Line	6
+LT	26Aunit_측세대$0$A04-PD ST	ByLayer	6
+E	26Aunit_측세대$0$A05-난간-폐쇄형	Line	4
+LT	26Aunit_측세대$0$A05-난간-폐쇄형	ByLayer	4
+B	26Aunit_측세대$0$05-가구-미설치	26Aunit_측세대$0$A$C201803CB	2
+B	26Aunit_측세대$0$미설치가구	26Aunit_측세대$0$실외기	2
+E	26Aunit_측세대$0$A08-HID-HID2	Line	2
+LT	26Aunit_측세대$0$A08-HID-HID2	ByLayer	2
+B	26Aunit_측세대$0$설치가구	26Aunit_측세대$0$주방 2100 NN	2
+B	26Aunit_측세대$0$설치가구	26Aunit_측세대$0$asdhf6r545	2
+B	26Aunit_측세대$0$설치가구	26Aunit_측세대$0$750씽크볼	2
+LT	26Aunit_측세대$0$설치가구	26Aunit_측세대$0$HID	8
+B	0	26Aunit_측세대	2
+B	Tower 1201-기준층복도$0$door	Tower 1201-기준층복도$0$세대현관1000	28
+E	Tower 1201-기준층복도$0$AA-XXXX-DOOR	Arc	28
+E	Tower 1201-기준층복도$0$AA-XXXX-DOOR	Polyline	28
+LT	Tower 1201-기준층복도$0$AA-XXXX-DOOR	ByLayer	1064
+E	Tower 1201-기준층복도$0$AA-XXXX-DOOR	Line	1008
+E	Tower 1201-기준층복도$0$AA-WAXM-CONC	Line	56
+LT	Tower 1201-기준층복도$0$AA-WAXM-CONC	ByLayer	68
+E	Tower 1201-기준층복도$0$AA-XXXX-CNTL	Line	32
+LT	Tower 1201-기준층복도$0$AA-XXXX-CNTL	ByLayer	32
+E	Tower 1201-기준층복도$0$ELE7	Line	28
+LT	Tower 1201-기준층복도$0$ELE7	ByLayer	28
+E	Tower 1201-기준층복도$0$ST	Line	8
+LT	Tower 1201-기준층복도$0$ST	ByLayer	8
+E	Tower 1201-기준층복도$0$소방	Polyline	4
+LT	Tower 1201-기준층복도$0$소방	ByLayer	12
+E	Tower 1201-기준층복도$0$소방	Line	8
+B	Tower 1201-기준층복도$0$DR-ER	Tower 1201-기준층복도$0$우수	18
+E	Tower 1201-기준층복도$0$우오수	Circle	18
+LT	Tower 1201-기준층복도$0$우오수	ByLayer	54
+E	Tower 1201-기준층복도$0$우오수	Line	36
+E	Tower 1201-기준층복도$0$AA-WAXM-CONC	Polyline	12
+E	Tower 1201-기준층복도$0$LEADER	Polyline	30
+LT	Tower 1201-기준층복도$0$LEADER	ByLayer	30
+E	Tower 1201-기준층복도$0$계단_000	Line	32
+LT	Tower 1201-기준층복도$0$계단_000	ByLayer	64
+E	Tower 1201-기준층복도$0$헨드레일_000	Line	36
+LT	Tower 1201-기준층복도$0$헨드레일_000	ByLayer	40
+E	Tower 1201-기준층복도$0$헨드레일_000	Polyline	4
+E	Tower 1201-기준층복도$0$계단_000	Polyline	32
+E	Tower 1201-기준층복도$0$A06-시설물-계단	Line	8
+LT	Tower 1201-기준층복도$0$A06-시설물-계단	ByLayer	18
+E	Tower 1201-기준층복도$0$A06-시설물-계단	Circle	4
+E	Tower 1201-기준층복도$0$A06-시설물-계단	Polyline	6
+E	Tower 1201-기준층복도$0$A11-해치-설비공간	Hatch	4
+H	Tower 1201-기준층복도$0$A11-해치-설비공간	DASH s=15 a=180	2
+E	Tower 1201-기준층복도$0$A15-해치-코아바닥	Line	384
+LT	Tower 1201-기준층복도$0$A15-해치-코아바닥	ByLayer	384
+E	Tower 1201-기준층복도$0$Defpoint	Polyline	2
+LT	Tower 1201-기준층복도$0$Defpoint	ByLayer	2
+E	Tower 1201-기준층복도$0$AA-XXXX-ELEV	Line	16
+LT	Tower 1201-기준층복도$0$AA-XXXX-ELEV	ByLayer	16
+H	Tower 1201-기준층복도$0$A11-해치-설비공간	DASH s=15 a=90	2
+E	Tower 1201-기준층복도$0$A04-창호	Line	4
+LT	Tower 1201-기준층복도$0$A04-창호	ByLayer	12
+E	Tower 1201-기준층복도$0$A04-창호	Polyline	6
+E	Tower 1201-기준층복도$0$A04-창호	Arc	2
+B	0	Tower 1201-기준층복도	2
+E	26Aunit_중간세대$0$TILE	Line	114
+LT	26Aunit_중간세대$0$TILE	ByLayer	114
+B	0	26Aunit_중간세대$0$세탁공간 1100 x 1000	2
+B	26Aunit_중간세대$0$DR-ER	26Aunit_중간세대$0$우수	6
+E	26Aunit_중간세대$0$설치가구	Polyline	26
+LT	26Aunit_중간세대$0$설치가구	ByLayer	1142
+E	26Aunit_중간세대$0$설치가구	Line	796
+B	26Aunit_중간세대$0$설치가구	26Aunit_중간세대$0$A$C068F09EB	2
+E	26Aunit_중간세대$0$미설치가구	Polyline	26
+LT	26Aunit_중간세대$0$미설치가구	26Aunit_중간세대$0$HIDDEN	16
+E	26Aunit_중간세대$0$미설치가구	Line	76
+B	26Aunit_중간세대$0$미설치가구	26Aunit_중간세대$0$A$C514F5E0B	2
+E	26Aunit_중간세대$0$수전및배수	Line	96
+LT	26Aunit_중간세대$0$수전및배수	ByLayer	128
+E	26Aunit_중간세대$0$수전및배수	Arc	28
+E	26Aunit_중간세대$0$수전및배수	Circle	4
+B	26Aunit_중간세대$0$AA-XXXX-CNTL	26Aunit_중간세대$0$A$C0B526BDD	4
+LT	26Aunit_중간세대$0$단차이	ByLayer	4
+E	26Aunit_중간세대$0$단차이	Line	4
+B	26Aunit_중간세대$0$우오수	26Aunit_중간세대$0$우수	2
+E	26Aunit_중간세대$0$우오수	Circle	12
+LT	26Aunit_중간세대$0$우오수	ByLayer	128
+E	26Aunit_중간세대$0$우오수	Line	66
+E	26Aunit_중간세대$0$우오수	Polyline	2
+E	26Aunit_중간세대$0$우오수	Arc	48
+B	26Aunit_중간세대$0$DR-ER	26Aunit_중간세대$0$세탁기드레인	2
+E	26Aunit_중간세대$0$A02-벽체-MC선	Line	34
+LT	26Aunit_중간세대$0$A02-벽체-MC선	ByLayer	34
+E	26Aunit_중간세대$0$AA-XXXX-CNTL	Line	22
+LT	26Aunit_중간세대$0$AA-XXXX-CNTL	ByLayer	22
+E	26Aunit_중간세대$0$A02-벽체-조적	Line	12
+LT	26Aunit_중간세대$0$A02-벽체-조적	ByLayer	12
+E	26Aunit_중간세대$0$단열재-벽체결로	Polyline	8
+LT	26Aunit_중간세대$0$단열재-벽체결로	ByLayer	8
+E	26Aunit_중간세대$0$단열재-압출법-HAT	Hatch	8
+H	26Aunit_중간세대$0$단열재-압출법-HAT	ANSI37 s=2 a=0	8
+B	26Aunit_중간세대$0$미설치가구	26Aunit_중간세대$0$A$C02C91EFD	2
+T	26Aunit_중간세대$0$Defpoint	800*750 |h=100 |st=26Aunit_중간세대$0$맑은고딕	2
+E	26Aunit_중간세대$0$Defpoint	Text	2
+LT	26Aunit_중간세대$0$미설치가구	26Aunit_중간세대$0$HID	86
+B	26Aunit_중간세대$0$AA-WAXS-FINL	26Aunit_중간세대$0$A$C08947341	8
+B	26Aunit_중간세대$0$SOL-옹벽	26Aunit_중간세대$0$DP-21	2
+T	Defpoints	21 |h=30 |st=26Aunit_중간세대$0$맑은고딕	2
+LT	26Aunit_중간세대$0$ELE1	ByLayer	4
+E	26Aunit_중간세대$0$ELE1	Line	4
+E	26Aunit_중간세대$0$A04-창호	Line	46
+LT	26Aunit_중간세대$0$A04-창호	ByLayer	74
+E	26Aunit_중간세대$0$A04-창호	Polyline	28
+B	26Aunit_중간세대$0$미설치가구	26Aunit_중간세대$0$냉장고	2
+B	26Aunit_중간세대$0$15-석고보드	26Aunit_중간세대$0$A$C24D9142C	2
+LT	26Aunit_중간세대$0$A17-기타-ETC	26Aunit_중간세대$0$HID	60
+E	26Aunit_중간세대$0$A17-기타-ETC	Line	64
+B	26Aunit_중간세대$0$AA-WAXM-BRCK	26Aunit_중간세대$0$A$C04F4520F	2
+E	26Aunit_중간세대$0$AA-WAXM-CONC	Line	68
+LT	26Aunit_중간세대$0$AA-WAXM-CONC	ByLayer	70
+E	26Aunit_중간세대$0$AA-XXXX-INSL	Line	6
+LT	26Aunit_중간세대$0$AA-XXXX-INSL	ByLayer	22
+B	26Aunit_중간세대$0$SOL-옹벽	26Aunit_중간세대$0$BP-24	2
+T	Defpoints	24 |h=30 |st=26Aunit_중간세대$0$맑은고딕	2
+E	26Aunit_중간세대$0$세대병합	Polyline	2
+LT	26Aunit_중간세대$0$세대병합	ByLayer	2
+E	26Aunit_중간세대$0$15-석고보드	Line	80
+LT	26Aunit_중간세대$0$15-석고보드	ByLayer	110
+E	26Aunit_중간세대$0$단열재-천정결로	Line	8
+LT	26Aunit_중간세대$0$단열재-천정결로	ByLayer	8
+E	26Aunit_중간세대$0$A17-기타-단차이	Line	4
+LT	26Aunit_중간세대$0$A17-기타-단차이	ByLayer	4
+E	26Aunit_중간세대$0$경량칸막이	Line	40
+LT	26Aunit_중간세대$0$경량칸막이	ByLayer	68
+E	26Aunit_중간세대$0$경량칸막이	Polyline	28
+LT	26Aunit_중간세대$0$A17-기타-ETC	ByLayer	8
+E	26Aunit_중간세대$0$A17-기타-ETC	Polyline	2
+E	26Aunit_중간세대$0$A17-기타-ETC	Arc	2
+E	26Aunit_중간세대$0$A05-난간-투시형	Polyline	4
+LT	26Aunit_중간세대$0$A05-난간-투시형	ByLayer	4
+B	26Aunit_중간세대$0$설치가구	26Aunit_중간세대$0$신발장 1300X450	2
+E	26Aunit_중간세대$0$AA-XXXX-SYM1	Line	2
+LT	26Aunit_중간세대$0$AA-XXXX-SYM1	ByLayer	4
+E	26Aunit_중간세대$0$AA-XXXX-SYM1	Polyline	2
+E	26Aunit_중간세대$0$설치가구	Circle	48
+E	26Aunit_중간세대$0$설치가구	Arc	280
+E	26Aunit_중간세대$0$A11-해치-조적	Hatch	2
+H	26Aunit_중간세대$0$A11-해치-조적	_U s=50 a=45	2
+E	26Aunit_중간세대$0$AA-WAXM-CONC	Polyline	2
+E	26Aunit_중간세대$0$15-석고보드	Polyline	30
+B	26Aunit_중간세대$0$미설치가구	26Aunit_중간세대$0$A$C600D4504	2
+B	26Aunit_중간세대$0$미설치가구	26Aunit_중간세대$0$에어컨	2
+E	26Aunit_중간세대$0$AA-XXXX-DOOR	Polyline	2
+LT	26Aunit_중간세대$0$AA-XXXX-DOOR	ByLayer	2
+B	26Aunit_중간세대$0$AA-WAXM-BRCK	26Aunit_중간세대$0$Atype UBR	2
+E	26Aunit_중간세대$0$ACCESSORY	Circle	2
+B	26Aunit_중간세대$0$ACCESSORY	26Aunit_중간세대$0$A$C1AB05FC4	2
+LT	26Aunit_중간세대$0$욕실타일	ByLayer	8
+E	26Aunit_중간세대$0$욕실타일	Line	8
+E	26Aunit_중간세대$0$ETC	Arc	8
+E	26Aunit_중간세대$0$ETC	Line	10
+B	26Aunit_중간세대$0$ETC	26Aunit_중간세대$0$ubr 수건걸이	2
+E	26Aunit_중간세대$0$ACCESSORY	Spline	2
+B	26Aunit_중간세대$0$ACCESSORY	26Aunit_중간세대$0$ubr 휴지걸이	2
+B	26Aunit_중간세대$0$CERAMIC	26Aunit_중간세대$0$ubr 변기	2
+LT	26Aunit_중간세대$0$ETC	ByLayer	354
+E	26Aunit_중간세대$0$ETC	Polyline	336
+LT	26Aunit_중간세대$0$CERAMIC	ByLayer	130
+E	26Aunit_중간세대$0$CERAMIC	Polyline	130
+LT	26Aunit_중간세대$0$ACCESSORY	ByLayer	290
+E	26Aunit_중간세대$0$ACCESSORY	Polyline	288
+E	26Aunit_중간세대$0$ACCESSORY	Ellipse	32
+LT	26Aunit_중간세대$0$UBR	Continuous	48
+E	26Aunit_중간세대$0$UBR	Polyline	246
+E	26Aunit_중간세대$0$UBR	Point	6
+E	26Aunit_중간세대$0$UBR	Circle	16
+E	26Aunit_중간세대$0$UBR	Arc	50
+LT	26Aunit_중간세대$0$UBR	ByLayer	798
+E	26Aunit_중간세대$0$UBR	Line	534
+T	Defpoints	26A_중간 |h=30 |st=26Aunit_중간세대$0$맑은고딕	2
+E	26Aunit_중간세대$0$A11-해치-설비공간	Line	2
+LT	26Aunit_중간세대$0$A11-해치-설비공간	ByLayer	2
+E	26Aunit_중간세대$0$AA-XXXX-INSL	Polyline	16
+E	26Aunit_중간세대$0$A11-해치-설비공간	Hatch	4
+H	26Aunit_중간세대$0$A11-해치-설비공간	DASH s=15 a=0	4
+E	26Aunit_중간세대$0$A04-PD ST	Line	6
+LT	26Aunit_중간세대$0$A04-PD ST	ByLayer	6
+E	26Aunit_중간세대$0$A05-난간-폐쇄형	Line	4
+LT	26Aunit_중간세대$0$A05-난간-폐쇄형	ByLayer	4
+B	26Aunit_중간세대$0$05-가구-미설치	26Aunit_중간세대$0$A$C201803CB	2
+B	26Aunit_중간세대$0$미설치가구	26Aunit_중간세대$0$실외기	2
+E	26Aunit_중간세대$0$A08-HID-HID2	Line	2
+LT	26Aunit_중간세대$0$A08-HID-HID2	ByLayer	2
+B	26Aunit_중간세대$0$설치가구	26Aunit_중간세대$0$주방 2100 NN	2
+B	26Aunit_중간세대$0$설치가구	26Aunit_중간세대$0$asdhf6r545	2
+B	26Aunit_중간세대$0$설치가구	26Aunit_중간세대$0$750씽크볼	2
+LT	26Aunit_중간세대$0$설치가구	26Aunit_중간세대$0$HID	8
+B	0	26Aunit_중간세대	2
+E	26Bunit_약자_측세대$0$TILE	Line	140
+LT	26Bunit_약자_측세대$0$TILE	ByLayer	140
+B	0	26Bunit_약자_측세대$0$세탁공간 1100 x 1000	2
+B	26Bunit_약자_측세대$0$DR-ER	26Bunit_약자_측세대$0$우수	6
+E	26Bunit_약자_측세대$0$설치가구	Polyline	26
+LT	26Bunit_약자_측세대$0$설치가구	ByLayer	1142
+E	26Bunit_약자_측세대$0$설치가구	Line	796
+B	26Bunit_약자_측세대$0$설치가구	26Bunit_약자_측세대$0$A$C068F09EB	2
+E	26Bunit_약자_측세대$0$미설치가구	Polyline	28
+LT	26Bunit_약자_측세대$0$미설치가구	26Bunit_약자_측세대$0$HIDDEN	16
+E	26Bunit_약자_측세대$0$미설치가구	Line	76
+B	26Bunit_약자_측세대$0$미설치가구	26Bunit_약자_측세대$0$A$C514F5E0B	2
+E	26Bunit_약자_측세대$0$수전및배수	Line	96
+LT	26Bunit_약자_측세대$0$수전및배수	ByLayer	128
+E	26Bunit_약자_측세대$0$수전및배수	Arc	28
+E	26Bunit_약자_측세대$0$수전및배수	Circle	4
+B	26Bunit_약자_측세대$0$AA-XXXX-CNTL	26Bunit_약자_측세대$0$A$C0B526BDD	4
+LT	26Bunit_약자_측세대$0$단차이	ByLayer	4
+E	26Bunit_약자_측세대$0$단차이	Line	4
+B	26Bunit_약자_측세대$0$우오수	26Bunit_약자_측세대$0$우수	2
+E	26Bunit_약자_측세대$0$우오수	Circle	12
+LT	26Bunit_약자_측세대$0$우오수	ByLayer	128
+E	26Bunit_약자_측세대$0$우오수	Line	66
+E	26Bunit_약자_측세대$0$우오수	Polyline	2
+E	26Bunit_약자_측세대$0$우오수	Arc	48
+B	26Bunit_약자_측세대$0$DR-ER	26Bunit_약자_측세대$0$세탁기드레인	2
+E	26Bunit_약자_측세대$0$A05-난간-폐쇄형	Line	4
+LT	26Bunit_약자_측세대$0$A05-난간-폐쇄형	ByLayer	4
+E	26Bunit_약자_측세대$0$A05-난간-투시형	Polyline	4
+LT	26Bunit_약자_측세대$0$A05-난간-투시형	ByLayer	4
+D	Defpoints	26Bunit_약자_측세대$0$SCALE 40_내부 RotatedDimension	8
+E	26Bunit_약자_측세대$0$A11-해치-조적	Hatch	2
+H	26Bunit_약자_측세대$0$A11-해치-조적	_U s=50 a=45	2
+E	26Bunit_약자_측세대$0$단열재-압출법-HAT	Hatch	4
+H	26Bunit_약자_측세대$0$단열재-압출법-HAT	ANSI37 s=2 a=0	4
+E	26Bunit_약자_측세대$0$세대병합	Polyline	2
+LT	26Bunit_약자_측세대$0$세대병합	ByLayer	2
+E	26Bunit_약자_측세대$0$AA-XXXX-CNTL	Line	26
+LT	26Bunit_약자_측세대$0$AA-XXXX-CNTL	ByLayer	26
+B	26Bunit_약자_측세대$0$AA-WAXS-FINL	26Bunit_약자_측세대$0$A$C08947341	6
+LT	26Bunit_약자_측세대$0$미설치가구	26Bunit_약자_측세대$0$HID	88
+B	26Bunit_약자_측세대$0$SOL-옹벽	26Bunit_약자_측세대$0$DP-21	2
+T	Defpoints	21 |h=30 |st=26Bunit_약자_측세대$0$맑은고딕	2
+LT	26Bunit_약자_측세대$0$ELE1	ByLayer	4
+E	26Bunit_약자_측세대$0$ELE1	Line	4
+E	26Bunit_약자_측세대$0$A04-창호	Line	46
+LT	26Bunit_약자_측세대$0$A04-창호	ByLayer	74
+E	26Bunit_약자_측세대$0$A04-창호	Polyline	28
+B	26Bunit_약자_측세대$0$미설치가구	26Bunit_약자_측세대$0$냉장고	2
+E	26Bunit_약자_측세대$0$단열재-벽체결로	Polyline	4
+LT	26Bunit_약자_측세대$0$단열재-벽체결로	ByLayer	4
+B	26Bunit_약자_측세대$0$15-석고보드	26Bunit_약자_측세대$0$A$C24D9142C	2
+LT	26Bunit_약자_측세대$0$A17-기타-ETC	26Bunit_약자_측세대$0$HID	54
+E	26Bunit_약자_측세대$0$A17-기타-ETC	Line	56
+B	26Bunit_약자_측세대$0$AA-WAXM-BRCK	26Bunit_약자_측세대$0$A$C04F4520F	2
+E	26Bunit_약자_측세대$0$A02-벽체-MC선	Line	34
+LT	26Bunit_약자_측세대$0$A02-벽체-MC선	ByLayer	34
+E	26Bunit_약자_측세대$0$AA-XXXX-INSL	Line	2
+LT	26Bunit_약자_측세대$0$AA-XXXX-INSL	ByLayer	20
+B	26Bunit_약자_측세대$0$SOL-옹벽	26Bunit_약자_측세대$0$BP-24	2
+T	Defpoints	24 |h=30 |st=26Bunit_약자_측세대$0$맑은고딕	2
+E	26Bunit_약자_측세대$0$A04-PD ST	Line	6
+LT	26Bunit_약자_측세대$0$A04-PD ST	ByLayer	6
+E	26Bunit_약자_측세대$0$15-석고보드	Line	90
+LT	26Bunit_약자_측세대$0$15-석고보드	ByLayer	110
+E	26Bunit_약자_측세대$0$AA-WAXM-CONC	Line	64
+LT	26Bunit_약자_측세대$0$AA-WAXM-CONC	ByLayer	66
+E	26Bunit_약자_측세대$0$단열재-천정결로	Line	10
+LT	26Bunit_약자_측세대$0$단열재-천정결로	ByLayer	10
+E	26Bunit_약자_측세대$0$A17-기타-단차이	Line	4
+LT	26Bunit_약자_측세대$0$A17-기타-단차이	ByLayer	4
+E	26Bunit_약자_측세대$0$단열재-비드법	Line	4
+LT	26Bunit_약자_측세대$0$단열재-비드법	ByLayer	4
+E	26Bunit_약자_측세대$0$A11-해치-설비공간	Line	4
+LT	26Bunit_약자_측세대$0$A11-해치-설비공간	ByLayer	4
+E	26Bunit_약자_측세대$0$경량칸막이	Line	40
+LT	26Bunit_약자_측세대$0$경량칸막이	ByLayer	68
+E	26Bunit_약자_측세대$0$경량칸막이	Polyline	28
+B	26Bunit_약자_측세대$0$05-가구-미설치	26Bunit_약자_측세대$0$A$C201803CB	2
+B	26Bunit_약자_측세대$0$미설치가구	26Bunit_약자_측세대$0$실외기	2
+LT	26Bunit_약자_측세대$0$A17-기타-ETC	ByLayer	8
+E	26Bunit_약자_측세대$0$A17-기타-ETC	Polyline	4
+E	26Bunit_약자_측세대$0$A17-기타-ETC	Arc	2
+B	26Bunit_약자_측세대$0$설치가구	26Bunit_약자_측세대$0$신발장 1300X450	2
+E	26Bunit_약자_측세대$0$AA-XXXX-SYM1	Line	2
+LT	26Bunit_약자_측세대$0$AA-XXXX-SYM1	ByLayer	4
+E	26Bunit_약자_측세대$0$AA-XXXX-SYM1	Polyline	2
+E	26Bunit_약자_측세대$0$설치가구	Circle	48
+E	26Bunit_약자_측세대$0$설치가구	Arc	280
+E	26Bunit_약자_측세대$0$A02-벽체-조적	Line	12
+LT	26Bunit_약자_측세대$0$A02-벽체-조적	ByLayer	12
+E	26Bunit_약자_측세대$0$AA-WAXM-CONC	Polyline	2
+E	26Bunit_약자_측세대$0$15-석고보드	Polyline	20
+B	26Bunit_약자_측세대$0$미설치가구	26Bunit_약자_측세대$0$A$C600D4504	2
+B	26Bunit_약자_측세대$0$미설치가구	26Bunit_약자_측세대$0$에어컨	2
+B	26Bunit_약자_측세대$0$미설치가구	26Bunit_약자_측세대$0$A$C02C91EFD	2
+T	26Bunit_약자_측세대$0$Defpoint	800*750 |h=100 |st=26Bunit_약자_측세대$0$맑은고딕	2
+E	26Bunit_약자_측세대$0$Defpoint	Text	2
+E	26Bunit_약자_측세대$0$AA-XXXX-DOOR	Polyline	2
+LT	26Bunit_약자_측세대$0$AA-XXXX-DOOR	ByLayer	2
+E	26Bunit_약자_측세대$0$WID	Polyline	6
+LT	26Bunit_약자_측세대$0$WID	ByLayer	6
+E	26Bunit_약자_측세대$0$AA-FFXM-SANI	Polyline	4
+LT	26Bunit_약자_측세대$0$AA-FFXM-SANI	ByLayer	4
+B	26Bunit_약자_측세대$0$UBR	26Bunit_약자_측세대$0$26B_37B UBR 고령자	2
+B	26Bunit_약자_측세대$0$ETC	26Bunit_약자_측세대$0$ubr 수건걸이	2
+B	26Bunit_약자_측세대$0$RESTROOM	26Bunit_약자_측세대$0$A$C77413591	2
+E	26Bunit_약자_측세대$0$RESTROOM	Polyline	2
+LT	26Bunit_약자_측세대$0$RESTROOM	Continuous	142
+E	26Bunit_약자_측세대$0$RESTROOM	Line	88
+E	26Bunit_약자_측세대$0$RESTROOM	Arc	52
+B	26Bunit_약자_측세대$0$RESTROOM	26Bunit_약자_측세대$0$A$C725E256F	2
+E	26Bunit_약자_측세대$0$ACCESSORY	Circle	2
+B	26Bunit_약자_측세대$0$A11-해치-조적	26Bunit_약자_측세대$0$A$C1AB05FC4	2
+LT	26Bunit_약자_측세대$0$욕실타일	ByLayer	8
+E	26Bunit_약자_측세대$0$욕실타일	Line	8
+E	26Bunit_약자_측세대$0$ETC	Arc	8
+E	26Bunit_약자_측세대$0$ETC	Line	10
+E	26Bunit_약자_측세대$0$ACCESSORY	Spline	2
+B	26Bunit_약자_측세대$0$ACCESSORY	26Bunit_약자_측세대$0$ubr 휴지걸이	2
+B	26Bunit_약자_측세대$0$CERAMIC	26Bunit_약자_측세대$0$ubr 변기	2
+LT	26Bunit_약자_측세대$0$ETC	ByLayer	354
+E	26Bunit_약자_측세대$0$ETC	Polyline	336
+LT	26Bunit_약자_측세대$0$CERAMIC	ByLayer	130
+E	26Bunit_약자_측세대$0$CERAMIC	Polyline	130
+LT	26Bunit_약자_측세대$0$ACCESSORY	ByLayer	290
+E	26Bunit_약자_측세대$0$ACCESSORY	Polyline	288
+E	26Bunit_약자_측세대$0$ACCESSORY	Ellipse	32
+E	26Bunit_약자_측세대$0$UBR	Polyline	10
+E	26Bunit_약자_측세대$0$UBR	Point	8
+E	26Bunit_약자_측세대$0$UBR	Circle	20
+E	26Bunit_약자_측세대$0$UBR	Arc	50
+LT	26Bunit_약자_측세대$0$UBR	ByLayer	710
+E	26Bunit_약자_측세대$0$UBR	Line	630
+E	26Bunit_약자_측세대$0$AA-XXXX-INSL	Polyline	18
+T	Defpoints	26B_SIDE |h=28.19 |st=26Bunit_약자_측세대$0$맑은고딕	2
+E	26Bunit_약자_측세대$0$A11-해치-설비공간	Hatch	4
+H	26Bunit_약자_측세대$0$A11-해치-설비공간	DASH s=15 a=0	4
+B	26Bunit_약자_측세대$0$RESTROOM	26Bunit_약자_측세대$0$고령자-현관-손잡이2	2
+E	26Bunit_약자_측세대$0$A08-HID-HID2	Line	2
+LT	26Bunit_약자_측세대$0$A08-HID-HID2	ByLayer	2
+B	26Bunit_약자_측세대$0$설치가구	26Bunit_약자_측세대$0$주방 2100 NN	2
+B	26Bunit_약자_측세대$0$설치가구	26Bunit_약자_측세대$0$asdhf6r545	2
+B	26Bunit_약자_측세대$0$설치가구	26Bunit_약자_측세대$0$750씽크볼	2
+LT	26Bunit_약자_측세대$0$설치가구	26Bunit_약자_측세대$0$HID	8
+B	0	26Bunit_약자_측세대	2
+B	26Bunit_약자_중간세대$0$RESTROOM	26Bunit_약자_중간세대$0$고령자-현관-손잡이2	2
+E	26Bunit_약자_중간세대$0$RESTROOM	Line	88
+LT	26Bunit_약자_중간세대$0$RESTROOM	Continuous	142
+E	26Bunit_약자_중간세대$0$RESTROOM	Arc	52
+E	26Bunit_약자_중간세대$0$A05-난간-폐쇄형	Line	4
+LT	26Bunit_약자_중간세대$0$A05-난간-폐쇄형	ByLayer	4
+E	26Bunit_약자_중간세대$0$A05-난간-투시형	Polyline	4
+LT	26Bunit_약자_중간세대$0$A05-난간-투시형	ByLayer	4
+E	26Bunit_약자_중간세대$0$TILE	Line	138
+LT	26Bunit_약자_중간세대$0$TILE	ByLayer	138
+E	Defpoints	RotatedDimension	16
+D	Defpoints	26Bunit_약자_중간세대$0$SCALE 40_내부 RotatedDimension	8
+E	26Bunit_약자_중간세대$0$단열재-압출법-HAT	Hatch	8
+H	26Bunit_약자_중간세대$0$단열재-압출법-HAT	ANSI37 s=2 a=0	8
+E	26Bunit_약자_중간세대$0$A11-해치-조적	Hatch	2
+H	26Bunit_약자_중간세대$0$A11-해치-조적	_U s=50 a=45	2
+E	26Bunit_약자_중간세대$0$세대병합	Polyline	2
+LT	26Bunit_약자_중간세대$0$세대병합	ByLayer	2
+E	26Bunit_약자_중간세대$0$AA-XXXX-CNTL	Line	26
+LT	26Bunit_약자_중간세대$0$AA-XXXX-CNTL	ByLayer	26
+E	26Bunit_약자_중간세대$0$단열재-벽체결로	Polyline	8
+LT	26Bunit_약자_중간세대$0$단열재-벽체결로	ByLayer	8
+B	26Bunit_약자_중간세대$0$AA-WAXS-FINL	26Bunit_약자_중간세대$0$A$C08947341	6
+E	Defpoints	Circle	124
+E	26Bunit_약자_중간세대$0$미설치가구	Polyline	26
+LT	26Bunit_약자_중간세대$0$미설치가구	26Bunit_약자_중간세대$0$HID	86
+B	26Bunit_약자_중간세대$0$SOL-옹벽	26Bunit_약자_중간세대$0$DP-21	2
+T	Defpoints	21 |h=30 |st=26Bunit_약자_중간세대$0$맑은고딕	2
+LT	26Bunit_약자_중간세대$0$ELE1	ByLayer	4
+E	26Bunit_약자_중간세대$0$ELE1	Line	4
+E	26Bunit_약자_중간세대$0$A04-창호	Line	46
+LT	26Bunit_약자_중간세대$0$A04-창호	ByLayer	74
+E	26Bunit_약자_중간세대$0$A04-창호	Polyline	28
+B	0	26Bunit_약자_중간세대$0$세탁공간 1100 x 1000	2
+B	26Bunit_약자_중간세대$0$DR-ER	26Bunit_약자_중간세대$0$우수	6
+E	26Bunit_약자_중간세대$0$설치가구	Polyline	26
+LT	26Bunit_약자_중간세대$0$설치가구	ByLayer	1142
+E	26Bunit_약자_중간세대$0$설치가구	Line	796
+B	26Bunit_약자_중간세대$0$설치가구	26Bunit_약자_중간세대$0$A$C068F09EB	2
+LT	26Bunit_약자_중간세대$0$미설치가구	26Bunit_약자_중간세대$0$HIDDEN	16
+E	26Bunit_약자_중간세대$0$미설치가구	Line	76
+B	26Bunit_약자_중간세대$0$미설치가구	26Bunit_약자_중간세대$0$A$C514F5E0B	2
+E	26Bunit_약자_중간세대$0$수전및배수	Line	96
+LT	26Bunit_약자_중간세대$0$수전및배수	ByLayer	128
+E	26Bunit_약자_중간세대$0$수전및배수	Arc	28
+E	26Bunit_약자_중간세대$0$수전및배수	Circle	4
+B	26Bunit_약자_중간세대$0$AA-XXXX-CNTL	26Bunit_약자_중간세대$0$A$C0B526BDD	4
+LT	26Bunit_약자_중간세대$0$단차이	ByLayer	4
+E	26Bunit_약자_중간세대$0$단차이	Line	4
+B	26Bunit_약자_중간세대$0$우오수	26Bunit_약자_중간세대$0$우수	2
+E	26Bunit_약자_중간세대$0$우오수	Circle	12
+LT	26Bunit_약자_중간세대$0$우오수	ByLayer	128
+E	26Bunit_약자_중간세대$0$우오수	Line	66
+E	26Bunit_약자_중간세대$0$우오수	Polyline	2
+E	26Bunit_약자_중간세대$0$우오수	Arc	48
+B	26Bunit_약자_중간세대$0$DR-ER	26Bunit_약자_중간세대$0$세탁기드레인	2
+B	26Bunit_약자_중간세대$0$미설치가구	26Bunit_약자_중간세대$0$냉장고	2
+B	26Bunit_약자_중간세대$0$15-석고보드	26Bunit_약자_중간세대$0$A$C24D9142C	2
+LT	26Bunit_약자_중간세대$0$A17-기타-ETC	26Bunit_약자_중간세대$0$HID	54
+E	26Bunit_약자_중간세대$0$A17-기타-ETC	Line	56
+B	26Bunit_약자_중간세대$0$AA-WAXM-BRCK	26Bunit_약자_중간세대$0$A$C04F4520F	2
+E	26Bunit_약자_중간세대$0$A02-벽체-MC선	Line	34
+LT	26Bunit_약자_중간세대$0$A02-벽체-MC선	ByLayer	34
+E	26Bunit_약자_중간세대$0$AA-WAXM-CONC	Line	70
+LT	26Bunit_약자_중간세대$0$AA-WAXM-CONC	ByLayer	72
+E	26Bunit_약자_중간세대$0$AA-XXXX-INSL	Line	2
+LT	26Bunit_약자_중간세대$0$AA-XXXX-INSL	ByLayer	18
+B	26Bunit_약자_중간세대$0$SOL-옹벽	26Bunit_약자_중간세대$0$BP-24	2
+T	Defpoints	24 |h=30 |st=26Bunit_약자_중간세대$0$맑은고딕	2
+E	26Bunit_약자_중간세대$0$A04-PD ST	Line	6
+LT	26Bunit_약자_중간세대$0$A04-PD ST	ByLayer	6
+E	26Bunit_약자_중간세대$0$15-석고보드	Line	86
+LT	26Bunit_약자_중간세대$0$15-석고보드	ByLayer	106
+E	26Bunit_약자_중간세대$0$단열재-천정결로	Line	8
+LT	26Bunit_약자_중간세대$0$단열재-천정결로	ByLayer	8
+E	26Bunit_약자_중간세대$0$A17-기타-단차이	Line	4
+LT	26Bunit_약자_중간세대$0$A17-기타-단차이	ByLayer	4
+E	26Bunit_약자_중간세대$0$단열재-비드법	Line	2
+LT	26Bunit_약자_중간세대$0$단열재-비드법	ByLayer	2
+E	26Bunit_약자_중간세대$0$A11-해치-설비공간	Line	2
+LT	26Bunit_약자_중간세대$0$A11-해치-설비공간	ByLayer	2
+E	26Bunit_약자_중간세대$0$경량칸막이	Line	40
+LT	26Bunit_약자_중간세대$0$경량칸막이	ByLayer	68
+E	26Bunit_약자_중간세대$0$경량칸막이	Polyline	28
+B	26Bunit_약자_중간세대$0$05-가구-미설치	26Bunit_약자_중간세대$0$A$C201803CB	2
+B	26Bunit_약자_중간세대$0$미설치가구	26Bunit_약자_중간세대$0$실외기	2
+LT	26Bunit_약자_중간세대$0$A17-기타-ETC	ByLayer	8
+E	26Bunit_약자_중간세대$0$A17-기타-ETC	Polyline	4
+E	26Bunit_약자_중간세대$0$A17-기타-ETC	Arc	2
+B	26Bunit_약자_중간세대$0$설치가구	26Bunit_약자_중간세대$0$신발장 1300X450	2
+E	26Bunit_약자_중간세대$0$AA-XXXX-SYM1	Line	2
+LT	26Bunit_약자_중간세대$0$AA-XXXX-SYM1	ByLayer	4
+E	26Bunit_약자_중간세대$0$AA-XXXX-SYM1	Polyline	2
+E	26Bunit_약자_중간세대$0$설치가구	Circle	48
+E	26Bunit_약자_중간세대$0$설치가구	Arc	280
+E	26Bunit_약자_중간세대$0$A02-벽체-조적	Line	12
+LT	26Bunit_약자_중간세대$0$A02-벽체-조적	ByLayer	12
+E	26Bunit_약자_중간세대$0$AA-WAXM-CONC	Polyline	2
+E	26Bunit_약자_중간세대$0$15-석고보드	Polyline	20
+B	26Bunit_약자_중간세대$0$미설치가구	26Bunit_약자_중간세대$0$A$C600D4504	2
+B	26Bunit_약자_중간세대$0$미설치가구	26Bunit_약자_중간세대$0$에어컨	2
+B	26Bunit_약자_중간세대$0$미설치가구	26Bunit_약자_중간세대$0$A$C02C91EFD	2
+T	26Bunit_약자_중간세대$0$Defpoint	800*750 |h=100 |st=26Bunit_약자_중간세대$0$맑은고딕	2
+E	26Bunit_약자_중간세대$0$Defpoint	Text	2
+E	26Bunit_약자_중간세대$0$AA-XXXX-DOOR	Polyline	2
+LT	26Bunit_약자_중간세대$0$AA-XXXX-DOOR	ByLayer	2
+E	26Bunit_약자_중간세대$0$WID	Polyline	6
+LT	26Bunit_약자_중간세대$0$WID	ByLayer	6
+E	26Bunit_약자_중간세대$0$AA-FFXM-SANI	Polyline	4
+LT	26Bunit_약자_중간세대$0$AA-FFXM-SANI	ByLayer	4
+B	26Bunit_약자_중간세대$0$UBR	26Bunit_약자_중간세대$0$26B_37B UBR 고령자	2
+B	26Bunit_약자_중간세대$0$ETC	26Bunit_약자_중간세대$0$ubr 수건걸이	2
+B	26Bunit_약자_중간세대$0$RESTROOM	26Bunit_약자_중간세대$0$A$C77413591	2
+E	26Bunit_약자_중간세대$0$RESTROOM	Polyline	2
+B	26Bunit_약자_중간세대$0$RESTROOM	26Bunit_약자_중간세대$0$A$C725E256F	2
+E	26Bunit_약자_중간세대$0$ACCESSORY	Circle	2
+B	26Bunit_약자_중간세대$0$A11-해치-조적	26Bunit_약자_중간세대$0$A$C1AB05FC4	2
+LT	26Bunit_약자_중간세대$0$욕실타일	ByLayer	8
+E	26Bunit_약자_중간세대$0$욕실타일	Line	8
+E	26Bunit_약자_중간세대$0$ETC	Arc	8
+E	26Bunit_약자_중간세대$0$ETC	Line	10
+E	26Bunit_약자_중간세대$0$ACCESSORY	Spline	2
+B	26Bunit_약자_중간세대$0$ACCESSORY	26Bunit_약자_중간세대$0$ubr 휴지걸이	2
+B	26Bunit_약자_중간세대$0$CERAMIC	26Bunit_약자_중간세대$0$ubr 변기	2
+LT	26Bunit_약자_중간세대$0$ETC	ByLayer	354
+E	26Bunit_약자_중간세대$0$ETC	Polyline	336
+LT	26Bunit_약자_중간세대$0$CERAMIC	ByLayer	130
+E	26Bunit_약자_중간세대$0$CERAMIC	Polyline	130
+LT	26Bunit_약자_중간세대$0$ACCESSORY	ByLayer	290
+E	26Bunit_약자_중간세대$0$ACCESSORY	Polyline	288
+E	26Bunit_약자_중간세대$0$ACCESSORY	Ellipse	32
+E	26Bunit_약자_중간세대$0$UBR	Polyline	10
+E	26Bunit_약자_중간세대$0$UBR	Point	8
+E	26Bunit_약자_중간세대$0$UBR	Circle	20
+E	26Bunit_약자_중간세대$0$UBR	Arc	50
+LT	26Bunit_약자_중간세대$0$UBR	ByLayer	710
+E	26Bunit_약자_중간세대$0$UBR	Line	630
+E	26Bunit_약자_중간세대$0$AA-XXXX-INSL	Polyline	16
+T	Defpoints	26B_중간 |h=30 |st=26Bunit_약자_중간세대$0$맑은고딕	2
+E	26Bunit_약자_중간세대$0$A11-해치-설비공간	Hatch	4
+H	26Bunit_약자_중간세대$0$A11-해치-설비공간	DASH s=15 a=0	4
+B	26Bunit_약자_중간세대$0$설치가구	26Bunit_약자_중간세대$0$주방 2100 NN	2
+B	26Bunit_약자_중간세대$0$설치가구	26Bunit_약자_중간세대$0$asdhf6r545	2
+B	26Bunit_약자_중간세대$0$설치가구	26Bunit_약자_중간세대$0$750씽크볼	2
+LT	26Bunit_약자_중간세대$0$설치가구	26Bunit_약자_중간세대$0$HID	8
+B	0	26Bunit_약자_중간세대	2
+E	Tower 1201-3층복도$0$계단_000	Line	32
+LT	Tower 1201-3층복도$0$계단_000	ByLayer	64
+E	Tower 1201-3층복도$0$헨드레일_000	Line	36
+LT	Tower 1201-3층복도$0$헨드레일_000	ByLayer	40
+E	Tower 1201-3층복도$0$헨드레일_000	Polyline	4
+E	Tower 1201-3층복도$0$계단_000	Polyline	32
+E	Tower 1201-3층복도$0$A06-시설물-계단	Line	8
+LT	Tower 1201-3층복도$0$A06-시설물-계단	ByLayer	18
+E	Tower 1201-3층복도$0$A06-시설물-계단	Circle	4
+E	Tower 1201-3층복도$0$A06-시설물-계단	Polyline	6
+E	Tower 1201-3층복도$0$HANDRAIL	Line	60
+LT	Tower 1201-3층복도$0$HANDRAIL	ByLayer	102
+E	Tower 1201-3층복도$0$HANDRAIL	Arc	42
+E	Tower 1201-3층복도$0$AA-WAXM-CONC	Polyline	12
+LT	Tower 1201-3층복도$0$AA-WAXM-CONC	ByLayer	68
+E	Tower 1201-3층복도$0$A15-해치-코아바닥	Line	386
+LT	Tower 1201-3층복도$0$A15-해치-코아바닥	ByLayer	386
+B	Tower 1201-3층복도$0$DR-ER	Tower 1201-3층복도$0$우수	18
+E	Tower 1201-3층복도$0$우오수	Circle	18
+LT	Tower 1201-3층복도$0$우오수	ByLayer	54
+E	Tower 1201-3층복도$0$우오수	Line	36
+E	Tower 1201-3층복도$0$LEADER	Polyline	30
+LT	Tower 1201-3층복도$0$LEADER	ByLayer	30
+B	Tower 1201-3층복도$0$door	Tower 1201-3층복도$0$세대현관1000	28
+E	Tower 1201-3층복도$0$AA-XXXX-DOOR	Arc	28
+E	Tower 1201-3층복도$0$AA-XXXX-DOOR	Polyline	28
+LT	Tower 1201-3층복도$0$AA-XXXX-DOOR	ByLayer	1064
+E	Tower 1201-3층복도$0$AA-XXXX-DOOR	Line	1008
+E	Tower 1201-3층복도$0$AA-WAXM-CONC	Line	56
+E	Tower 1201-3층복도$0$ELE7	Line	28
+LT	Tower 1201-3층복도$0$ELE7	ByLayer	28
+E	Tower 1201-3층복도$0$AA-XXXX-CNTL	Line	28
+LT	Tower 1201-3층복도$0$AA-XXXX-CNTL	ByLayer	28
+E	Tower 1201-3층복도$0$ST	Line	8
+LT	Tower 1201-3층복도$0$ST	ByLayer	8
+E	Tower 1201-3층복도$0$소방	Polyline	4
+LT	Tower 1201-3층복도$0$소방	ByLayer	12
+E	Tower 1201-3층복도$0$소방	Line	8
+E	Tower 1201-3층복도$0$A11-해치-설비공간	Hatch	4
+H	Tower 1201-3층복도$0$A11-해치-설비공간	DASH s=15 a=180	2
+E	Tower 1201-3층복도$0$Defpoint	Polyline	2
+LT	Tower 1201-3층복도$0$Defpoint	ByLayer	2
+E	Tower 1201-3층복도$0$AA-XXXX-ELEV	Line	16
+LT	Tower 1201-3층복도$0$AA-XXXX-ELEV	ByLayer	16
+H	Tower 1201-3층복도$0$A11-해치-설비공간	DASH s=15 a=90	2
+E	Tower 1201-3층복도$0$A04-창호	Line	4
+LT	Tower 1201-3층복도$0$A04-창호	ByLayer	12
+E	Tower 1201-3층복도$0$A04-창호	Polyline	6
+E	Tower 1201-3층복도$0$A04-창호	Arc	2
+B	0	Tower 1201-3층복도	2
+E	2SEC	Hatch	20
+H	2SEC	ANSI31 s=1 a=0	20
+E	2SEC	Circle	20
+LT	2SEC	ByLayer	20
+T	TEXT1	세대병합구간 배근평면도(W=150) |h=120 |st=맑은고딕	1
+E	COL	Polyline	20
+E	HID	Line	10
+LT	HID	ByLayer	10
+E	철근	Line	20
+LT	철근	ByLayer	20
+E	SYM	Circle	10
+T	TEXT-2	수평근 : D10@200 |h=100 |st=맑은고딕	1
+T	TEXT-2	수직근 : D10@300 |h=100 |st=맑은고딕	1
+H	HAT	AR-CONC s=2 a=0	5
+B	0	세대병합구간-150	1
+T	TEXT-기호	B |h=150 |st=맑은고딕	1
+T	TEXT-기호	A |h=150 |st=맑은고딕	1
+T	TEXT-기호	C |h=150 |st=맑은고딕	1
+T	TEXT-기호	D |h=150 |st=맑은고딕	1
+T	TEXT-기호	F |h=150 |st=맑은고딕	1
+T	TEXT-기호	E |h=150 |st=맑은고딕	1
+T	A12-문자-실명	1208 |h=120 |st=맑은고딕	1
+T	A12-문자-실명	1206 |h=120 |st=맑은고딕	1
+T	A12-문자-실명	1207 |h=120 |st=맑은고딕	1
+T	AA-MKXM	37㎡ A형 단위세대 평면도 |h=280 |st=맑은고딕	1
+T	AA-MKXM	37㎡ B형 단위세대 평면도-주거약자형 |h=280 |st=맑은고딕	1
+T	AA-MKXM	26㎡ A형 단위세대 평면도 |h=280 |st=맑은고딕	1
+T	A12-문자-실명	1205 |h=120 |st=맑은고딕	2
+T	A12-문자-실명	1203 |h=120 |st=맑은고딕	4
+T	A12-문자-실명	1204 |h=120 |st=맑은고딕	3
+T	A12-문자-실명	1202 |h=120 |st=맑은고딕	3
+B	APT	A$C49055389	4
+T	A12-문자-실명	1201 |h=120 |st=맑은고딕	4
+T	A12-문자-실명	KEY PLAN |h=160 |st=맑은고딕	5
+B	APT	A$C2DB57F57	1
+B	APT	A$C49631D30	2
+B	APT	A$C436F1A32	40
+T	Defpoints	37 |h=150 |st=맑은고딕	40
+B	APT	A$C03042A6C	16
+LT	CON	ByLayer	16
+E	CON	Line	16
+T	Defpoints	37측 |h=150 |st=맑은고딕	16
+B	APT	A$C3AA87C20	44
+T	Defpoints	26 |h=150 |st=맑은고딕	44
+B	APT	A$C058A10BC	24
+T	Defpoints	26측 |h=150 |st=맑은고딕	24
+B	APT	A$C53BC75DB	4
+B	APT	A$C17BB354D	16
+T	Defpoints	46 |h=150 |st=맑은고딕	16
+E	Defpoints	Text	210
+E	APT	Polyline	240
+LT	APT	ByLayer	2000
+E	APT	Line	1760
+B	APT	A$C0CF70336	8
+T	Defpoints	46측 |h=150 |st=맑은고딕	8
+B	APT	A$C239805C7	1
+T	TEXT-기호	H |h=160 |st=맑은고딕B	4
+E	LED	Line	85
+T	TTEX	THK5 타일압착모르타르 |h=100 |st=맑은고딕	10
+T	TTEX	자기질 시유타일(200x200) |h=100 |st=맑은고딕	10
+T	TTEX	굽도리페인트(H=80) |h=100 |st=맑은고딕	10
+E	RXDIM	RotatedDimension	50
+D	RXDIM	사본 SDIM RotatedDimension	50
+T	TTEX	THK15 시멘트모르타르 |h=100 |st=맑은고딕	5
+T	TTEX	THK50 경량기포 콘크리트 |h=100 |st=맑은고딕	5
+T	TTEX	THK10 폴리머모르타르 |h=100 |st=맑은고딕	20
+T	TTEX	(H=50) |h=100 |st=맑은고딕	10
+H	10	_USER s=25 a=45	20
+E	05-마감바닥	Line	90
+LT	05-마감바닥	ByLayer	90
+T	TTEX	THK20 시멘트모르타르 |h=100 |st=맑은고딕	5
+H	10	AR-CONC s=40 a=0	10
+H	10	AR-SAND s=40 a=0	25
+T	TEXT1	"H"부분 상세도 |h=160 |st=맑은고딕	5
+B	0	HH	5
+T	TEXT-기호	G |h=160 |st=맑은고딕B	5
+LT	2	ByLayer	85
+E	10	Line	7145
+LT	10	ByLayer	7145
+T	TEXT-2	THK5 타일압착모르타르 |h=100 |st=맑은고딕	5
+T	TEXT-2	테라죠타일(복수적용자재) |h=100 |st=맑은고딕	5
+T	TEXT-2	굽도리페인트(H=100) |h=100 |st=맑은고딕	5
+T	TEXT-2	THK40 시멘트모르타르 |h=100 |st=맑은고딕	5
+B	FIN	TERRAZO	10
+E	FIN	Solid	650
+T	TEXT-2	(혹은 THK6 폴리머모르타르) |h=100 |st=맑은고딕	5
+T	TEXT1	"G"부분 상세도 |h=160 |st=맑은고딕	5
+T	TEXT1	(DA-15-003) |h=100 |st=맑은고딕	10
+B	U	GG	5
+T	TEXT-기호	F |h=160 |st=맑은고딕B	4
+T	TEXT1	"F"부분 상세도 |h=160 |st=맑은고딕	5
+T	TEXT1	(DA-27-101) |h=100 |st=맑은고딕	5
+E	HATCH	Line	90
+E	arch	Line	760
+LT	arch	ByLayer	500
+E	form	Polyline	50
+LT	form	ByLayer	50
+T	TEXT-2	용융아연도금/철부페인트 |h=100 |st=맑은고딕	5
+E	arch	Circle	15
+LT	arch	HID	10
+T	TTEX	"A"상세 |h=100 |st=맑은고딕	5
+T	TEXT-2	ST'L PIPE/ㅁ39x39x1.5 |h=100 |st=맑은고딕	5
+T	TEXT-2	Ø3.5아연도금나사못 |h=100 |st=맑은고딕	5
+T	TEXT-2	THK15 시멘트모르타르 |h=100 |st=맑은고딕	5
+T	TEXT-2	/탄성도료 |h=100 |st=맑은고딕	20
+E	A_WAL	Line	40
+LT	A_WAL	ByLayer	40
+E	ARHT	Line	125
+LT	ARHT	ByLayer	125
+T	TEXT-2	THK6 섬유강화 시멘트판 |h=100 |st=맑은고딕	10
+T	TEXT-2	(벽면 3개소,천장 2개소) |h=100 |st=맑은고딕	5
+T	TEXT-2	(L=18, 3개소) |h=100 |st=맑은고딕	5
+E	ARHT	Hatch	15
+H	ARHT	AR-SAND s=24 a=0	15
+E	A_FIN	Line	70
+LT	A_FIN	ByLayer	70
+T	TTEX	"A"단면 |h=100 |st=맑은고딕	5
+E	MARK	Polyline	15
+LT	MARK	ByLayer	15
+E	TEXT	Text	15
+T	TEXT	"A" 단면하부 |h=160 |st=맑은고딕	5
+E	RXSBSEC	Solid	10
+E	RXSBSEC	Polyline	5
+LT	RXSBSEC	ByLayer	5
+E	10	Hatch	70
+H	10	_USER s=50 a=45	15
+E	A_HAT	Hatch	10
+H	A_HAT	ANSI31 s=40 a=0	10
+E	A_HAT	Line	10
+LT	A_HAT	ByLayer	10
+E	A-DET	Line	20
+LT	A-DET	ByLayer	20
+E	A_INS	Line	5
+T	TEXT-2	T6 섬유강화 시멘트판 |h=100 |st=맑은고딕	5
+T	TTEX	"B"상세 |h=100 |st=맑은고딕	5
+LT	arch	HIDDEN	270
+B	ARHT	*X45	5
+LT	arch	DASHED	5
+E	arch	Arc	10
+T	TEXT	"A" 상세 |h=160 |st=맑은고딕	5
+T	TEXT-2	Ø8볼트 (L=50) |h=100 |st=맑은고딕	5
+T	TEXT	"B" 상세 |h=160 |st=맑은고딕	5
+T	TEXT-2	Ø8 스트롱 앵커 (L=40) |h=100 |st=맑은고딕	5
+T	TEXT-2	L-30x30x3(L=30) |h=100 |st=맑은고딕	5
+T	TEXT-2	ㅁ-앵글에 Slot hole을  |h=100 |st=맑은고딕	5
+T	TEXT-2	설치하여 제작 |h=100 |st=맑은고딕	5
+E	SOL-253	Hatch	71
+H	SOL-253	SOLID s=1 a=0	71
+B	U	FF	5
+T	TEXT-기호	E |h=160 |st=맑은고딕B	4
+LT	기호	HID	10
+T	TEXT1	"E"부분 상세도 |h=160 |st=맑은고딕	5
+T	TEXT1	(DA-60-005) |h=100 |st=맑은고딕	5
+T	TEXT-2	조적앵커철물 |h=100 |st=맑은고딕	5
+E	A09-단열재-비드법	Line	15
+LT	A09-단열재-비드법	ByLayer	35
+T	TEXT-2	THK180 비드법 |h=100 |st=맑은고딕	5
+T	TEXT-2	발포폴리스티렌 |h=100 |st=맑은고딕	5
+T	TEXT-2	THK6 시멘트 모르타르 |h=100 |st=맑은고딕	5
+E	7	Polyline	5
+LT	7	HIDDEN	5
+H	A11-해치-설비공간	DASH s=45 a=0	5
+H	A11-해치-조적	_USER s=120 a=45	5
+E	A02-벽체-조적	Polyline	5
+LT	A02-벽체-조적	ByLayer	5
+B	Defpoint	UBR-2100-900-N	5
+E	욕실외벽등	Mline	5
+E	욕실외벽등	Polyline	20
+LT	A04-창호	HID	20
+E	A04-창호	Polyline	10
+E	A04-창호	Circle	5
+E	A04-창호	Arc	95
+LT	A04-창호	ByLayer	350
+E	A04-창호	Line	260
+E	욕실외벽등	Circle	50
+E	욕실외벽등	Arc	125
+B	욕실외벽등	욕실외벽철물1	25
+LT	욕실외벽등	ByLayer	2085
+E	욕실외벽등	Line	1890
+LT	A03-마감-석고보드	ByLayer	45
+E	A03-마감-석고보드	Line	45
+E	A10-가구-욕실	Circle	5
+B	A10-가구-욕실	K-변기	5
+B	A10-가구-욕실	K-세면대	5
+E	A10-가구-욕실	Ellipse	75
+E	A10-가구-욕실	Line	80
+LT	A11-해치-바닥	ByLayer	150
+E	A11-해치-바닥	Line	150
+E	A09-단열재-비드법	Polyline	20
+LT	A17-기타-단차이	ByLayer	20
+E	A17-기타-단차이	Line	20
+LT	A10-가구-욕실	ByLayer	1245
+E	A10-가구-욕실	Polyline	1160
+E	A02-벽체-콘크리트	Line	45
+LT	A02-벽체-콘크리트	ByLayer	45
+B	U	EE	5
+H	HAT	AR-CONC s=0.3 a=0	5
+E	WAL	Polyline	5
+T	TEXT1	"D"부분 상세도 |h=160 |st=맑은고딕	5
+T	TEXT-2	경량기포콘크리트 |h=100 |st=맑은고딕	5
+T	TEXT-2	방수모르타르 |h=100 |st=맑은고딕	5
+T	TEXT-2	자기질바닥타일 |h=100 |st=맑은고딕	5
+T	TEXT1	(DA-17-103-1) |h=100 |st=맑은고딕	5
+E	ELE	Polyline	5
+E	FIN	Arc	5
+T	TEXT-2	BMC재료분리대(40XHX5.5T) |h=100 |st=맑은고딕	5
+T	TEXT-2	고정용BMC(40XHX5.5T)@600 |h=100 |st=맑은고딕	5
+T	TEXT-2	THK9 수평 조절용 받침대 |h=100 |st=맑은고딕	5
+H	HAT	ANSI31 s=10 a=0	5
+T	TEXT-2	BMC재료분리대 |h=100 |st=맑은고딕	5
+T	TEXT-2	(40xHx5.5t) |h=100 |st=맑은고딕	5
+B	U	DD	5
+T	TEXT-기호	D |h=160 |st=맑은고딕B	4
+T	TEXT1	"C"부분 상세도 |h=160 |st=맑은고딕	5
+E	CEN	Line	5
+LT	CEN	ByLayer	5
+E	ELE	Line	35
+LT	ELE	ByLayer	40
+LT	WID	Continuous	10
+H	HAT	ANSI37 s=120 a=0	5
+H	HAT	_USER s=40 a=45	15
+E	WAL	Line	20
+LT	WAL	ByLayer	25
+H	HAT	ANSI37 s=14 a=0	5
+T	TEXT-2	실링재5x5 |h=100 |st=맑은고딕	5
+T	TEXT-2	콘크리트벽돌  |h=100 |st=맑은고딕	5
+T	TEXT1	(DA-96-003) |h=100 |st=맑은고딕	5
+E	16-지시선2	Line	5
+LT	16-지시선2	ByLayer	5
+E	0_NDIM	Line	5
+LT	0_NDIM	ByLayer	10
+E	0_NDIM	Circle	5
+E	TTEX	Text	105
+T	TTEX	실외 |h=100 |st=맑은고딕	5
+T	TTEX	실내 |h=100 |st=맑은고딕	5
+E	0_LEAD	Polyline	30
+LT	0_LEAD	ByLayer	30
+T	TTEX	F.FL |h=100 |st=맑은고딕	5
+E	COCN	Polyline	5
+LT	COCN	ByLayer	5
+E	A_INS	Polyline	10
+LT	A_INS	ByLayer	15
+B	U	CC	5
+T	TEXT-기호	C |h=160 |st=맑은고딕B	4
+T	TEXT-2	우레탄폼보드충진 |h=100 |st=맑은고딕	5
+T	TEXT-2	THK5 폴리에스테르 |h=100 |st=맑은고딕	5
+T	TEXT-2	(혹은 폴리머모르타르) |h=100 |st=맑은고딕	10
+T	TEXT-2	THK10 방수모르타르 |h=100 |st=맑은고딕	10
+B	HAT	*X35	10
+H	HAT	AR-SAND s=25 a=0	25
+E	FIN	Polyline	195
+B	HAT	*X34	5
+E	RUBBER PACKING	Line	130
+LT	RUBBER PACKING	ByLayer	190
+E	RUBBER PACKING	Arc	60
+E	HAT	Arc	290
+E	STEEL	Hatch	20
+H	STEEL	SOLID s=1 a=0	20
+H	HAT	ANSI31 s=40 a=0	5
+E	PATH	Line	50
+LT	PATH	ByLayer	50
+E	리벳	Line	160
+LT	리벳	ByLayer	340
+E	리벳	Arc	180
+E	WID	Line	2215
+LT	WID	ByLayer	3015
+E	WID	Arc	810
+E	STEEL	Polyline	10
+B	HAT	*X33	5
+T	TEXT1	"B"부분 상세도 |h=160 |st=맑은고딕	5
+T	TEXT1	(DA-96-520-1) |h=100 |st=맑은고딕	5
+B	U	BB	5
+E	U	Polyline	40
+LT	U	ByLayer	130
+T	TEXT1	"A"부분 상세도 |h=160 |st=맑은고딕	5
+E	U	Line	90
+E	DIM	RotatedDimension	180
+D	DIM	NDIM RotatedDimension	180
+E	HATCH	Polyline	150
+LT	HATCH	ByLayer	240
+E	FIN	Line	830
+LT	FIN	ByLayer	1030
+E	STEEL	Line	345
+LT	STEEL	HIDDEN	55
+LT	STEEL	ByLayer	390
+E	STEEL	Arc	90
+E	HAT	Hatch	125
+H	HAT	ANSI31 s=240 a=0	5
+E	COL	Line	65
+LT	COL	ByLayer	85
+H	HAT	ANSI31 s=120 a=0	5
+E	STEEL	Ellipse	10
+T	TEXT-2	BMC마루귀틀 |h=100 |st=맑은고딕	5
+T	TEXT-2	(80xHx5.5T) |h=100 |st=맑은고딕	5
+T	TEXT-2	실링재5X5 |h=100 |st=맑은고딕	5
+T	TEXT-2	고정철물(40X70x2T)@600 |h=100 |st=맑은고딕	5
+T	TEXT-2	수평조절용 합판(THK9) |h=100 |st=맑은고딕	5
+T	TEXT-2	타일압착 모르타르 |h=100 |st=맑은고딕	5
+T	TEXT-2	자기질시유타일 |h=100 |st=맑은고딕	10
+T	TEXT-2	시멘트 모르타르 |h=100 |st=맑은고딕	20
+T	TEXT1	(DA-17-105) |h=100 |st=맑은고딕	5
+H	HAT	AR-SAND s=1 a=0	25
+H	HAT	_USER s=50 a=45	10
+E	2	Line	95
+LT	2	HIDDEN	10
+E	HAT	Line	545
+LT	HAT	ByLayer	885
+E	HAT	Polyline	50
+T	TEXT-2	* 복수적용 자재목록 적용 |h=100 |st=맑은고딕	5
+T	TEXT-2	* 신발장하부도 "C"상세적용 |h=100 |st=맑은고딕	5
+E	DIM	Polyline	15
+LT	DIM	ByLayer	15
+H	HAT	AR-CONC s=1 a=0	10
+B	U	AA	5
+T	TEXT-기호	B |h=160 |st=맑은고딕B	4
+T	TEXT-기호	A |h=160 |st=맑은고딕B	4
+E	TEXT-기호	Text	39
+E	기호	Hatch	58
+H	기호	SOLID s=1 a=0	58
+E	기호	Line	116
+LT	기호	ByBlock	145
+E	기호	Polyline	39
+B	기호	단면표시	29
+T	A12-문자-재료명	국기게양대 |h=100 |st=맑은고딕	10
+T	A04-TEXT-창호	15X22 |h=100 |st=맑은고딕	2
+T	A04-TEXT-창호	18X24 |h=100 |st=맑은고딕	2
+T	A12-문자-재료명	투시형난간 (1층-유공판) |h=100 |st=맑은고딕	1
+T	A04-TEXT-창호	15X16 |h=100 |st=맑은고딕	2
+T	A12-문자-실명	거 실 |h=140 |st=맑은고딕	2
+T	A12-문자-실명	침 실1 |h=140 |st=맑은고딕	2
+T	A04-TEXT-창호	WD-1 |h=100 |st=맑은고딕	2
+T	A12-문자-재료명	L=2700 |h=100 |st=맑은고딕	2
+T	A04-TEXT-창호	15×11 |h=100 |st=맑은고딕	2
+T	A04-TEXT-창호	9X21 |h=100 |st=맑은고딕	4
+T	AA-BORD-FORM	1206 |h=3000 |st=맑은고딕	1
+T	A04-TEXT-창호	24×24 |h=100 |st=맑은고딕	4
+T	A04-TEXT-창호	30×22 |h=100 |st=맑은고딕	4
+T	A12-문자-재료명	(방범용방충망은 1층만 해당) |h=100 |st=맑은고딕	3
+T	A12-문자-재료명	방충망설치 |h=100 |st=맑은고딕	3
+T	A12-문자-재료명	방범용 방충망 |h=100 |st=맑은고딕	3
+T	A04-TEXT-창호	W |h=100 |st=맑은고딕	8
+T	A04-TEXT-창호	12×11 |h=100 |st=맑은고딕	4
+T	A04-TEXT-창호	27×21 |h=100 |st=맑은고딕	4
+T	A04-TEXT-창호	WD3-1 |h=100 |st=맑은고딕	4
+T	A12-문자-재료명	L=2600 |h=100 |st=맑은고딕	4
+T	A04-TEXT-창호	WD-B |h=100 |st=맑은고딕	6
+T	A12-문자-재료명	상부커텐박스(W=160) |h=100 |st=맑은고딕	7
+T	A12-문자-재료명	THK15 압출법단열재(W=450) |h=100 |st=맑은고딕	9
+T	A12-문자-실명	침 실2 |h=140 |st=맑은고딕	6
+T	A04-TEXT-창호	7×21 |h=100 |st=맑은고딕	6
+T	A12-문자-재료명	L=2100 |h=100 |st=맑은고딕	4
+T	A04-TEXT-창호	- |h=100 |st=맑은고딕	10
+T	A04-TEXT-창호	9×21 |h=100 |st=맑은고딕	8
+T	A12-문자-재료명	(DA16-003) |h=100 |st=맑은고딕	5
+T	A12-문자-재료명	Ø100 칼라 P.V.C 선홈통(우수겸용) |h=100 |st=맑은고딕	5
+T	A12-문자-재료명	THK145 비드법보온판 |h=100 |st=맑은고딕	7
+T	A12-문자-재료명	THK180 비드법보온판 |h=100 |st=맑은고딕	7
+T	A12-문자-재료명	배관구 |h=100 |st=맑은고딕	4
+T	A12-문자-재료명	에어콘 |h=100 |st=맑은고딕	4
+T	A12-문자-재료명	에어콘 배관구 |h=100 |st=맑은고딕	6
+T	A12-문자-재료명	(DA-61-031) |h=100 |st=맑은고딕	5
+D	A-dims	SCALE 40_내부 RotatedDimension	173
+E	A-dims	RotatedDimension	173
+T	A12-문자-재료명	(1층-유공판) |h=100 |st=맑은고딕	11
+T	A12-문자-재료명	(상,하부 1개소)  |h=100 |st=맑은고딕	12
+T	A12-문자-재료명	Ø100 ABS환기구 |h=100 |st=맑은고딕	12
+T	A12-문자-재료명	Ø100선홈통(우수용) |h=100 |st=맑은고딕	10
+T	A12-문자-재료명	냉온수전(세탁기용) |h=100 |st=맑은고딕	10
+T	A12-문자-재료명	투시형난간 |h=100 |st=맑은고딕	17
+T	A12-문자-실명	실외기 |h=100 |st=맑은고딕	10
+T	A04-TEXT-창호	BP |h=100 |st=맑은고딕	12
+T	A04-TEXT-창호	24×22 |h=100 |st=맑은고딕	4
+T	A04-TEXT-창호	DP |h=100 |st=맑은고딕	10
+T	A04-TEXT-창호	21×24 |h=100 |st=맑은고딕	4
+T	A12-문자-재료명	THK13 복합단열재 |h=100 |st=맑은고딕	10
+T	A12-문자-재료명	(W=160) |h=100 |st=맑은고딕	4
+T	A12-문자-재료명	(W=450) |h=100 |st=맑은고딕	18
+T	A12-문자-재료명	상부커텐박스 |h=100 |st=맑은고딕	4
+T	A12-문자-재료명	THK15 압출법단열재 |h=100 |st=맑은고딕	8
+T	A12-문자-재료명	THK105 비드법보온판 |h=100 |st=맑은고딕	11
+T	A12-문자-재료명	THK12.5 석고보드 |h=100 |st=맑은고딕	23
+T	A12-문자-재료명	실크도배지 |h=100 |st=맑은고딕	23
+T	A12-문자-실명	거실/침실 |h=140 |st=맑은고딕	8
+T	A12-문자-실명	AD&PD |h=100 |st=맑은고딕	15
+T	A12-문자-실명	복 도 |h=140 |st=맑은고딕	5
+T	A12-문자-재료명	경량칸막이 설치  |h=100 |st=맑은고딕	5
+T	A12-문자-실명	발코니 |h=140 |st=맑은고딕	10
+T	A12-문자-실명	욕 실 |h=140 |st=맑은고딕	10
+T	A04-TEXT-창호	(결로방지용) |h=100 |st=맑은고딕	10
+T	A04-TEXT-창호	D-2 |h=100 |st=맑은고딕	10
+T	A04-TEXT-창호	10×22 |h=100 |st=맑은고딕	10
+E	A04-TEXT-창호	Text	134
+T	A12-문자-실명	현 관 |h=140 |st=맑은고딕	10
+T	A12-문자-재료명	하부온수 분배기 |h=100 |st=맑은고딕	10
+T	A12-문자-실명	주방/식당 |h=140 |st=맑은고딕	10
+E	A12-문자-실명	Text	112
+T	A12-문자-재료명	재료분리대 설치 |h=100 |st=맑은고딕	14
+D	AA-XXXX-DIMS	SCALE 40-3 RotatedDimension	50
+D	AA-XXXX-DIMS	SCALE 40-4 RotatedDimension	28
+T	AA-BORD-FORM	1201 |h=3000 |st=맑은고딕	2
+T	CIRCLE	46㎡ A형 |h=120 |st=맑은고딕	1
+T	AA-MKXM	46㎡ A형 단위세대 평면도 |h=280 |st=맑은고딕	1
+T	LH_SHEET_TEXT	46㎡ A형 단위세대 평면도 |h=120 |st=맑은고딕	1
+T	CIRCLE	37㎡ B형 |h=120 |st=맑은고딕	1
+T	CIRCLE	37㎡ A형 |h=120 |st=맑은고딕	1
+T	LH_SHEET_TEXT	37㎡ A형 단위세대 평면도 |h=120 |st=맑은고딕	1
+T	LH_SHEET_TEXT	37㎡ B형 단위세대 평면도 |h=120 |st=맑은고딕	1
+T	CIRCLE	(주거약자형) |h=120 |st=맑은고딕	2
+T	CIRCLE	26㎡ B형 |h=120 |st=맑은고딕	1
+T	CIRCLE	26㎡ A형 |h=120 |st=맑은고딕	1
+T	LH_SHEET_TEXT	26㎡ A형 단위세대 평면도 |h=120 |st=맑은고딕	1
+T	LH_SHEET_TEXT	80 |h=104 |st=맑은고딕	5
+T	LH_SHEET_TEXT	40 |h=104 |st=맑은고딕	5
+T	CIRCLE	단위세대 |h=120 |st=맑은고딕	5
+E	CIRCLE	Text	12
+T	AA-MKXM	1 |h=200 |st=맑은고딕	5
+T	AA-MKXM	26㎡ B형 단위세대 평면도-주거약자형 |h=280 |st=맑은고딕	1
+T	AA-MKXM	축척 : 1/40(A3:80) |h=120 |st=맑은고딕	5
+E	AA-MKXM	Text	15
+T	LH_SHEET_TEXT	(주거약자형) |h=120 |st=맑은고딕	2
+T	LH_SHEET_TEXT	26㎡ B형 단위세대 평면도 |h=120 |st=맑은고딕	1
+E	LH_SHEET_TEXT	Text	27
+T	AA-BORD-FORM	일반형 |h=3000 |st=맑은고딕	1
+T	AA-BORD-FORM	주거약자형 |h=3000 |st=맑은고딕	1
+T	AA-BORD-FORM	46 |h=3000 |st=맑은고딕	1
+T	AA-BORD-FORM	37 |h=3000 |st=맑은고딕	1
+T	AA-BORD-FORM	26 |h=3000 |st=맑은고딕	1
+E	AA-BORD-FORM	Text	8
+D	AA-XXXX-DIMS	SCALE 40 RotatedDimension	131
+D	AA-XXXX-DIMS	SCALE 40-2 RotatedDimension	220
+E	AA-XXXX-DIMS	RotatedDimension	429
+E	설치가구	Line	50
+LT	설치가구	ByLayer	90
+E	설치가구	Arc	40
+LT	LED	ByLayer	160
+E	LED	Polyline	75
+T	A13-심볼-레벨	FL.+55 |h=100 |st=맑은고딕	5
+B	A13-심볼-레벨	A$C728C7448	5
+B	A13-심볼-레벨	A$C728C7446	10
+T	A13-심볼-레벨	FL.+35 |h=100 |st=맑은고딕	10
+B	A13-심볼-레벨	A$C728C7445	10
+E	A11-해치-조적	Hatch	33
+H	A11-해치-조적	ANSI31 s=7.5 a=0	28
+E	임시	Polyline	28
+LT	임시	ByLayer	28
+B	A17-기타-단차이	A$C254D7C07	28
+E	A04-창호BOX	Line	62
+LT	A04-창호BOX	ByLayer	124
+E	A04-창호BOX	Circle	62
+B	A04-창호BOX	창호기호	62
+T	A13-심볼-레벨	FL.+80 |h=100 |st=맑은고딕	20
+B	A13-심볼-레벨	A$C0E57696F	10
+E	A11-해치-설비공간	Polyline	10
+LT	A11-해치-설비공간	ByLayer	10
+E	A11-해치-설비공간	Hatch	15
+H	A11-해치-설비공간	DOTS s=500 a=0	5
+E	A12-문자-재료명	Line	47
+E	A12-문자-재료명	Text	301
+T	A12-문자-재료명	세대병합구간 |h=100 |st=맑은고딕	5
+T	A12-문자-재료명	(1500X2100) |h=100 |st=맑은고딕	5
+H	A11-해치-설비공간	DOTS s=20 a=0	5
+B	A12-문자-재료명	병합	4
+E	A13-심볼-레벨	Circle	63
+LT	A13-심볼-레벨	ByLayer	189
+E	A13-심볼-레벨	Line	126
+E	A13-심볼-레벨	Hatch	126
+H	A13-심볼-레벨	ANSI31 s=4.17 a=0	126
+E	A13-심볼-레벨	Text	126
+T	A13-심볼-레벨	FL.+110 |h=100 |st=맑은고딕	28
+T	A13-심볼-레벨	SL%%P0 |h=100 |st=맑은고딕	63
+B	A13-심볼-레벨	LEVEL-U	28
+LT	A12-문자-실명	ByLayer	82
+E	A12-문자-실명	Polyline	82
+LT	A12-문자-재료명	ByLayer	251
+E	A12-문자-재료명	Polyline	204
+B	A13-심볼-기호	OO	110
+LT	A13-심볼-기호	ByLayer	296
+E	A13-심볼-기호	Polyline	296
+E	설비배관부분	Hatch	5
+H	설비배관부분	DASH s=15 a=0	5
+T	TEXT-2	1. 마루귀틀은 BMC. |h=100 |st=맑은고딕	5
+T	TEXT-2	7. 부위별(벽체,천정,AD/PD등) 결로보완설계 (DA-60-003~009) |h=100 |st=맑은고딕	5
+T	TEXT-2	2. 세대현관문 평단면 상세 (DA-96-520, DA-96-520-1) |h=100 |st=맑은고딕	5
+T	TEXT-2	13. 벽돌벽체와 외부콘크리트 옹벽이 만나는 부위에는 주변 단열재 |h=100 |st=맑은고딕	5
+T	TEXT-2	연장 시공 (DA-60-004,005) |h=100 |st=맑은고딕	5
+T	TEXT-2	14. 단열재는 단열,방수,결로방지 시공상세도 적용. |h=100 |st=맑은고딕	5
+T	TEXT-2	15. 유리두께는 단위세대 주요자재 마감표 적용. |h=100 |st=맑은고딕	5
+T	TEXT-2	4. 우수 및 배수드레인 : 발코니상세도, 기계시설 설치도참조. |h=100 |st=맑은고딕	5
+T	TEXT-2	5. 우수선홈통은 지붕 동평면도 참조. |h=100 |st=맑은고딕	5
+T	TEXT-2	3. 조적벽에 설치되는 여닫이문 상부는 경량인방설치 (DA-96-383) |h=100 |st=맑은고딕	5
+T	TEXT-2	16. 주방타일 이질재료와 만나는부위 재료분리대 (DA-27-003~006) |h=100 |st=맑은고딕	5
+E	TEXT1	Text	90
+T	TEXT1	주    기 |h=120 |st=맑은고딕	5
+E	SYM	Polyline	283
+LT	SYM	ByLayer	403
+E	SYM	Line	110
+E	SYM	Solid	10
+T	TEXT-2	6. 복도측 우수선홈통 및 드레인은 동평면도 참조. |h=100 |st=맑은고딕	5
+T	TEXT-2	17. 복도 및 1층 발코니 창호 방범용 방충망 설치. |h=100 |st=맑은고딕	5
+E	TEXT-2	Polyline	5
+LT	TEXT-2	ByLayer	5
+T	TEXT-2	8.           설비담당과 협의 후 슬리브 설치(기계) |h=100 |st=맑은고딕	5
+E	0	Polyline	5
+LT	0	ByLayer	5
+T	TEXT-2	9. 세대 분전반 위치는 전기감독과 협의. |h=100 |st=맑은고딕	5
+T	TEXT-2	10. 온수분배기, 가스배관구, 자연환기구 위치는 기계담당과 협의 후 시공. |h=100 |st=맑은고딕	5
+T	TEXT-2	11. 건식PD의 철판, 경량벽체 및 도장공사는 기계공사임. |h=100 |st=맑은고딕	5
+T	TEXT-2	12. 건식PD의 철판면이 벽체와맞닿은 모서리 부분은 |h=100 |st=맑은고딕	5
+T	TEXT-2	5X5실링제 시공(건축공사) |h=100 |st=맑은고딕	5
+B	0	주기-1	5
+E	TEXT-2	Text	515
+T	TEXT-2	1. 단열두께가 서로다른 모서리부분 |h=100 |st=맑은고딕	5
+T	TEXT-2	단열재 접합시 두꺼운 단열재  |h=100 |st=맑은고딕	5
+T	TEXT-2	2. 복수적용자재(공법)은  |h=100 |st=맑은고딕	5
+T	TEXT-2	 DA-09-001~003 참조. |h=100 |st=맑은고딕	5
+T	TEXT-2	3. 바닥레벨  |h=100 |st=맑은고딕	5
+T	TEXT-2	- 거실/침실 : FL +110 |h=100 |st=맑은고딕	5
+T	TEXT-2	- 주방/식당 : FL +110 |h=100 |st=맑은고딕	5
+T	TEXT-2	- 현       관 : FL +80 |h=100 |st=맑은고딕	5
+T	TEXT-2	우선시공 할 것. |h=100 |st=맑은고딕	5
+T	TEXT-2	- 욕       실 : SL -80/ FL +35 |h=100 |st=맑은고딕	5
+T	TEXT-2	4. - 신   발   장 : |h=100 |st=맑은고딕	5
+T	TEXT-2	                   +DA-90-112 |h=100 |st=맑은고딕	5
+T	TEXT-2	- 경량 칸막이 : DA-27-101 |h=100 |st=맑은고딕	5
+T	TEXT-2	- 에어콘배관구 : DA-27-102 |h=100 |st=맑은고딕	5
+T	TEXT-2	- ABS 환기구 : DA-20-306 |h=100 |st=맑은고딕	5
+T	TEXT-2	- 국기 게양대 : DA-61-013 |h=100 |st=맑은고딕	5
+T	TEXT-2	- 투시형 난간 : DA-61-011 |h=100 |st=맑은고딕	5
+T	TEXT-2	- 발  코  니 : FL +85/ FL +35 |h=100 |st=맑은고딕	5
+E	Defpoints	Polyline	5
+T	TEXT-2	DA-90-101 |h=100 |st=맑은고딕	5
+T	TEXT-2	5.         : 도어 스토퍼 설치부분 |h=100 |st=맑은고딕	5
+B	0	점자표식	19
+LT	점자표식	HID	19
+E	점자표식	Circle	19
+H	점자표식	ANSI31 s=18.75 a=0	19
+E	점자표식	Hatch	19
+T	TEXT-2	6. 결로저감 홍보스티커(12㎝X12㎝) |h=100 |st=맑은고딕	5
+T	TEXT-2	발코니마다 1개소 설치 |h=100 |st=맑은고딕	5
+T	TEXT-2	- 시스템 루버 : DA-98-138 |h=100 |st=맑은고딕	5
+T	TEXT-2	- 재료 분리대 : DA-27-003 |h=100 |st=맑은고딕	5
+T	TEXT-2	- 유공판 난간 : DA-61-011-1 |h=100 |st=맑은고딕	5
+B	0	주기-2	5
+E	X-Sheet(건축)$0$LH_SHEET	Hatch	60
+H	X-Sheet(건축)$0$LH_SHEET	SOLID s=1 a=0	60
+E	X-Sheet(건축)$0$LH_SHEET	Polyline	50
+LT	X-Sheet(건축)$0$LH_SHEET	ByLayer	500
+E	X-Sheet(건축)$0$LH_SHEET	Text	240
+T	X-Sheet(건축)$0$LH_SHEET	DATE |h=2.3 |st=X-Sheet(건축)$0$맑은고딕	10
+T	X-Sheet(건축)$0$LH_SHEET	SCALE |h=2.3 |st=X-Sheet(건축)$0$맑은고딕	10
+T	X-Sheet(건축)$0$LH_SHEET	PROJECT NO. |h=2.3 |st=X-Sheet(건축)$0$맑은고딕	10
+T	X-Sheet(건축)$0$LH_SHEET	DWG. FILE NAME |h=2.3 |st=X-Sheet(건축)$0$맑은고딕	10
+T	X-Sheet(건축)$0$LH_SHEET	SHEET NO. |h=2.3 |st=X-Sheet(건축)$0$맑은고딕	10
+T	X-Sheet(건축)$0$LH_SHEET	SUBJECT TITLE |h=2.3 |st=X-Sheet(건축)$0$맑은고딕	10
+E	X-Sheet(건축)$0$LH_SHEET	Line	450
+T	X-Sheet(건축)$0$LH_SHEET	설  계  변  경 |h=2.64 |st=X-Sheet(건축)$0$맑은고딕	5
+T	X-Sheet(건축)$0$LH_SHEET	DESCRIPTION OF REVISION |h=2.3 |st=X-Sheet(건축)$0$맑은고딕	5
+T	X-Sheet(건축)$0$LH_SHEET	설계 |h=2.64 |st=X-Sheet(건축)$0$맑은고딕	5
+T	X-Sheet(건축)$0$LH_SHEET	일자 |h=2.64 |st=X-Sheet(건축)$0$맑은고딕	5
+T	X-Sheet(건축)$0$LH_SHEET	검토 |h=2.64 |st=X-Sheet(건축)$0$맑은고딕	5
+T	X-Sheet(건축)$0$LH_SHEET	심사 |h=2.64 |st=X-Sheet(건축)$0$맑은고딕	5
+T	X-Sheet(건축)$0$LH_SHEET	주  기 |h=2.64 |st=X-Sheet(건축)$0$맑은고딕	5
+T	X-Sheet(건축)$0$LH_SHEET	NOTE |h=2.3 |st=X-Sheet(건축)$0$맑은고딕	5
+T	X-Sheet(건축)$0$LH_SHEET	승인 |h=2.64 |st=X-Sheet(건축)$0$맑은고딕	5
+T	X-Sheet(건축)$0$LH_SHEET	설계명 |h=2.64 |st=X-Sheet(건축)$0$맑은고딕	5
+T	X-Sheet(건축)$0$LH_SHEET	PROJECT TITLE |h=2.64 |st=X-Sheet(건축)$0$맑은고딕	5
+T	X-Sheet(건축)$0$LH_SHEET	고양 삼송지구 A-12블록 |h=3.8 |st=X-Sheet(건축)$0$맑은고딕	5
+T	X-Sheet(건축)$0$LH_SHEET	2017. 01. |h=3 |st=X-Sheet(건축)$0$맑은고딕	5
+T	X-Sheet(건축)$0$LH_SHEET	일  자 |h=2.6 |st=X-Sheet(건축)$0$맑은고딕	5
+T	X-Sheet(건축)$0$LH_SHEET	축  척 |h=2.6 |st=X-Sheet(건축)$0$맑은고딕	5
+T	X-Sheet(건축)$0$LH_SHEET	설계번호 |h=2.6 |st=X-Sheet(건축)$0$맑은고딕	5
+T	X-Sheet(건축)$0$LH_SHEET	도면화일명 |h=2.6 |st=X-Sheet(건축)$0$맑은고딕	5
+T	X-Sheet(건축)$0$LH_SHEET	도면번호 |h=2.6 |st=X-Sheet(건축)$0$맑은고딕	5
+T	X-Sheet(건축)$0$LH_SHEET	도면명 |h=2.6 |st=X-Sheet(건축)$0$맑은고딕	5
+T	X-Sheet(건축)$0$LH_SHEET	A1 |h=2.6 |st=X-Sheet(건축)$0$맑은고딕	5
+T	X-Sheet(건축)$0$LH_SHEET	A3 |h=2.6 |st=X-Sheet(건축)$0$맑은고딕	5
+T	X-Sheet(건축)$0$LH_SHEET	설계사무소명 |h=2.1 |st=X-Sheet(건축)$0$맑은고딕	5
+T	X-Sheet(건축)$0$LH_SHEET	DRAWING OFFICE NAME |h=2 |st=X-Sheet(건축)$0$맑은고딕	5
+T	X-Sheet(건축)$0$LH_SHEET	책임건축(기술)사 |h=2.1 |st=X-Sheet(건축)$0$맑은고딕	5
+T	X-Sheet(건축)$0$LH_SHEET	ARCHITECT NAME |h=2 |st=X-Sheet(건축)$0$맑은고딕	5
+T	X-Sheet(건축)$0$LH_SHEET	공동주택 건설공사 |h=3.8 |st=X-Sheet(건축)$0$맑은고딕	5
+T	X-Sheet(건축)$0$LH_SHEET	1 / |h=2.6 |st=X-Sheet(건축)$0$맑은고딕	10
+T	X-Sheet(건축)$0$LH_SHEET	참여기술자 |h=2.1 |st=X-Sheet(건축)$0$맑은고딕	5
+T	X-Sheet(건축)$0$LH_SHEET	대표전화 :  02-2140-4400 |h=2.4 |st=X-Sheet(건축)$0$맑은고딕	5
+T	X-Sheet(건축)$0$LH_SHEET	(주)하우드종합건축사사무소 |h=2.4 |st=X-Sheet(건축)$0$맑은고딕	5
+B	X-Sheet(건축)$0$AA-XXXX-KEYMAP	X-Sheet(건축)$0$CIRCLE	5
+E	X-Sheet(건축)$0$AA-XXXX-KEYMAP	Line	5
+LT	X-Sheet(건축)$0$AA-XXXX-KEYMAP	ByLayer	10
+E	X-Sheet(건축)$0$AA-XXXX-KEYMAP	Circle	5
+T	X-Sheet(건축)$0$LH_SHEET	이 승 준 |h=2.4 |st=X-Sheet(건축)$0$돋움	5
+T	X-Sheet(건축)$0$LH_SHEET	소장  정호혁 : 02-2140-4475 |h=2.4 |st=X-Sheet(건축)$0$돋움	5
+T	X-Sheet(건축)$0$LH_SHEET	부장  이승훈 : 02-2140-4432 |h=2.4 |st=X-Sheet(건축)$0$돋움	5
+T	X-Sheet(건축)$0$LH_SHEET	과장  박민수 : 02-2140-4732 |h=2.4 |st=X-Sheet(건축)$0$돋움	5
+T	X-Sheet(건축)$0$LH_SHEET	과장  박건옥 : 02-2140-4749 |h=2.4 |st=X-Sheet(건축)$0$돋움	5
+B	XREF	X-Sheet(건축)	5
+E	AA-MKXM	Line	5
+LT	AA-MKXM	ByLayer	10
+E	AA-MKXM	Circle	5
+LT	Defpoints	ByLayer	712
+E	Defpoints	Line	583
+LT	Defpoint	ByLayer	7
+E	Defpoint	Polyline	7
+H	A04-창호	_USER s=10 a=45	6
+E	A04-창호	Hatch	6
+LT	A01-중심선-아파트	ByLayer	77
+E	A01-중심선-아파트	Line	77
+E	SOL-253	Solid	53

@@ -1,0 +1,1 @@
+(upc:run "C:/temp/cj84a/outputs/cj84A-basic-v002.dwg" "C:/temp/cj84a/operations_v002" "bath-101" (quote (lambda (doc / ms o) (setq ms (vla-get-modelspace doc)) (setq o (vla-insertblock ms (upc:pt 1625.0 4115.0) "UBR 공용욕실 1500x2200" -1 1 1 0.000000)) (upc:set o "FUR"))))

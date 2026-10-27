@@ -1,0 +1,498 @@
+{
+  "_doc": "Project profile = every value the user (or project standard) must define. Copy to <job>/profile.json. Each leaf is {value, status, note}. status: user_confirmed | project_confirmed | observed | proposed | unresolved. A sub-skill must not draw an element whose required leaf is unresolved; it asks instead. Section owner = the sub-skill that reads it. 참고 세대 실행기(run_reference_unit.py)의 config.json은 이 값들을 평평한 키로 받는다 — jobs/cj84b-20261026/config_v005.json 참고.",
+  "project": {
+    "_owner": "unit-plan",
+    "name": {
+      "value": null,
+      "status": "unresolved",
+      "note": "프로젝트명"
+    },
+    "unit_type": {
+      "value": null,
+      "status": "unresolved",
+      "note": "예: 84A, 59B. 전용면적 m2 + 타입문자"
+    },
+    "variant": {
+      "value": null,
+      "status": "unresolved",
+      "note": "basic(기본형) | expanded(확장형) | both"
+    },
+    "position": {
+      "value": "middle",
+      "status": "proposed",
+      "note": "middle(중간세대) | side(측세대) | 기타 프로젝트 정의값"
+    },
+    "accessible_unit": {
+      "value": false,
+      "status": "proposed",
+      "note": "약자(장애인) 세대 여부"
+    },
+    "mirror": {
+      "value": "none",
+      "status": "proposed",
+      "note": "none | x | y. 홀/짝수층 반전은 시트 조립에서 처리"
+    },
+    "drawing_scale": {
+      "value": "1/50",
+      "status": "proposed",
+      "note": "문자·치수 크기의 기준"
+    },
+    "units": {
+      "value": "mm",
+      "status": "project_confirmed",
+      "note": "INSUNITS=4"
+    }
+  },
+  "standards": {
+    "_owner": "unit-plan-standards",
+    "layer_scheme": {
+      "value": null,
+      "status": "unresolved",
+      "note": "aa_code(AA-WAXM-CONC…) | short(A-CON…) | custom. role→layer 표는 unit-plan-standards/references/layer-roles.md"
+    },
+    "layer_map": {
+      "value": {},
+      "status": "unresolved",
+      "note": "role → {name, color, linetype, lineweight}. 비어 있으면 layer_scheme 기본표 사용"
+    },
+    "text_style": {
+      "value": null,
+      "status": "unresolved",
+      "note": "글꼴(SHX/TTF)과 폭계수. 대상 PC에 실제 존재해야 함"
+    },
+    "template_dwg": {
+      "value": null,
+      "status": "proposed",
+      "note": "레이어·스타일이 들어있는 DWG/DWT 경로(선택)"
+    }
+  },
+  "zoning": {
+    "_owner": "unit-plan-zoning",
+    "source": {
+      "value": null,
+      "status": "unresolved",
+      "note": "DWG 경로 + 레이어 / 또는 JSON"
+    },
+    "boundary_meaning": {
+      "value": null,
+      "status": "unresolved",
+      "note": "approximate | wall_centerline | finish_face | mc_grid"
+    },
+    "mc_module_mm": {
+      "value": null,
+      "status": "unresolved",
+      "note": "MC 기준선 모듈(예: 100 또는 300). 없으면 null"
+    },
+    "room_aliases": {
+      "value": {
+        "펜트리": "팬트리",
+        "주방": "주방/식당"
+      },
+      "status": "proposed",
+      "note": "실명 표기 정규화"
+    }
+  },
+  "walls": {
+    "_owner": "unit-plan-walls",
+    "assemblies": {
+      "value": [
+        {
+          "id": "RC-EXT",
+          "role": "wall.concrete",
+          "core_mm": null,
+          "use": "외벽 구조벽",
+          "finish_in_mm": null,
+          "finish_out_mm": null
+        },
+        {
+          "id": "RC-PARTY",
+          "role": "wall.concrete",
+          "core_mm": null,
+          "use": "세대간벽",
+          "finish_in_mm": null,
+          "finish_out_mm": null
+        },
+        {
+          "id": "RC-INT",
+          "role": "wall.concrete",
+          "core_mm": null,
+          "use": "세대 내 구조벽",
+          "finish_in_mm": null,
+          "finish_out_mm": null
+        },
+        {
+          "id": "MAS",
+          "role": "wall.masonry",
+          "core_mm": null,
+          "use": "조적 칸막이",
+          "finish_in_mm": null,
+          "finish_out_mm": null
+        },
+        {
+          "id": "DRY",
+          "role": "wall.drywall",
+          "core_mm": null,
+          "use": "경량(건식) 칸막이",
+          "finish_in_mm": null,
+          "finish_out_mm": null
+        }
+      ],
+      "status": "unresolved",
+      "note": "두께는 관찰값으로 채우지 않는다. 관찰: RC 180~250, 경량 stud80 등 프로젝트별 상이"
+    },
+    "assignment": {
+      "value": "by_rule",
+      "status": "proposed",
+      "note": "by_rule(외곽=RC-EXT, 세대경계=RC-PARTY, 내부=DRY) | explicit(벽 ID별 지정)"
+    },
+    "show_concrete_hatch": {
+      "value": null,
+      "status": "unresolved",
+      "note": "RC 단면 해치 표시 여부"
+    },
+    "overrides": {
+      "value": {},
+      "status": "proposed",
+      "note": "참고 세대 실행기: 자동 실측이 틀린 벽만 \"H:7090\": [lo, hi, \"RC|MAS|DRY\"]로 지정"
+    },
+    "party_axes": {
+      "value": [],
+      "status": "unresolved",
+      "note": "세대간벽 축 [[\"V\", 0], ...]. 반대쪽 절반은 이웃 세대가 그림 → 측정된 쪽을 대칭으로"
+    }
+  },
+  "insulation": {
+    "_owner": "unit-plan-insulation",
+    "method": {
+      "value": null,
+      "status": "unresolved",
+      "note": "internal(내단열) | external(외단열)"
+    },
+    "by_exposure": {
+      "value": {
+        "exterior_direct": null,
+        "exterior_indirect": null,
+        "core": null,
+        "party_wall": 0
+      },
+      "status": "unresolved",
+      "note": "mm. 청주: 직접 155, 간접 110, 코어 110(가정), 세대간 0"
+    },
+    "material": {
+      "value": null,
+      "status": "unresolved",
+      "note": "예: 비드법보온판2종1호, 경질우레탄보온판2종2호"
+    },
+    "dewproofing": {
+      "value": {
+        "width_mm": null,
+        "thickness_mm": null,
+        "where": "외벽 접합 내벽/슬래브 단부"
+      },
+      "status": "unresolved",
+      "note": "관찰: W450, THK20"
+    },
+    "symbol": {
+      "value": "repeat_curve",
+      "status": "proposed",
+      "note": "repeat_curve(INSUL 반복곡선) | hatch_dash | hatch_ansi37"
+    }
+  },
+  "doors": {
+    "_owner": "unit-plan-doors",
+    "rules": {
+      "value": [
+        {
+          "room": "현관",
+          "to": "__core__",
+          "width": null,
+          "swing": "out",
+          "position": "center"
+        },
+        {
+          "room": "침실1",
+          "to": [
+            "거실",
+            "주방/식당",
+            "현관"
+          ],
+          "width": null,
+          "position": "corner"
+        },
+        {
+          "room": "팬트리",
+          "to": [
+            "주방/식당",
+            "거실",
+            "현관"
+          ],
+          "width": null,
+          "position": "center"
+        },
+        {
+          "room": "드레스룸",
+          "to": [
+            "침실1"
+          ],
+          "type": "open"
+        },
+        {
+          "room": "하향식피난구",
+          "to": [
+            "발코니1"
+          ],
+          "width": null,
+          "type": "sliding",
+          "position": "entry",
+          "jamb": 150
+        }
+      ],
+      "status": "unresolved",
+      "note": "to = 연결 후보(우선순위 순). position corner|center|entry. type swing|sliding|open. 청주 폭: 현관 1100, 침실 900, 팬트리 800, 피난구 750"
+    },
+    "jamb": {
+      "value": 100,
+      "status": "proposed",
+      "note": "모서리 벽면 → 개구부. 원본 측정 근거: 문틀 외곽까지 60~120 + 문틀 약 40"
+    },
+    "corridor_max": {
+      "value": 1800,
+      "status": "proposed",
+      "note": "문 앞 폭이 이 이하면 복도·홀로 보고 우선(코어·샤프트 쪽 문 제외)"
+    },
+    "corridor_tie": {
+      "value": "living",
+      "status": "proposed",
+      "note": "홀에 면한 후보 동률 시: living | entry | far_entry | rc_wall"
+    },
+    "block_library": {
+      "value": null,
+      "status": "proposed",
+      "note": "문 블록 DWG. 없으면 직접 그림(authored)"
+    }
+  },
+  "windows": {
+    "_owner": "unit-plan-windows",
+    "rules": {
+      "value": [
+        {
+          "room": "거실",
+          "side": null,
+          "width": null,
+          "type": "double"
+        },
+        {
+          "room": "하향식피난구",
+          "side": null,
+          "width": 1000,
+          "type": "outdoor_unit",
+          "facing": "exterior"
+        }
+      ],
+      "status": "unresolved",
+      "note": "실별 side(N/S/E/W, 도면 +y=N)·width·type. 같은 실 여러 줄 = 창 여러 개"
+    },
+    "widths_mm": {
+      "value": [
+        1000,
+        1500,
+        1800,
+        3600
+      ],
+      "status": "proposed",
+      "note": "width 미지정 시 (구간-600) 이하 최대"
+    },
+    "tag_scheme": {
+      "value": null,
+      "status": "unresolved",
+      "note": "창호부호 형식(미구현)"
+    }
+  },
+  "bathroom": {
+    "_owner": "unit-plan-bathroom",
+    "system": {
+      "value": null,
+      "status": "unresolved",
+      "note": "ubr | wet(습식 규칙은 미구현)"
+    },
+    "rules": {
+      "value": [
+        {
+          "room": "욕실1",
+          "body": null,
+          "panel": null,
+          "door_to": [
+            "현관",
+            "거실",
+            "주방/식당"
+          ],
+          "door_width": 800
+        },
+        {
+          "room": "욕실2",
+          "body": null,
+          "panel": null,
+          "door_to": [
+            "드레스룸",
+            "침실1"
+          ],
+          "door_width": 800
+        }
+      ],
+      "status": "unresolved",
+      "note": "body = UBR 본체 블록, panel = 외곽·문 패널 블록(AA-XXXX-UBR). 원본 인스턴스에서 측정"
+    },
+    "panel_dumps": {
+      "value": {},
+      "status": "proposed",
+      "note": "panel 블록 → dump-block.lsp 덤프 파일"
+    }
+  },
+  "kitchen_furniture": {
+    "_owner": "unit-plan-kitchen-furniture",
+    "room": {
+      "value": "주방/식당",
+      "status": "proposed"
+    },
+    "layout": {
+      "value": null,
+      "status": "unresolved",
+      "note": "I | L"
+    },
+    "depth": {
+      "value": 650,
+      "status": "proposed"
+    },
+    "arrangement": {
+      "value": "cooktop_window",
+      "status": "proposed",
+      "note": "I형: cooktop_window(쿡탑=창 쪽, 싱크=living 쪽) | sink_window"
+    },
+    "living": {
+      "value": [
+        "거실"
+      ],
+      "status": "proposed"
+    },
+    "gap": {
+      "value": 600,
+      "status": "proposed"
+    },
+    "corner_offset": {
+      "value": 400,
+      "status": "proposed",
+      "note": "L형: 코너(depth×depth) 비운 뒤 싱크·쿡탑까지"
+    },
+    "l_sink_leg": {
+      "value": "secondary",
+      "status": "proposed",
+      "note": "L형: secondary(싱크=꺾이는 벽) | primary"
+    },
+    "fridge_position": {
+      "value": "outside",
+      "status": "proposed",
+      "note": "outside(미작도) | counter_far_end | pantry"
+    },
+    "blocks": {
+      "value": {
+        "sink": null,
+        "cooktop": null,
+        "table": null
+      },
+      "status": "unresolved",
+      "note": "원본 인스턴스로 방향 측정. 없으면 lib_dumps"
+    },
+    "washer": {
+      "value": {
+        "block": null,
+        "room": null,
+        "priority": "exterior_first",
+        "water_points": []
+      },
+      "status": "unresolved",
+      "note": "priority exterior_first | water_first. water_points = 수전·배수 좌표(설비 입력)"
+    },
+    "furniture_level": {
+      "value": "indicative",
+      "status": "proposed",
+      "note": "none | indicative | full (미구현)"
+    }
+  },
+  "finish": {
+    "_owner": "unit-plan-finish",
+    "finish_line": {
+      "value": true,
+      "status": "proposed",
+      "note": "마감선 표시"
+    },
+    "floor_pattern": {
+      "value": {
+        "bathroom": null,
+        "balcony": null,
+        "entrance": null
+      },
+      "status": "unresolved",
+      "note": "관찰: _USER s300 타일격자, NET"
+    },
+    "material_hatch": {
+      "value": {},
+      "status": "unresolved",
+      "note": "material → {pattern, scale, angle}. unit-plan-standards 기본표 참고"
+    }
+  },
+  "dimensions": {
+    "_owner": "unit-plan-dimensions",
+    "chains": {
+      "value": [
+        "mc_overall",
+        "mc_segment",
+        "clear"
+      ],
+      "status": "proposed",
+      "note": "mc_overall | mc_segment | clear(안목) | exterior | opening"
+    },
+    "dimstyle_mc": {
+      "value": null,
+      "status": "unresolved",
+      "note": "관찰: MCDIM-50, MCDIM_40"
+    },
+    "dimstyle_clear": {
+      "value": null,
+      "status": "unresolved",
+      "note": "관찰: HAUD-안목치수, HAUD-100, DIM-50"
+    },
+    "offsets_mm": {
+      "value": {
+        "first": null,
+        "between": null
+      },
+      "status": "unresolved",
+      "note": "도면 축척 기준 치수선 간격"
+    }
+  },
+  "annotation": {
+    "_owner": "unit-plan-annotation",
+    "room_name_height": {
+      "value": null,
+      "status": "unresolved",
+      "note": "관찰 120~150 (1/50 기준)"
+    },
+    "show_area": {
+      "value": false,
+      "status": "proposed"
+    },
+    "level_marks": {
+      "value": false,
+      "status": "proposed"
+    },
+    "notes": {
+      "value": [],
+      "status": "proposed"
+    },
+    "sheet": {
+      "value": null,
+      "status": "proposed",
+      "note": "도곽 DWG/블록 경로와 표제 정보"
+    }
+  }
+}

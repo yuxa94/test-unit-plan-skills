@@ -1,0 +1,1013 @@
+MS			8407
+X		XREF-수색4 준공 도면폼 => ..\x-ref(수4건축)\XREF-수색4 준공 도면폼.dwg	0
+L	0	c=7 lt=Continuous lw=-3	0
+L	AA-XXXX-DIMS	c=7 lt=Continuous lw=-3	0
+L	defpoints	c=151 lt=Continuous lw=-3 OFF	0
+L	BL-PL	c=7 lt=Continuous lw=-3	0
+L	BLOCK	c=7 lt=Continuous lw=-3	0
+L	AA-XXXX-CNTL	c=1 lt=CEN lw=-3	0
+L	AA-BORD-FORM	c=7 lt=Continuous lw=-3	0
+L	AA-XXXX-SYMB	c=7 lt=Continuous lw=-3	0
+L	AA-WAXM-CONC	c=2 lt=Continuous lw=-3	0
+L	AA-DWXM-DOOR	c=4 lt=Continuous lw=-3	0
+L	AA-XXXX-FUR-NOMO	c=4 lt=Continuous lw=-3	0
+L	AA-DWXM-WIND	c=4 lt=Continuous lw=-3	0
+L	AA-XXXX-DOOR	c=4 lt=Continuous lw=-3	0
+L	AA-FFXM-KICH	c=4 lt=Continuous lw=-3	0
+L	AA-XXXX-ELE	c=4 lt=Continuous lw=-3	0
+L	AA-SSXM-STRS	c=4 lt=Continuous lw=-3	0
+L	AA-XXXX-ELEV	c=4 lt=Continuous lw=-3	0
+L	AA-FFXM-SANI	c=6 lt=Continuous lw=-3	0
+L	AA-FLXK-OPEN	c=9 lt=Continuous lw=-3	0
+L	AA-WAXM-BRCK	c=3 lt=Continuous lw=-3	0
+L	AA-WAXS	c=4 lt=Continuous lw=-3	0
+L	AA-WAXS-FINL	c=9 lt=Continuous lw=-3	0
+L	AA-FLXK-PAT1	c=8 lt=Continuous lw=-3	0
+L	AA-XXXX-MC	c=135 lt=Continuous lw=-3	0
+L	AA-WAXM-GYPB	c=6 lt=Continuous lw=-3	0
+L	AA-BORD-TEXT	c=3 lt=Continuous lw=-3	0
+L	DEFPOINT	c=153 lt=Continuous lw=-3 OFF	0
+L	AA-SSXS	c=6 lt=Continuous lw=-3	0
+L	AA-EL-PCN7	c=7 lt=Continuous lw=-3	0
+L	AA-XXXX-PATT	c=8 lt=Continuous lw=-3	0
+L	AA-XXXX-FUR-HID	c=5 lt=HID lw=-3	0
+L	AA-FFXM-CLEN	c=6 lt=Continuous lw=-3	0
+L	AA-XXXX-FUR1	c=4 lt=Continuous lw=-3	0
+L	AA-FLXK-PATT	c=8 lt=Continuous lw=-3	0
+L	AA-CEXM-ARCH	c=9 lt=HID lw=-3	0
+L	AA-XXXX-INSL	c=8 lt=Continuous lw=-3	0
+L	AA-CEXS	c=4 lt=HID lw=-3	0
+L	AA-XXXX-ETC	c=6 lt=Continuous lw=-3	0
+L	AA-XXXX-INS	c=8 lt=Continuous lw=-3	0
+L	AA-MKXS	c=7 lt=Continuous lw=-3	0
+L	발코니삭제	c=1 lt=HID lw=-3	0
+L	AA-XXXX-PAT2	c=5 lt=Continuous lw=-3	0
+L	AA-XXXX-TEXT	c=3 lt=Continuous lw=-3	0
+L	AA-XXXX-KEY(APT)	c=3 lt=Continuous lw=-3	0
+L	AA-XXXX-KEYMAP	c=7 lt=Continuous lw=-3	0
+L	AA-XXXX-SITE	c=2 lt=PHANTOM lw=-3	0
+L	구역의범위	c=1 lt=PHANTOM2 lw=-3	0
+L	AA-XXXX-252	c=252 lt=Continuous lw=-3	0
+L	AA-XXXX-PAT3	c=8 lt=Continuous lw=-3	0
+L	AA-DWXM-OTHR	c=7 lt=Continuous lw=-3	0
+L	AA-XXXX-SYM2	c=7 lt=WIREMESH lw=-3	0
+L	AA-XXXX-KEYPLAN	c=8 lt=Continuous lw=-3	0
+L	AA-XXXX-HIDL	c=1 lt=HID lw=-3	0
+L	AA-XXXX-SITE(조경)	c=8 lt=Continuous lw=-3	0
+L	AA-XXXX-하부근생라인	c=6 lt=Continuous lw=-3	0
+L	AA-XXXX-SITE(시설물)	c=7 lt=Continuous lw=-3	0
+L	AA-XXXX-SITE(해치)	c=251 lt=Continuous lw=-3	0
+L	AA-XXXX-오픈형난간	c=4 lt=Continuous lw=-3	0
+L	20170222 2차 수정	c=10 lt=Continuous lw=-3	0
+L	인테리어 신발장	c=6 lt=Continuous lw=-3	0
+L	인테리어 경량벽체	c=4 lt=Continuous lw=-3	0
+L	인테리어 현관재료분리	c=4 lt=Continuous lw=-3	0
+L	인테리어 드레스룸가구	c=6 lt=HID lw=-3	0
+L	AA-XXXX-CRC보드	c=5 lt=Continuous lw=-3	0
+L	AA-XXXX-조적해치	c=8 lt=Continuous lw=-3	0
+L	INSUL	c=8 lt=Continuous lw=-3	0
+L	AA-XXXX-선택형	c=7 lt=Continuous lw=-3	0
+L	2020년 준공 수정체크	c=2 lt=Continuous lw=-3	0
+L	XREF1$0$건축-위생(기구)	c=4 lt=Continuous lw=-3	0
+L	1-바닥(스리브)	c=4 lt=Continuous lw=-3	0
+L	2-배관명	c=2 lt=Continuous lw=-3	0
+L	1-바닥(입상단면)	c=4 lt=Continuous lw=-3	0
+L	건축-위생(기구)	c=4 lt=Continuous lw=-3	0
+L	건축(84A)$0$건축-위생(기구)	c=4 lt=Continuous lw=-3	0
+L	건축(84B)$0$건축-위생(기구)	c=4 lt=Continuous lw=-3	0
+L	건축(84C)$0$건축-위생(기구)	c=4 lt=Continuous lw=-3	0
+L	건축(99A)$0$건축-위생(기구)	c=4 lt=Continuous lw=-3	0
+L	건축(99B)$0$건축-위생(기구)	c=4 lt=Continuous lw=-3	0
+L	건축(114A)$0$건축-위생(기구)	c=4 lt=Continuous lw=-3	0
+L	XREF-수색4 준공 도면폼|AA-XXXX-DIMS	c=7 lt=Continuous lw=-3	0
+L	XREF-수색4 준공 도면폼|AA-BORD-FORM	c=7 lt=Continuous lw=-3	0
+L	XREF-수색4 준공 도면폼|AA-BORD-TEXT	c=3 lt=Continuous lw=-3	0
+L	XREF-수색4 준공 도면폼|DEFPOINT	c=153 lt=Continuous lw=-3	0
+L	XREF-수색4 준공 도면폼|XR-FORM 증산2 (A)$0$AA-BORD-FORM	c=7 lt=Continuous lw=-3	0
+L	XREF-수색4 준공 도면폼|XR-FORM 증산2 (A)$0$AA-BORD-TEXT	c=3 lt=Continuous lw=-3	0
+DS		HAUD-외부(50)	0
+DS		STANDARD	0
+DS		HAUD-안목치수-1	0
+DS		HAUD-안목치수	0
+T	AA-XXXX-DIMS	\A1;3600 |h=150 |st=HAUD02	2
+T	AA-XXXX-DIMS	\A1;12040 |h=150 |st=HAUD02	2
+T	AA-XXXX-DIMS	\A1;9490 |h=150 |st=HAUD02	2
+T	AA-XXXX-DIMS	\A1;1840 |h=150 |st=HAUD02	2
+T	AA-XXXX-DIMS	\A1;1500 |h=150 |st=HAUD02	2
+T	AA-XXXX-DIMS	\A1;7590 |h=150 |st=HAUD02	2
+T	AA-XXXX-DIMS	\A1;2915 |h=150 |st=HAUD02	2
+T	AA-XXXX-DIMS	\A1;2700 |h=150 |st=HAUD02	4
+T	AA-XXXX-DIMS	\A1;10140 |h=150 |st=HAUD02	2
+T	AA-XXXX-DIMS	\A1;6710 |h=150 |st=HAUD02	4
+T	AA-XXXX-DIMS	\A1;3205 |h=150 |st=HAUD02	2
+T	AA-XXXX-DIMS	\A1;3000 |h=150 |st=HAUD02	4
+T	AA-XXXX-DIMS	\A1;4800 |h=150 |st=HAUD02	1
+E	AA-XXXX-DIMS	Polyline	42
+T	AA-XXXX-DIMS	\A1;5020 |h=150 |st=HAUD02	2
+T	AA-XXXX-DIMS	\A1;2705 |h=150 |st=HAUD02	1
+E	AA-XXXX-DIMS	Circle	42
+B	AA-XXXX-DIMS	DIMDOT	21
+T	AA-XXXX-DIMS	\A1;2500 |h=150 |st=HAUD02	1
+E	AA-XXXX-DIMS	MText	35
+LT	AA-XXXX-DIMS	ByBlock	7
+B	AA-XXXX-DIMS	_Oblique	7
+LT	AA-XXXX-DIMS	ByLayer	193
+E	AA-XXXX-DIMS	Line	116
+D	AA-XXXX-DIMS	HAUD-외부(50) RotatedDimension	494
+D	AA-XXXX-DIMS	HAUD-안목치수 RotatedDimension	402
+D	AA-XXXX-DIMS	HAUD-안목치수-1 RotatedDimension	206
+E	AA-XXXX-DIMS	RotatedDimension	1102
+B	0	114싱크-1	1
+B	0	99b싱크-3	1
+B	0	99b싱크-2	2
+B	0	99a싱크-1	2
+B	0	84c싱크-2	1
+B	0	84c싱크-1	2
+B	0	84b싱크-2	2
+B	0	84b싱크-1	2
+B	0	84싱크	2
+B	0	59싱크-1	1
+B	0	A$C4421017E	26
+B	0	59싱크	1
+B	0	49싱크	2
+B	0	A$C6FED1B08	33
+B	0	A$C4FF72BE6	7
+B	AA-FFXM-KICH	XREF1$0$씽크볼	4
+E	XREF1$0$건축-위생(기구)	Circle	24
+B	0	A$C19CD4CAD	2
+T	AA-XXXX-TEXT	4.1~3층 홈통 3개소, 4층이상 홈통 2개소 설치. |h=120 |st=HAUD02	2
+T	AA-XXXX-TEXT	1.세대내부 마감은 견본주택 기준 적용할 것.  |h=120 |st=HAUD02	16
+T	AA-XXXX-TEXT	2.단열재의 종류는 형별성능내역 참조할 것.  |h=120 |st=HAUD02	16
+T	AA-XXXX-TEXT	3.천정상부 미장제외. |h=120 |st=HAUD02	16
+B	AA-XXXX-TEXT	A$C17497B88	16
+B	0	XREF-수색4 준공 도면폼	16
+LT	INSUL	ByLayer	2
+E	INSUL	Polyline	2
+T	AA-XXXX-TEXT	② |h=350 |st=HAUD02	6
+T	AA-XXXX-TEXT	① |h=350 |st=HAUD02	6
+LT	AA-XXXX-선택형	ByLayer	12
+T	AA-MKXS	84㎡B-1 <110동, 112동 대피공간> |h=180 |st=HAUD02	2
+LT	AA-XXXX-선택형	HID	12
+E	AA-XXXX-선택형	Polyline	24
+T	AA-MKXS	15인승 |h=120 |st=HAUD02	1
+T	AA-MKXS	AV |h=120 |st=HAUD02	5
+T	AA-MKXS	장애인용/비상용겸용 |h=120 |st=HAUD02	16
+T	AA-MKXS	ELEV. |h=120 |st=HAUD02	15
+T	AA-MKXS	UP |h=120 |st=HAUD02	10
+T	AA-MKXS	DN |h=120 |st=HAUD02	12
+T	AA-MKXS	EPS/TPS |h=120 |st=HAUD02	13
+T	AA-MKXS	AD/PS |h=120 |st=HAUD02	1
+T	AA-MKXS	ST |h=120 |st=HAUD02	13
+E	AA-MKXS	Polyline	239
+LT	AA-MKXS	ByLayer	239
+B	AA-MKXS	실명코드	237
+T	AA-MKXS	AV/PS |h=120 |st=HAUD02	10
+T	AA-MKXS	AD |h=120 |st=HAUD02	11
+T	AA-MKXS	실외기 |h=120 |st=HAUD02	22
+T	AA-MKXS	PS |h=120 |st=HAUD02	125
+E	AA-MKXS	Text	256
+E	AA-XXXX-오픈형난간	Line	32
+T	DEFPOINT	114㎡ |h=8000 |st=HAUD02	1
+T	DEFPOINT	99㎡B |h=8000 |st=HAUD02	1
+T	DEFPOINT	99㎡A |h=8000 |st=HAUD02	1
+T	DEFPOINT	84㎡C |h=8000 |st=HAUD02	1
+T	DEFPOINT	84㎡B |h=8000 |st=HAUD02	1
+T	DEFPOINT	84㎡A |h=8000 |st=HAUD02	1
+T	DEFPOINT	59㎡ |h=8000 |st=HAUD02	1
+T	DEFPOINT	49㎡ |h=8000 |st=HAUD02	1
+T	DEFPOINT	39㎡ |h=8000 |st=HAUD02	1
+E	DEFPOINT	Text	9
+LT	AA-XXXX-조적해치	ByLayer	1
+E	AA-XXXX-조적해치	Polyline	1
+B	BL-PL	중심모듈	284
+T	발코니삭제	하향식 |h=150 |st=HAUD02	4
+E	AA-XXXX-SYM2	Line	2
+B	BL-PL	84B+84A(110)	2
+T	defpoints	84B+84A(110) |h=100 |st=HAUD02	2
+B	BL-PL	110동 코아-2	1
+T	defpoints	110동 코아-2 |h=100 |st=HAUD02	1
+B	BL-PL	110_TF	1
+T	발코니삭제	피난사다리 |h=150 |st=HAUD02	4
+B	AA-WAXM-GYPB	A$C27227C4C	2
+B	BL-PL	84B-1(112)	2
+T	AA-XXXX-TEXT	84㎡B, B-1 단위세대 평면도(확장형) |h=350 |st=HAUD02	1
+T	AA-XXXX-TEXT	84㎡B, B-1 단위세대 평면도(기본형) |h=350 |st=HAUD02	1
+B	BL-PL	84B(108_확장)(선택형)	1
+T	AA-XXXX-KEYMAP	111,112,113,114동 |h=150 |st=HAUD02	2
+T	AA-XXXX-KEYMAP	105,108,109,110 |h=150 |st=HAUD02	2
+T	AA-XXXX-KEYMAP	84㎡B형-211세대 |h=150 |st=HAUD02	2
+H	AA-XXXX-PAT3	DASH s=10 a=270	1
+H	AA-XXXX-PAT3	DASH s=10 a=-90	23
+B	0	84B(108)오픈형발코니	1
+B	0	A$C28624CF0	1
+B	0	A$C338919A1	1
+B	0	A$C55807953	1
+B	0	A$C7DFF2E67	1
+H	AA-FLXK-PATT	_USER s=300 a=90	1
+B	0	외-단창 -950	1
+B	0	A$C2DE46C46	1
+B	0	84 오픈형발코니	1
+B	BL-PL	84B(108_확장) 오픈형발코니	1
+B	BL-PL	114(확장)(선택형)	1
+B	BL-PL	99B(확장)(선택형)	1
+B	BL-PL	99A(확장)(선택형)	1
+B	BL-PL	84C(확장)(선택형)	1
+T	AA-XXXX-TEXT	(선택형) |h=350 |st=HAUD02	6
+LT	0	HID	6
+B	BL-PL	84A(확장)중간세대(선택형)	1
+E	AA-DWXM-OTHR	Polyline	491
+LT	AA-DWXM-OTHR	ByLayer	726
+T	AA-XXXX-TEXT	선홈통 |h=125 |st=HAUD02	32
+T	AA-XXXX-TEXT	냉,온수전설치 |h=125 |st=HAUD02	30
+T	AA-XXXX-TEXT	수전 및 FD 설치 |h=125 |st=HAUD02	2
+T	AA-XXXX-TEXT	FD 설치 |h=125 |st=HAUD02	16
+T	AA-XXXX-TEXT	수전설치 |h=125 |st=HAUD02	14
+E	AA-DWXM-OTHR	Line	235
+T	AA-XXXX-TEXT	국기게양대 설치 |h=125 |st=HAUD02	16
+T	AA-XXXX-TEXT	THK20 단열재 |h=125 |st=HAUD02	28
+T	AA-XXXX-TEXT	THK4.5 CRC보드/지정도장 |h=125 |st=HAUD02	28
+T	AA-XXXX-TEXT	THK9.5 석고보드/벽지 |h=125 |st=HAUD02	86
+T	AA-XXXX-TEXT	THK120 단열재 |h=125 |st=HAUD02	49
+T	AA-XXXX-TEXT	THK85 단열재 |h=125 |st=HAUD02	24
+T	AA-XXXX-TEXT	결로방지용단열재 |h=125 |st=HAUD02	45
+T	AA-XXXX-TEXT	상부커텐박스 |h=125 |st=HAUD02	38
+T	AA-XXXX-TEXT	THK145 단열재 |h=125 |st=HAUD02	13
+B	AA-XXXX-CRC보드	우오수	1
+H	AA-XXXX-조적해치	_USER s=60 a=0	7
+H	AA-XXXX-PAT2	_USER s=60 a=45	1
+E	AA-XXXX-PAT2	Hatch	1
+E	AA-XXXX-INSL	Polyline	5
+B	AA-XXXX-INSL	insul1	3
+E	AA-XXXX-INSL	MInsertBlock	1088
+H	AA-XXXX-조적해치	_USER s=60 a=45	287
+E	AA-XXXX-조적해치	Hatch	294
+B	BL-PL	84A 오픈형발코니	1
+B	BL-PL	114 오픈형발코니	2
+B	BL-PL	84A(중간세대)-오픈형발코니	1
+B	BL-PL	105동 코아-2	1
+T	defpoints	105동 코아-2 |h=100 |st=HAUD02	1
+T	defpoints	9~25층 이하 |h=125 |st=HAUD02	1
+T	defpoints	2100X2350(기계실 유) |h=125 |st=HAUD02	1
+B	BL-PL	115_TF	1
+B	BL-PL	49_측세대2	4
+B	BL-PL	A$C2A1E5ADF	6
+B	BL-PL	A$C276A37CB	6
+B	BL-PL	49_측세대1	2
+B	BL-PL	106동 코아-1	2
+T	defpoints	1800 |h=40 |st=HAUD02	4
+B	AA-DWXM-DOOR	방화문(1800)	4
+B	BLOCK	AW-1800	24
+B	BL-PL	49+39(106)-a	2
+B	BL-PL	49+39(106)-b	4
+B	BL-PL	106_TF	2
+LT	AA-XXXX-오픈형난간	ByLayer	174
+E	AA-XXXX-오픈형난간	Polyline	142
+B	BL-PL	101동 코아-1	2
+T	defpoints	복도창-1920 |h=50 |st=HAUD02	4
+B	AA-DWXM-WIND	AW-1920	4
+T	defpoints	복도창-1870 |h=50 |st=HAUD02	4
+B	AA-DWXM-WIND	AW-1870	4
+B	BL-PL	101_TF	2
+B	BL-PL	49_측세대	3
+E	AA-FFXM-KICH	Point	24
+B	BL-PL	A$C62AA6A0B	9
+B	BL-PL	A$C32224FCF	32
+B	BL-PL	A$C4D374F3F	32
+LT	XREF1$0$건축-위생(기구)	XREF1$0$HIDDEN	32
+E	XREF1$0$건축-위생(기구)	Polyline	64
+E	XREF1$0$건축-위생(기구)	Line	2522
+LT	XREF1$0$건축-위생(기구)	Continuous	1404
+LT	XREF1$0$건축-위생(기구)	XREF1$0$CENTER	78
+E	XREF1$0$건축-위생(기구)	Arc	476
+E	XREF1$0$건축-위생(기구)	Spline	260
+LT	XREF1$0$건축-위생(기구)	ByLayer	1572
+B	XREF1$0$건축-위생(기구)	XREF1$0$공용수건걸이	26
+E	AA-FLXK-PATT	Polyline	24
+B	BL-PL	A$C6A541838	12
+LT	AA-CEXM-ARCH	HID	116
+B	AA-DWXM-DOOR	A$C1BC804B3	32
+B	BL-PL	49+39(102)	1
+T	defpoints	49+39형(102동) |h=100 |st=HAUD02	7
+B	BL-PL	39	11
+E	AA-FLXK-PAT1	Polyline	40
+B	BL-PL	A$C72E21A50	22
+B	BL-PL	39_측세대	9
+B	BL-PL	49	3
+B	BL-PL	A$C43E53208	3
+B	BL-PL	102동 코아-1	1
+T	defpoints	복도창-1800 |h=50 |st=HAUD02	26
+B	AA-DWXM-WIND	AW-1800	2
+T	defpoints	UP |h=120 |st=HAUD02	1
+T	defpoints	DN |h=120 |st=HAUD02	1
+T	defpoints	ELEV홀 |h=150 |st=HAUD02	3
+B	AA-XXXX-ELEV	A$C3E8F75E1	4
+B	AA-DWXM-DOOR	방화문(1500)	3
+T	defpoints	1500 |h=40 |st=HAUD02	3
+B	AA-DWXM-DOOR	A$C32F227FE	3
+T	defpoints	복도창-1930 |h=50 |st=HAUD02	3
+B	AA-EL-PCN7	AW-1930	3
+B	BL-PL	102_TF	1
+B	BL-PL	84B(109)	1
+B	BL-PL	84C+84B(109)	2
+T	defpoints	84C+84B(109) |h=100 |st=HAUD02	2
+B	BL-PL	109동 코아-2	1
+B	BL-PL	ELEV(15인승)	2
+B	BL-PL	84B+59(109)	1
+T	defpoints	84B+59(109) |h=100 |st=HAUD02	1
+B	BL-PL	109동 코아-1	3
+B	BL-PL	109-111_TF	1
+B	BL-PL	84C(확장)	3
+B	BL-PL	A$C04E30504	4
+B	BL-PL	84B(108_확장)	2
+B	0	108동 코아-2	2
+B	BL-PL	108동 코아-1	4
+B	BL-PL	A$C57F5578E	6
+B	BL-PL	108동 코아-2	3
+B	AA-XXXX-ELEV	ELEV(17인승)MRL	5
+B	BL-PL	84C	6
+B	AA-DWXM-WIND	외-단창 -950	9
+B	AA-DWXM-WIND	외-이중-1000	9
+B	AA-DWXM-WIND	대피공간-단창중_1250	9
+B	BL-PL	84B+84A(108동)	5
+T	defpoints	84B+84A(108동) |h=100 |st=HAUD02	5
+B	BL-PL	108_TF	3
+B	BL-PL	99A	1
+B	BL-PL	84B	2
+H	AA-FLXK-PATT	_USER s=300 a=-90	2
+B	BL-PL	113동 코아-1	1
+B	BL-PL	84A+59(110)	2
+B	BL-PL	A$C491A0CB3	13
+B	BL-PL	A$C34AB24EB	13
+B	BL-PL	A$C48973D99	13
+B	BL-PL	A$C0DA73AAD	13
+T	defpoints	84A+59(110) |h=100 |st=HAUD02	2
+B	BL-PL	59(중간세대)	4
+B	AA-DWXM-WIND	외-단창 -2700	10
+T	defpoints	창-2700 |h=50 |st=HAUD02	10
+B	AA-DWXM-WIND	내-단창 -2700	10
+B	BL-PL	59	6
+B	BL-PL	59+59(113)	1
+T	defpoints	59+59(113) |h=100 |st=HAUD02	1
+B	BL-PL	113동 코아-2	1
+T	defpoints	113동 코아-2 |h=100 |st=HAUD02	1
+T	defpoints	PD |h=125 |st=HAUD02	4
+T	defpoints	ELEV홀 |h=125 |st=HAUD02	5
+T	defpoints	EPS/TPS |h=125 |st=HAUD02	3
+T	defpoints	AV/PD |h=125 |st=HAUD02	3
+T	defpoints	ST |h=125 |st=HAUD02	3
+LT	AA-FLXK-OPEN	HID	2
+E	AA-FLXK-OPEN	Polyline	2
+T	defpoints	15인승 |h=125 |st=HAUD02	3
+T	defpoints	9~30층 이하 |h=125 |st=HAUD02	2
+T	defpoints	(속도60~105) |h=125 |st=HAUD02	3
+T	defpoints	출입구 900 |h=125 |st=HAUD02	3
+T	defpoints	2350X2100(MRL) |h=125 |st=HAUD02	2
+B	BL-PL	113_TF	1
+B	BL-PL	99B	4
+B	BL-PL	114	2
+B	BL-PL	A$C63FC0305	4
+B	BL-PL	A$C5BF26E5F	4
+B	BL-PL	A$C08A06DA9	4
+B	BL-PL	A$C1F265452	4
+B	BL-PL	A$C7CBA4C3C	4
+LT	AA-EL-PCN7	ByLayer	4
+E	AA-EL-PCN7	Line	4
+T	defpoints	창-1200 |h=50 |st=HAUD02	4
+B	BL-PL	내-단창 -1200	4
+B	BL-PL	외-단창 -900	4
+B	BL-PL	104_TF	2
+E	AA-FLXK-PATT	MInsertBlock	6
+T	defpoints	59/19F |h=15 |st=HAUD02	16
+T	defpoints	19F |h=15 |st=HAUD02	48
+T	defpoints	84B/17F |h=15 |st=HAUD02	64
+T	defpoints	84C/17F |h=15 |st=HAUD02	64
+E	AA-XXXX-KEY(APT)	Line	8128
+LT	AA-XXXX-KEY(APT)	ByLayer	17120
+E	AA-XXXX-KEY(APT)	Polyline	8992
+T	defpoints	(-1) |h=15 |st=HAUD02	224
+T	defpoints	59/20F |h=15 |st=HAUD02	32
+T	defpoints	84B/25F |h=15 |st=HAUD02	16
+T	defpoints	25F |h=15 |st=HAUD02	32
+T	defpoints	84A/25F |h=15 |st=HAUD02	16
+T	defpoints	20F |h=15 |st=HAUD02	80
+T	defpoints	99A/24F |h=15 |st=HAUD02	16
+T	defpoints	84B/24F |h=15 |st=HAUD02	16
+T	defpoints	59/15F |h=15 |st=HAUD02	16
+T	defpoints	84A/20F |h=15 |st=HAUD02	16
+T	defpoints	(-2) |h=15 |st=HAUD02	16
+T	defpoints	24F |h=15 |st=HAUD02	16
+T	defpoints	59/18F |h=15 |st=HAUD02	64
+T	defpoints	18F |h=15 |st=HAUD02	80
+T	defpoints	84A/18F |h=15 |st=HAUD02	32
+T	defpoints	84B/16F |h=15 |st=HAUD02	16
+T	defpoints	84C/16F |h=15 |st=HAUD02	16
+T	defpoints	84A/17F |h=15 |st=HAUD02	16
+T	defpoints	17F |h=15 |st=HAUD02	48
+T	defpoints	12F |h=15 |st=HAUD02	64
+T	defpoints	59/12F |h=15 |st=HAUD02	16
+T	defpoints	7F |h=15 |st=HAUD02	64
+T	defpoints	59/7F |h=15 |st=HAUD02	16
+T	defpoints	49/17F |h=15 |st=HAUD02	64
+T	defpoints	39/12F |h=15 |st=HAUD02	16
+T	defpoints	16F |h=15 |st=HAUD02	16
+T	defpoints	39/17F |h=15 |st=HAUD02	16
+T	defpoints	84B/18F |h=15 |st=HAUD02	32
+T	defpoints	84A/19F |h=15 |st=HAUD02	16
+T	defpoints	114/25F |h=15 |st=HAUD02	16
+T	defpoints	99B/25F |h=15 |st=HAUD02	16
+T	defpoints	84A/12F |h=15 |st=HAUD02	16
+T	defpoints	11F |h=15 |st=HAUD02	16
+T	defpoints	39/11F |h=15 |st=HAUD02	16
+T	defpoints	49/12F |h=15 |st=HAUD02	16
+T	defpoints	39/7F |h=15 |st=HAUD02	16
+T	defpoints	19.00 |h=12 |st=HAUD04	16
+T	defpoints	21.00 |h=12 |st=HAUD04	16
+T	defpoints	18.00 |h=12 |st=HAUD04	16
+T	defpoints	종교시설 |h=20 |st=HAUD02	16
+T	defpoints	소방서 |h=20 |st=HAUD02	16
+T	defpoints	주민센터 |h=20 |st=HAUD02	16
+T	defpoints	소공원 |h=20 |st=HAUD02	16
+T	defpoints	공공청사 |h=20 |st=HAUD02	16
+E	AA-XXXX-SITE	Polyline	320
+LT	AA-XXXX-SITE	ByLayer	256
+E	구역의범위	Polyline	16
+LT	구역의범위	ByLayer	16
+LT	AA-XXXX-SITE	ByBlock	16
+LT	AA-XXXX-SITE	HID	48
+E	AA-XXXX-SITE	Text	16
+T	AA-XXXX-SITE	복지시설 |h=20 |st=HAUD02	16
+E	AA-XXXX-SITE(시설물)	Line	3168
+LT	AA-XXXX-SITE(시설물)	ByLayer	3376
+E	AA-XXXX-SITE(시설물)	Circle	16
+E	AA-XXXX-하부근생라인	Line	752
+LT	AA-XXXX-하부근생라인	ByLayer	752
+E	AA-XXXX-SITE(시설물)	Arc	192
+E	AA-XXXX-SITE(조경)	Line	2032
+LT	AA-XXXX-SITE(조경)	ByLayer	2304
+LT	AA-XXXX-SITE(조경)	HID	64
+E	AA-XXXX-SITE(조경)	Arc	336
+E	AA-XXXX-SITE(해치)	Line	304
+LT	AA-XXXX-SITE(해치)	ByLayer	304
+B	AA-XXXX-KEYMAP	전체_keyplan	16
+T	AA-XXXX-KEYMAP	111,112동 |h=150 |st=HAUD02	2
+T	AA-XXXX-KEYMAP	108,109,110 |h=150 |st=HAUD02	2
+T	AA-XXXX-KEYMAP	84㎡C형-79세대 |h=150 |st=HAUD02	2
+T	AA-XXXX-KEYMAP	99㎡B형-50세대 |h=150 |st=HAUD02	2
+T	AA-XXXX-KEYMAP	113동 |h=150 |st=HAUD02	2
+T	AA-XXXX-KEYMAP	99㎡A형-24세대 |h=150 |st=HAUD02	2
+T	AA-XXXX-KEYMAP	104동 |h=150 |st=HAUD02	4
+T	AA-XXXX-KEYMAP	114㎡형-25세대 |h=150 |st=HAUD02	2
+T	AA-XXXX-KEYMAP	110,113,114동 |h=150 |st=HAUD02	2
+T	AA-XXXX-KEYMAP	103,104,105,108, |h=150 |st=HAUD02	2
+T	AA-XXXX-KEYMAP	84㎡A형-182세대 |h=150 |st=HAUD02	2
+T	AA-XXXX-KEYMAP	111,112,113,114,115동 |h=150 |st=HAUD02	2
+T	AA-XXXX-KEYMAP	105,107,109,110 |h=150 |st=HAUD02	2
+T	AA-XXXX-KEYMAP	59㎡형-393세대 |h=150 |st=HAUD02	2
+T	AA-XXXX-KEYMAP	102,106동 |h=150 |st=HAUD02	1
+T	AA-XXXX-KEYMAP	49㎡형-106세대 |h=150 |st=HAUD02	1
+T	AA-XXXX-KEYMAP	KEY MAP |h=300 |st=HAUD02	16
+E	AA-XXXX-KEYMAP	Polyline	16
+T	AA-XXXX-KEYMAP	101,102,106동 |h=150 |st=HAUD02	1
+T	AA-XXXX-KEYMAP	39㎡형-122세대 |h=150 |st=HAUD02	1
+E	AA-XXXX-KEYMAP	Line	32
+T	AA-XXXX-KEYMAP	APT |h=150 |st=HAUD02	16
+E	AA-XXXX-KEYMAP	Text	72
+LT	AA-XXXX-KEYMAP	ByLayer	64
+E	AA-XXXX-KEYMAP	Circle	16
+LT	AA-XXXX-252	ByLayer	73
+E	AA-XXXX-252	Polyline	73
+LT	AA-XXXX-KEYPLAN	HIDDEN	65
+E	AA-XXXX-KEYPLAN	Polyline	65
+T	AA-XXXX-SYMB	17X23.4 |h=125 |st=HAUD02	1
+T	AA-XXXX-SYMB	12X11.4 |h=125 |st=HAUD02	2
+T	AA-XXXX-SYMB	12X24 |h=125 |st=HAUD02	1
+T	AA-XXXX-SYMB	12X15.9 |h=125 |st=HAUD02	2
+E	AA-XXXX-PAT3	MInsertBlock	1
+T	AA-XXXX-SYMB	7.5X22 |h=125 |st=HAUD02	6
+T	AA-XXXX-SYMB	10X11.4 |h=125 |st=HAUD02	4
+T	AA-XXXX-SYMB	16X24 |h=125 |st=HAUD02	4
+T	AA-XXXX-SYMB	9X11.4 |h=125 |st=HAUD02	6
+T	AA-XXXX-SYMB	39X21.1 |h=125 |st=HAUD02	6
+T	AA-XXXX-SYMB	39X24 |h=125 |st=HAUD02	3
+T	AA-XXXX-SYMB	12.5X11.4 |h=125 |st=HAUD02	12
+T	AA-XXXX-SYMB	18X25 |h=125 |st=HAUD02	7
+T	AA-XXXX-SYMB	36X21.1 |h=125 |st=HAUD02	6
+T	AA-XXXX-SYMB	36X24 |h=125 |st=HAUD02	3
+T	AA-XXXX-SYMB	9.5X11.4 |h=125 |st=HAUD02	6
+T	AA-XXXX-SYMB	18X15.9 |h=125 |st=HAUD02	21
+T	발코니삭제	(홀수층) |h=150 |st=HAUD02	10
+T	발코니삭제	(짝수층) |h=150 |st=HAUD02	8
+T	발코니삭제	오픈형 발코니 |h=150 |st=HAUD02	18
+E	AA-XXXX-SYM2	Hatch	22
+H	AA-XXXX-SYM2	SOLID s=1 a=0	22
+E	AA-XXXX-SYM2	Circle	22
+LT	AA-XXXX-SYM2	ByLayer	22
+B	AA-XXXX-SYM2	DFSDFSAFDAGH34	22
+LT	AA-XXXX-SYM2	ByBlock	22
+E	AA-XXXX-SYM2	Polyline	20
+T	발코니삭제	발코니 삭제 |h=150 |st=HAUD02	18
+E	발코니삭제	Text	62
+T	AA-XXXX-SYMB	15X25 |h=125 |st=HAUD02	1
+T	AA-XXXX-TEXT	114㎡ 단위세대 평면도(확장형) |h=350 |st=HAUD02	1
+B	0	104동 코아-1	1
+B	BL-PL	114(확장)	2
+E	INSUL	MInsertBlock	95
+B	BL-PL	104동 코아-1	3
+T	AA-XXXX-TEXT	99㎡B 단위세대 평면도(확장형) |h=350 |st=HAUD02	1
+T	AA-XXXX-TEXT	99㎡B 단위세대 평면도(기본형) |h=350 |st=HAUD02	1
+B	BL-PL	99A(확장)	1
+B	AA-XXXX-ELEV	ELEV(17인승)	16
+E	AA-XXXX-INS	Polyline	2
+B	0	A$C37397B36	2
+B	0	A$C244F74B0	2
+B	0	A$C3B1B7F54	3
+B	0	A$C7F7347B3	2
+B	0	A$C20486E33	3
+B	0	A$C5CAD4F49	2
+B	0	A$C680B7947	3
+LT	0	ByLayer	3
+E	0	Polyline	9
+B	0	A$C6FDA379F	2
+B	0	113동 코아-1	1
+LT	AA-FFXM-KICH	HID	2
+T	defpoints	84B(확장) |h=200 |st=HAUD02	2
+B	BL-PL	A$C77852833	2
+E	인테리어 드레스룸가구	Polyline	4
+B	BL-PL	84B(확장)	2
+T	AA-XXXX-TEXT	84㎡C 단위세대 평면도(확장형) |h=350 |st=HAUD02	1
+T	AA-XXXX-TEXT	84㎡C 단위세대 평면도(기본형) |h=350 |st=HAUD02	1
+T	AA-XXXX-TEXT	84㎡A 단위세대 평면도(확장형) |h=350 |st=HAUD02	1
+B	BL-PL	84A(확장)	2
+B	BL-PL	84A(확장)중간세대	8
+B	BL-PL	외부창(900)	7
+B	0	A$C57F5578E	1
+B	0	108동 코아-1	1
+E	발코니삭제	Line	50
+B	AA-XXXX-FUR1	침실 900	11
+B	BL-PL	84A(중간세대)	10
+B	BL-PL	A$C244F74B0	27
+B	BL-PL	A$C7F7347B3	27
+B	BL-PL	A$C5CAD4F49	27
+B	BL-PL	A$C6FDA379F	27
+B	BL-PL	84A	7
+B	BL-PL	59(확장)	2
+B	AA-DWXM-WIND	PD 2700	4
+T	defpoints	2700 |h=50 |st=HAUD02	14
+E	AA-WAXS-FINL	Polyline	38
+B	AA-DWXM-DOOR	A$C4DAB5D55	14
+B	BL-PL	A$C458A6309	16
+B	AA-XXXX-FUR-NOMO	A$C27227C4C	17
+T	defpoints	피난사다리 |h=100 |st=HAUD02	19
+B	BL-PL	A$C2F6B3B38	4
+E	건축-위생(기구)	Ellipse	6154
+B	BL-PL	59형(확장)중간세대	2
+B	AA-XXXX-ELEV	ELEV(15인승)	15
+T	defpoints	장애인용/비상용겸용 |h=125 |st=HAUD02	42
+T	defpoints	ELEV. |h=125 |st=HAUD02	42
+E	AA-XXXX-ELEV	Polyline	336
+LT	AA-XXXX-ELEV	ByLayer	2240
+E	AA-XXXX-ELEV	Line	1904
+B	AA-XXXX-SYMB	점형블럭(300X300)	74
+E	AA-XXXX-SYMB	Polyline	576
+E	AA-WAXS	Line	411
+B	AA-DWXM-DOOR	계단실 1100	31
+T	defpoints	1100 |h=40 |st=HAUD02	31
+E	AA-SSXM-STRS	Line	1581
+LT	AA-SSXM-STRS	ByLayer	2201
+E	AA-SSXM-STRS	Polyline	558
+E	AA-SSXM-STRS	Circle	62
+T	defpoints	DN |h=125 |st=HAUD02	22
+T	defpoints	UP |h=125 |st=HAUD02	22
+B	AA-DWXM-WIND	외부창(900)	14
+B	AA-DWXM-WIND	A$C57F5578E	14
+E	AA-FLXK-OPEN	Line	76
+LT	AA-FLXK-OPEN	ByLayer	76
+B	0	109동 코아-1	1
+T	AA-XXXX-SYMB	27X21.1 |h=125 |st=HAUD02	2
+T	AA-XXXX-SYMB	15X15.9 |h=125 |st=HAUD02	22
+T	AA-XXXX-SYMB	27X24 |h=125 |st=HAUD02	1
+T	AA-XXXX-SYMB	11X11.4 |h=125 |st=HAUD02	6
+T	AA-XXXX-SYMB	12X6 |h=125 |st=HAUD02	14
+T	AA-XXXX-SYMB	8.5X22 |h=125 |st=HAUD02	9
+T	AA-XXXX-SYMB	15X24 |h=125 |st=HAUD02	7
+T	AA-XXXX-SYMB	18X10.7 |h=125 |st=HAUD02	1
+T	AA-XXXX-SYMB	15X21.1 |h=125 |st=HAUD02	11
+T	AA-XXXX-SYMB	18X21.1 |h=125 |st=HAUD02	23
+T	AA-XXXX-SYMB	15X11.2 |h=125 |st=HAUD02	1
+T	AA-XXXX-SYMB	SD |h=125 |st=HAUD02	14
+T	AA-XXXX-SYMB	7X21 |h=125 |st=HAUD02	31
+T	AA-XXXX-SYMB	WD |h=125 |st=HAUD02	53
+T	AA-XXXX-SYMB	9X22 |h=125 |st=HAUD02	53
+T	AA-XXXX-SYMB	PW |h=125 |st=HAUD02	146
+T	AA-XXXX-SYMB	15X10.7 |h=125 |st=HAUD02	1
+T	AA-XXXX-SYMB	FSD |h=125 |st=HAUD02	35
+T	AA-XXXX-SYMB	10.2X22 |h=125 |st=HAUD02	18
+T	AA-XXXX-SYMB	ABSD |h=125 |st=HAUD02	34
+T	AA-XXXX-SYMB	7.5X21.3 |h=125 |st=HAUD02	34
+T	AA-XXXX-SYMB	AG |h=125 |st=HAUD02	20
+T	AA-XXXX-SYMB	10X22.6 |h=125 |st=HAUD02	20
+T	AA-XXXX-SYMB	PD |h=125 |st=HAUD02	55
+T	AA-XXXX-SYMB	18X24 |h=125 |st=HAUD02	12
+E	AA-XXXX-SYMB	Text	714
+T	AA-XXXX-TEXT	99㎡A 단위세대 평면도(확장형) |h=350 |st=HAUD02	1
+T	AA-XXXX-TEXT	99㎡A 단위세대 평면도(기본형) |h=350 |st=HAUD02	1
+T	AA-XXXX-TEXT	114㎡ 단위세대 평면도(기본형) |h=350 |st=HAUD02	1
+T	AA-XXXX-TEXT	84㎡A 단위세대 평면도(기본형) |h=350 |st=HAUD02	1
+T	AA-XXXX-TEXT	59㎡ 단위세대 평면도(기본형) |h=350 |st=HAUD02	1
+T	AA-XXXX-TEXT	59㎡ 단위세대 평면도(확장형) |h=350 |st=HAUD02	1
+T	AA-XXXX-TEXT	49㎡ 단위세대 평면도 |h=350 |st=HAUD02	1
+B	AA-BORD-FORM	표제란	16
+T	AA-XXXX-TEXT	축척 = 1/50 |h=150 |st=HAUD02	16
+T	AA-XXXX-TEXT	39㎡ 단위세대 평면도 |h=350 |st=HAUD02	1
+T	AA-XXXX-TEXT	A |h=150 |st=HAUD02	16
+T	AA-XXXX-TEXT	1 |h=150 |st=HAUD02	16
+E	AA-XXXX-TEXT	Text	553
+E	AA-XXXX-SYMB	Line	675
+LT	AA-XXXX-SYMB	ByLayer	3092
+E	AA-XXXX-SYMB	Circle	1841
+B	BL-PL	99B(확장)	4
+H	AA-XXXX-PAT3	DASH s=10 a=45	2
+H	AA-XXXX-PAT3	DASH s=10 a=0	134
+E	AA-XXXX-PAT3	Hatch	160
+LT	AA-XXXX-PAT3	ByLayer	155
+E	AA-XXXX-PAT3	Polyline	155
+B	BL-PL	A$C245847EA	3
+B	AA-FFXM-SANI	34A단위세대$0$ACC-PHP	6
+B	AA-FFXM-SANI	세면기	6
+B	AA-FFXM-SANI	양변기	6
+E	AA-FFXM-SANI	Polyline	60
+LT	AA-FFXM-SANI	ByLayer	1200
+B	AA-FFXM-SANI	DFSDFSDFDSFA331	3
+E	AA-FFXM-SANI	Circle	51
+E	AA-FFXM-SANI	Arc	582
+E	AA-FFXM-SANI	Line	507
+B	AA-FFXM-SANI	욕조	3
+B	BL-PL	욕실 1100X2300 샤워	3
+B	AA-FFXM-SANI	샤워	3
+B	AA-XXXX-FUR-NOMO	냉장고	3
+B	AA-FFXM-KICH	탁자 4인용	3
+E	AA-XXXX-FUR-NOMO	Ellipse	312
+B	AA-XXXX-FUR-NOMO	렌지 700	3
+E	AA-XXXX-FUR-NOMO	Circle	63
+B	AA-XXXX-FUR-NOMO	A$C456B1772	3
+LT	AA-XXXX-FUR-NOMO	ByBlock	21
+LT	AA-XXXX-FUR-NOMO	CENTER	6
+B	AA-XXXX-FUR-HID	A$C5564228B	3
+E	AA-XXXX-FUR-HID	Polyline	24
+LT	AA-XXXX-FUR-HID	ByLayer	276
+B	AA-XXXX-FUR1	A$C22EA4C03	3
+B	AA-XXXX-FUR-HID	쇼파세트	3
+B	AA-XXXX-FUR-HID	dfsdfadf	3
+E	AA-XXXX-FUR-HID	Line	132
+E	AA-XXXX-FUR-HID	Arc	120
+B	AA-FFXM-CLEN	바닥배수	3
+E	AA-FFXM-CLEN	Circle	19
+E	AA-FFXM-CLEN	Polyline	12
+LT	AA-FFXM-CLEN	ByLayer	1914
+E	AA-FFXM-CLEN	Line	1184
+H	AA-FFXM-CLEN	ANSI31 s=10 a=0	3
+E	AA-FFXM-CLEN	Hatch	3
+B	BL-PL	A$C1B52599B	3
+E	AA-FFXM-CLEN	Arc	699
+B	AA-XXXX-ETC	수전	15
+T	defpoints	84A(확장) |h=200 |st=HAUD02	1
+B	AA-XXXX-ETC	수전-냉 온수전	6
+B	BL-PL	A$C1B792294	1
+LT	인테리어 드레스룸가구	ByLayer	193
+E	인테리어 드레스룸가구	Line	189
+B	AA-FFXM-CLEN	우수 FD설치	3
+B	AA-XXXX-FUR-NOMO	보일러-01	3
+T	defpoints	보일러 |h=100 |st=HAUD02	3
+B	AA-FFXM-CLEN	100선홈통	5
+B	defpoints	A$C2A744E87	3
+T	defpoints	전열교환기 |h=100 |st=HAUD02	3
+B	BL-PL	84A(확장)-오픈형발코니	1
+B	BL-PL	A$C37397B36	41
+B	BL-PL	A$C0A8A04F6	12
+B	건축(84A)$0$건축-위생(기구)	건축(84A)$0$2단선반	41
+E	건축(84A)$0$건축-위생(기구)	Spline	410
+B	건축(84A)$0$건축-위생(기구)	건축(84A)$0$공용수건걸이	41
+LT	건축(84A)$0$건축-위생(기구)	Continuous	30914
+B	건축(84A)$0$건축-위생(기구)	건축(84A)$0$ghfghgfhtr	82
+E	건축(84A)$0$건축-위생(기구)	Polyline	123
+E	건축(84A)$0$건축-위생(기구)	Line	38786
+LT	건축(84A)$0$건축-위생(기구)	ByLayer	16277
+E	건축(84A)$0$건축-위생(기구)	Ellipse	4018
+E	건축(84A)$0$건축-위생(기구)	Arc	11480
+LT	건축(84A)$0$건축-위생(기구)	건축(84A)$0$CENTER	287
+E	건축(84A)$0$건축-위생(기구)	Circle	246
+LT	건축(84A)$0$건축-위생(기구)	건축(84A)$0$HIDDEN	3157
+B	건축(84A)$0$건축-위생(기구)	건축(84A)$0$74 공용_양변기_TOP	82
+E	AA-FFXM-KICH	Polyline	27
+B	BL-PL	84A(확장)중간세대-오픈형발코니	1
+B	BL-PL	84B(108)	4
+B	BL-PL	A$C28624CF0	17
+E	건축(84B)$0$건축-위생(기구)	Spline	440
+B	건축(84B)$0$건축-위생(기구)	건축(84B)$0$A$C3E5B4D28	22
+B	건축(84B)$0$건축-위생(기구)	건축(84B)$0$2단선반	22
+B	건축(84B)$0$건축-위생(기구)	건축(84B)$0$ghfghgfhtr	44
+E	건축(84B)$0$건축-위생(기구)	Ellipse	2156
+LT	건축(84B)$0$건축-위생(기구)	건축(84B)$0$CENTER	88
+LT	건축(84B)$0$건축-위생(기구)	건축(84B)$0$HIDDEN	1672
+B	건축(84B)$0$건축-위생(기구)	건축(84B)$0$74 공용_양변기_TOP	44
+B	BL-PL	A$C338919A1	17
+B	건축(84B)$0$건축-위생(기구)	건축(84B)$0$A$C2BD56CA7	22
+B	BL-PL	A$C55807953	17
+B	BL-PL	A$C7DFF2E67	17
+H	AA-FLXK-PATT	_USER s=300 a=0	31
+E	AA-FLXK-PATT	Hatch	34
+E	DEFPOINT	Polyline	335
+LT	AA-XXXX-INSL	ByLayer	16
+E	AA-XXXX-INSL	Line	11
+B	BL-PL	A$C2DE46C46	15
+B	AA-DWXM-WIND	외-단창 -3600	36
+T	defpoints	창-3600 |h=50 |st=HAUD03	36
+B	AA-DWXM-WIND	내-단창 -3600	36
+T	defpoints	창-1500 |h=50 |st=HAUD02	78
+B	AA-DWXM-WIND	내-단창 -1500	78
+B	AA-DWXM-WIND	외부_1500	78
+B	BL-PL	84C 오픈형발코니	1
+B	BL-PL	A$C26AA1327	9
+B	BL-PL	A$C7108714E	9
+B	BL-PL	A$C245B1E79	9
+B	BL-PL	A$C2D425AF9	9
+B	BL-PL	108_TF 84c 오픈형발코니	1
+E	AA-CEXS	Line	918
+B	AA-DWXM-WIND	외확장-이중창 -3600	24
+T	defpoints	3600 |h=50 |st=HAUD02	60
+B	20170222 2차 수정	외-이중-1000	3
+B	BL-PL	A$C05A67244	12
+B	BL-PL	외-단창 -950	50
+T	defpoints	950 |h=50 |st=HAUD02	60
+B	BL-PL	A$C1C782F7C	5
+B	BL-PL	A$C680B7947	91
+LT	건축(84C)$0$건축-위생(기구)	건축(84C)$0$( Hidden )	882
+B	건축(84C)$0$건축-위생(기구)	건축(84C)$0$A$C0FD94BA2	14
+E	건축(84C)$0$건축-위생(기구)	Spline	280
+B	건축(84C)$0$건축-위생(기구)	건축(84C)$0$공용수건걸이	14
+B	건축(84C)$0$건축-위생(기구)	건축(84C)$0$2단선반	14
+LT	건축(84C)$0$건축-위생(기구)	Continuous	10556
+B	건축(84C)$0$건축-위생(기구)	건축(84C)$0$ghfghgfhtr	28
+E	건축(84C)$0$건축-위생(기구)	Polyline	28
+E	건축(84C)$0$건축-위생(기구)	Line	14014
+LT	건축(84C)$0$건축-위생(기구)	ByLayer	5558
+E	건축(84C)$0$건축-위생(기구)	Ellipse	1372
+E	건축(84C)$0$건축-위생(기구)	Arc	4032
+LT	건축(84C)$0$건축-위생(기구)	건축(84C)$0$CENTER	98
+E	건축(84C)$0$건축-위생(기구)	Circle	84
+LT	건축(84C)$0$건축-위생(기구)	건축(84C)$0$HIDDEN	1064
+B	건축(84C)$0$건축-위생(기구)	건축(84C)$0$74 공용_양변기_TOP	28
+B	BL-PL	84C(확장) 오픈형발코니	1
+B	AA-DWXM-WIND	내-단창 -1600	33
+T	defpoints	창-1600 |h=50 |st=HAUD02	33
+B	BL-PL	A$C025B299E	3
+B	BL-PL	99A 오픈형발코니	2
+B	BL-PL	외-이중-1000	7
+T	defpoints	1000 |h=50 |st=HAUD02	19
+B	BL-PL	A$C542A1217	7
+B	BL-PL	A$C69F91370	4
+B	건축(99A)$0$건축-위생(기구)	건축(99A)$0$공용수건걸이	7
+B	건축(99A)$0$건축-위생(기구)	건축(99A)$0$2단선반	7
+B	건축(99A)$0$건축-위생(기구)	건축(99A)$0$ghfghgfhtr	14
+E	건축(99A)$0$건축-위생(기구)	Polyline	14
+LT	건축(99A)$0$건축-위생(기구)	건축(99A)$0$CENTER	49
+LT	건축(99A)$0$건축-위생(기구)	건축(99A)$0$HIDDEN	532
+B	건축(99A)$0$건축-위생(기구)	건축(99A)$0$74 공용_양변기_TOP	14
+B	BL-PL	99A(확장) 오픈형발코니	2
+B	AA-DWXM-WIND	내-단창 -3900	12
+T	defpoints	창-3900 |h=50 |st=HAUD03	12
+B	AA-DWXM-WIND	외-단창 -3900	12
+B	AA-DWXM-WIND	A$C5A893DDE	58
+B	BL-PL	A$C2A375664	5
+B	BL-PL	A$C40C43297	5
+B	BL-PL	A$C759B5206	5
+E	건축(99A)$0$건축-위생(기구)	Line	41464
+LT	건축(99A)$0$건축-위생(기구)	Continuous	11488
+E	건축(99A)$0$건축-위생(기구)	Arc	19031
+E	건축(99A)$0$건축-위생(기구)	Spline	205
+E	건축(99A)$0$건축-위생(기구)	Ellipse	1206
+E	건축(99A)$0$건축-위생(기구)	Circle	132
+B	건축(99A)$0$건축-위생(기구)	스리브(육가)	15
+E	건축(99A)$0$건축-위생(기구)	Point	134
+LT	건축(99A)$0$건축-위생(기구)	ByLayer	48572
+B	BL-PL	A$C78570AB4	5
+B	BL-PL	A$C3B1B7F54	81
+B	BL-PL	99B 오픈형발코니	1
+B	AA-DWXM-DOOR	실외기 700-1	106
+B	AA-DWXM-DOOR	A$C0AA25980	53
+B	AA-DWXM-WIND	PD 1200	11
+T	defpoints	PD |h=100 |st=HAUD02	98
+B	AA-DWXM-DOOR	A$C512E74E6	63
+T	defpoints	850 |h=40 |st=HAUD02	63
+B	BL-PL	A$C6E043B5D	11
+B	BL-PL	A$C2DE223E4	11
+B	BL-PL	외-단창 -1100	32
+T	defpoints	1100 |h=50 |st=HAUD02	32
+E	AA-XXXX-ETC	Line	1258
+LT	AA-XXXX-ETC	ByLayer	1987
+E	AA-XXXX-ETC	Polyline	729
+E	AA-FLXK-PAT1	Hatch	88
+H	AA-FLXK-PAT1	_USER s=300 a=0	38
+H	AA-FLXK-PAT1	_USER s=300 a=90	50
+B	BL-PL	A$C72247604	6
+E	BL-PL	Polyline	113
+LT	BL-PL	ByLayer	113
+B	BL-PL	A$C3B1946F6	18
+B	BL-PL	A$C20486E33	145
+E	건축(99B)$0$건축-위생(기구)	Spline	120
+B	건축(99B)$0$건축-위생(기구)	건축(99B)$0$공용수건걸이	6
+B	건축(99B)$0$건축-위생(기구)	건축(99B)$0$2단선반	6
+E	건축(99B)$0$건축-위생(기구)	Point	12
+LT	건축(99B)$0$건축-위생(기구)	Continuous	4524
+B	건축(99B)$0$건축-위생(기구)	건축(99B)$0$ghfghgfhtr	12
+E	건축(99B)$0$건축-위생(기구)	Polyline	12
+E	건축(99B)$0$건축-위생(기구)	Line	6012
+LT	건축(99B)$0$건축-위생(기구)	ByLayer	2766
+E	건축(99B)$0$건축-위생(기구)	Ellipse	588
+E	건축(99B)$0$건축-위생(기구)	Arc	1728
+LT	건축(99B)$0$건축-위생(기구)	건축(99B)$0$CENTER	42
+E	건축(99B)$0$건축-위생(기구)	Circle	36
+LT	건축(99B)$0$건축-위생(기구)	건축(99B)$0$HIDDEN	456
+B	건축(99B)$0$건축-위생(기구)	건축(99B)$0$74 공용_양변기_TOP	12
+B	BL-PL	99B(확장) 오픈형발코니	1
+B	AA-DWXM-WIND	A$C660F5AF3	43
+LT	defpoints	ByLayer	6320
+E	defpoints	Line	5521
+T	defpoints	1200 |h=50 |st=HAUD02	121
+E	defpoints	Text	4333
+E	AA-DWXM-WIND	Polyline	11047
+LT	AA-DWXM-WIND	ByLayer	29803
+E	AA-DWXM-WIND	Line	18756
+B	BL-PL	A$C32552B04	5
+LT	DEFPOINT	ByLayer	375
+E	DEFPOINT	Line	40
+B	AA-DWXM-DOOR	A$C19DD7157	101
+E	AA-DWXM-DOOR	Arc	221
+T	defpoints	700 |h=40 |st=HAUD02	207
+E	AA-DWXM-DOOR	Line	2842
+LT	AA-DWXM-DOOR	ByLayer	7716
+E	AA-DWXM-DOOR	Polyline	4653
+E	AA-WAXM-CONC	Line	14023
+LT	AA-WAXM-CONC	ByLayer	15170
+E	AA-XXXX-CNTL	Line	5340
+LT	AA-XXXX-CNTL	ByLayer	5340
+E	AA-XXXX-INS	Line	2981
+LT	AA-XXXX-INS	ByLayer	2983
+E	AA-WAXM-GYPB	Line	13531
+LT	AA-WAXM-GYPB	ByLayer	13640
+E	AA-XXXX-MC	Line	6353
+LT	AA-XXXX-MC	ByLayer	6353
+E	AA-WAXM-BRCK	Line	6936
+LT	AA-WAXM-BRCK	ByLayer	6936
+E	AA-CEXM-ARCH	Line	736
+LT	AA-CEXM-ARCH	ByLayer	620
+B	AA-DWXM-DOOR	침실 900	143
+T	defpoints	900 |h=40 |st=HAUD02	413
+E	AA-WAXS	Polyline	476
+LT	AA-WAXS	ByLayer	887
+B	AA-DWXM-DOOR	A$C74253671	193
+T	defpoints	750 |h=40 |st=HAUD02	246
+B	AA-DWXM-WIND	PD 1800	113
+T	defpoints	1800 |h=50 |st=HAUD02	251
+B	BL-PL	A$C02846425	87
+E	AA-WAXM-CONC	Polyline	1147
+T	defpoints	1020 |h=40 |st=HAUD02	154
+B	AA-DWXM-DOOR	현관 1020	154
+B	BL-PL	외-이중-900	21
+T	defpoints	900 |h=50 |st=HAUD02	25
+B	defpoints	A$C380D7B3B	180
+E	defpoints	Circle	250
+B	AA-DWXM-WIND	외부-이중_1500	114
+T	defpoints	1500 |h=50 |st=HAUD02	192
+B	AA-DWXM-DOOR	A$C65D73903	206
+E	AA-XXXX-FUR-NOMO	Line	6233
+LT	AA-XXXX-FUR-NOMO	ByLayer	7067
+B	BL-PL	외확장-단창 -3900	15
+T	defpoints	3900 |h=50 |st=HAUD02	27
+E	AA-WAXS-FINL	Line	2655
+LT	AA-WAXS-FINL	ByLayer	2693
+E	AA-CEXS	Polyline	406
+LT	AA-CEXS	ByLayer	1324
+E	AA-WAXM-GYPB	Polyline	109
+E	AA-XXXX-HIDL	Line	276
+LT	AA-XXXX-HIDL	ByLayer	276
+B	AA-DWXM-WIND	내-단창 -1800	138
+T	defpoints	창-1800 |h=50 |st=HAUD02	138
+E	AA-XXXX-PATT	Line	33
+LT	AA-XXXX-PATT	ByLayer	33
+E	AA-XXXX-FUR1	Line	2589
+LT	AA-XXXX-FUR1	ByLayer	2589
+B	BL-PL	A$C5006689C	9
+LT	AA-FLXK-PAT1	ByLayer	3364
+E	AA-FLXK-PAT1	Line	3324
+LT	인테리어 경량벽체	ByLayer	906
+E	인테리어 경량벽체	Line	906
+LT	인테리어 현관재료분리	ByLayer	148
+E	인테리어 현관재료분리	Polyline	148
+E	인테리어 신발장	Arc	34371
+LT	인테리어 신발장	ByLayer	76862
+E	인테리어 신발장	Line	42491
+B	BL-PL	외-단창 -1200	9
+B	AA-DWXM-WIND	외부-단창-1800	138
+B	AA-WAXM-CONC	대피공간-단창중_1250	71
+T	defpoints	1250 |h=50 |st=HAUD02	80
+B	AA-XXXX-FUR-NOMO	세탁기-01	133
+E	AA-XXXX-FUR-NOMO	Polyline	691
+LT	AA-XXXX-FUR-NOMO	HIDDEN	1002
+B	AA-XXXX-FUR-NOMO	A$C4BC4151A	148
+LT	AA-XXXX-FUR-NOMO	HID	664
+E	AA-XXXX-ELE	Line	500
+LT	AA-XXXX-ELE	ByLayer	500
+B	AA-DWXM-WIND	실외기루버_1000	148
+T	defpoints	1000 |h=40 |st=HAUD02	148
+B	AA-XXXX-FUR-NOMO	A$C3D026D19	91
+E	AA-XXXX-CRC보드	Line	2978
+LT	AA-XXXX-CRC보드	ByLayer	2978
+E	AA-FLXK-PATT	Line	5533
+LT	AA-FLXK-PATT	ByLayer	5557
+E	AA-SSXS	Polyline	2479
+LT	AA-SSXS	ByLayer	4320
+E	AA-SSXS	Line	1708
+E	AA-SSXS	Circle	133
+E	defpoints	Polyline	549
+E	AA-XXXX-DOOR	Line	1512
+LT	AA-XXXX-DOOR	ByLayer	1778
+E	AA-XXXX-DOOR	Polyline	133
+E	AA-XXXX-DOOR	Arc	133
+B	2020년 준공 수정체크	A$C69CF4014	5
+E	건축(84B)$0$건축-위생(기구)	Line	23958
+LT	건축(84B)$0$건축-위생(기구)	ByLayer	20449
+E	건축(84B)$0$건축-위생(기구)	Point	484
+E	건축(84B)$0$건축-위생(기구)	Circle	7029
+E	건축(84B)$0$건축-위생(기구)	Arc	8756
+LT	건축(84B)$0$건축-위생(기구)	Continuous	18062
+E	건축(84B)$0$건축-위생(기구)	Polyline	528
+E	2020년 준공 수정체크	Polyline	5
+LT	2020년 준공 수정체크	ByLayer	5
+B	2020년 준공 수정체크	A$C08A06DA9	5
+B	건축-위생(기구)	A$C7B553F28	121
+B	건축-위생(기구)	A$C69E534AA	104
+E	건축-위생(기구)	Spline	74204
+B	2020년 준공 수정체크	A$C20486E33	5
+E	건축-위생(기구)	Polyline	971
+E	건축-위생(기구)	Arc	31560
+LT	건축-위생(기구)	ByLayer	97541
+E	건축-위생(기구)	Circle	3173
+E	건축-위생(기구)	Line	61837
+B	건축-위생(기구)	A$C27803EB7	707
+E	AA-XXXX-FUR-NOMO	Arc	1773
+LT	1-바닥(스리브)	HIDDEN	18042
+E	1-바닥(스리브)	Polyline	582
+B	1-바닥(스리브)	스리브(발코니입상용)	194
+LT	1-바닥(스리브)	HID	121
+B	1-바닥(스리브)	c-sec	121
+LT	1-바닥(스리브)	CENTER	242
+LT	1-바닥(스리브)	Continuous	363
+H	1-바닥(스리브)	ANSI31 s=0.05 a=0	121
+E	1-바닥(스리브)	Hatch	121
+T	2-배관명	PVC(125A)  |h=5 |st=HSG07	121
+B	1-바닥(스리브)	볼텍스	121
+E	1-바닥(스리브)	Line	1229452
+LT	1-바닥(스리브)	ByLayer	1906267
+E	1-바닥(스리브)	Arc	686804
+E	1-바닥(스리브)	Point	5924
+E	1-바닥(스리브)	Circle	8197
+B	1-바닥(입상단면)	c-sec	2963
+LT	1-바닥(입상단면)	CENTER	5926
+E	1-바닥(입상단면)	Line	5926
+E	1-바닥(입상단면)	Circle	2963
+LT	1-바닥(입상단면)	Continuous	8889
+E	1-바닥(입상단면)	Arc	5926
+H	1-바닥(입상단면)	ANSI31 s=0.05 a=0	2963
+E	1-바닥(입상단면)	Hatch	2963
+E	2-배관명	Text	3084
+T	2-배관명	PVC(50A)  |h=5 |st=HSG07	1149
+T	2-배관명	PVC(75A)  |h=5 |st=HSG07	907
+T	2-배관명	PVC(100A)  |h=5 |st=HSG07	907
+E	1-바닥(스리브)	Ellipse	5034
+E	1-바닥(스리브)	Spline	5233
+B	1-바닥(스리브)	스리브(육가)	577
+E	AA-FFXM-KICH	Circle	713
+E	AA-FFXM-KICH	Arc	12986
+LT	AA-FFXM-KICH	ByLayer	39948
+E	AA-FFXM-KICH	Line	26224
+B	건축(114A)$0$건축-위생(기구)	건축(114A)$0$A$C34220EAB	9
+E	건축(114A)$0$건축-위생(기구)	Spline	180
+B	건축(114A)$0$건축-위생(기구)	건축(114A)$0$공용수건걸이	9
+B	건축(114A)$0$건축-위생(기구)	건축(114A)$0$2단선반	9
+LT	건축(114A)$0$건축-위생(기구)	Continuous	6786
+B	건축(114A)$0$건축-위생(기구)	건축(114A)$0$ghfghgfhtr	18
+E	건축(114A)$0$건축-위생(기구)	Polyline	18
+E	건축(114A)$0$건축-위생(기구)	Line	9018
+LT	건축(114A)$0$건축-위생(기구)	ByLayer	4149
+E	건축(114A)$0$건축-위생(기구)	Ellipse	882
+E	건축(114A)$0$건축-위생(기구)	Arc	2592
+LT	건축(114A)$0$건축-위생(기구)	건축(114A)$0$CENTER	63
+E	건축(114A)$0$건축-위생(기구)	Circle	54
+LT	건축(114A)$0$건축-위생(기구)	건축(114A)$0$HIDDEN	684
+B	건축(114A)$0$건축-위생(기구)	건축(114A)$0$74 공용_양변기_TOP	18
+B	BL-PL	114(확장) 오픈형발코니	2
+H	AA-XXXX-252	SOLID s=1 a=0	75
+E	AA-XXXX-252	Hatch	75
+LT	발코니삭제	ByLayer	107
+E	발코니삭제	Polyline	57

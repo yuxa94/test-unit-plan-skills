@@ -1,0 +1,1 @@
+(upc:run "C:/temp/cj84a/outputs/cj84A-basic-v001.dwg" "C:/temp/cj84a/operations" "win-001" (quote (lambda (doc / r) (setq r (upd:copy-parts doc "C:/temp/cj84a/input/cj_plan.dwg" "U-84A(기본)" "WIN,0" "WIN_*,실외기창*")) (upc:write-utf8 "C:/temp/cj84a/win-001.report.txt" r))))

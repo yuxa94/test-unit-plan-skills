@@ -1,0 +1,12 @@
+(list
+ (upc:new "C:/temp/cj84b/outputs/cj84B-basic-v005.dwg" nil)
+ (load "C:/temp/cj84b/ops/std-005.lsp")
+ (load "C:/temp/cj84b/ops/wall-005.lsp")
+ (load "C:/temp/cj84b/ops/door-005.lsp")
+ (load "C:/temp/cj84b/ops/win-005.lsp")
+ (load "C:/temp/cj84b/ops/ins-005.lsp")
+ (load "C:/temp/cj84b/ops/bath-005.lsp")
+ (load "C:/temp/cj84b/ops/kit-005.lsp")
+ (load "C:/temp/cj84b/ops/fin-005.lsp")
+ (load "C:/temp/cj84b/ops/dim-005.lsp")
+ (load "C:/temp/cj84b/ops/ann-005.lsp"))

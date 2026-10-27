@@ -1,0 +1,899 @@
+MS			676
+X		X - SHEET => ..\..\00. XREF\X - SHEET.dwg	0
+X		X - 단위세대 기본형 => ..\..\00. XREF\X - 단위세대 기본형.dwg	0
+X		X - 단위세대 확장형 => ..\..\00. XREF\X - 단위세대 확장형.dwg	0
+X		X - CORE => ..\..\00. XREF\X - CORE.dwg	0
+L	0	c=7 lt=Continuous lw=-3	0
+L	DEFPOINTS	c=145 lt=Continuous lw=-3	0
+L	A-CON	c=2 lt=Continuous lw=-3	0
+L	A-FIN	c=8 lt=Continuous lw=-3	0
+L	AA-EL-PCN9	c=9 lt=Continuous lw=-3	0
+L	A-WALB	c=3 lt=Continuous lw=-3	0
+L	A-CEN	c=1 lt=CEN lw=-3	0
+L	DEFPOINT	c=163 lt=Continuous lw=-3	0
+L	TOIL	c=4 lt=Continuous lw=-3	0
+L	0-구역계	c=1 lt=Continuous lw=-3	0
+L	A-door	c=4 lt=Continuous lw=25	0
+L	X-25$0$defpoint	c=17 lt=Continuous lw=-3	0
+L	X-25$0$AA-DWXM-WIND	c=4 lt=Continuous lw=-3	0
+L	X-25$0$AA-XXXX-FINL	c=6 lt=Continuous lw=-3	0
+L	X-25$0$AA-FFXM-SANI	c=4 lt=Continuous lw=-3	0
+L	X-25$0$AA-XXXX-FUR	c=8 lt=Continuous lw=-3	0
+L	X-25$0$AA-XXXX-PAT2	c=1 lt=Continuous lw=-3	0
+L	X-25$0$AA-XXXX-PAT1	c=9 lt=Continuous lw=-3	0
+L	X-25$0$AA-DETL-PCN9	c=9 lt=Continuous lw=-3	0
+L	X-25$0$AA-FFXM-KICH	c=4 lt=Continuous lw=-3	0
+L	X-25$0$ETC	c=6 lt=Continuous lw=-3	0
+L	X-25$0$02_F-KIT	c=6 lt=Continuous lw=-3	0
+L	X-55$0$0-조경패턴	c=9 lt=Continuous lw=-3	0
+L	X-55$0$AA-XXXX-PAT3	c=8 lt=Continuous lw=-3	0
+L	X-55$0$AA-DWXM-WIND	c=4 lt=Continuous lw=-3	0
+L	X-55$0$AA-XXXX-FINL	c=6 lt=Continuous lw=-3	0
+L	X-55$0$AA-FFXM-SANI	c=4 lt=Continuous lw=-3	0
+L	실외기	c=9 lt=HID lw=-3	0
+L	X-55$0$AA-XXXX-FUR	c=8 lt=Continuous lw=-3	0
+L	X-55$0$AA-FLXK-OPEN	c=8 lt=X-55$0$HID2 lw=-3	0
+L	X-55$0$AA-XXXX-PAT2	c=1 lt=Continuous lw=-3	0
+L	X-55$0$AA-FFXM-KICH	c=4 lt=Continuous lw=-3	0
+L	보일러	c=6 lt=HID lw=-3	0
+L	X-55$0$02_F-KIT	c=6 lt=Continuous lw=-3	0
+L	X-84$0$AA-XXXX-CNTL	c=1 lt=X-84$0$CEN lw=-3	0
+L	X-84$0$defpoint	c=17 lt=Continuous lw=-3	0
+L	X-84$0$AA-XXXX-PAT3	c=8 lt=Continuous lw=-3	0
+L	X-84$0$AA-XXXX-ELEV	c=4 lt=Continuous lw=-3	0
+L	X-84$0$AA-DWXM-WIND	c=4 lt=Continuous lw=-3	0
+L	X-84$0$AA-XXXX-FINL	c=6 lt=Continuous lw=-3	0
+L	X-84$0$AA-FFXM-SANI	c=4 lt=Continuous lw=-3	0
+L	X-84$0$AA-XXXX-FUR	c=8 lt=Continuous lw=-3	0
+L	X-84$0$AA-FLXK-OPEN	c=8 lt=X-84$0$HID2 lw=-3	0
+L	X-84$0$AA-XXXX-PAT2	c=1 lt=Continuous lw=-3	0
+L	X-84$0$AA-DWXM-STHC	c=9 lt=Continuous lw=-3	0
+L	X-84$0$AA-XXXX-PAT1	c=9 lt=Continuous lw=-3	0
+L	X-84$0$AA-DETL-PCN9	c=9 lt=Continuous lw=-3	0
+L	X-84$0$AA-FFXM-KICH	c=4 lt=Continuous lw=-3	0
+L	X-84$0$02_F-KIT	c=6 lt=Continuous lw=-3	0
+L	AA-EL-PCN4	c=4 lt=Continuous lw=-3	0
+L	AA-EL-PCN8	c=8 lt=Continuous lw=-3	0
+L	A-TILE	c=252 lt=Continuous lw=-3	0
+L	AA-WAXM-DRYW	c=7 lt=Continuous lw=-3	0
+L	A-Drain	c=8 lt=Continuous lw=-3	0
+L	A-ETC	c=7 lt=Continuous lw=-3	0
+L	AA-XXXX-INSL	c=8 lt=Continuous lw=-3	0
+L	X-72B$0$AA-XXXX-PAT3	c=8 lt=Continuous lw=-3	0
+L	AA-DWXM-DOOR	c=4 lt=Continuous lw=-3	0
+L	AA-DWXM-WIND	c=4 lt=Continuous lw=-3	0
+L	치수선	c=3 lt=Continuous lw=9	0
+L	LAD-OUTLINE	c=7 lt=Continuous lw=20	0
+L	LAD-CEN	c=1 lt=CENTER2 lw=9	0
+L	LAD-FINISH	c=30 lt=PHANTOM2 lw=15	0
+L	LAD-THINLINE	c=7 lt=Continuous lw=9	0
+L	LAD-REFERENCE	c=7 lt=Continuous lw=5	0
+L	A-GUIDE TEXT	c=67 lt=Continuous lw=-3	0
+L	A-grid	c=7 lt=Continuous lw=-3	0
+L	점형블럭	c=8 lt=Continuous lw=-3	0
+L	AA-WAXM-BLOK	c=3 lt=Continuous lw=-3	0
+L	0-조경패턴	c=9 lt=Continuous lw=-3	0
+L	AA-XXXX-SYMB	c=7 lt=Continuous lw=-3	0
+L	AA-SSXM-STRS	c=4 lt=Continuous lw=-3	0
+L	A-SYM	c=7 lt=Continuous lw=-3	0
+L	DIM	c=7 lt=Continuous lw=-3	0
+L	AA-MKXM	c=7 lt=Continuous lw=-3	0
+L	AA-XXXX-CNTL	c=1 lt=CEN lw=-3	0
+L	AA-FFXM-KICH	c=6 lt=Continuous lw=-3	0
+L	AA-WAXM-CONC	c=2 lt=Continuous lw=-3	0
+L	AA-XXXX-FINL	c=6 lt=Continuous lw=-3	0
+L	AA-EL-PCN7	c=7 lt=Continuous lw=-3	0
+L	AA-FLXK-OPEN	c=8 lt=Continuous lw=-3	0
+L	AA-XXXX-TEXT	c=3 lt=Continuous lw=-3	0
+L	AA-BORD-TEXT	c=3 lt=Continuous lw=-3	0
+L	X-55$0$AA-XXXX-MC	c=171 lt=Continuous lw=-3 FROZEN	0
+L	X-55$0$defpoint	c=17 lt=Continuous lw=-3 FROZEN	0
+L	AA-XXXX-KEYMAP	c=7 lt=Continuous lw=-3	0
+L	HAT	c=5 lt=Continuous lw=-3	0
+L	X - SHEET|AA-BORD-FORM	c=7 lt=Continuous lw=-3	0
+L	X - SHEET|AA-BORD-TEXT	c=3 lt=Continuous lw=-3	0
+L	X - SHEET|DEFPOINT	c=165 lt=Continuous lw=-3	0
+L	X - 단위세대 기본형|DIM	c=7 lt=Continuous lw=-3 FROZEN	0
+L	X - 단위세대 기본형|A-CON	c=2 lt=Continuous lw=-3	0
+L	X - 단위세대 기본형|A-FIN	c=8 lt=Continuous lw=-3	0
+L	X - 단위세대 기본형|A-INS	c=9 lt=Continuous lw=-3	0
+L	X - 단위세대 기본형|AA-EL-PCN9	c=9 lt=Continuous lw=-3	0
+L	X - 단위세대 기본형|A-WALB	c=3 lt=Continuous lw=-3	0
+L	X - 단위세대 기본형|A-CEN	c=1 lt=X - 단위세대 기본형|CEN lw=-3	0
+L	X - 단위세대 기본형|DEFPOINT	c=163 lt=Continuous lw=-3	0
+L	X - 단위세대 기본형|TOIL	c=4 lt=Continuous lw=-3 FROZEN	0
+L	X - 단위세대 기본형|A-WIN	c=4 lt=Continuous lw=-3	0
+L	X - 단위세대 기본형|A-door	c=4 lt=Continuous lw=25	0
+L	X - 단위세대 기본형|X-25$0$defpoint	c=17 lt=Continuous lw=-3 FROZEN	0
+L	X - 단위세대 기본형|X-25$0$AA-DWXM-WIND	c=4 lt=Continuous lw=-3	0
+L	X - 단위세대 기본형|X-25$0$AA-XXXX-FINL	c=6 lt=Continuous lw=-3 FROZEN	0
+L	X - 단위세대 기본형|X-25$0$AA-FFXM-SANI	c=4 lt=Continuous lw=-3 FROZEN	0
+L	X - 단위세대 기본형|X-25$0$AA-XXXX-FUR	c=8 lt=Continuous lw=-3 FROZEN	0
+L	X - 단위세대 기본형|X-25$0$AA-XXXX-PAT2	c=1 lt=Continuous lw=-3 FROZEN	0
+L	X - 단위세대 기본형|A-MC	c=171 lt=Continuous lw=-3 FROZEN	0
+L	X - 단위세대 기본형|X-25$0$AA-XXXX-PAT1	c=9 lt=Continuous lw=-3 FROZEN	0
+L	X - 단위세대 기본형|X-25$0$AA-DETL-PCN9	c=9 lt=Continuous lw=-3	0
+L	X - 단위세대 기본형|X-25$0$AA-FFXM-KICH	c=4 lt=Continuous lw=-3 FROZEN	0
+L	X - 단위세대 기본형|X-25$0$ETC	c=6 lt=Continuous lw=-3 FROZEN	0
+L	X - 단위세대 기본형|X-25$0$A-설비요소	c=9 lt=Continuous lw=-3 FROZEN	0
+L	X - 단위세대 기본형|X-25$0$02_F-KIT	c=6 lt=Continuous lw=-3 FROZEN	0
+L	X - 단위세대 기본형|X-55$0$0-조경패턴	c=9 lt=Continuous lw=-3 FROZEN	0
+L	X - 단위세대 기본형|X-55$0$AA-XXXX-PAT3	c=8 lt=Continuous lw=-3 FROZEN	0
+L	X - 단위세대 기본형|X-55$0$AA-DWXM-WIND	c=4 lt=Continuous lw=-3	0
+L	X - 단위세대 기본형|X-55$0$AA-XXXX-FINL	c=6 lt=Continuous lw=-3 FROZEN	0
+L	X - 단위세대 기본형|X-55$0$AA-FFXM-SANI	c=4 lt=Continuous lw=-3 FROZEN	0
+L	X - 단위세대 기본형|실외기	c=9 lt=X - 단위세대 기본형|HID lw=-3 FROZEN	0
+L	X - 단위세대 기본형|X-55$0$AA-XXXX-FUR	c=8 lt=Continuous lw=-3 FROZEN	0
+L	X - 단위세대 기본형|X-55$0$AA-XXXX-PAT2	c=1 lt=Continuous lw=-3 FROZEN	0
+L	X - 단위세대 기본형|X-55$0$AA-XXXX-PAT1	c=9 lt=Continuous lw=-3 FROZEN	0
+L	X - 단위세대 기본형|X-55$0$AA-FFXM-KICH	c=4 lt=Continuous lw=-3 FROZEN	0
+L	X - 단위세대 기본형|보일러	c=6 lt=X - 단위세대 기본형|HID lw=-3 FROZEN	0
+L	X - 단위세대 기본형|X-55$0$02_F-KIT	c=6 lt=Continuous lw=-3 FROZEN	0
+L	X - 단위세대 기본형|X-84$0$AA-XXXX-CNTL	c=1 lt=X - 단위세대 기본형|X-84$0$CEN lw=-3 FROZEN	0
+L	X - 단위세대 기본형|X-84$0$defpoint	c=17 lt=Continuous lw=-3 FROZEN	0
+L	X - 단위세대 기본형|X-84$0$AA-XXXX-PAT3	c=8 lt=Continuous lw=-3 FROZEN	0
+L	X - 단위세대 기본형|X-84$0$AA-XXXX-ELEV	c=4 lt=Continuous lw=-3 FROZEN	0
+L	X - 단위세대 기본형|X-84$0$AA-DWXM-WIND	c=4 lt=Continuous lw=-3	0
+L	X - 단위세대 기본형|X-84$0$AA-XXXX-FINL	c=6 lt=Continuous lw=-3 FROZEN	0
+L	X - 단위세대 기본형|X-84$0$AA-FFXM-SANI	c=4 lt=Continuous lw=-3 FROZEN	0
+L	X - 단위세대 기본형|X-84$0$AA-XXXX-FUR	c=8 lt=Continuous lw=-3 FROZEN	0
+L	X - 단위세대 기본형|X-84$0$AA-XXXX-PAT2	c=1 lt=Continuous lw=-3 FROZEN	0
+L	X - 단위세대 기본형|X-84$0$AA-DWXM-STHC	c=9 lt=Continuous lw=-3 FROZEN	0
+L	X - 단위세대 기본형|X-84$0$AA-XXXX-PAT1	c=9 lt=Continuous lw=-3 FROZEN	0
+L	X - 단위세대 기본형|X-84$0$AA-DETL-PCN9	c=9 lt=Continuous lw=-3	0
+L	X - 단위세대 기본형|X-84$0$AA-FFXM-KICH	c=4 lt=Continuous lw=-3 FROZEN	0
+L	X - 단위세대 기본형|X-84$0$02_F-KIT	c=6 lt=Continuous lw=-3 FROZEN	0
+L	X - 단위세대 기본형|AA-EL-PCN4	c=4 lt=Continuous lw=-3	0
+L	X - 단위세대 기본형|AA-EL-PCN8	c=8 lt=Continuous lw=-3	0
+L	X - 단위세대 기본형|A-TILE	c=253 lt=Continuous lw=-3 FROZEN	0
+L	X - 단위세대 기본형|AA-WAXM-DRYW	c=7 lt=Continuous lw=-3	0
+L	X - 단위세대 기본형|A-Drain	c=8 lt=Continuous lw=-3 FROZEN	0
+L	X - 단위세대 기본형|A-ETC	c=7 lt=Continuous lw=-3	0
+L	X - 단위세대 기본형|AA-XXXX-INSL	c=8 lt=Continuous lw=-3	0
+L	X - 단위세대 기본형|AA-DWXM-DOOR	c=4 lt=Continuous lw=-3	0
+L	X - 단위세대 기본형|AA-DWXM-WIND	c=4 lt=Continuous lw=-3	0
+L	X - 단위세대 기본형|AA-WAXM-CONC	c=2 lt=Continuous lw=-3	0
+L	X - 단위세대 기본형|AA-EL-PCN7	c=7 lt=Continuous lw=-3	0
+L	X - 단위세대 기본형|AA-FLXK-OPEN	c=8 lt=Continuous lw=-3 FROZEN	0
+L	X - 단위세대 기본형|CHECK	c=6 lt=Continuous lw=-3 FROZEN	0
+L	X - 단위세대 기본형|Def-PrintX	c=147 lt=Continuous lw=-3 FROZEN	0
+L	X - 단위세대 기본형|U-59A-확장$0$AA-DWXM-WIND	c=4 lt=Continuous lw=-3	0
+L	X - 단위세대 확장형|A-CON	c=2 lt=Continuous lw=-3	0
+L	X - 단위세대 확장형|A-FIN	c=8 lt=Continuous lw=-3	0
+L	X - 단위세대 확장형|A-INS	c=9 lt=Continuous lw=-3	0
+L	X - 단위세대 확장형|AA-EL-PCN9	c=9 lt=Continuous lw=-3	0
+L	X - 단위세대 확장형|A-WALB	c=3 lt=Continuous lw=-3	0
+L	X - 단위세대 확장형|A-CEN	c=1 lt=X - 단위세대 확장형|CEN lw=-3	0
+L	X - 단위세대 확장형|DEFPOINT	c=163 lt=Continuous lw=-3	0
+L	X - 단위세대 확장형|TOIL	c=4 lt=Continuous lw=-3 FROZEN	0
+L	X - 단위세대 확장형|A-WIN	c=4 lt=Continuous lw=-3	0
+L	X - 단위세대 확장형|A-door	c=4 lt=Continuous lw=25	0
+L	X - 단위세대 확장형|X-25$0$AA-DWXM-WIND	c=4 lt=Continuous lw=-3	0
+L	X - 단위세대 확장형|X-25$0$AA-XXXX-FINL	c=6 lt=Continuous lw=-3 FROZEN	0
+L	X - 단위세대 확장형|X-25$0$AA-FFXM-SANI	c=4 lt=Continuous lw=-3 FROZEN	0
+L	X - 단위세대 확장형|X-25$0$AA-XXXX-PAT2	c=1 lt=Continuous lw=-3 FROZEN	0
+L	X - 단위세대 확장형|A-MC	c=171 lt=Continuous lw=-3 FROZEN	0
+L	X - 단위세대 확장형|X-25$0$AA-XXXX-PAT1	c=9 lt=Continuous lw=-3 FROZEN	0
+L	X - 단위세대 확장형|X-25$0$AA-DETL-PCN9	c=9 lt=Continuous lw=-3	0
+L	X - 단위세대 확장형|X-25$0$AA-FFXM-KICH	c=4 lt=Continuous lw=-3 FROZEN	0
+L	X - 단위세대 확장형|X-25$0$ETC	c=6 lt=Continuous lw=-3 FROZEN	0
+L	X - 단위세대 확장형|X-25$0$A-설비요소	c=9 lt=Continuous lw=-3 FROZEN	0
+L	X - 단위세대 확장형|X-55$0$0-조경패턴	c=9 lt=Continuous lw=-3 FROZEN	0
+L	X - 단위세대 확장형|X-55$0$AA-XXXX-PAT3	c=8 lt=Continuous lw=-3 FROZEN	0
+L	X - 단위세대 확장형|X-55$0$AA-DWXM-WIND	c=4 lt=Continuous lw=-3	0
+L	X - 단위세대 확장형|X-55$0$AA-XXXX-FINL	c=6 lt=Continuous lw=-3 FROZEN	0
+L	X - 단위세대 확장형|X-55$0$AA-FFXM-SANI	c=4 lt=Continuous lw=-3 FROZEN	0
+L	X - 단위세대 확장형|실외기	c=9 lt=X - 단위세대 확장형|HID lw=-3 FROZEN	0
+L	X - 단위세대 확장형|X-55$0$AA-XXXX-FUR	c=8 lt=Continuous lw=-3 FROZEN	0
+L	X - 단위세대 확장형|X-55$0$AA-XXXX-PAT2	c=1 lt=Continuous lw=-3 FROZEN	0
+L	X - 단위세대 확장형|X-55$0$AA-XXXX-PAT1	c=9 lt=Continuous lw=-3 FROZEN	0
+L	X - 단위세대 확장형|X-55$0$AA-FFXM-KICH	c=4 lt=Continuous lw=-3 FROZEN	0
+L	X - 단위세대 확장형|보일러	c=6 lt=X - 단위세대 확장형|HID lw=-3 FROZEN	0
+L	X - 단위세대 확장형|X-55$0$02_F-KIT	c=6 lt=Continuous lw=-3 FROZEN	0
+L	X - 단위세대 확장형|X-84$0$defpoint	c=17 lt=Continuous lw=-3 FROZEN	0
+L	X - 단위세대 확장형|X-84$0$AA-XXXX-PAT3	c=8 lt=Continuous lw=-3 FROZEN	0
+L	X - 단위세대 확장형|X-84$0$AA-XXXX-ELEV	c=4 lt=Continuous lw=-3 FROZEN	0
+L	X - 단위세대 확장형|X-84$0$AA-DWXM-WIND	c=4 lt=Continuous lw=-3	0
+L	X - 단위세대 확장형|X-84$0$AA-XXXX-FINL	c=6 lt=Continuous lw=-3 FROZEN	0
+L	X - 단위세대 확장형|X-84$0$AA-FFXM-SANI	c=4 lt=Continuous lw=-3 FROZEN	0
+L	X - 단위세대 확장형|X-84$0$AA-XXXX-FUR	c=8 lt=Continuous lw=-3 FROZEN	0
+L	X - 단위세대 확장형|X-84$0$AA-XXXX-PAT2	c=1 lt=Continuous lw=-3 FROZEN	0
+L	X - 단위세대 확장형|X-84$0$AA-DWXM-STHC	c=9 lt=Continuous lw=-3 FROZEN	0
+L	X - 단위세대 확장형|X-84$0$AA-XXXX-PAT1	c=9 lt=Continuous lw=-3 FROZEN	0
+L	X - 단위세대 확장형|X-84$0$AA-DETL-PCN9	c=9 lt=Continuous lw=-3	0
+L	X - 단위세대 확장형|X-84$0$AA-FFXM-KICH	c=4 lt=Continuous lw=-3 FROZEN	0
+L	X - 단위세대 확장형|X-84$0$02_F-KIT	c=6 lt=Continuous lw=-3 FROZEN	0
+L	X - 단위세대 확장형|AA-EL-PCN4	c=4 lt=Continuous lw=-3	0
+L	X - 단위세대 확장형|AA-EL-PCN8	c=8 lt=Continuous lw=-3	0
+L	X - 단위세대 확장형|A-TILE	c=253 lt=Continuous lw=-3 FROZEN	0
+L	X - 단위세대 확장형|AA-WAXM-DRYW	c=7 lt=Continuous lw=-3	0
+L	X - 단위세대 확장형|A-Drain	c=8 lt=Continuous lw=-3 FROZEN	0
+L	X - 단위세대 확장형|A-ETC	c=7 lt=Continuous lw=-3	0
+L	X - 단위세대 확장형|결로방지단열재	c=7 lt=X - 단위세대 확장형|HID lw=-3	0
+L	X - 단위세대 확장형|AA-XXXX-INSL	c=8 lt=Continuous lw=-3	0
+L	X - 단위세대 확장형|AA-DWXM-DOOR	c=4 lt=Continuous lw=-3	0
+L	X - 단위세대 확장형|DIM	c=7 lt=Continuous lw=-3 FROZEN	0
+L	X - 단위세대 확장형|AA-WAXM-CONC	c=2 lt=Continuous lw=-3	0
+L	X - 단위세대 확장형|xr-49D(확)$0$AA-XXXX-HIDL2	c=7 lt=X - 단위세대 확장형|xr-49D(확)$0$HID lw=-3 FROZEN	0
+L	X - 단위세대 확장형|AA-XXXX-PATT	c=8 lt=Continuous lw=-3	0
+L	X - 단위세대 확장형|Def-PrintX	c=147 lt=Continuous lw=-3 FROZEN	0
+L	X - 단위세대 확장형|U-59A-확장$0$AA-DWXM-WIND	c=4 lt=Continuous lw=-3 FROZEN	0
+L	X - CORE|A-FIN	c=8 lt=Continuous lw=-3	0
+L	X - CORE|A-WALB	c=3 lt=Continuous lw=-3	0
+L	X - CORE|A-WIN	c=4 lt=Continuous lw=-3	0
+L	X - CORE|A-door	c=4 lt=Continuous lw=25	0
+L	X - CORE|X-55$0$AA-DWXM-WIND	c=4 lt=Continuous lw=-3	0
+L	X - CORE|AA-EL-PCN4	c=4 lt=Continuous lw=-3	0
+L	X - CORE|AA-EL-PCN8	c=8 lt=Continuous lw=-3	0
+L	X - CORE|CEN	c=1 lt=X - CORE|CEN lw=-3	0
+L	X - CORE|AA-DWXM-WIND	c=4 lt=Continuous lw=-3	0
+L	X - CORE|LAD-OUTLINE	c=7 lt=Continuous lw=20	0
+L	X - CORE|LAD-CEN	c=1 lt=X - CORE|CENTER2 lw=9	0
+L	X - CORE|LAD-FINISH	c=30 lt=X - CORE|PHANTOM2 lw=15	0
+L	X - CORE|LAD-THINLINE	c=7 lt=Continuous lw=9	0
+L	X - CORE|LAD-REFERENCE	c=7 lt=Continuous lw=5	0
+L	X - CORE|A-GUIDE TEXT	c=67 lt=Continuous lw=-3	0
+L	X - CORE|A-grid	c=7 lt=Continuous lw=-3	0
+L	X - CORE|점형블럭	c=8 lt=Continuous lw=-3	0
+L	X - CORE|AA-WAXM-BLOK	c=3 lt=Continuous lw=-3	0
+L	X - CORE|DIM	c=7 lt=Continuous lw=-3	0
+L	X - CORE|AA-XXXX-CNTL	c=1 lt=X - CORE|CEN lw=-3	0
+L	X - CORE|AA-XXXX-PATT	c=8 lt=Continuous lw=-3	0
+L	X - 단위세대 확장형|커텐박스	c=6 lt=X - 단위세대 확장형|HID lw=-3 FROZEN	0
+L	X - 단위세대 확장형|AA-XXXX-FUR	c=8 lt=Continuous lw=-3 FROZEN	0
+L	X - 단위세대 확장형|F-KIT	c=6 lt=Continuous lw=-3 FROZEN	0
+L	X - 단위세대 기본형|F-KIT	c=6 lt=Continuous lw=-3 FROZEN	0
+L	X - 단위세대 기본형|결로방지단열재	c=7 lt=X - 단위세대 기본형|HID lw=-3	0
+L	X - 단위세대 기본형|커텐박스	c=6 lt=X - 단위세대 기본형|HID lw=-3 FROZEN	0
+L	AA-XXXX-TABL	c=7 lt=Continuous lw=-3	0
+L	1-발코니방수	c=4 lt=Continuous lw=-3	0
+L	2-결로방지	c=8 lt=Continuous lw=-3	0
+L	결로평면	c=4 lt=Continuous lw=-3	0
+L	WALL	c=2 lt=Continuous lw=-3	0
+L	결로방지단열재	c=7 lt=HID lw=-3	0
+L	방수	c=7 lt=Continuous lw=-3	0
+L	단열	c=7 lt=Continuous lw=-3	0
+L	1-욕실방수	c=1 lt=Continuous lw=-3	0
+L	X - 단위세대 기본형|M-AIR	c=1 lt=X - 단위세대 기본형|HID lw=-3 FROZEN	0
+L	X - 단위세대 확장형|M-AIR	c=1 lt=X - 단위세대 확장형|HID lw=-3 FROZEN	0
+L	X - 단위세대 기본형|A-HAT	c=253 lt=Continuous lw=-3	0
+L	X - 단위세대 기본형|LH-UBR	c=4 lt=Continuous lw=-3	0
+L	X - 단위세대 기본형|UBR WALL	c=4 lt=Continuous lw=-3	0
+L	X - 단위세대 기본형|TILE LINE & HATCH	c=252 lt=Continuous lw=-3	0
+L	X - 단위세대 기본형|도기&수전	c=6 lt=Continuous lw=-3	0
+L	X - 단위세대 기본형|UBR내부자재	c=6 lt=Continuous lw=-3	0
+L	X - 단위세대 기본형|253	c=253 lt=Continuous lw=-3	0
+L	X - 단위세대 기본형|UBR-TILE LINE & HATCH	c=252 lt=Continuous lw=-3	0
+L	X - 단위세대 기본형|위생기구	c=6 lt=Continuous lw=-3	0
+L	X - 단위세대 기본형|0 TILE LINE & HATCH	c=8 lt=Continuous lw=-3	0
+L	X - 단위세대 기본형|수전	c=6 lt=Continuous lw=-3	0
+L	X - 단위세대 기본형|CENTER	c=2 lt=X - 단위세대 기본형|CENTER lw=-3	0
+L	X - 단위세대 기본형|3~6층코아$0$A-WALL-CONC	c=2 lt=Continuous lw=-3	0
+L	X - 단위세대 기본형|AA-FFXM-SANI	c=4 lt=Continuous lw=-3	0
+L	X - 단위세대 기본형|win	c=4 lt=Continuous lw=-3	0
+L	X - 단위세대 기본형|iP-FUR-BATH	c=124 lt=Continuous lw=-3	0
+L	X - 단위세대 기본형|AA-XXXX-PAT1	c=9 lt=Continuous lw=-3	0
+L	X - 단위세대 확장형|A-HAT	c=253 lt=Continuous lw=-3	0
+L	X - 단위세대 확장형|LH-UBR	c=4 lt=Continuous lw=-3	0
+L	X - 단위세대 확장형|UBR WALL	c=4 lt=Continuous lw=-3	0
+L	X - 단위세대 확장형|TILE LINE & HATCH	c=252 lt=Continuous lw=-3	0
+L	X - 단위세대 확장형|도기&수전	c=6 lt=Continuous lw=-3	0
+L	X - 단위세대 확장형|UBR내부자재	c=6 lt=Continuous lw=-3	0
+L	X - 단위세대 확장형|253	c=253 lt=Continuous lw=-3	0
+L	X - 단위세대 확장형|UBR-TILE LINE & HATCH	c=252 lt=Continuous lw=-3	0
+L	X - 단위세대 확장형|위생기구	c=6 lt=Continuous lw=-3	0
+L	X - 단위세대 확장형|0 TILE LINE & HATCH	c=8 lt=Continuous lw=-3	0
+L	X - 단위세대 확장형|수전	c=6 lt=Continuous lw=-3	0
+L	X - 단위세대 확장형|CENTER	c=2 lt=X - 단위세대 확장형|CENTER lw=-3	0
+L	X - 단위세대 확장형|3~6층코아$0$A-WALL-CONC	c=2 lt=Continuous lw=-3	0
+L	X - 단위세대 확장형|AA-FFXM-SANI	c=4 lt=Continuous lw=-3	0
+L	X - 단위세대 확장형|win	c=4 lt=Continuous lw=-3	0
+L	X - 단위세대 확장형|iP-FUR-BATH	c=124 lt=Continuous lw=-3	0
+L	X - 단위세대 확장형|AA-XXXX-PAT1	c=9 lt=Continuous lw=-3	0
+L	220920_견적질의 추가사항	c=7 lt=Continuous lw=-3	0
+L	X - 단위세대 기본형|S-SHAFT	c=1 lt=Continuous lw=-3	0
+L	X - 단위세대 기본형|AA-XXXX-PATT	c=8 lt=Continuous lw=-3	0
+L	X - 단위세대 확장형|AA-SSXM-STRS	c=4 lt=Continuous lw=-3	0
+L	X - 단위세대 확장형|S-ELE	c=4 lt=Continuous lw=-3 FROZEN	0
+L	X - 단위세대 확장형|S-HAT	c=19 lt=Continuous lw=-3 FROZEN	0
+L	X - CORE|A-OPEN	c=9 lt=X - CORE|CEN lw=-3	0
+L	X - CORE|DEFPOINT	c=145 lt=Continuous lw=-3	0
+L	AA-XXXX-DIMS	c=7 lt=Continuous lw=-3	0
+L	서비스면적	c=4 lt=Continuous lw=-3	0
+L	X - 단위세대 확장형|AA-XXXX-CNTL	c=1 lt=X - 단위세대 확장형|CEN lw=-3	0
+L	X - 단위세대 기본형|A-GIP	c=6 lt=Continuous lw=-3	0
+L	X - 단위세대 확장형|A-GIP	c=6 lt=Continuous lw=-3	0
+L	X - CORE|AA-WAXM-CONC	c=2 lt=Continuous lw=-3	0
+DS		STANDARD	0
+DS		HAUD-40	0
+DS		CPDIM1	0
+DS		SCALE 50-4	0
+DS		SCALE 50-2	0
+B	AA-WAXM-DRYW	A$C37F320C6	2
+B	AA-WAXM-DRYW	A$C7DC13200	2
+B	0	A$C1A371E57	2
+B	AA-WAXM-DRYW	A$C035C3EC6	2
+B	0	A$C5F771756	2
+E	DEFPOINT	Polyline	12
+E	0-구역계	Polyline	12
+LT	0-구역계	PHANTOM2	12
+B	AA-WAXM-DRYW	A$C1A8966D3	12
+E	TOIL	Spline	13620
+E	TOIL	Line	61464
+LT	TOIL	Continuous	81588
+E	TOIL	Ellipse	528
+LT	TOIL	X-55$0$CENTER	792
+E	TOIL	Polyline	9672
+LT	TOIL	ByLayer	18360
+E	TOIL	Arc	30588
+E	X-55$0$AA-FFXM-SANI	Line	5484
+LT	X-55$0$AA-FFXM-SANI	ByLayer	7056
+E	X-55$0$AA-FFXM-SANI	Polyline	1488
+E	X-55$0$AA-FFXM-SANI	Arc	1440
+B	AA-WAXM-DRYW	A$C49536B45	204
+E	A-Drain	Line	432
+LT	A-Drain	X-55$0$HIDDEN2	648
+E	A-Drain	Circle	288
+LT	TOIL	X-55$0$CEN	720
+E	TOIL	Circle	312
+LT	TOIL	X-55$0$DASHED	144
+E	X-55$0$AA-FFXM-SANI	Hatch	216
+H	X-55$0$AA-FFXM-SANI	SOLID s=1 a=0	216
+LT	X-55$0$AA-FFXM-SANI	X-55$0$HID	1356
+B	X-55$0$AA-FFXM-SANI	X-55$0$샤워부스	60
+B	TOIL	X-55$0$A$C7C4C7ED1	60
+E	X-55$0$AA-FFXM-SANI	Wipeout	180
+E	X-55$0$AA-XXXX-PAT2	Hatch	228
+H	X-55$0$AA-XXXX-PAT2	AR-CONC s=0.33 a=0	12
+LT	TOIL	X-55$0$DASHDOT	432
+E	X-55$0$AA-XXXX-FUR	Line	2196
+LT	X-55$0$AA-XXXX-FUR	ByLayer	1500
+E	X-55$0$AA-XXXX-FUR	Polyline	240
+LT	X-55$0$AA-XXXX-FUR	X-55$0$( Hidden )	216
+LT	X-55$0$AA-XXXX-FUR	X-55$0$HD	600
+LT	X-55$0$AA-XXXX-FUR	ByBlock	240
+H	X-55$0$AA-XXXX-PAT2	AR-CONC s=0.33 a=90	24
+H	X-55$0$AA-XXXX-PAT2	AR-CONC s=0.1 a=90	96
+LT	A-door	X-55$0$CENTER	312
+E	A-door	Circle	156
+H	X-55$0$AA-XXXX-PAT2	AR-CONC s=0.01 a=90	36
+E	X-25$0$ETC	Polyline	216
+LT	X-25$0$ETC	X-25$0$HID	432
+E	X-25$0$ETC	Line	144
+E	X-25$0$ETC	Arc	72
+E	X-25$0$AA-DWXM-WIND	Line	1080
+LT	X-25$0$AA-DWXM-WIND	ByLayer	2232
+E	X-25$0$AA-DWXM-WIND	Polyline	1152
+T	DEFPOINTS	내부 |h=0.67 |st=X-25$0$맑은 고딕	144
+T	DEFPOINTS	외부 |h=0.67 |st=X-25$0$맑은 고딕	144
+E	AA-DWXM-DOOR	Arc	36
+E	X-84$0$AA-DWXM-WIND	Polyline	1680
+LT	X-84$0$AA-DWXM-WIND	ByLayer	3360
+E	X-84$0$AA-DWXM-WIND	Line	1680
+T	DEFPOINTS	내부 |h=0.67 |st=X-84$0$맑은 고딕	156
+T	DEFPOINTS	외부 |h=0.67 |st=X-84$0$맑은 고딕	156
+E	AA-XXXX-INSL	Polyline	192
+LT	AA-XXXX-INSL	ByLayer	732
+E	X-55$0$AA-XXXX-FINL	Line	444
+LT	X-55$0$AA-XXXX-FINL	ByLayer	1296
+E	X-72B$0$AA-XXXX-PAT3	Arc	2592
+LT	X-72B$0$AA-XXXX-PAT3	X-72B$0$HD	6120
+E	X-72B$0$AA-XXXX-PAT3	Line	3504
+E	X-72B$0$AA-XXXX-PAT3	Polyline	24
+E	A-CON	Line	6984
+LT	A-CON	ByLayer	6984
+E	X-55$0$AA-DWXM-WIND	Polyline	2304
+LT	X-55$0$AA-DWXM-WIND	ByLayer	4536
+E	X-55$0$AA-DWXM-WIND	Line	2232
+T	DEFPOINTS	내부 |h=0.67 |st=X-55$0$맑은 고딕	240
+T	DEFPOINTS	외부 |h=0.67 |st=X-55$0$맑은 고딕	240
+E	AA-EL-PCN8	Line	744
+LT	AA-EL-PCN8	ByLayer	744
+T	DEFPOINT	65 TYPE |h=13.34 |st=X-55$0$맑은 고딕	12
+E	AA-XXXX-INSL	Line	540
+E	X-55$0$AA-FFXM-KICH	Polyline	432
+LT	X-55$0$AA-FFXM-KICH	ByBlock	360
+E	X-55$0$AA-FFXM-KICH	Circle	216
+B	X-55$0$AA-FFXM-KICH	X-55$0$C14E34527	72
+LT	X-55$0$AA-FFXM-KICH	Continuous	360
+E	X-55$0$AA-FFXM-KICH	Line	72
+E	X-55$0$AA-FFXM-KICH	Face	2448
+E	X-55$0$AA-XXXX-FINL	Polyline	204
+E	X-55$0$AA-XXXX-FINL	Circle	648
+E	X-55$0$AA-XXXX-PAT3	Polyline	648
+LT	X-55$0$AA-XXXX-PAT3	X-55$0$HIDDEN	648
+E	X-55$0$02_F-KIT	Line	1812
+LT	X-55$0$02_F-KIT	ByLayer	1992
+E	A-WALB	Line	1680
+LT	A-WALB	ByLayer	1560
+H	X-55$0$AA-XXXX-PAT2	AR-CONC s=5 a=90	36
+E	X-55$0$AA-FLXK-OPEN	Line	288
+LT	X-55$0$AA-FLXK-OPEN	ByLayer	288
+E	X-55$0$AA-XXXX-PAT2	Line	72
+LT	X-55$0$AA-XXXX-PAT2	ByLayer	72
+B	TOIL	X-55$0$육가	60
+E	A-Drain	Point	72
+LT	A-Drain	ByLayer	3744
+E	A-Drain	Polyline	3672
+E	AA-WAXM-DRYW	Line	7992
+B	AA-WAXM-DRYW	X-72B$0$DFSOD	12
+E	AA-EL-PCN9	Polyline	36
+LT	AA-EL-PCN9	ByLayer	444
+B	AA-WAXM-CONC	A$C21423B04	72
+LT	AA-FLXK-OPEN	Continuous	144
+E	AA-FLXK-OPEN	Polyline	144
+E	AA-EL-PCN7	Line	144
+LT	AA-EL-PCN7	ByLayer	144
+E	X-55$0$AA-XXXX-FUR	Arc	120
+E	A-ETC	Polyline	3348
+LT	A-ETC	X-84$0$HID	12
+B	X-84$0$AA-XXXX-PAT1	X-84$0$C9c1d72a0	12
+E	X-84$0$AA-FFXM-SANI	Arc	1776
+LT	X-84$0$AA-FFXM-SANI	ByLayer	792
+E	X-84$0$AA-FFXM-SANI	Line	7272
+B	AA-WAXM-DRYW	X-84$0$C14508014	12
+E	X-84$0$AA-FFXM-SANI	Polyline	720
+E	A-ETC	Line	2484
+LT	A-ETC	ByLayer	684
+B	X-84$0$AA-DETL-PCN9	X-84$0$stud80	48
+E	X-84$0$AA-DETL-PCN9	Line	1104
+LT	X-84$0$AA-DETL-PCN9	ByLayer	1392
+E	X-84$0$AA-DETL-PCN9	Arc	288
+E	A-ETC	Arc	276
+B	AA-WAXM-DRYW	X-84$0$C5B8C6B2E	12
+LT	X-84$0$AA-XXXX-ELEV	ByLayer	12
+E	X-84$0$AA-XXXX-ELEV	Polyline	12
+H	X-84$0$AA-FFXM-SANI	AR-CONC s=10 a=0.01	12
+E	X-84$0$AA-FFXM-SANI	Hatch	12
+B	AA-WAXM-DRYW	X-84$0$C7DFA480A	12
+LT	X-84$0$AA-FFXM-SANI	X-84$0$HID	132
+B	AA-WAXM-DRYW	X-84$0$KBY-030C평	12
+LT	X-84$0$AA-XXXX-CNTL	X-84$0$CENTER	60
+E	X-84$0$AA-XXXX-CNTL	Line	72
+E	X-84$0$AA-FFXM-SANI	Ellipse	48
+E	X-84$0$AA-FFXM-SANI	Spline	2256
+LT	X-84$0$AA-FFXM-SANI	Continuous	8844
+E	X-84$0$AA-XXXX-PAT2	Polyline	12
+LT	X-84$0$AA-XXXX-PAT2	ByLayer	24
+E	X-84$0$AA-XXXX-PAT2	Line	12
+LT	X-84$0$AA-XXXX-CNTL	X-84$0$CEN	12
+E	A-FIN	Polyline	72
+B	X-84$0$AA-XXXX-FINL	X-84$0$C09014EF9	48
+E	X-84$0$AA-XXXX-FUR	Line	1248
+LT	X-84$0$AA-XXXX-FUR	ByBlock	96
+E	X-84$0$AA-XXXX-FUR	Polyline	288
+LT	X-84$0$AA-XXXX-FUR	X-84$0$HD	96
+E	X-84$0$AA-XXXX-FUR	Arc	48
+B	AA-WAXM-DRYW	X-84$0$DFSOD	24
+E	X-84$0$AA-XXXX-PAT3	Polyline	240
+E	X-84$0$AA-XXXX-PAT3	Arc	2592
+LT	X-84$0$AA-XXXX-PAT3	X-84$0$HD	6120
+E	X-84$0$AA-XXXX-PAT3	Line	3504
+E	X-84$0$defpoint	Polyline	24
+LT	X-84$0$defpoint	ByLayer	24
+E	X-84$0$02_F-KIT	Polyline	24
+LT	X-84$0$02_F-KIT	ByLayer	24
+B	X-84$0$AA-XXXX-FINL	X-84$0$C5B5B6358	24
+E	X-84$0$AA-FFXM-KICH	Polyline	72
+LT	X-84$0$AA-FFXM-KICH	X-84$0$HID	96
+E	X-84$0$AA-FFXM-KICH	Face	816
+E	X-84$0$AA-FFXM-KICH	Circle	432
+E	X-84$0$AA-FFXM-KICH	Line	3120
+LT	X-84$0$AA-FFXM-KICH	ByLayer	5184
+E	X-84$0$AA-FFXM-KICH	Arc	1656
+B	X-84$0$AA-XXXX-FINL	X-84$0$C4E620756	24
+E	X-84$0$AA-XXXX-FINL	Circle	384
+E	X-84$0$AA-XXXX-FINL	Line	288
+LT	X-84$0$AA-XXXX-FINL	ByLayer	768
+E	X-84$0$AA-XXXX-FINL	Polyline	96
+B	X-84$0$AA-XXXX-FINL	X-84$0$C4E620756_1	24
+B	AA-WAXM-DRYW	X-84$0$555s	24
+LT	X-84$0$AA-XXXX-PAT3	X-84$0$HIDDEN	216
+E	X-84$0$AA-FLXK-OPEN	Line	96
+LT	X-84$0$AA-FLXK-OPEN	ByLayer	96
+B	AA-WAXM-DRYW	X-84$0$A$Cbcebd316	48
+LT	X-84$0$AA-XXXX-FUR	X-84$0$( Hidden )	192
+LT	X-84$0$AA-XXXX-FUR	ByLayer	1200
+H	X-55$0$AA-XXXX-PAT2	AR-CONC s=0.01 a=270	12
+E	AA-EL-PCN9	Line	408
+B	X-25$0$AA-XXXX-FINL	X-25$0$C09014EF9	144
+E	X-25$0$AA-XXXX-FUR	Line	720
+LT	X-25$0$AA-XXXX-FUR	ByBlock	288
+E	X-25$0$AA-XXXX-FUR	Polyline	360
+LT	X-25$0$AA-XXXX-FUR	X-25$0$HD	3672
+E	X-25$0$AA-XXXX-FUR	Arc	2880
+E	X-25$0$02_F-KIT	Polyline	504
+LT	X-25$0$02_F-KIT	ByLayer	1512
+E	X-25$0$02_F-KIT	Line	864
+E	X-25$0$AA-XXXX-FINL	Hatch	72
+H	X-25$0$AA-XXXX-FINL	ANSI31 s=3.34 a=810	36
+E	X-25$0$AA-XXXX-FINL	Polyline	216
+LT	X-25$0$AA-XXXX-FINL	ByLayer	1296
+E	X-25$0$02_F-KIT	Arc	144
+B	X-25$0$AA-XXXX-FINL	X-25$0$C3F035890	72
+E	X-25$0$AA-FFXM-KICH	Face	2448
+E	X-25$0$AA-FFXM-KICH	Line	72
+LT	X-25$0$AA-FFXM-KICH	Continuous	360
+B	X-25$0$AA-FFXM-KICH	X-25$0$C14E34527	72
+E	X-25$0$AA-FFXM-KICH	Circle	216
+LT	X-25$0$AA-FFXM-KICH	ByBlock	360
+E	X-25$0$AA-FFXM-KICH	Polyline	504
+B	X-25$0$AA-XXXX-FINL	X-25$0$C4E620756	72
+E	X-25$0$AA-XXXX-FINL	Circle	648
+E	X-25$0$AA-XXXX-FINL	Line	432
+B	AA-WAXM-DRYW	X-25$0$C578C0631	72
+LT	X-25$0$AA-FFXM-KICH	X-25$0$-HID	72
+E	DEFPOINT	MText	72
+T	DEFPOINT	25A TYPE |h=13.34 |st=X-25$0$맑은 고딕	72
+B	X-25$0$AA-XXXX-PAT1	X-25$0$Cd8e2783c	60
+H	X-25$0$AA-XXXX-PAT2	AR-CONC s=5 a=90	60
+E	X-25$0$AA-XXXX-PAT2	Hatch	60
+LT	X-25$0$AA-FFXM-SANI	ByLayer	8040
+E	X-25$0$AA-FFXM-SANI	Polyline	540
+LT	X-25$0$AA-FFXM-SANI	X-25$0$HID	60
+E	X-25$0$AA-XXXX-PAT2	Line	60
+LT	X-25$0$AA-XXXX-PAT2	ByLayer	60
+LT	A-ETC	Continuous	5412
+E	X-55$0$AA-XXXX-FINL	Hatch	60
+H	X-55$0$AA-XXXX-FINL	ANSI31 s=0.13 a=0	36
+B	AA-WAXM-DRYW	X-55$0$555s	60
+E	실외기	Polyline	84
+LT	실외기	X-55$0$HD	324
+E	실외기	Line	240
+E	X-55$0$0-조경패턴	Line	132
+LT	X-55$0$0-조경패턴	ByLayer	132
+T	DEFPOINT	54C TYPE |h=13.34 |st=X-55$0$맑은 고딕	12
+B	X-55$0$AA-XXXX-FINL	X-55$0$C3F035890	60
+B	X-55$0$AA-XXXX-FINL	X-55$0$C4E620756	60
+B	AA-WAXM-DRYW	X-25$0$HS-006 코너알루미늄 선반-T	60
+LT	X-25$0$defpoint	ByLayer	240
+E	X-25$0$defpoint	Polyline	240
+E	X-25$0$AA-FFXM-SANI	Point	480
+E	X-25$0$AA-FFXM-SANI	Circle	1020
+E	X-25$0$AA-FFXM-SANI	Arc	1620
+E	X-25$0$AA-FFXM-SANI	Line	4920
+B	AA-WAXM-DRYW	X-25$0$C14508014	60
+E	X-25$0$AA-XXXX-PAT1	Polyline	3180
+LT	X-25$0$AA-XXXX-PAT1	ByLayer	3180
+H	X-25$0$AA-XXXX-PAT1	ANSI31 s=0.27 a=90	36
+E	X-25$0$defpoint	Text	300
+T	X-25$0$defpoint	-60 |h=1.98 |st=X-25$0$맑은 고딕	60
+T	X-25$0$defpoint	-80 |h=1.98 |st=X-25$0$맑은 고딕	60
+B	X-25$0$AA-XXXX-PAT1	X-25$0$육가	60
+LT	X-25$0$AA-XXXX-PAT1	X-25$0$HIDDEN2	60
+E	X-25$0$AA-XXXX-PAT1	Circle	60
+E	X-25$0$AA-XXXX-PAT1	Point	60
+B	X-25$0$AA-DETL-PCN9	X-25$0$stud80	840
+E	X-25$0$AA-DETL-PCN9	Line	19320
+LT	X-25$0$AA-DETL-PCN9	ByLayer	24360
+E	X-25$0$AA-DETL-PCN9	Arc	5040
+T	X-25$0$defpoint	S.P |h=1.75 |st=X-25$0$맑은 고딕	60
+B	AA-WAXM-DRYW	X-25$0$sp방향선	240
+H	X-25$0$AA-FFXM-SANI	SOLID s=1 a=0	720
+E	X-25$0$AA-FFXM-SANI	Hatch	720
+LT	A-WALB	Continuous	120
+H	X-25$0$AA-XXXX-PAT1	ANSI31 s=0.27 a=0	36
+T	X-25$0$defpoint	±0 |h=2.17 |st=X-25$0$맑은 고딕	60
+T	X-25$0$defpoint	-60 |h=2.17 |st=X-25$0$맑은 고딕	60
+B	AA-WAXM-DRYW	X-25$0$C9c1d72a0	60
+B	X-84$0$AA-XXXX-ELEV	X-84$0$FD	156
+E	X-84$0$AA-DWXM-STHC	Circle	168
+E	X-84$0$AA-DWXM-STHC	Arc	5376
+LT	X-84$0$AA-DWXM-STHC	ByLayer	11928
+E	X-84$0$AA-DWXM-STHC	Line	6384
+H	X-25$0$AA-XXXX-FINL	ANSI31 s=3.34 a=720	12
+H	X-55$0$AA-XXXX-FINL	ANSI31 s=2 a=0	24
+T	DEFPOINT	54D TYPE |h=13.34 |st=X-55$0$맑은 고딕	12
+T	DEFPOINT	54A TYPE |h=13.34 |st=X-55$0$맑은 고딕	12
+E	보일러	Line	396
+LT	보일러	X-55$0$HID	696
+E	보일러	Arc	96
+E	X-84$0$defpoint	Text	24
+T	X-84$0$defpoint	세탁기 |h=10.01 |st=X-84$0$맑은 고딕	24
+T	DEFPOINT	84A TYPE |h=13.34 |st=X-84$0$맑은 고딕	12
+H	X-25$0$AA-XXXX-FINL	ANSI31 s=50 a=810	24
+H	X-25$0$AA-XXXX-PAT1	ANSI31 s=4.12 a=90	24
+H	X-55$0$AA-XXXX-PAT2	AR-CONC s=0.01 a=0	12
+T	DEFPOINT	57 TYPE |h=13.34 |st=X-55$0$맑은 고딕	12
+T	DEFPOINT	84B TYPE |h=13.34 |st=X-84$0$맑은 고딕	12
+T	DEFPOINT	54B TYPE |h=13.34 |st=X-55$0$맑은 고딕	12
+E	X-55$0$02_F-KIT	Arc	120
+E	보일러	Polyline	336
+LT	보일러	ByLayer	132
+E	X-55$0$02_F-KIT	Polyline	60
+E	AA-DWXM-DOOR	Polyline	72
+B	AA-WAXM-DRYW	A$C19CE0175	12
+H	0-조경패턴	ANSI37 s=20 a=45	12
+E	0-조경패턴	Hatch	12
+E	AA-XXXX-FINL	Line	372
+LT	AA-XXXX-FINL	ByLayer	372
+E	AA-SSXM-STRS	Line	1176
+LT	AA-SSXM-STRS	ByLayer	1608
+B	AA-XXXX-SYMB	arrow1	48
+LT	AA-XXXX-SYMB	ByLayer	384
+E	AA-XXXX-SYMB	Line	288
+E	AA-XXXX-SYMB	Circle	48
+E	AA-XXXX-SYMB	Polyline	48
+E	DEFPOINTS	Text	1224
+T	DEFPOINTS	DN |h=100 |st=$0$HAUD01	24
+T	DEFPOINTS	UP |h=100 |st=$0$HAUD01	24
+B	치수선	A$C38e0705c	36
+T	DEFPOINTS	PIT 내폭 : 2700 X 2400 |h=48 |st=HAUD01	36
+T	DEFPOINTS	(21인승,105m/min) |h=48 |st=HAUD01	36
+LT	LAD-THINLINE	PHANTOM2	48
+LT	LAD-OUTLINE	PHANTOM2	768
+E	LAD-THINLINE	Circle	96
+LT	LAD-THINLINE	Continuous	1152
+LT	LAD-CEN	CENTER	96
+E	LAD-THINLINE	Arc	1728
+E	LAD-REFERENCE	Line	192
+LT	LAD-REFERENCE	ByLayer	384
+E	LAD-REFERENCE	Polyline	192
+LT	LAD-THINLINE	HIDDEN	144
+LT	LAD-OUTLINE	Continuous	1152
+E	LAD-OUTLINE	Arc	768
+E	LAD-THINLINE	Polyline	576
+LT	LAD-THINLINE	ByLayer	6192
+E	LAD-THINLINE	Line	5136
+LT	LAD-CEN	ByLayer	576
+E	LAD-CEN	Line	672
+LT	LAD-FINISH	ByLayer	72
+E	LAD-FINISH	Line	72
+E	LAD-OUTLINE	Polyline	816
+LT	LAD-OUTLINE	ByLayer	960
+E	LAD-OUTLINE	Line	1296
+E	AA-WAXM-CONC	Polyline	12
+B	치수선	A$C6159eb5d	12
+B	치수선	X - 평면도|LAD-RAIL-18K2	12
+B	치수선	X - 평면도|LAD-RAIL-18K1	12
+B	치수선	LAD-OPB-DISABLED1	12
+B	치수선	LAD-OPB	12
+B	치수선	X - 평면도|LAD-HBTN1	12
+T	DEFPOINTS	PIT 내폭 : 2500 X 2300 |h=48 |st=HAUD01	12
+T	DEFPOINTS	(18인승,105m/min) |h=48 |st=HAUD01	12
+B	치수선	LAD-ELD-PL	12
+B	치수선	X - 평면도|LAD-T-CABLE	12
+B	치수선	X - 평면도|LAD-LADDER	12
+B	치수선	X - 평면도|LAD-GOV1	12
+B	치수선	X - 평면도|LAD-RAIL-13K2	12
+B	치수선	X - 평면도|LAD-RAIL-13K1	12
+B	치수선	X - 평면도|LAD-CWT-WB-N21	12
+E	AA-SSXM-STRS	Polyline	432
+B	점형블럭	A$C4D1409A3	96
+E	점형블럭	Circle	3456
+LT	점형블럭	ByLayer	3552
+E	점형블럭	Polyline	96
+E	A-GUIDE TEXT	Line	96
+LT	A-GUIDE TEXT	ByLayer	96
+B	AA-WAXM-DRYW	A$C31091612	12
+LT	AA-FFXM-KICH	ByLayer	48
+E	AA-FFXM-KICH	Line	48
+LT	AA-WAXM-BLOK	ByLayer	168
+E	AA-WAXM-BLOK	Line	168
+LT	AA-WAXM-CONC	ByLayer	1416
+E	AA-WAXM-CONC	Line	1404
+LT	AA-XXXX-CNTL	ByLayer	456
+E	AA-XXXX-CNTL	Line	456
+B	AA-WAXM-DRYW	A$C5A5A1248	12
+E	HAT	Hatch	16
+H	HAT	SOLID s=1 a=0	16
+E	AA-WAXM-DRYW	Polyline	412
+LT	AA-WAXM-DRYW	ByLayer	8404
+B	0	A$C653352A6	2
+T	AA-XXXX-TEXT	발코니3 |h=120 |st=HAUD01	1
+T	DEFPOINT	84A형 |h=4000 |st=HAUD01	1
+T	DEFPOINT	54형 |h=4000 |st=HAUD01	1
+T	DEFPOINT	65형 |h=4000 |st=HAUD01	1
+T	DEFPOINT	확장형 |h=4000 |st=HAUD01	1
+T	DEFPOINT	기본형 |h=4000 |st=HAUD01	1
+T	DEFPOINT	84B형 |h=4000 |st=HAUD01	1
+T	DEFPOINT	57형 |h=4000 |st=HAUD01	1
+T	DEFPOINT	25형 |h=4000 |st=HAUD01	1
+B	0	X - CORE	4
+B	0	X - 단위세대 확장형	6
+B	0	X - 단위세대 기본형	6
+B	0	A$C2EFB286E	2
+B	0	A$C4BA53AC1	2
+B	0	A$C70AE545E	2
+B	0	A$C2E986DD9	2
+B	0	A$C5CAD7B6C	2
+E	DIM	RotatedDimension	220
+D	DIM	HAUD-40 RotatedDimension	220
+E	DEFPOINT	Line	32
+LT	DEFPOINT	ByLayer	44
+B	0	A$C6E295BD7	2
+T	AA-BORD-TEXT	84㎡B형 |h=160 |st=HAUD01	2
+T	AA-BORD-TEXT	84㎡A형 |h=160 |st=HAUD01	2
+T	AA-BORD-TEXT	65㎡형 |h=160 |st=HAUD01	2
+T	AA-BORD-TEXT	57㎡형 |h=160 |st=HAUD01	2
+T	AA-BORD-TEXT	54㎡형 |h=160 |st=HAUD01	2
+T	AA-BORD-TEXT	(확장형) |h=160 |st=HAUD01	6
+T	AA-BORD-TEXT	25㎡형 |h=160 |st=HAUD01	2
+B	결로방지단열재	A$C56B31409	98
+LT	A-SYM	ByLayer	122
+E	A-SYM	Polyline	122
+H	A-SYM	SOLID s=1 a=0	98
+E	A-SYM	Hatch	98
+B	결로방지단열재	A$C0C1E1D28	1
+H	2-결로방지	ANSI31 s=25 a=90	28
+E	결로방지단열재	Polyline	19
+B	0	A$C52886CA8	1
+T	AA-XXXX-TEXT	발코니2 |h=120 |st=HAUD01	5
+T	AA-XXXX-TEXT	발코니1 |h=120 |st=HAUD01	5
+T	AA-XXXX-TEXT	발코니 |h=120 |st=HAUD01	1
+E	AA-XXXX-TABL	Line	540
+LT	AA-XXXX-TABL	ByLayer	636
+E	AA-XXXX-TABL	Polyline	96
+T	AA-XXXX-TEXT	■ 결로방지재 일람표 |h=150 |st=HAUD01	12
+T	AA-XXXX-TEXT	■ 방수 일람표 |h=150 |st=HAUD01	12
+T	AA-XXXX-TEXT	■ 벽체단열 일람표 |h=150 |st=HAUD01	12
+T	AA-XXXX-TEXT	■ 단열, 결로방지 총괄표 |h=150 |st=HAUD01	12
+LT	AA-XXXX-TABL	HIDDEN	48
+T	AA-XXXX-TEXT	구  분 |h=150 |st=HAUD01	24
+T	AA-XXXX-TEXT	천장 |h=150 |st=HAUD01	24
+T	AA-XXXX-TEXT	옹벽단부 |h=150 |st=HAUD01	24
+T	AA-XXXX-TEXT	사용부위 표기 |h=150 |st=HAUD01	12
+E	결로방지단열재	Line	32
+LT	결로방지단열재	ByLayer	51
+E	A-FIN	Line	5160
+LT	A-FIN	ByLayer	5232
+E	WALL	Line	96
+LT	WALL	ByLayer	60
+LT	WALL	Continuous	36
+E	결로평면	Line	24
+LT	결로평면	Continuous	24
+E	AA-XXXX-TABL	Hatch	24
+H	AA-XXXX-TABL	SOLID s=1 a=0	24
+T	AA-XXXX-TEXT	재료명 |h=150 |st=HAUD01	24
+T	AA-XXXX-TEXT	THK10 결로방지용 단열재 |h=150 |st=HAUD01	48
+T	AA-XXXX-TEXT	비고 |h=150 |st=HAUD01	36
+T	AA-XXXX-TEXT	W=450 |h=150 |st=HAUD01	48
+T	AA-XXXX-TEXT	방수부위 |h=150 |st=HAUD01	12
+T	AA-XXXX-TEXT	발코니 |h=150 |st=HAUD01	12
+T	AA-XXXX-TEXT	욕실벽 |h=150 |st=HAUD01	12
+T	AA-XXXX-TEXT	표기 |h=150 |st=HAUD01	12
+T	AA-XXXX-TEXT	방수구분 |h=150 |st=HAUD01	12
+T	AA-XXXX-TEXT	시멘트액체방수 |h=150 |st=HAUD01	36
+T	AA-XXXX-TEXT	우레탄 코너보강 |h=150 |st=HAUD01	12
+T	AA-XXXX-TEXT	방수한계 H=1200 |h=150 |st=HAUD01	12
+T	AA-XXXX-TEXT	(샤워부스 H=1800) |h=150 |st=HAUD01	12
+T	AA-XXXX-TEXT	콘크리트면 |h=150 |st=HAUD01	24
+T	AA-XXXX-TEXT	조적면 |h=150 |st=HAUD01	24
+E	AA-XXXX-TABL	Circle	48
+T	AA-XXXX-TEXT	사용부위 |h=150 |st=HAUD01	12
+T	AA-XXXX-TEXT	벽 |h=150 |st=HAUD01	12
+T	AA-XXXX-TEXT	욕실 |h=150 |st=HAUD01	60
+T	AA-XXXX-TEXT	THK130 경질우레탄보온판2종2호 |h=150 |st=HAUD01	36
+T	AA-XXXX-TEXT	외기간접 |h=150 |st=HAUD01	24
+T	AA-XXXX-TEXT	외기 |h=150 |st=HAUD01	36
+T	AA-XXXX-TEXT	직접 |h=150 |st=HAUD01	24
+T	AA-XXXX-TEXT	B |h=150 |st=HAUD01	12
+T	AA-XXXX-TEXT	THK90 경질우레탄보온판2종2호 |h=150 |st=HAUD01	12
+T	AA-XXXX-TEXT	적용부위 |h=150 |st=HAUD01	12
+T	AA-XXXX-TEXT	단열재종류 |h=150 |st=HAUD01	12
+T	AA-XXXX-TEXT	단열재두께 |h=150 |st=HAUD01	12
+T	AA-XXXX-TEXT	외기직접 |h=150 |st=HAUD01	24
+T	AA-XXXX-TEXT	외벽 |h=150 |st=HAUD01	12
+T	AA-XXXX-TEXT	지붕 |h=150 |st=HAUD01	12
+T	AA-XXXX-TEXT	최상층 |h=150 |st=HAUD01	12
+T	AA-XXXX-TEXT	바닥 |h=150 |st=HAUD01	12
+T	AA-XXXX-TEXT	최하층 |h=150 |st=HAUD01	12
+T	AA-XXXX-TEXT	거실/침실 |h=150 |st=HAUD01	24
+T	AA-XXXX-TEXT	난방 |h=150 |st=HAUD01	24
+T	AA-XXXX-TEXT	비난방 |h=150 |st=HAUD01	24
+T	AA-XXXX-TEXT	현관 |h=150 |st=HAUD01	24
+T	AA-XXXX-TEXT	간접 |h=150 |st=HAUD01	12
+T	AA-XXXX-TEXT	바닥난방인 |h=150 |st=HAUD01	12
+T	AA-XXXX-TEXT	층간바닥 |h=150 |st=HAUD01	12
+T	AA-XXXX-TEXT	거실/주방 |h=150 |st=HAUD01	12
+T	AA-XXXX-TEXT	침실 |h=150 |st=HAUD01	12
+T	AA-XXXX-TEXT	방지재 |h=150 |st=HAUD01	12
+T	AA-XXXX-TEXT	결로 |h=150 |st=HAUD01	12
+T	AA-XXXX-TEXT	(비드법보온판2종2호) |h=150 |st=HAUD01	24
+T	AA-XXXX-TEXT	비드법보온판1종4호 |h=150 |st=HAUD01	24
+T	AA-XXXX-TEXT	30 |h=150 |st=HAUD01	24
+T	AA-XXXX-TEXT	경질우레탄보온판2종2호 |h=150 |st=HAUD01	84
+T	AA-XXXX-TEXT	하부 |h=150 |st=HAUD01	48
+T	AA-XXXX-TEXT	90 |h=150 |st=HAUD01	24
+T	AA-XXXX-TEXT	상부 |h=150 |st=HAUD01	12
+T	AA-XXXX-TEXT	60 |h=150 |st=HAUD01	12
+T	AA-XXXX-TEXT	20 |h=150 |st=HAUD01	12
+T	AA-XXXX-TEXT	130 |h=150 |st=HAUD01	24
+T	AA-XXXX-TEXT	150 |h=150 |st=HAUD01	12
+E	2-결로방지	Hatch	40
+H	2-결로방지	ANSI31 s=25 a=0	12
+T	AA-XXXX-TEXT	UBR |h=150 |st=HAUD01	12
+T	AA-XXXX-TEXT	UBR 시스템 단열기준 적용 |h=150 |st=HAUD01	12
+B	0	결로단열표	12
+T	DEFPOINT	단열, 방수, 결로방지 평면도 |h=4000 |st=HAUD01	1
+E	DEFPOINT	Text	105
+T	AA-MKXM	84㎡A형 단열, 방수, 결로방지 평면도 (확장형) |h=280 |st=HAUD01	1
+T	AA-MKXM	84㎡A형 단열, 방수, 결로방지 평면도 (기본형) |h=280 |st=HAUD01	1
+T	AA-BORD-TEXT	A31 - 050 |h=120 |st=HAUD01	1
+T	AA-BORD-TEXT	A31 - 049 |h=120 |st=HAUD01	1
+T	AA-MKXM	54㎡형 단열, 방수, 결로방지 평면도 (확장형) |h=280 |st=HAUD01	1
+T	AA-MKXM	54㎡형 단열, 방수, 결로방지 평면도 (기본형) |h=280 |st=HAUD01	1
+T	AA-BORD-TEXT	A31 - 044 |h=120 |st=HAUD01	1
+T	AA-BORD-TEXT	A31 - 043 |h=120 |st=HAUD01	1
+T	AA-MKXM	57㎡형 단열, 방수, 결로방지 평면도 (확장형) |h=280 |st=HAUD01	1
+T	AA-MKXM	57㎡형 단열, 방수, 결로방지 평면도 (기본형) |h=280 |st=HAUD01	1
+T	AA-BORD-TEXT	A31 - 046 |h=120 |st=HAUD01	1
+T	AA-BORD-TEXT	A31 - 045 |h=120 |st=HAUD01	1
+T	AA-MKXM	84㎡B형 단열, 방수, 결로방지 평면도 (확장형) |h=280 |st=HAUD01	1
+T	AA-MKXM	65㎡형 단열, 방수, 결로방지 평면도 (확장형) |h=280 |st=HAUD01	1
+T	AA-MKXM	25㎡형 단열, 방수, 결로방지 평면도 (확장형) |h=280 |st=HAUD01	1
+T	AA-MKXM	84㎡B형 단열, 방수, 결로방지 평면도 (기본형) |h=280 |st=HAUD01	1
+T	AA-MKXM	65㎡형 단열, 방수, 결로방지 평면도 (기본형) |h=280 |st=HAUD01	1
+T	AA-BORD-TEXT	(기본형) |h=160 |st=HAUD01	6
+T	AA-BORD-TEXT	단열, 방수, 결로방지 평면도 |h=160 |st=HAUD01	12
+T	AA-BORD-TEXT	A31 - 052 |h=120 |st=HAUD01	1
+T	AA-BORD-TEXT	A31 - 048 |h=120 |st=HAUD01	1
+T	AA-BORD-TEXT	A31 - 042 |h=120 |st=HAUD01	1
+T	AA-XXXX-TEXT	반침 |h=120 |st=HAUD01	12
+T	AA-XXXX-TEXT	복도 |h=120 |st=HAUD01	12
+T	AA-XXXX-TEXT	침실3 |h=120 |st=HAUD01	4
+T	AA-XXXX-TEXT	침실2 |h=120 |st=HAUD01	6
+T	AA-XXXX-TEXT	실외기실 |h=120 |st=HAUD01	10
+T	AA-XXXX-TEXT	침실1 |h=120 |st=HAUD01	10
+T	AA-XXXX-TEXT	욕실 |h=120 |st=HAUD01	12
+T	AA-XXXX-TEXT	보일러실 |h=120 |st=HAUD01	2
+T	AA-XXXX-TEXT	거실 |h=120 |st=HAUD01	12
+T	AA-XXXX-TEXT	주방 |h=120 |st=HAUD01	12
+LT	AA-XXXX-TEXT	ByLayer	116
+E	AA-XXXX-TEXT	Polyline	116
+T	AA-XXXX-TEXT	현관 |h=120 |st=HAUD01	12
+T	AA-BORD-TEXT	A31 - 051 |h=120 |st=HAUD01	1
+T	AA-BORD-TEXT	A31 - 047 |h=120 |st=HAUD01	1
+E	DEFPOINTS	Polyline	157
+T	AA-MKXM	축척 : 1/80 |h=120 |st=HAUD01	12
+E	AA-MKXM	MText	12
+T	AA-MKXM	1 |h=200 |st=HAUD01	12
+T	AA-MKXM	25㎡형 단열, 방수, 결로방지 평면도 (기본형) |h=280 |st=HAUD01	1
+E	AA-MKXM	Text	24
+E	AA-MKXM	Circle	12
+LT	AA-MKXM	ByLayer	24
+E	AA-MKXM	Line	12
+LT	DEFPOINTS	ByLayer	4237
+E	DEFPOINTS	Line	4080
+T	AA-BORD-TEXT	A1 : 1/40, A3 : 1/80 |h=120 |st=HAUD01	12
+T	AA-BORD-TEXT	A31 - 041 |h=120 |st=HAUD01	1
+E	AA-BORD-TEXT	Text	60
+E	AA-DWXM-WIND	Line	488
+LT	AA-DWXM-WIND	ByLayer	663
+E	AA-DWXM-WIND	Polyline	175
+E	AA-EL-PCN4	Line	242
+LT	AA-EL-PCN4	ByLayer	242
+E	AA-DWXM-DOOR	Line	302
+LT	AA-DWXM-DOOR	ByLayer	410
+B	0	A$C0A71734C	1
+E	단열	Line	175
+LT	단열	ByLayer	226
+E	단열	Circle	51
+E	AA-XXXX-TEXT	Text	1523
+T	AA-XXXX-TEXT	C |h=150 |st=HAUD01	46
+T	AA-XXXX-TEXT	A |h=150 |st=HAUD01	41
+E	0	Line	2
+B	0	A$C4F1576E2	1
+LT	0	ByLayer	3
+E	0	Polyline	1
+LT	A-CEN	ByLayer	3982
+E	A-CEN	Line	3982
+E	1-발코니방수	Hatch	34
+H	1-발코니방수	CROSS s=7 a=0	34
+E	방수	Polyline	22
+LT	방수	ByLayer	22
+B	0	A$C0BE6183D	1
+B	0	X - SHEET	12
+H	X-25$0$AA-XXXX-PAT1	ANSI31 s=4.12 a=0	25
+E	X-25$0$AA-XXXX-PAT1	Hatch	121
+H	A-TILE	격자1 s=300 a=180	1
+E	A-TILE	Hatch	1
+LT	X-55$0$AA-XXXX-MC	ByLayer	29
+E	X-55$0$AA-XXXX-MC	Line	29
+LT	X-55$0$defpoint	ByLayer	1
+E	X-55$0$defpoint	Polyline	1
+B	A-grid	$AUDIT_BAD_BLOCK_RECORD1	13
+E	A-door	Line	9140
+E	A-door	Arc	3532
+LT	A-door	ByLayer	14956
+E	A-door	Polyline	2440

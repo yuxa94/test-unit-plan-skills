@@ -1,0 +1,155 @@
+MS			785
+L	0	c=7 lt=Continuous lw=-3	0
+L	DIM	c=7 lt=Continuous lw=-3	0
+L	A-HAT	c=8 lt=Continuous lw=-3	0
+L	DEFPOINT	c=151 lt=Continuous lw=-3	0
+L	A-WALL	c=3 lt=Continuous lw=-3	0
+L	A-CEN-2	c=1 lt=74A-확장$0$CEN lw=-3	0
+L	A-FIN	c=6 lt=Continuous lw=-3	0
+L	AA-DWXM-WIND	c=4 lt=Continuous lw=-3	0
+L	AA-FFXM-MOVE	c=9 lt=U_84㎡B형(확장형)$0$HID lw=-3	0
+L	AA-FFXM-AETC	c=4 lt=Continuous lw=0	0
+L	수전 드레인	c=9 lt=Continuous lw=-3	0
+L	AA-FFXM-FUR-OPTION	c=9 lt=U_84㎡B형(확장형)$0$HID lw=-3	0
+L	AA-DWXM-STHC	c=4 lt=U_84㎡B형(확장형)$0$HID lw=-3	0
+L	A-CEN	c=1 lt=74A-확장$0$CEN lw=-3	0
+L	A-NORT	c=4 lt=Continuous lw=-3	0
+L	A-MC	c=191 lt=Continuous lw=-3	0
+L	FUR-DP	c=6 lt=74A-확장$0$HD lw=-3	0
+L	A-INS	c=8 lt=Continuous lw=-3	0
+L	A-DOOR	c=4 lt=Continuous lw=-3	0
+L	I-확장	c=7 lt=74A-확장$0$HD lw=-3	0
+L	A-WIN	c=4 lt=Continuous lw=-3	0
+L	A-WIND1	c=4 lt=Continuous lw=-3	0
+L	A-FFXM-SANI	c=6 lt=Continuous lw=-3	0
+L	A-FFXM-KICH	c=6 lt=Continuous lw=-3	0
+L	F-KIT	c=6 lt=Continuous lw=-3	0
+L	F-TOILET	c=6 lt=Continuous lw=-3	0
+L	설비-FD	c=1 lt=Continuous lw=-3	0
+L	A-TILE	c=8 lt=Continuous lw=-3	0
+L	SYM	c=4 lt=Continuous lw=-3	0
+L	A-ELE-8	c=8 lt=Continuous lw=-3	0
+L	A-난간	c=6 lt=Continuous lw=-3	0
+L	AA-WAXM-CONC	c=2 lt=Continuous lw=-3	0
+L	0_결로방지단열재 (W 450)	c=7 lt=$0$UN-74A1$0$DASHED lw=-3	0
+L	F	c=8 lt=Continuous lw=-3	0
+DS		STANDARD	0
+LT	F	ByLayer	1
+E	F	Polyline	1
+E	SYM	Polyline	30
+E	SYM	Arc	20
+B	SYM	UNIT-69A$0$59B 단위세대평면도_확장전$0$WC-1	5
+E	A-INS	Polyline	22
+LT	0_결로방지단열재 (W 450)	ByLayer	3
+E	0_결로방지단열재 (W 450)	Polyline	3
+T	DEFPOINT	84B |h=350 |st=돋움체	1
+E	DEFPOINT	Text	1
+E	DEFPOINT	Line	1
+LT	DEFPOINT	ByLayer	2
+E	DEFPOINT	Circle	1
+E	F-KIT	Ellipse	3
+B	A-FFXM-KICH	74A-확장$0$4구쿡탑2	1
+E	F-KIT	Face	34
+E	F-KIT	Line	185
+LT	F-KIT	74A-확장$0$DASHED	358
+E	F-KIT	Polyline	11
+LT	F-KIT	ByLayer	9
+E	F-KIT	Circle	12
+E	F-KIT	Arc	159
+B	A-FFXM-KICH	74A-확장$0$T-SB	1
+E	AA-FFXM-FUR-OPTION	Arc	24
+LT	AA-FFXM-FUR-OPTION	ByLayer	43
+E	AA-FFXM-FUR-OPTION	Line	18
+E	AA-FFXM-FUR-OPTION	Polyline	1
+B	0	U_84㎡B형(확장형)$0$C3BEE0D31	1
+LT	0	ByLayer	1
+E	0	Line	1
+E	AA-DWXM-WIND	Polyline	4
+LT	AA-DWXM-WIND	ByLayer	9
+E	AA-DWXM-WIND	Line	5
+LT	A-DOOR	74A-확장$0$CENTER2	1
+B	A-FFXM-SANI	74A-확장$0$샤워헤드	1
+E	A-FFXM-SANI	Line	16
+E	A-FFXM-SANI	Circle	3
+E	A-FFXM-SANI	Arc	8
+B	0	A$C8fe4c1ea	1
+B	A-DOOR	74A-확장$0$A$C4EA012B6	2
+LT	A-DOOR	74A-확장$0$HD	100
+B	0	A$C8e3480e3	2
+E	설비-FD	Circle	1
+LT	설비-FD	ByLayer	20
+E	설비-FD	Line	4
+E	SYM	Line	26
+LT	SYM	ByLayer	82
+E	SYM	Circle	6
+E	설비-FD	Polyline	15
+B	SYM	74A-확장$0$f-023	1
+E	A-WIN	Line	29
+LT	A-WIN	ByLayer	53
+E	A-WIN	Polyline	24
+E	A-난간	Circle	2
+E	AA-FFXM-MOVE	Polyline	1
+LT	AA-FFXM-MOVE	ByLayer	3
+E	AA-FFXM-MOVE	Line	2
+B	AA-FFXM-MOVE	U_84㎡B형(확장형)$0$C17F52B6D	1
+LT	AA-FFXM-AETC	ByLayer	2
+E	AA-FFXM-AETC	Line	2
+E	수전 드레인	Line	4
+LT	수전 드레인	ByLayer	24
+E	수전 드레인	Polyline	20
+B	수전 드레인	U_84㎡B형(확장형)$0$84B(104)-C3fabce0c	1
+E	A-난간	Line	3
+LT	A-ELE-8	ByLayer	5
+E	A-ELE-8	Line	5
+LT	A-난간	ByLayer	10
+E	A-난간	Polyline	5
+E	A-WIND1	Line	102
+LT	A-WIND1	ByLayer	166
+E	A-WIND1	Polyline	64
+LT	A-NORT	ByLayer	6
+B	A-DOOR	74A-확장$0$A$C6B520760	1
+LT	AA-DWXM-STHC	Continuous	1
+E	AA-DWXM-STHC	Polyline	5
+LT	AA-DWXM-STHC	ByLayer	8
+E	AA-DWXM-STHC	Line	4
+E	A-DOOR	Polyline	38
+LT	A-DOOR	ByLayer	48
+E	A-DOOR	Arc	8
+E	A-DOOR	Line	103
+B	A-DOOR	74A-확장$0$C30D6748F	1
+LT	A-FFXM-SANI	ByLayer	30
+E	A-FFXM-SANI	Polyline	3
+LT	F-TOILET	ByLayer	52
+B	A-FFXM-SANI	74A-확장$0$B-003	2
+E	F-TOILET	Line	120
+LT	F-TOILET	74A-확장$0$CONTINOUS	174
+LT	F-TOILET	74A-확장$0$DH-CEN	4
+E	F-TOILET	Arc	94
+E	F-TOILET	Polyline	8
+E	F-TOILET	Circle	8
+B	A-FFXM-SANI	74A-확장$0$WE23234	2
+H	A-HAT	ANSI31 s=25 a=0	9
+E	A-HAT	Hatch	9
+LT	I-확장	ByLayer	11
+E	I-확장	Line	11
+LT	A-NORT	74A-확장$0$HD	6
+E	A-NORT	Line	12
+E	FUR-DP	Arc	5
+LT	A-WALL	ByLayer	53
+E	A-WALL	Line	53
+LT	FUR-DP	ByLayer	44
+E	FUR-DP	Line	39
+LT	A-FIN	ByLayer	68
+E	A-FIN	Line	68
+LT	A-CEN	ByLayer	12
+E	A-CEN	Line	12
+LT	A-MC	ByLayer	43
+E	A-MC	Line	43
+LT	AA-WAXM-CONC	ByLayer	76
+E	AA-WAXM-CONC	Line	76
+LT	A-TILE	ByLayer	89
+E	A-TILE	Line	89
+LT	A-INS	ByLayer	42
+E	A-INS	Line	20
+LT	A-CEN-2	ByLayer	27
+E	A-CEN-2	Line	27

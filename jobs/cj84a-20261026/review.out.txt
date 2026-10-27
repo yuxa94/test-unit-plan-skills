@@ -1,0 +1,1 @@
+{'wall': 76, 'door': 8, 'window': 7, 'bathroom': 8, 'kitchen_furniture': 8, 'finish': 19, 'insulation': 48, 'annotation': 14, 'dimension': 23}

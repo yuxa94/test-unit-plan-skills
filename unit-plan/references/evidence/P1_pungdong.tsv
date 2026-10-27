@@ -1,0 +1,322 @@
+MS			1137
+X		UN-84A => ..\03. XREF\UN-84A.dwg	0
+X		UN-84B => ..\03. XREF\UN-84B.dwg	0
+X		CO-202 203 #1-300 => ..\03. XREF\CO-202 203 #1-300.dwg	0
+X		CO-201 202 #2-300 => ..\03. XREF\CO-202 203 #2-300.dwg	0
+X		UN-84A-1 => ..\03. XREF\UN-84A-1.dwg	0
+X		X-SHEET => ..\03. XREF\X-SHEET.dwg	0
+X		UN-기본형 => ..\03. XREF\UN-기본형.dwg	0
+L	0	c=7 lt=Continuous lw=-3	0
+L	DEFPOINTS	c=145 lt=Continuous lw=-3	0
+L	DIM	c=7 lt=Continuous lw=-3	0
+L	DEFPOINT	c=151 lt=Continuous lw=-3	0
+L	74A-확장$0$A-CEN-벽돌	c=1 lt=74A-확장$0$CEN lw=-3	0
+L	74A-확장$0$A-CEN	c=1 lt=74A-확장$0$CEN lw=-3	0
+L	74A-확장$0$A-MC	c=191 lt=Continuous lw=-3	0
+L	AA-XXXX-SYMB	c=7 lt=Continuous lw=-3	0
+L	AA-XXXX-TEXT	c=3 lt=Continuous lw=-3	0
+L	XX-MKXS	c=3 lt=Continuous lw=-3	0
+L	UN-84A|DIM	c=7 lt=Continuous lw=-3	0
+L	UN-84A|DEFPOINT	c=151 lt=Continuous lw=-3	0
+L	UN-84B|DIM	c=7 lt=Continuous lw=-3	0
+L	UN-84B|DEFPOINT	c=151 lt=Continuous lw=-3	0
+L	CO-202 203 #1-300|DIM	c=7 lt=Continuous lw=-3	0
+L	CO-202 203 #1-300|AA-WAXM-CONC	c=2 lt=Continuous lw=-3	0
+L	CO-202 203 #1-300|AA-XXXX-CNTL	c=1 lt=CO-202 203 #1-300|CO_59C-104$0$CEN lw=-3	0
+L	CO-202 203 #1-300|AA-DWXM-WIND	c=4 lt=Continuous lw=-3	0
+L	CO-202 203 #1-300|DEFPOINT	c=151 lt=Continuous lw=-3	0
+L	CO-202 203 #1-300|AA-DETL-PCN4	c=4 lt=Continuous lw=-3	0
+L	CO-202 203 #1-300|FIN	c=5 lt=Continuous lw=-3	0
+L	CO-202 203 #1-300|ELEVATOR	c=8 lt=Continuous lw=-3	0
+L	UN-84B|A-WALL	c=3 lt=Continuous lw=-3	0
+L	UN-84B|A-CEN-2	c=8 lt=UN-84B|74A-확장$0$CEN lw=-3	0
+L	UN-84B|A-FIN	c=6 lt=Continuous lw=-3	0
+L	UN-84B|AA-DWXM-WIND	c=4 lt=Continuous lw=-3	0
+L	UN-84B|AA-FFXM-MOVE	c=9 lt=UN-84B|U_84㎡B형(확장형)$0$HID lw=-3	0
+L	UN-84B|AA-FFXM-AETC	c=4 lt=Continuous lw=0	0
+L	UN-84B|수전 드레인	c=9 lt=Continuous lw=-3	0
+L	UN-84B|AA-FFXM-FUR-OPTION	c=9 lt=UN-84B|U_84㎡B형(확장형)$0$HID lw=-3	0
+L	UN-84B|AA-DWXM-STHC	c=4 lt=UN-84B|U_84㎡B형(확장형)$0$HID lw=-3	0
+L	UN-84B|A-CEN	c=1 lt=UN-84B|74A-확장$0$CEN lw=-3	0
+L	UN-84B|A-NORT	c=4 lt=Continuous lw=-3	0
+L	UN-84B|A-MC	c=191 lt=Continuous lw=-3	0
+L	UN-84B|FUR-DP	c=6 lt=UN-84B|74A-확장$0$HD lw=-3	0
+L	UN-84B|A-INS	c=8 lt=Continuous lw=-3	0
+L	UN-84B|A-DOOR	c=4 lt=Continuous lw=-3	0
+L	UN-84B|I-확장	c=7 lt=UN-84B|74A-확장$0$HD lw=-3	0
+L	UN-84B|A-WIN	c=4 lt=Continuous lw=-3	0
+L	UN-84B|A-WIND1	c=4 lt=Continuous lw=-3	0
+L	UN-84B|A-FFXM-SANI	c=6 lt=Continuous lw=-3	0
+L	UN-84B|A-FFXM-KICH	c=6 lt=Continuous lw=-3	0
+L	UN-84B|F-KIT	c=6 lt=Continuous lw=-3	0
+L	UN-84B|F-TOILET	c=6 lt=Continuous lw=-3	0
+L	UN-84B|설비-FD	c=1 lt=Continuous lw=-3	0
+L	UN-84B|A-TILE	c=8 lt=Continuous lw=-3	0
+L	UN-84B|SYM	c=4 lt=Continuous lw=-3	0
+L	UN-84B|A-ELE-8	c=8 lt=Continuous lw=-3	0
+L	UN-84B|A-난간	c=6 lt=Continuous lw=-3	0
+L	UN-84B|AA-WAXM-CONC	c=2 lt=Continuous lw=-3	0
+L	UN-84A|A-WALL	c=3 lt=Continuous lw=-3	0
+L	UN-84A|A-CEN-2	c=8 lt=UN-84A|74A-확장$0$CEN lw=-3	0
+L	UN-84A|A-FIN	c=6 lt=Continuous lw=-3	0
+L	UN-84A|AA-DWXM-WIND	c=4 lt=Continuous lw=-3	0
+L	UN-84A|AA-WAXM-ELE	c=4 lt=Continuous lw=-3	0
+L	UN-84A|AA-FFXM-MOVE	c=9 lt=UN-84A|U_84㎡B형(확장형)$0$HID lw=-3	0
+L	UN-84A|AA-FFXM-AETC	c=4 lt=Continuous lw=0	0
+L	UN-84A|수전 드레인	c=9 lt=Continuous lw=-3	0
+L	UN-84A|AA-FFXM-FUR-OPTION	c=9 lt=UN-84A|U_84㎡B형(확장형)$0$HID lw=-3	0
+L	UN-84A|AA-DWXM-STHC	c=4 lt=UN-84A|U_84㎡B형(확장형)$0$HID lw=-3	0
+L	UN-84A|A-CEN	c=1 lt=UN-84A|74A-확장$0$CEN lw=-3	0
+L	UN-84A|A-NORT	c=4 lt=Continuous lw=-3	0
+L	UN-84A|A-MC	c=191 lt=Continuous lw=-3	0
+L	UN-84A|FUR-DP	c=6 lt=UN-84A|74A-확장$0$HD lw=-3	0
+L	UN-84A|A-INS	c=8 lt=Continuous lw=-3	0
+L	UN-84A|A-DOOR	c=4 lt=Continuous lw=-3	0
+L	UN-84A|I-확장	c=7 lt=UN-84A|74A-확장$0$HD lw=-3	0
+L	UN-84A|A-WIN	c=4 lt=Continuous lw=-3	0
+L	UN-84A|A-WIND1	c=4 lt=Continuous lw=-3	0
+L	UN-84A|A-FFXM-SANI	c=6 lt=Continuous lw=-3	0
+L	UN-84A|A-FFXM-KICH	c=6 lt=Continuous lw=-3	0
+L	UN-84A|F-KIT	c=6 lt=Continuous lw=-3	0
+L	UN-84A|F-TOILET	c=6 lt=Continuous lw=-3	0
+L	UN-84A|설비-FD	c=1 lt=Continuous lw=-3	0
+L	UN-84A|A-TILE	c=8 lt=Continuous lw=-3	0
+L	UN-84A|SYM	c=4 lt=Continuous lw=-3	0
+L	UN-84A|A-ELE-8	c=8 lt=Continuous lw=-3	0
+L	UN-84A|A-난간	c=6 lt=Continuous lw=-3	0
+L	UN-84A|AA-WAXM-CONC	c=2 lt=Continuous lw=-3	0
+L	CO-202 203 #1-300|A-WALL	c=3 lt=Continuous lw=-3	0
+L	CO-202 203 #1-300|A-CEN-2	c=8 lt=CO-202 203 #1-300|74A-확장$0$CEN lw=-3	0
+L	CO-202 203 #1-300|A-FIN	c=6 lt=Continuous lw=-3	0
+L	CO-202 203 #1-300|A-OPEN	c=5 lt=CO-202 203 #1-300|CORE-59A+59B+59A-기준층$0$CEN lw=0	0
+L	CO-202 203 #1-300|AA-XXXX-ELE	c=7 lt=Continuous lw=-3	0
+L	CO-202 203 #1-300|AA-DWXM-DOOR	c=4 lt=Continuous lw=-3	0
+L	CO-202 203 #1-300|AA-SSXX	c=4 lt=Continuous lw=-3	0
+L	CO-202 203 #1-300|A-논스립	c=6 lt=Continuous lw=-3	0
+L	CO-202 203 #1-300|A-SYM	c=7 lt=Continuous lw=-3	0
+L	CO-202 203 #1-300|A-CEN	c=1 lt=CO-202 203 #1-300|CORE-74A+84A-기준층$0$CEN lw=-3	0
+L	CO-201 202 #2-300|DIM	c=7 lt=Continuous lw=-3	0
+L	CO-201 202 #2-300|AA-XXXX-CNTL	c=1 lt=CO-201 202 #2-300|CO_59C-104$0$CEN lw=-3	0
+L	CO-201 202 #2-300|DEFPOINT	c=151 lt=Continuous lw=-3	0
+L	CO-201 202 #2-300|A-WALL	c=3 lt=Continuous lw=-3	0
+L	CO-201 202 #2-300|A-CEN-2	c=8 lt=CO-201 202 #2-300|74A-확장$0$CEN lw=-3	0
+L	CO-201 202 #2-300|A-FIN	c=6 lt=Continuous lw=-3	0
+L	CO-201 202 #2-300|A-OPEN	c=5 lt=CO-201 202 #2-300|CORE-59A+59B+59A-기준층$0$CEN lw=0	0
+L	CO-201 202 #2-300|AA-DWXM-WIND	c=4 lt=Continuous lw=-3	0
+L	CO-201 202 #2-300|AA-WAXM-CONC	c=2 lt=Continuous lw=-3	0
+L	CO-201 202 #2-300|AA-XXXX-ELE	c=7 lt=Continuous lw=-3	0
+L	CO-201 202 #2-300|AA-DWXM-DOOR	c=4 lt=Continuous lw=-3	0
+L	CO-201 202 #2-300|AA-SSXX	c=4 lt=Continuous lw=-3	0
+L	CO-201 202 #2-300|A-논스립	c=6 lt=Continuous lw=-3	0
+L	CO-201 202 #2-300|A-SYM	c=7 lt=Continuous lw=-3	0
+L	CO-201 202 #2-300|A-CEN	c=1 lt=CO-201 202 #2-300|CORE-74A+84A-기준층$0$CEN lw=-3	0
+L	CO-201 202 #2-300|AA-DETL-PCN4	c=4 lt=Continuous lw=-3	0
+L	CO-201 202 #2-300|FIN	c=5 lt=Continuous lw=-3	0
+L	CO-201 202 #2-300|ELEVATOR	c=8 lt=Continuous lw=-3	0
+L	CO-202 203 #1-300|A-INS	c=8 lt=Continuous lw=-3	0
+L	UN-84A-1|DIM	c=7 lt=Continuous lw=-3	0
+L	UN-84A-1|DEFPOINT	c=151 lt=Continuous lw=-3	0
+L	UN-84A-1|A-WALL	c=3 lt=Continuous lw=-3	0
+L	UN-84A-1|A-CEN-2	c=1 lt=UN-84A-1|74A-확장$0$CEN lw=-3	0
+L	UN-84A-1|A-FIN	c=6 lt=Continuous lw=-3	0
+L	UN-84A-1|AA-DWXM-WIND	c=4 lt=Continuous lw=-3	0
+L	UN-84A-1|AA-WAXM-ELE	c=4 lt=Continuous lw=-3	0
+L	UN-84A-1|AA-FFXM-MOVE	c=9 lt=UN-84A-1|U_84㎡B형(확장형)$0$HID lw=-3	0
+L	UN-84A-1|AA-FFXM-AETC	c=4 lt=Continuous lw=0	0
+L	UN-84A-1|수전 드레인	c=9 lt=Continuous lw=-3	0
+L	UN-84A-1|AA-FFXM-FUR-OPTION	c=9 lt=UN-84A-1|U_84㎡B형(확장형)$0$HID lw=-3	0
+L	UN-84A-1|AA-DWXM-STHC	c=4 lt=UN-84A-1|U_84㎡B형(확장형)$0$HID lw=-3	0
+L	UN-84A-1|A-CEN	c=1 lt=UN-84A-1|74A-확장$0$CEN lw=-3	0
+L	UN-84A-1|A-NORT	c=4 lt=Continuous lw=-3	0
+L	UN-84A-1|A-MC	c=191 lt=Continuous lw=-3	0
+L	UN-84A-1|FUR-DP	c=6 lt=UN-84A-1|74A-확장$0$HD lw=-3	0
+L	UN-84A-1|A-INS	c=8 lt=Continuous lw=-3	0
+L	UN-84A-1|A-DOOR	c=4 lt=Continuous lw=-3	0
+L	UN-84A-1|I-확장	c=7 lt=UN-84A-1|74A-확장$0$HD lw=-3	0
+L	UN-84A-1|A-WIN	c=4 lt=Continuous lw=-3	0
+L	UN-84A-1|A-WIND1	c=4 lt=Continuous lw=-3	0
+L	UN-84A-1|A-FFXM-SANI	c=6 lt=Continuous lw=-3	0
+L	UN-84A-1|A-FFXM-KICH	c=6 lt=Continuous lw=-3	0
+L	UN-84A-1|F-KIT	c=6 lt=Continuous lw=-3	0
+L	UN-84A-1|F-TOILET	c=6 lt=Continuous lw=-3	0
+L	UN-84A-1|설비-FD	c=1 lt=Continuous lw=-3	0
+L	UN-84A-1|A-TILE	c=8 lt=Continuous lw=-3	0
+L	UN-84A-1|SYM	c=4 lt=Continuous lw=-3	0
+L	UN-84A-1|A-ELE-8	c=8 lt=Continuous lw=-3	0
+L	UN-84A-1|A-난간	c=6 lt=Continuous lw=-3	0
+L	UN-84A-1|AA-WAXM-CONC	c=2 lt=Continuous lw=-3	0
+L	CO-202 203 #1-300|A-DOOR	c=4 lt=Continuous lw=-3	0
+L	CO-202 203 #1-300|A-TILE	c=8 lt=Continuous lw=-3	0
+L	CO-201 202 #2-300|A-DOOR	c=4 lt=Continuous lw=-3	0
+L	CO-201 202 #2-300|A-TILE	c=8 lt=Continuous lw=-3	0
+L	CO-201 202 #2-300|A-INS	c=8 lt=Continuous lw=-3	0
+L	AA-AXIS-BUBL	c=3 lt=Continuous lw=-3	0
+L	AA-XXXX-DIMS	c=7 lt=Continuous lw=-3	0
+L	WM	c=7 lt=Continuous lw=-3	0
+L	AA-BORD-TEXT	c=3 lt=Continuous lw=-3	0
+L	UN-84B|0_결로방지단열재 (W 450)	c=7 lt=UN-84B|$0$UN-74A1$0$DASHED lw=-3	0
+L	UN-84A|0_결로방지단열재 (W 450)	c=7 lt=UN-84A|$0$UN-74A1$0$DASHED lw=-3	0
+L	UN-84A-1|0_결로방지단열재 (W 450)	c=7 lt=UN-84A-1|$0$UN-74A1$0$DASHED lw=-3	0
+L	X-SHEET|AA-BORD-FORM	c=7 lt=Continuous lw=-3	0
+L	X-SHEET|AA-BORD-TEXT	c=3 lt=Continuous lw=-3	0
+L	X-SHEET|def	c=145 lt=Continuous lw=-3	0
+L	CO-202 203 #1-300|점형블럭	c=7 lt=Continuous lw=-3	0
+L	CO-201 202 #2-300|점형블럭	c=7 lt=Continuous lw=-3	0
+L	UN-84A|A-HAT	c=8 lt=Continuous lw=-3	0
+L	UN-84B|A-HAT	c=8 lt=Continuous lw=-3	0
+L	CO-202 203 #1-300|A-HAT	c=8 lt=Continuous lw=-3	0
+L	CO-201 202 #2-300|A-HAT	c=8 lt=Continuous lw=-3	0
+L	UN-84A-1|A-HAT	c=8 lt=Continuous lw=-3	0
+L	TEXT	c=3 lt=Continuous lw=-3	0
+L	AA-XXXX-OPEN	c=1 lt=Continuous lw=-3	0
+L	UN-84A|F	c=8 lt=Continuous lw=-3	0
+L	UN-84B|F	c=8 lt=Continuous lw=-3	0
+L	UN-84A-1|F	c=8 lt=Continuous lw=-3	0
+L	UN-기본형|DIM	c=7 lt=Continuous lw=-3	0
+L	UN-기본형|DEFPOINT	c=151 lt=Continuous lw=-3	0
+L	UN-기본형|AA-WAXM-CONC	c=2 lt=Continuous lw=-3	0
+L	UN-기본형|A-CEN-벽돌	c=1 lt=UN-기본형|74A-확장$0$CEN lw=-3	0
+L	UN-기본형|AA-DWXM-WIND	c=4 lt=Continuous lw=-3	0
+L	UN-기본형|AA-FFXM-FURN	c=6 lt=Continuous lw=-3	0
+L	UN-기본형|AA-FFXM-MOVE	c=9 lt=UN-기본형|U_84㎡B형(확장형)$0$HID lw=-3	0
+L	UN-기본형|AA-FFXM-AETC	c=4 lt=Continuous lw=0	0
+L	UN-기본형|수전 드레인	c=9 lt=Continuous lw=-3	0
+L	UN-기본형|AA-SSXS-FUR	c=6 lt=Continuous lw=-3	0
+L	UN-기본형|AA-FFXM-FUR-OPTION	c=9 lt=UN-기본형|U_84㎡B형(확장형)$0$HID lw=-3	0
+L	UN-기본형|AA-DWXM-STHC	c=4 lt=UN-기본형|U_84㎡B형(확장형)$0$HID lw=-3	0
+L	UN-기본형|A-CEN	c=1 lt=UN-기본형|74A-확장$0$CEN lw=-3	0
+L	UN-기본형|A-MC	c=191 lt=Continuous lw=-3	0
+L	UN-기본형|A-DOOR	c=4 lt=Continuous lw=-3	0
+L	UN-기본형|A-WIN	c=4 lt=Continuous lw=-3	0
+L	UN-기본형|A-WIND1	c=4 lt=Continuous lw=-3	0
+L	UN-기본형|A-FFXM-SANI	c=6 lt=Continuous lw=-3	0
+L	UN-기본형|F-TOILET	c=6 lt=Continuous lw=-3	0
+L	UN-기본형|A-ELE-8	c=8 lt=Continuous lw=-3	0
+L	UN-기본형|A-난간	c=6 lt=Continuous lw=-3	0
+L	UN-기본형|AA-XXXX-CONC	c=2 lt=Continuous lw=-3	0
+L	UN-기본형|A-WALL	c=3 lt=Continuous lw=-3	0
+L	UN-기본형|A-FFXM-KICH	c=6 lt=Continuous lw=-3	0
+L	UN-기본형|A-FFXM-FUR-OPTION	c=9 lt=UN-기본형|59A-기본$0$HD lw=-3	0
+L	UN-기본형|F-DP	c=96 lt=Continuous lw=-3	0
+L	UN-기본형|F-KIT	c=6 lt=Continuous lw=-3	0
+L	UN-기본형|FUR-DP	c=6 lt=UN-기본형|59A-기본$0$HD lw=-3	0
+L	UN-기본형|A-HAT	c=8 lt=Continuous lw=-3	0
+L	UN-기본형|A-INS	c=8 lt=Continuous lw=-3	0
+L	UN-기본형|A-FIN	c=6 lt=Continuous lw=-3	0
+L	UN-기본형|A-WIND	c=4 lt=Continuous lw=-3	0
+L	UN-기본형|0_결로방지단열재 (W 450)	c=7 lt=UN-기본형|$0$UN-74A1$0$DASHED lw=-3	0
+L	UN-기본형|A-TILE	c=8 lt=Continuous lw=-3	0
+L	UN-기본형|F	c=8 lt=Continuous lw=-3	0
+L	UN-기본형|A-NORT	c=4 lt=Continuous lw=-3	0
+L	UN-기본형|A-CEN-2	c=1 lt=UN-기본형|74A-확장$0$CEN lw=-3	0
+DS		STANDARD	0
+DS		HAUD-100	0
+DS		HAUD-100 MC	0
+DS		SCALE 50-4	0
+B	0	UN-기본형	1
+T	XX-MKXS	AV |h=120 |st=HAUD01	2
+T	DEFPOINT	84B |h=3500 |st=돋움체	1
+T	DEFPOINT	84A |h=3500 |st=돋움체	1
+T	DEFPOINT	확장형 |h=3500 |st=돋움체	1
+T	DEFPOINT	기본형 |h=3500 |st=돋움체	1
+E	DEFPOINT	Text	4
+E	DEFPOINT	Line	6
+T	AA-BORD-TEXT	단위세대 평면도 |h=160 |st=HAUD01	4
+T	AA-BORD-TEXT	104 |h=120 |st=HAUD01	1
+T	AA-BORD-TEXT	103 |h=120 |st=HAUD01	1
+T	AA-BORD-TEXT	102 |h=120 |st=HAUD01	1
+T	AA-BORD-TEXT	000 |h=120 |st=HAUD01	4
+T	AA-BORD-TEXT	101 |h=120 |st=HAUD01	1
+B	0	X-SHEET	4
+T	WM	15×25.2 |h=125 |st=HAUD01	1
+T	WM	12×25.2 |h=125 |st=HAUD01	3
+T	WM	21×25.2 |h=125 |st=HAUD01	3
+T	WM	33×25.2 |h=125 |st=HAUD01	2
+T	AA-BORD-TEXT	(기본형) |h=160 |st=HAUD01	2
+T	AA-BORD-TEXT	A3:1/80 |h=120 |st=HAUD01	4
+T	AA-BORD-TEXT	A1:1/40 |h=120 |st=HAUD01	4
+T	AA-BORD-TEXT	A04 |h=120 |st=HAUD01	4
+T	AA-BORD-TEXT	84㎡B형 |h=160 |st=HAUD01	2
+T	AA-BORD-TEXT	(확장형) |h=160 |st=HAUD01	2
+T	AA-BORD-TEXT	84㎡A형 |h=160 |st=HAUD01	2
+E	AA-BORD-TEXT	Text	32
+T	WM	17×21.7 |h=125 |st=HAUD01	1
+T	WM	15×21.7 |h=125 |st=HAUD01	1
+T	WM	36×21.7 |h=125 |st=HAUD01	1
+T	WM	18×25.2 |h=125 |st=HAUD01	2
+T	WM	17×25.2 |h=125 |st=HAUD01	3
+T	WM	PD |h=125 |st=HAUD01	14
+T	WM	16×21.7 |h=125 |st=HAUD01	1
+T	WM	9×21.7 |h=125 |st=HAUD01	4
+T	WM	AG |h=125 |st=HAUD01	4
+T	WM	12×6 |h=125 |st=HAUD01	2
+T	WM	9×11.5 |h=125 |st=HAUD01	2
+T	WM	12×11.5 |h=125 |st=HAUD01	1
+T	WM	17×11.5 |h=125 |st=HAUD01	1
+T	WM	21×21.7 |h=125 |st=HAUD01	2
+T	WM	18×21.7 |h=125 |st=HAUD01	1
+T	WM	35×21.7 |h=125 |st=HAUD01	1
+T	WM	PW |h=125 |st=HAUD01	14
+T	WM	8.5×21 |h=125 |st=HAUD01	2
+T	WM	9×21 |h=125 |st=HAUD01	10
+T	WM	10×21 |h=125 |st=HAUD01	4
+T	WM	WD |h=125 |st=HAUD01	24
+T	WM	7.5×21 |h=125 |st=HAUD01	12
+T	WM	11×22 |h=125 |st=HAUD01	4
+T	WM	FSD |h=125 |st=HAUD01	8
+E	WM	Text	128
+B	WM	1	56
+E	AA-AXIS-BUBL	Polyline	100
+E	AA-AXIS-BUBL	Circle	78
+LT	AA-AXIS-BUBL	ByLayer	256
+E	AA-AXIS-BUBL	Line	78
+D	AA-XXXX-DIMS	SCALE 50-4 RotatedDimension	26
+E	AA-XXXX-DIMS	RotatedDimension	26
+T	AA-XXXX-TEXT	84㎡A형 단위세대평면도 (기본형) |h=280 |st=HAUD01	1
+T	AA-XXXX-TEXT	84㎡B형 단위세대평면도 (기본형) |h=280 |st=HAUD01	1
+B	0	UN-84A	1
+B	0	CO-202 203 #1-300	2
+B	0	UN-84A-1	1
+B	0	CO-201 202 #2-300	2
+B	0	UN-84B	1
+T	XX-MKXS	PS |h=120 |st=HAUD01	6
+T	XX-MKXS	하향식 피난구 |h=120 |st=HAUD01	4
+T	XX-MKXS	홀 |h=120 |st=HAUD01	4
+T	XX-MKXS	발코니3 |h=120 |st=HAUD01	1
+T	XX-MKXS	알파룸 |h=120 |st=HAUD01	2
+D	DIM	HAUD-100 RotatedDimension	100
+T	XX-MKXS	발코니2 |h=120 |st=HAUD01	4
+T	XX-MKXS	침실1 |h=120 |st=HAUD01	4
+T	XX-MKXS	발코니1 |h=120 |st=HAUD01	5
+T	XX-MKXS	거 실 |h=120 |st=HAUD01	4
+T	XX-MKXS	현 관 |h=120 |st=HAUD01	4
+T	XX-MKXS	주방/식당 |h=120 |st=HAUD01	4
+T	XX-MKXS	팬트리 |h=120 |st=HAUD01	2
+T	XX-MKXS	욕실1 |h=120 |st=HAUD01	4
+T	XX-MKXS	욕실2 |h=120 |st=HAUD01	4
+T	XX-MKXS	침실2 |h=120 |st=HAUD01	4
+T	XX-MKXS	침실3 |h=120 |st=HAUD01	4
+T	XX-MKXS	드레스룸 |h=120 |st=HAUD01	4
+LT	XX-MKXS	Continuous	54
+E	XX-MKXS	Polyline	54
+T	AA-XXXX-TEXT	84㎡A형 단위세대평면도 (확장형) |h=280 |st=HAUD01	1
+D	DIM	HAUD-100 MC RotatedDimension	220
+E	DIM	RotatedDimension	320
+T	XX-MKXS	AD/PS |h=120 |st=HAUD01	14
+E	XX-MKXS	Text	80
+LT	74A-확장$0$A-MC	ByLayer	54
+E	74A-확장$0$A-MC	Line	54
+LT	74A-확장$0$A-CEN-벽돌	ByLayer	29
+E	74A-확장$0$A-CEN-벽돌	Line	29
+LT	74A-확장$0$A-CEN	ByLayer	22
+E	74A-확장$0$A-CEN	Line	22
+T	AA-XXXX-TEXT	축척=1/80 |h=120 |st=돋움체	4
+E	AA-XXXX-TEXT	MText	4
+T	AA-XXXX-TEXT	1 |h=200 |st=HAUD01	4
+T	AA-XXXX-TEXT	84㎡B형 단위세대평면도 (확장형) |h=280 |st=HAUD01	1
+E	AA-XXXX-TEXT	Text	8
+E	AA-XXXX-SYMB	Line	68
+LT	AA-XXXX-SYMB	ByLayer	136
+E	AA-XXXX-SYMB	Circle	68
+LT	DEFPOINT	ByLayer	28
+E	DEFPOINT	Polyline	22

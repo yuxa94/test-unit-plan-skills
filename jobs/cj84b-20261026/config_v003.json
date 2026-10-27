@@ -1,0 +1,249 @@
+{
+ "_doc": "청주 월명 84B 기본형 v003 — 주방 ㄱ자형(L): 쿡탑=첫 번째 벽, 싱크=두 번째 벽, 코너 650 비우고 400 띄움 (사용자 확정 2026-10-27)",
+ "job": "C:/temp/cj84b",
+ "src_dwg": "C:/temp/cj84a/input/cj_plan.dwg",
+ "block": "U-84B(기본)",
+ "dump": "C:/temp/cj84b/input/84B_basic_L1.tsv",
+ "names": "C:/temp/cj84b/input/names_rooms.tsv",
+ "zoning": "C:/temp/cj84b/zoning.json",
+ "out_dwg": "C:/temp/cj84b/outputs/cj84B-basic-v003.dwg",
+ "ops_dir": "C:/temp/cj84b/operations",
+ "op_suffix": "003",
+ "kinds": {
+  "욕실1": "wet",
+  "욕실2": "wet",
+  "발코니1": "balcony",
+  "발코니2": "balcony",
+  "발코니3": "balcony",
+  "하향식피난구": "service",
+  "ELEV. 홀": "core"
+ },
+ "walls": {
+  "overrides": {},
+  "party_axes": [
+   [
+    "V",
+    0
+   ]
+  ]
+ },
+ "insulation": {
+  "exterior_direct": 155,
+  "exterior_indirect": 110,
+  "core": 110,
+  "party_wall": 0
+ },
+ "doors": {
+  "corridor_max": 1800,
+  "jamb": 100,
+  "rules": [
+   {
+    "room": "현관",
+    "to": "__core__",
+    "width": 1100,
+    "swing": "out",
+    "position": "center"
+   },
+   {
+    "room": "침실1",
+    "to": [
+     "거실",
+     "주방/식당",
+     "현관"
+    ],
+    "width": 900,
+    "position": "corner"
+   },
+   {
+    "room": "침실2",
+    "to": [
+     "거실",
+     "현관",
+     "주방/식당"
+    ],
+    "width": 900,
+    "position": "corner"
+   },
+   {
+    "room": "침실3",
+    "to": [
+     "거실",
+     "현관",
+     "주방/식당"
+    ],
+    "width": 900,
+    "position": "corner"
+   },
+   {
+    "room": "팬트리",
+    "to": [
+     "주방/식당",
+     "거실",
+     "현관"
+    ],
+    "width": 800,
+    "position": "center"
+   },
+   {
+    "room": "하향식피난구",
+    "to": [
+     "발코니1"
+    ],
+    "width": 750,
+    "type": "sliding",
+    "position": "entry",
+    "jamb": 150
+   }
+  ]
+ },
+ "windows": {
+  "widths": [
+   1000,
+   1500,
+   1800,
+   3600
+  ],
+  "rules": [
+   {
+    "room": "거실",
+    "type": "double",
+    "side": "S",
+    "width": 3600
+   },
+   {
+    "room": "침실1",
+    "type": "double",
+    "side": "S",
+    "width": 1500
+   },
+   {
+    "room": "침실1",
+    "type": "double",
+    "side": "E",
+    "width": 2100
+   },
+   {
+    "room": "침실2",
+    "type": "double",
+    "side": "S",
+    "width": 1800
+   },
+   {
+    "room": "침실3",
+    "type": "double",
+    "side": "S",
+    "width": 1800
+   },
+   {
+    "room": "주방/식당",
+    "type": "double",
+    "side": "E",
+    "width": 1300
+   },
+   {
+    "room": "하향식피난구",
+    "type": "outdoor_unit",
+    "side": "S",
+    "width": 1000,
+    "facing": "exterior"
+   }
+  ]
+ },
+ "bathroom": {
+  "rules": [
+   {
+    "room": "욕실1",
+    "body": "UBR 공용욕실 1500x2200",
+    "panel": "A$C84b07bde",
+    "door_to": [
+     "현관",
+     "거실",
+     "주방/식당"
+    ],
+    "door_width": 800
+   },
+   {
+    "room": "욕실2",
+    "body": "UBR 부부욕실 1600x2300",
+    "panel": "A$C91691f5a",
+    "door_to": [
+     "드레스룸",
+     "침실1"
+    ],
+    "door_width": 800
+   }
+  ],
+  "panel_dumps": {
+   "A$C84b07bde": "C:/temp/cj84a/input/ubr_common_extra.tsv",
+   "A$C91691f5a": "C:/temp/cj84b/input/ubr_master_extra.tsv"
+  }
+ },
+ "kitchen": {
+  "room": "주방/식당",
+  "layout": "L",
+  "depth": 650,
+  "fridge_position": "outside",
+  "fridge_width": 900,
+  "arrangement": "cooktop_window",
+  "living": [
+   "거실"
+  ],
+  "min_len": 1800,
+  "sink": "싱크",
+  "cooktop": "쿡탑",
+  "gap": 600,
+  "table": "식탁-1300x800",
+  "washer": {
+   "block": "세탁기-850",
+   "room": "발코니3"
+  },
+  "corner_offset": 400,
+  "l_sink_leg": "secondary"
+ },
+ "lib_dumps": [
+  "C:/temp/cj84a/input/84A_basic_L1.tsv"
+ ],
+ "tiles": [
+  "발코니1",
+  "발코니2",
+  "발코니3",
+  "하향식피난구"
+ ],
+ "clear_dim_rooms": [
+  "침실1",
+  "침실2",
+  "침실3",
+  "거실",
+  "주방/식당"
+ ],
+ "layers": {
+  "import": [
+   "CONC",
+   "WAL",
+   "WAL_DRY",
+   "A_HAT",
+   "CEN_CON",
+   "CEN_WALL",
+   "INS",
+   "FIN",
+   "바닥타일",
+   "DIM",
+   "실명",
+   "DOOR",
+   "WIN",
+   "FUR",
+   "FUR_가구",
+   "FUR_가전",
+   "F-FUR-설치",
+   "AA-XXXX-UBR",
+   "Defpoint"
+  ],
+  "dimstyles": [
+   "MCDIM-50",
+   "HAUD-100"
+  ],
+  "textstyle": "HAUD01",
+  "dim_mc": "MCDIM-50",
+  "dim_clear": "HAUD-100"
+ }
+}

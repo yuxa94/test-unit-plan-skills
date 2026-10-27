@@ -1,0 +1,1289 @@
+{
+ "dwg": "outputs/cj84A-basic-v001.dwg",
+ "by_step": {
+  "wall": [
+   {
+    "handle": "DB",
+    "layer": "CONC",
+    "type": "Polyline",
+    "block": null
+   },
+   {
+    "handle": "DC",
+    "layer": "CONC",
+    "type": "Polyline",
+    "block": null
+   },
+   {
+    "handle": "DD",
+    "layer": "CONC",
+    "type": "Polyline",
+    "block": null
+   },
+   {
+    "handle": "DE",
+    "layer": "CONC",
+    "type": "Polyline",
+    "block": null
+   },
+   {
+    "handle": "DF",
+    "layer": "CONC",
+    "type": "Polyline",
+    "block": null
+   },
+   {
+    "handle": "E0",
+    "layer": "WAL",
+    "type": "Polyline",
+    "block": null
+   },
+   {
+    "handle": "E1",
+    "layer": "A_HAT",
+    "type": "Hatch",
+    "block": null
+   },
+   {
+    "handle": "E2",
+    "layer": "WAL",
+    "type": "Polyline",
+    "block": null
+   },
+   {
+    "handle": "E3",
+    "layer": "A_HAT",
+    "type": "Hatch",
+    "block": null
+   },
+   {
+    "handle": "E4",
+    "layer": "WAL",
+    "type": "Polyline",
+    "block": null
+   },
+   {
+    "handle": "E5",
+    "layer": "A_HAT",
+    "type": "Hatch",
+    "block": null
+   },
+   {
+    "handle": "E6",
+    "layer": "WAL",
+    "type": "Polyline",
+    "block": null
+   },
+   {
+    "handle": "E7",
+    "layer": "A_HAT",
+    "type": "Hatch",
+    "block": null
+   },
+   {
+    "handle": "E8",
+    "layer": "WAL",
+    "type": "Polyline",
+    "block": null
+   },
+   {
+    "handle": "E9",
+    "layer": "A_HAT",
+    "type": "Hatch",
+    "block": null
+   },
+   {
+    "handle": "EA",
+    "layer": "WAL",
+    "type": "Polyline",
+    "block": null
+   },
+   {
+    "handle": "EB",
+    "layer": "A_HAT",
+    "type": "Hatch",
+    "block": null
+   },
+   {
+    "handle": "EC",
+    "layer": "WAL",
+    "type": "Polyline",
+    "block": null
+   },
+   {
+    "handle": "ED",
+    "layer": "A_HAT",
+    "type": "Hatch",
+    "block": null
+   },
+   {
+    "handle": "EE",
+    "layer": "WAL",
+    "type": "Polyline",
+    "block": null
+   },
+   {
+    "handle": "EF",
+    "layer": "A_HAT",
+    "type": "Hatch",
+    "block": null
+   },
+   {
+    "handle": "F0",
+    "layer": "WAL",
+    "type": "Polyline",
+    "block": null
+   },
+   {
+    "handle": "F1",
+    "layer": "A_HAT",
+    "type": "Hatch",
+    "block": null
+   },
+   {
+    "handle": "F2",
+    "layer": "WAL",
+    "type": "Polyline",
+    "block": null
+   },
+   {
+    "handle": "F3",
+    "layer": "A_HAT",
+    "type": "Hatch",
+    "block": null
+   },
+   {
+    "handle": "F4",
+    "layer": "WAL",
+    "type": "Polyline",
+    "block": null
+   },
+   {
+    "handle": "F5",
+    "layer": "A_HAT",
+    "type": "Hatch",
+    "block": null
+   },
+   {
+    "handle": "F6",
+    "layer": "WAL",
+    "type": "Polyline",
+    "block": null
+   },
+   {
+    "handle": "F7",
+    "layer": "A_HAT",
+    "type": "Hatch",
+    "block": null
+   },
+   {
+    "handle": "F8",
+    "layer": "WAL_DRY",
+    "type": "Polyline",
+    "block": null
+   },
+   {
+    "handle": "F9",
+    "layer": "WAL_DRY",
+    "type": "Polyline",
+    "block": null
+   },
+   {
+    "handle": "FA",
+    "layer": "WAL_DRY",
+    "type": "Polyline",
+    "block": null
+   },
+   {
+    "handle": "FB",
+    "layer": "WAL_DRY",
+    "type": "Polyline",
+    "block": null
+   },
+   {
+    "handle": "FC",
+    "layer": "WAL_DRY",
+    "type": "Polyline",
+    "block": null
+   },
+   {
+    "handle": "FD",
+    "layer": "WAL_DRY",
+    "type": "Polyline",
+    "block": null
+   },
+   {
+    "handle": "FE",
+    "layer": "WAL_DRY",
+    "type": "Polyline",
+    "block": null
+   },
+   {
+    "handle": "FF",
+    "layer": "WAL_DRY",
+    "type": "Polyline",
+    "block": null
+   },
+   {
+    "handle": "100",
+    "layer": "WAL_DRY",
+    "type": "Polyline",
+    "block": null
+   },
+   {
+    "handle": "101",
+    "layer": "WAL_DRY",
+    "type": "Polyline",
+    "block": null
+   },
+   {
+    "handle": "102",
+    "layer": "WAL_DRY",
+    "type": "Polyline",
+    "block": null
+   },
+   {
+    "handle": "103",
+    "layer": "WAL_DRY",
+    "type": "Polyline",
+    "block": null
+   },
+   {
+    "handle": "104",
+    "layer": "WAL_DRY",
+    "type": "Polyline",
+    "block": null
+   },
+   {
+    "handle": "105",
+    "layer": "CEN_WALL",
+    "type": "Line",
+    "block": null
+   },
+   {
+    "handle": "106",
+    "layer": "CEN_WALL",
+    "type": "Line",
+    "block": null
+   },
+   {
+    "handle": "107",
+    "layer": "CEN_CON",
+    "type": "Line",
+    "block": null
+   },
+   {
+    "handle": "108",
+    "layer": "CEN_CON",
+    "type": "Line",
+    "block": null
+   },
+   {
+    "handle": "109",
+    "layer": "CEN_WALL",
+    "type": "Line",
+    "block": null
+   },
+   {
+    "handle": "10A",
+    "layer": "CEN_CON",
+    "type": "Line",
+    "block": null
+   },
+   {
+    "handle": "10B",
+    "layer": "CEN_WALL",
+    "type": "Line",
+    "block": null
+   },
+   {
+    "handle": "10C",
+    "layer": "CEN_CON",
+    "type": "Line",
+    "block": null
+   },
+   {
+    "handle": "10D",
+    "layer": "CEN_CON",
+    "type": "Line",
+    "block": null
+   },
+   {
+    "handle": "10E",
+    "layer": "CEN_CON",
+    "type": "Line",
+    "block": null
+   },
+   {
+    "handle": "10F",
+    "layer": "CEN_CON",
+    "type": "Line",
+    "block": null
+   },
+   {
+    "handle": "110",
+    "layer": "CEN_CON",
+    "type": "Line",
+    "block": null
+   },
+   {
+    "handle": "111",
+    "layer": "CEN_WALL",
+    "type": "Line",
+    "block": null
+   },
+   {
+    "handle": "112",
+    "layer": "CEN_WALL",
+    "type": "Line",
+    "block": null
+   },
+   {
+    "handle": "113",
+    "layer": "CEN_WALL",
+    "type": "Line",
+    "block": null
+   },
+   {
+    "handle": "114",
+    "layer": "CEN_WALL",
+    "type": "Line",
+    "block": null
+   },
+   {
+    "handle": "115",
+    "layer": "CEN_CON",
+    "type": "Line",
+    "block": null
+   },
+   {
+    "handle": "116",
+    "layer": "CEN_WALL",
+    "type": "Line",
+    "block": null
+   },
+   {
+    "handle": "117",
+    "layer": "CEN_CON",
+    "type": "Line",
+    "block": null
+   },
+   {
+    "handle": "118",
+    "layer": "CEN_CON",
+    "type": "Line",
+    "block": null
+   },
+   {
+    "handle": "119",
+    "layer": "CEN_CON",
+    "type": "Line",
+    "block": null
+   },
+   {
+    "handle": "11A",
+    "layer": "CEN_WALL",
+    "type": "Line",
+    "block": null
+   },
+   {
+    "handle": "11B",
+    "layer": "CEN_CON",
+    "type": "Line",
+    "block": null
+   },
+   {
+    "handle": "11C",
+    "layer": "CEN_WALL",
+    "type": "Line",
+    "block": null
+   },
+   {
+    "handle": "11D",
+    "layer": "CEN_WALL",
+    "type": "Line",
+    "block": null
+   },
+   {
+    "handle": "11E",
+    "layer": "CEN_CON",
+    "type": "Line",
+    "block": null
+   },
+   {
+    "handle": "11F",
+    "layer": "CEN_WALL",
+    "type": "Line",
+    "block": null
+   },
+   {
+    "handle": "120",
+    "layer": "CEN_WALL",
+    "type": "Line",
+    "block": null
+   },
+   {
+    "handle": "121",
+    "layer": "CEN_CON",
+    "type": "Line",
+    "block": null
+   },
+   {
+    "handle": "122",
+    "layer": "CEN_CON",
+    "type": "Line",
+    "block": null
+   },
+   {
+    "handle": "123",
+    "layer": "CEN_WALL",
+    "type": "Line",
+    "block": null
+   },
+   {
+    "handle": "124",
+    "layer": "CEN_CON",
+    "type": "Line",
+    "block": null
+   },
+   {
+    "handle": "125",
+    "layer": "CEN_WALL",
+    "type": "Line",
+    "block": null
+   },
+   {
+    "handle": "126",
+    "layer": "CEN_CON",
+    "type": "Line",
+    "block": null
+   }
+  ],
+  "door": [
+   {
+    "handle": "129",
+    "layer": "SINA-F-FRAME",
+    "type": "BlockReference",
+    "block": "A$C016A76E2"
+   },
+   {
+    "handle": "14C",
+    "layer": "SINA-F-FRAME",
+    "type": "BlockReference",
+    "block": "A$C65D858C3"
+   },
+   {
+    "handle": "167",
+    "layer": "SINA-F-FRAME",
+    "type": "BlockReference",
+    "block": "A$C016A76E2"
+   },
+   {
+    "handle": "168",
+    "layer": "SINA-F-FRAME",
+    "type": "BlockReference",
+    "block": "A$C3C3C21E6"
+   },
+   {
+    "handle": "17C",
+    "layer": "SINA-F-FRAME",
+    "type": "BlockReference",
+    "block": "A$C3C3C21E6"
+   },
+   {
+    "handle": "17D",
+    "layer": "DOOR",
+    "type": "BlockReference",
+    "block": "FSD-1100(100)"
+   },
+   {
+    "handle": "18F",
+    "layer": "DOOR",
+    "type": "BlockReference",
+    "block": "DOOR-800(100)"
+   },
+   {
+    "handle": "19D",
+    "layer": "DOOR",
+    "type": "BlockReference",
+    "block": "SD_750"
+   }
+  ],
+  "window": [
+   {
+    "handle": "1B0",
+    "layer": "WIN",
+    "type": "BlockReference",
+    "block": "WIN_이중창_3600"
+   },
+   {
+    "handle": "1E1",
+    "layer": "WIN",
+    "type": "BlockReference",
+    "block": "WIN_이중창_1000"
+   },
+   {
+    "handle": "205",
+    "layer": "WIN",
+    "type": "BlockReference",
+    "block": "WIN_이중창_1500"
+   },
+   {
+    "handle": "22B",
+    "layer": "WIN",
+    "type": "BlockReference",
+    "block": "WIN_이중창_1500"
+   },
+   {
+    "handle": "22C",
+    "layer": "WIN",
+    "type": "BlockReference",
+    "block": "WIN_이중창_1800"
+   },
+   {
+    "handle": "252",
+    "layer": "WIN",
+    "type": "BlockReference",
+    "block": "WIN_이중창_1800"
+   },
+   {
+    "handle": "253",
+    "layer": "0",
+    "type": "BlockReference",
+    "block": "실외기창_1000"
+   }
+  ],
+  "bathroom": [
+   {
+    "handle": "284",
+    "layer": "AA-XXXX-UBR",
+    "type": "BlockReference",
+    "block": "A$C84b07bde"
+   },
+   {
+    "handle": "301",
+    "layer": "FUR",
+    "type": "BlockReference",
+    "block": "UBR 부부욕실 1600x2300"
+   },
+   {
+    "handle": "3E3",
+    "layer": "FUR",
+    "type": "BlockReference",
+    "block": "UBR 공용욕실 1500x2200"
+   },
+   {
+    "handle": "3F6",
+    "layer": "수전",
+    "type": "BlockReference",
+    "block": "수전"
+   },
+   {
+    "handle": "41C",
+    "layer": "AA-XXXX-UBR",
+    "type": "BlockReference",
+    "block": "A$C4e4a4905"
+   },
+   {
+    "handle": "4CC",
+    "layer": "수전",
+    "type": "BlockReference",
+    "block": "FD"
+   },
+   {
+    "handle": "4DC",
+    "layer": "수전",
+    "type": "BlockReference",
+    "block": "수전"
+   },
+   {
+    "handle": "4DD",
+    "layer": "수전",
+    "type": "BlockReference",
+    "block": "수전"
+   }
+  ],
+  "kitchen_furniture": [
+   {
+    "handle": "4E0",
+    "layer": "F-FUR-설치",
+    "type": "BlockReference",
+    "block": "쿡탑"
+   },
+   {
+    "handle": "63A",
+    "layer": "FUR",
+    "type": "BlockReference",
+    "block": "싱크"
+   },
+   {
+    "handle": "705",
+    "layer": "FUR_가전",
+    "type": "BlockReference",
+    "block": "세탁기-850"
+   },
+   {
+    "handle": "719",
+    "layer": "FUR_가구",
+    "type": "BlockReference",
+    "block": "식탁-1300x800"
+   },
+   {
+    "handle": "74A",
+    "layer": "A-ELE8",
+    "type": "BlockReference",
+    "block": "A$C8273e713"
+   },
+   {
+    "handle": "753",
+    "layer": "ETC",
+    "type": "BlockReference",
+    "block": "A$C24669fbc"
+   },
+   {
+    "handle": "760",
+    "layer": "0",
+    "type": "BlockReference",
+    "block": "X - 단위세대$0$200207-발코니배수구"
+   },
+   {
+    "handle": "774",
+    "layer": "FUR_가구",
+    "type": "BlockReference",
+    "block": "A$Ca96da67e"
+   }
+  ],
+  "finish": [
+   {
+    "handle": "77F",
+    "layer": "FIN",
+    "type": "Polyline",
+    "block": null
+   },
+   {
+    "handle": "780",
+    "layer": "FIN",
+    "type": "Polyline",
+    "block": null
+   },
+   {
+    "handle": "781",
+    "layer": "FIN",
+    "type": "Polyline",
+    "block": null
+   },
+   {
+    "handle": "782",
+    "layer": "FIN",
+    "type": "Polyline",
+    "block": null
+   },
+   {
+    "handle": "783",
+    "layer": "FIN",
+    "type": "Polyline",
+    "block": null
+   },
+   {
+    "handle": "784",
+    "layer": "FIN",
+    "type": "Polyline",
+    "block": null
+   },
+   {
+    "handle": "785",
+    "layer": "FIN",
+    "type": "Polyline",
+    "block": null
+   },
+   {
+    "handle": "786",
+    "layer": "FIN",
+    "type": "Polyline",
+    "block": null
+   },
+   {
+    "handle": "787",
+    "layer": "FIN",
+    "type": "Polyline",
+    "block": null
+   },
+   {
+    "handle": "788",
+    "layer": "FIN",
+    "type": "Polyline",
+    "block": null
+   },
+   {
+    "handle": "789",
+    "layer": "FIN",
+    "type": "Polyline",
+    "block": null
+   },
+   {
+    "handle": "78A",
+    "layer": "FIN",
+    "type": "Polyline",
+    "block": null
+   },
+   {
+    "handle": "78B",
+    "layer": "FIN",
+    "type": "Polyline",
+    "block": null
+   },
+   {
+    "handle": "78C",
+    "layer": "바닥타일",
+    "type": "Polyline",
+    "block": null
+   },
+   {
+    "handle": "78D",
+    "layer": "바닥타일",
+    "type": "Hatch",
+    "block": null
+   },
+   {
+    "handle": "78E",
+    "layer": "바닥타일",
+    "type": "Polyline",
+    "block": null
+   },
+   {
+    "handle": "78F",
+    "layer": "바닥타일",
+    "type": "Hatch",
+    "block": null
+   },
+   {
+    "handle": "790",
+    "layer": "바닥타일",
+    "type": "Polyline",
+    "block": null
+   },
+   {
+    "handle": "791",
+    "layer": "바닥타일",
+    "type": "Hatch",
+    "block": null
+   }
+  ],
+  "insulation": [
+   {
+    "handle": "794",
+    "layer": "INS",
+    "type": "Polyline",
+    "block": null
+   },
+   {
+    "handle": "795",
+    "layer": "INS",
+    "type": "Hatch",
+    "block": null
+   },
+   {
+    "handle": "796",
+    "layer": "INS",
+    "type": "Polyline",
+    "block": null
+   },
+   {
+    "handle": "797",
+    "layer": "INS",
+    "type": "Hatch",
+    "block": null
+   },
+   {
+    "handle": "798",
+    "layer": "INS",
+    "type": "Polyline",
+    "block": null
+   },
+   {
+    "handle": "799",
+    "layer": "INS",
+    "type": "Hatch",
+    "block": null
+   },
+   {
+    "handle": "79A",
+    "layer": "INS",
+    "type": "Polyline",
+    "block": null
+   },
+   {
+    "handle": "79B",
+    "layer": "INS",
+    "type": "Hatch",
+    "block": null
+   },
+   {
+    "handle": "79C",
+    "layer": "INS",
+    "type": "Polyline",
+    "block": null
+   },
+   {
+    "handle": "79D",
+    "layer": "INS",
+    "type": "Hatch",
+    "block": null
+   },
+   {
+    "handle": "79E",
+    "layer": "INS",
+    "type": "Polyline",
+    "block": null
+   },
+   {
+    "handle": "79F",
+    "layer": "INS",
+    "type": "Hatch",
+    "block": null
+   },
+   {
+    "handle": "7A0",
+    "layer": "INS",
+    "type": "Polyline",
+    "block": null
+   },
+   {
+    "handle": "7A1",
+    "layer": "INS",
+    "type": "Hatch",
+    "block": null
+   },
+   {
+    "handle": "7A2",
+    "layer": "INS",
+    "type": "Polyline",
+    "block": null
+   },
+   {
+    "handle": "7A3",
+    "layer": "INS",
+    "type": "Hatch",
+    "block": null
+   },
+   {
+    "handle": "7A4",
+    "layer": "INS",
+    "type": "Polyline",
+    "block": null
+   },
+   {
+    "handle": "7A5",
+    "layer": "INS",
+    "type": "Hatch",
+    "block": null
+   },
+   {
+    "handle": "7A6",
+    "layer": "INS",
+    "type": "Polyline",
+    "block": null
+   },
+   {
+    "handle": "7A7",
+    "layer": "INS",
+    "type": "Hatch",
+    "block": null
+   },
+   {
+    "handle": "7A8",
+    "layer": "INS",
+    "type": "Polyline",
+    "block": null
+   },
+   {
+    "handle": "7A9",
+    "layer": "INS",
+    "type": "Hatch",
+    "block": null
+   },
+   {
+    "handle": "7AA",
+    "layer": "INS",
+    "type": "Polyline",
+    "block": null
+   },
+   {
+    "handle": "7AB",
+    "layer": "INS",
+    "type": "Hatch",
+    "block": null
+   },
+   {
+    "handle": "7AC",
+    "layer": "INS",
+    "type": "Polyline",
+    "block": null
+   },
+   {
+    "handle": "7AD",
+    "layer": "INS",
+    "type": "Hatch",
+    "block": null
+   },
+   {
+    "handle": "7AE",
+    "layer": "INS",
+    "type": "Polyline",
+    "block": null
+   },
+   {
+    "handle": "7AF",
+    "layer": "INS",
+    "type": "Hatch",
+    "block": null
+   },
+   {
+    "handle": "7B0",
+    "layer": "INS",
+    "type": "Polyline",
+    "block": null
+   },
+   {
+    "handle": "7B1",
+    "layer": "INS",
+    "type": "Hatch",
+    "block": null
+   },
+   {
+    "handle": "7B2",
+    "layer": "INS",
+    "type": "Polyline",
+    "block": null
+   },
+   {
+    "handle": "7B3",
+    "layer": "INS",
+    "type": "Hatch",
+    "block": null
+   },
+   {
+    "handle": "7B4",
+    "layer": "INS",
+    "type": "Polyline",
+    "block": null
+   },
+   {
+    "handle": "7B5",
+    "layer": "INS",
+    "type": "Hatch",
+    "block": null
+   },
+   {
+    "handle": "7B6",
+    "layer": "INS",
+    "type": "Polyline",
+    "block": null
+   },
+   {
+    "handle": "7B7",
+    "layer": "INS",
+    "type": "Hatch",
+    "block": null
+   },
+   {
+    "handle": "7B8",
+    "layer": "INS",
+    "type": "Polyline",
+    "block": null
+   },
+   {
+    "handle": "7B9",
+    "layer": "INS",
+    "type": "Hatch",
+    "block": null
+   },
+   {
+    "handle": "7BA",
+    "layer": "INS",
+    "type": "Polyline",
+    "block": null
+   },
+   {
+    "handle": "7BB",
+    "layer": "INS",
+    "type": "Hatch",
+    "block": null
+   },
+   {
+    "handle": "7BC",
+    "layer": "INS",
+    "type": "Polyline",
+    "block": null
+   },
+   {
+    "handle": "7BD",
+    "layer": "INS",
+    "type": "Hatch",
+    "block": null
+   },
+   {
+    "handle": "7BE",
+    "layer": "INS",
+    "type": "Polyline",
+    "block": null
+   },
+   {
+    "handle": "7BF",
+    "layer": "INS",
+    "type": "Hatch",
+    "block": null
+   },
+   {
+    "handle": "7C0",
+    "layer": "INS",
+    "type": "Polyline",
+    "block": null
+   },
+   {
+    "handle": "7C1",
+    "layer": "INS",
+    "type": "Hatch",
+    "block": null
+   },
+   {
+    "handle": "7C2",
+    "layer": "INS",
+    "type": "Polyline",
+    "block": null
+   },
+   {
+    "handle": "7C3",
+    "layer": "INS",
+    "type": "Hatch",
+    "block": null
+   }
+  ],
+  "annotation": [
+   {
+    "handle": "AD7",
+    "layer": "실명",
+    "type": "Text",
+    "block": null
+   },
+   {
+    "handle": "AD8",
+    "layer": "실명",
+    "type": "Text",
+    "block": null
+   },
+   {
+    "handle": "AD9",
+    "layer": "실명",
+    "type": "Text",
+    "block": null
+   },
+   {
+    "handle": "ADA",
+    "layer": "실명",
+    "type": "Text",
+    "block": null
+   },
+   {
+    "handle": "ADB",
+    "layer": "실명",
+    "type": "Text",
+    "block": null
+   },
+   {
+    "handle": "ADC",
+    "layer": "실명",
+    "type": "Text",
+    "block": null
+   },
+   {
+    "handle": "ADD",
+    "layer": "실명",
+    "type": "Text",
+    "block": null
+   },
+   {
+    "handle": "ADE",
+    "layer": "실명",
+    "type": "Text",
+    "block": null
+   },
+   {
+    "handle": "ADF",
+    "layer": "실명",
+    "type": "Text",
+    "block": null
+   },
+   {
+    "handle": "AE0",
+    "layer": "실명",
+    "type": "Text",
+    "block": null
+   },
+   {
+    "handle": "AE1",
+    "layer": "실명",
+    "type": "Text",
+    "block": null
+   },
+   {
+    "handle": "AE2",
+    "layer": "실명",
+    "type": "Text",
+    "block": null
+   },
+   {
+    "handle": "AE3",
+    "layer": "실명",
+    "type": "Text",
+    "block": null
+   },
+   {
+    "handle": "AE4",
+    "layer": "실명",
+    "type": "Text",
+    "block": null
+   }
+  ],
+  "dimension": [
+   {
+    "handle": "AE7",
+    "layer": "DIM",
+    "type": "RotatedDimension",
+    "block": null
+   },
+   {
+    "handle": "B1D",
+    "layer": "DIM",
+    "type": "RotatedDimension",
+    "block": null
+   },
+   {
+    "handle": "B51",
+    "layer": "DIM",
+    "type": "RotatedDimension",
+    "block": null
+   },
+   {
+    "handle": "B85",
+    "layer": "DIM",
+    "type": "RotatedDimension",
+    "block": null
+   },
+   {
+    "handle": "BB9",
+    "layer": "DIM",
+    "type": "RotatedDimension",
+    "block": null
+   },
+   {
+    "handle": "BED",
+    "layer": "DIM",
+    "type": "RotatedDimension",
+    "block": null
+   },
+   {
+    "handle": "C21",
+    "layer": "DIM",
+    "type": "RotatedDimension",
+    "block": null
+   },
+   {
+    "handle": "C55",
+    "layer": "DIM",
+    "type": "RotatedDimension",
+    "block": null
+   },
+   {
+    "handle": "C89",
+    "layer": "DIM",
+    "type": "RotatedDimension",
+    "block": null
+   },
+   {
+    "handle": "CBD",
+    "layer": "DIM",
+    "type": "RotatedDimension",
+    "block": null
+   },
+   {
+    "handle": "CF1",
+    "layer": "DIM",
+    "type": "RotatedDimension",
+    "block": null
+   },
+   {
+    "handle": "D25",
+    "layer": "DIM",
+    "type": "RotatedDimension",
+    "block": null
+   },
+   {
+    "handle": "D5A",
+    "layer": "DIM",
+    "type": "RotatedDimension",
+    "block": null
+   },
+   {
+    "handle": "D8E",
+    "layer": "DIM",
+    "type": "RotatedDimension",
+    "block": null
+   },
+   {
+    "handle": "DC2",
+    "layer": "DIM",
+    "type": "RotatedDimension",
+    "block": null
+   },
+   {
+    "handle": "DF6",
+    "layer": "DIM",
+    "type": "RotatedDimension",
+    "block": null
+   },
+   {
+    "handle": "E2A",
+    "layer": "DIM",
+    "type": "RotatedDimension",
+    "block": null
+   },
+   {
+    "handle": "E5E",
+    "layer": "DIM",
+    "type": "RotatedDimension",
+    "block": null
+   },
+   {
+    "handle": "E92",
+    "layer": "DIM",
+    "type": "RotatedDimension",
+    "block": null
+   },
+   {
+    "handle": "EC6",
+    "layer": "DIM",
+    "type": "RotatedDimension",
+    "block": null
+   },
+   {
+    "handle": "EFA",
+    "layer": "DIM",
+    "type": "RotatedDimension",
+    "block": null
+   },
+   {
+    "handle": "F2E",
+    "layer": "DIM",
+    "type": "RotatedDimension",
+    "block": null
+   },
+   {
+    "handle": "F62",
+    "layer": "DIM",
+    "type": "RotatedDimension",
+    "block": null
+   }
+  ]
+ }
+}

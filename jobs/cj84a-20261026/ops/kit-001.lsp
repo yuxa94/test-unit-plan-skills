@@ -1,0 +1,1 @@
+(upc:run "C:/temp/cj84a/outputs/cj84A-basic-v001.dwg" "C:/temp/cj84a/operations" "kit-001" (quote (lambda (doc / r) (setq r (upd:copy-parts doc "C:/temp/cj84a/input/cj_plan.dwg" "U-84A(기본)" "FUR,F-FUR-설치,FUR_가구,FUR_가전,0,ETC,A-ELE8" "싱크,쿡탑,식탁*,세탁기*,A$Ca96da67e,*발코니배수구,A$C24669fbc,A$C8273e713")) (upc:write-utf8 "C:/temp/cj84a/kit-001.report.txt" r))))

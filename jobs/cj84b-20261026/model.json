@@ -1,0 +1,3418 @@
+{
+ "spaces": [
+  {
+   "id": "S1",
+   "name": "침실2",
+   "polygon": [
+    [
+     3195,
+     1500
+    ],
+    [
+     6065,
+     1500
+    ],
+    [
+     6065,
+     3965
+    ],
+    [
+     3195,
+     3965
+    ]
+   ],
+   "kind": "room",
+   "heated": true,
+   "area_m2": 7.07,
+   "boundary_meaning": "wall_centerline",
+   "clear_area_m2": 6.23
+  },
+  {
+   "id": "S2",
+   "name": "침실3",
+   "polygon": [
+    [
+     0,
+     1500
+    ],
+    [
+     3195,
+     1500
+    ],
+    [
+     3195,
+     3965
+    ],
+    [
+     1780,
+     3965
+    ],
+    [
+     1780,
+     4035
+    ],
+    [
+     0,
+     4035
+    ]
+   ],
+   "kind": "room",
+   "heated": true,
+   "area_m2": 8.0,
+   "boundary_meaning": "wall_centerline",
+   "clear_area_m2": 6.92
+  },
+  {
+   "id": "S3",
+   "name": "거실",
+   "polygon": [
+    [
+     1780,
+     3965
+    ],
+    [
+     6065,
+     3965
+    ],
+    [
+     6065,
+     1500
+    ],
+    [
+     10785,
+     1500
+    ],
+    [
+     10785,
+     5285
+    ],
+    [
+     1780,
+     5285
+    ]
+   ],
+   "kind": "room",
+   "heated": true,
+   "area_m2": 23.52,
+   "boundary_meaning": "wall_centerline",
+   "clear_area_m2": 21.75
+  },
+  {
+   "id": "S4",
+   "name": "주방/식당",
+   "polygon": [
+    [
+     6690,
+     7010
+    ],
+    [
+     6715,
+     7010
+    ],
+    [
+     6715,
+     5285
+    ],
+    [
+     10785,
+     5285
+    ],
+    [
+     10785,
+     7705
+    ],
+    [
+     10110,
+     7705
+    ],
+    [
+     10110,
+     8695
+    ],
+    [
+     10880,
+     8695
+    ],
+    [
+     10880,
+     10945
+    ],
+    [
+     6690,
+     10945
+    ]
+   ],
+   "kind": "room",
+   "heated": true,
+   "area_m2": 22.68,
+   "boundary_meaning": "wall_centerline",
+   "clear_area_m2": 20.93
+  },
+  {
+   "id": "S5",
+   "name": "욕실2",
+   "polygon": [
+    [
+     10785,
+     5555
+    ],
+    [
+     12775,
+     5555
+    ],
+    [
+     12775,
+     7990
+    ],
+    [
+     11390,
+     7990
+    ],
+    [
+     11390,
+     7090
+    ],
+    [
+     10785,
+     7090
+    ]
+   ],
+   "kind": "wet",
+   "heated": true,
+   "area_m2": 4.3,
+   "boundary_meaning": "wall_centerline",
+   "clear_area_m2": 3.76
+  },
+  {
+   "id": "S6",
+   "name": "침실1",
+   "polygon": [
+    [
+     10785,
+     1675
+    ],
+    [
+     12985,
+     1675
+    ],
+    [
+     12985,
+     1680
+    ],
+    [
+     13400,
+     1680
+    ],
+    [
+     13400,
+     5555
+    ],
+    [
+     10785,
+     5555
+    ]
+   ],
+   "kind": "room",
+   "heated": true,
+   "area_m2": 10.14,
+   "boundary_meaning": "wall_centerline",
+   "clear_area_m2": 8.8
+  },
+  {
+   "id": "S7",
+   "name": "현관",
+   "polygon": [
+    [
+     2175,
+     5285
+    ],
+    [
+     4695,
+     5285
+    ],
+    [
+     4695,
+     7010
+    ],
+    [
+     2175,
+     7010
+    ]
+   ],
+   "kind": "room",
+   "heated": true,
+   "area_m2": 4.35,
+   "boundary_meaning": "wall_centerline",
+   "clear_area_m2": 3.82
+  },
+  {
+   "id": "S8",
+   "name": "욕실1",
+   "polygon": [
+    [
+     0,
+     4035
+    ],
+    [
+     1780,
+     4035
+    ],
+    [
+     1780,
+     6425
+    ],
+    [
+     0,
+     6425
+    ]
+   ],
+   "kind": "wet",
+   "heated": true,
+   "area_m2": 4.25,
+   "boundary_meaning": "wall_centerline",
+   "clear_area_m2": 3.71
+  },
+  {
+   "id": "S9",
+   "name": "발코니1",
+   "polygon": [
+    [
+     0,
+     0
+    ],
+    [
+     12985,
+     0
+    ],
+    [
+     12985,
+     1675
+    ],
+    [
+     10785,
+     1675
+    ],
+    [
+     10785,
+     1500
+    ],
+    [
+     0,
+     1500
+    ]
+   ],
+   "kind": "balcony",
+   "heated": false,
+   "area_m2": 19.86,
+   "boundary_meaning": "wall_centerline",
+   "clear_area_m2": 14.74
+  },
+  {
+   "id": "S10",
+   "name": "하향식피난구",
+   "polygon": [
+    [
+     12985,
+     0
+    ],
+    [
+     14900,
+     0
+    ],
+    [
+     14900,
+     1500
+    ],
+    [
+     13400,
+     1500
+    ],
+    [
+     13400,
+     1680
+    ],
+    [
+     12985,
+     1680
+    ]
+   ],
+   "kind": "service",
+   "heated": false,
+   "area_m2": 2.95,
+   "boundary_meaning": "wall_centerline",
+   "clear_area_m2": 1.89
+  },
+  {
+   "id": "S11",
+   "name": "발코니2",
+   "polygon": [
+    [
+     12775,
+     5555
+    ],
+    [
+     13400,
+     5555
+    ],
+    [
+     13400,
+     1680
+    ],
+    [
+     14900,
+     1680
+    ],
+    [
+     14900,
+     8660
+    ],
+    [
+     12775,
+     8660
+    ]
+   ],
+   "kind": "balcony",
+   "heated": false,
+   "area_m2": 12.41,
+   "boundary_meaning": "wall_centerline",
+   "clear_area_m2": 9.52
+  },
+  {
+   "id": "S12",
+   "name": "발코니3",
+   "polygon": [
+    [
+     10880,
+     8660
+    ],
+    [
+     12380,
+     8660
+    ],
+    [
+     12380,
+     10945
+    ],
+    [
+     10880,
+     10945
+    ]
+   ],
+   "kind": "balcony",
+   "heated": false,
+   "area_m2": 3.43,
+   "boundary_meaning": "wall_centerline",
+   "clear_area_m2": 2.46
+  },
+  {
+   "id": "S14",
+   "name": "팬트리",
+   "polygon": [
+    [
+     4695,
+     5285
+    ],
+    [
+     6715,
+     5285
+    ],
+    [
+     6715,
+     7010
+    ],
+    [
+     4695,
+     7010
+    ]
+   ],
+   "kind": "room",
+   "heated": true,
+   "area_m2": 3.48,
+   "boundary_meaning": "wall_centerline",
+   "clear_area_m2": 2.93
+  }
+ ],
+ "fixed": [
+  {
+   "id": "S13",
+   "name": "ELEV. 홀",
+   "polygon": [
+    [
+     0,
+     6425
+    ],
+    [
+     1780,
+     6425
+    ],
+    [
+     1780,
+     5285
+    ],
+    [
+     2175,
+     5285
+    ],
+    [
+     2175,
+     7010
+    ],
+    [
+     6690,
+     7010
+    ],
+    [
+     6690,
+     11725.0
+    ],
+    [
+     0,
+     11725.0
+    ]
+   ],
+   "kind": "core",
+   "heated": false,
+   "area_m2": 33.27,
+   "boundary_meaning": "wall_centerline"
+  },
+  {
+   "id": "S15",
+   "name": "PS",
+   "polygon": [
+    [
+     10785,
+     7090
+    ],
+    [
+     11390,
+     7090
+    ],
+    [
+     11390,
+     7990
+    ],
+    [
+     12775,
+     7990
+    ],
+    [
+     12775,
+     8660
+    ],
+    [
+     10785,
+     8660
+    ]
+   ],
+   "kind": "shaft",
+   "heated": false,
+   "area_m2": 1.88,
+   "boundary_meaning": "wall_centerline"
+  },
+  {
+   "id": "S16",
+   "name": "PS",
+   "polygon": [
+    [
+     10110,
+     7705
+    ],
+    [
+     10785,
+     7705
+    ],
+    [
+     10785,
+     8695
+    ],
+    [
+     10110,
+     8695
+    ]
+   ],
+   "kind": "shaft",
+   "heated": false,
+   "area_m2": 0.67,
+   "boundary_meaning": "wall_centerline"
+  },
+  {
+   "id": "S17",
+   "name": "PS",
+   "polygon": [
+    [
+     6690,
+     10945
+    ],
+    [
+     10880,
+     10945
+    ],
+    [
+     10880,
+     11725.0
+    ],
+    [
+     6690,
+     11725.0
+    ]
+   ],
+   "kind": "shaft",
+   "heated": false,
+   "area_m2": 3.27,
+   "boundary_meaning": "wall_centerline"
+  }
+ ],
+ "walls": [
+  {
+   "id": "W1",
+   "orient": "V",
+   "axis_coord": 2175,
+   "span": [
+    5235.0,
+    7275.0
+   ],
+   "lo": -25.0,
+   "hi": 50.0,
+   "material": "DRY",
+   "basis": "measured",
+   "layer": "CEN_WALL",
+   "rect": [
+    2150.0,
+    5235.0,
+    2225.0,
+    7275.0
+   ]
+  },
+  {
+   "id": "W2",
+   "orient": "V",
+   "axis_coord": 0,
+   "span": [
+    0.0,
+    7275.0
+   ],
+   "lo": -125.0,
+   "hi": 125.0,
+   "material": "RC",
+   "basis": "measured",
+   "layer": "CEN_CON",
+   "rect": [
+    -125.0,
+    0.0,
+    125.0,
+    7275.0
+   ]
+  },
+  {
+   "id": "W3",
+   "orient": "V",
+   "axis_coord": 1780,
+   "span": [
+    3915.0,
+    6480.0
+   ],
+   "lo": -35.0,
+   "hi": 65.0,
+   "material": "DRY",
+   "basis": "measured",
+   "layer": "CEN_WALL",
+   "rect": [
+    1745.0,
+    3915.0,
+    1845.0,
+    6480.0
+   ]
+  },
+  {
+   "id": "W4",
+   "orient": "H",
+   "axis_coord": 8695,
+   "span": [
+    10065.0,
+    11055.0
+   ],
+   "lo": -45.0,
+   "hi": 65.0,
+   "material": "MAS",
+   "basis": "measured",
+   "layer": "CEN_WALL",
+   "rect": [
+    10065.0,
+    8650.0,
+    11055.0,
+    8760.0
+   ]
+  },
+  {
+   "id": "W5",
+   "orient": "V",
+   "axis_coord": 10110,
+   "span": [
+    7660.0,
+    8760.0
+   ],
+   "lo": -45.0,
+   "hi": 45.0,
+   "material": "MAS",
+   "basis": "measured",
+   "layer": "CEN_WALL",
+   "rect": [
+    10065.0,
+    7660.0,
+    10155.0,
+    8760.0
+   ]
+  },
+  {
+   "id": "W6",
+   "orient": "H",
+   "axis_coord": 7705,
+   "span": [
+    10065.0,
+    10885.0
+   ],
+   "lo": -45.0,
+   "hi": 45.0,
+   "material": "MAS",
+   "basis": "measured",
+   "layer": "CEN_WALL",
+   "rect": [
+    10065.0,
+    7660.0,
+    10885.0,
+    7750.0
+   ]
+  },
+  {
+   "id": "W7",
+   "orient": "H",
+   "axis_coord": 7010,
+   "span": [
+    1605.0,
+    6815.0
+   ],
+   "lo": 15.0,
+   "hi": 265.0,
+   "material": "RC",
+   "basis": "measured",
+   "layer": "CEN_CON",
+   "rect": [
+    1605.0,
+    7025.0,
+    6815.0,
+    7275.0
+   ]
+  },
+  {
+   "id": "W8",
+   "orient": "V",
+   "axis_coord": 4695,
+   "span": [
+    5235.0,
+    7275.0
+   ],
+   "lo": -50.0,
+   "hi": 50.0,
+   "material": "DRY",
+   "basis": "measured",
+   "layer": "CEN_WALL",
+   "rect": [
+    4645.0,
+    5235.0,
+    4745.0,
+    7275.0
+   ]
+  },
+  {
+   "id": "W9",
+   "orient": "H",
+   "axis_coord": 7150,
+   "span": [
+    -125.0,
+    2225.0
+   ],
+   "lo": -125.0,
+   "hi": 125.0,
+   "material": "RC",
+   "basis": "measured",
+   "layer": "CEN_CON",
+   "rect": [
+    -125.0,
+    7025.0,
+    2225.0,
+    7275.0
+   ]
+  },
+  {
+   "id": "W10",
+   "orient": "H",
+   "axis_coord": 6425,
+   "span": [
+    -125.0,
+    1845.0
+   ],
+   "lo": -20.0,
+   "hi": 55.0,
+   "material": "DRY",
+   "basis": "measured",
+   "layer": "CEN_WALL",
+   "rect": [
+    -125.0,
+    6405.0,
+    1845.0,
+    6480.0
+   ]
+  },
+  {
+   "id": "W11",
+   "orient": "H",
+   "axis_coord": 7990,
+   "span": [
+    11320.0,
+    12955.0
+   ],
+   "lo": -20.0,
+   "hi": 55.0,
+   "material": "DRY",
+   "basis": "measured",
+   "layer": "CEN_WALL",
+   "rect": [
+    11320.0,
+    7970.0,
+    12955.0,
+    8045.0
+   ]
+  },
+  {
+   "id": "W12",
+   "orient": "H",
+   "axis_coord": 8660,
+   "span": [
+    10575.0,
+    14900.0
+   ],
+   "lo": -100.0,
+   "hi": 100.0,
+   "material": "RC",
+   "basis": "measured",
+   "layer": "CEN_CON",
+   "rect": [
+    10575.0,
+    8560.0,
+    14900.0,
+    8760.0
+   ]
+  },
+  {
+   "id": "W13",
+   "orient": "H",
+   "axis_coord": 10945,
+   "span": [
+    6425.0,
+    12380.0
+   ],
+   "lo": 55.0,
+   "hi": 155.0,
+   "material": "RC",
+   "basis": "measured",
+   "layer": "CEN_CON",
+   "rect": [
+    6425.0,
+    11000.0,
+    12380.0,
+    11100.0
+   ]
+  },
+  {
+   "id": "W14",
+   "orient": "H",
+   "axis_coord": 1680,
+   "span": [
+    12910.0,
+    14900.0
+   ],
+   "lo": -190.0,
+   "hi": 10.0,
+   "material": "RC",
+   "basis": "measured",
+   "layer": "CEN_CON",
+   "rect": [
+    12910.0,
+    1490.0,
+    14900.0,
+    1690.0
+   ]
+  },
+  {
+   "id": "W15",
+   "orient": "V",
+   "axis_coord": 12380,
+   "span": [
+    8560.0,
+    11250.0
+   ],
+   "lo": -200.0,
+   "hi": 0.0,
+   "material": "RC",
+   "basis": "measured",
+   "layer": "CEN_CON",
+   "rect": [
+    12180.0,
+    8560.0,
+    12380.0,
+    11250.0
+   ]
+  },
+  {
+   "id": "W16",
+   "orient": "V",
+   "axis_coord": 6690,
+   "span": [
+    6775.0,
+    11725.0
+   ],
+   "lo": -265.0,
+   "hi": -15.0,
+   "material": "RC",
+   "basis": "measured",
+   "layer": "CEN_CON",
+   "rect": [
+    6425.0,
+    6775.0,
+    6675.0,
+    11725.0
+   ]
+  },
+  {
+   "id": "W17",
+   "orient": "V",
+   "axis_coord": 6715,
+   "span": [
+    5235.0,
+    7375.0
+   ],
+   "lo": -100.0,
+   "hi": 100.0,
+   "material": "RC",
+   "basis": "measured",
+   "layer": "CEN_CON",
+   "rect": [
+    6615.0,
+    5235.0,
+    6815.0,
+    7375.0
+   ]
+  },
+  {
+   "id": "W18",
+   "orient": "V",
+   "axis_coord": 12985,
+   "span": [
+    0.0,
+    1980.0
+   ],
+   "lo": -60.0,
+   "hi": 60.0,
+   "material": "RC",
+   "basis": "measured",
+   "layer": "CEN_WALL",
+   "rect": [
+    12925.0,
+    0.0,
+    13045.0,
+    1980.0
+   ]
+  },
+  {
+   "id": "W19",
+   "orient": "H",
+   "axis_coord": 1675,
+   "span": [
+    10575.0,
+    13085.0
+   ],
+   "lo": -175.0,
+   "hi": 15.0,
+   "material": "MAS",
+   "basis": "measured",
+   "layer": "CEN_WALL",
+   "rect": [
+    10575.0,
+    1500.0,
+    13085.0,
+    1690.0
+   ]
+  },
+  {
+   "id": "W20",
+   "orient": "H",
+   "axis_coord": 5285,
+   "span": [
+    1745.0,
+    6815.0
+   ],
+   "lo": -50.0,
+   "hi": 50.0,
+   "material": "DRY",
+   "basis": "measured",
+   "layer": "CEN_WALL",
+   "rect": [
+    1745.0,
+    5235.0,
+    6815.0,
+    5335.0
+   ]
+  },
+  {
+   "id": "W21",
+   "orient": "V",
+   "axis_coord": 6065,
+   "span": [
+    1325.0,
+    4015.0
+   ],
+   "lo": -100.0,
+   "hi": 100.0,
+   "material": "RC",
+   "basis": "measured",
+   "layer": "CEN_CON",
+   "rect": [
+    5965.0,
+    1325.0,
+    6165.0,
+    4015.0
+   ]
+  },
+  {
+   "id": "W22",
+   "orient": "H",
+   "axis_coord": 3965,
+   "span": [
+    1605.0,
+    6165.0
+   ],
+   "lo": -50.0,
+   "hi": 50.0,
+   "material": "DRY",
+   "basis": "measured",
+   "layer": "CEN_WALL",
+   "rect": [
+    1605.0,
+    3915.0,
+    6165.0,
+    4015.0
+   ]
+  },
+  {
+   "id": "W23",
+   "orient": "V",
+   "axis_coord": 3195,
+   "span": [
+    1325.0,
+    4015.0
+   ],
+   "lo": -50.0,
+   "hi": 50.0,
+   "material": "DRY",
+   "basis": "measured",
+   "layer": "CEN_WALL",
+   "rect": [
+    3145.0,
+    1325.0,
+    3245.0,
+    4015.0
+   ]
+  },
+  {
+   "id": "W24",
+   "orient": "V",
+   "axis_coord": 0,
+   "span": [
+    0.0,
+    7275.0
+   ],
+   "lo": -125.0,
+   "hi": 125.0,
+   "material": "RC",
+   "basis": "measured",
+   "layer": "CEN_CON",
+   "rect": [
+    -125.0,
+    0.0,
+    125.0,
+    7275.0
+   ]
+  },
+  {
+   "id": "W25",
+   "orient": "H",
+   "axis_coord": 1500,
+   "span": [
+    -125.0,
+    10995.0
+   ],
+   "lo": -175.0,
+   "hi": 15.0,
+   "material": "MAS",
+   "basis": "measured",
+   "layer": "CEN_WALL",
+   "rect": [
+    -125.0,
+    1325.0,
+    10995.0,
+    1515.0
+   ]
+  },
+  {
+   "id": "W26",
+   "orient": "H",
+   "axis_coord": 4035,
+   "span": [
+    -125.0,
+    1955.0
+   ],
+   "lo": -120.0,
+   "hi": 80.0,
+   "material": "RC",
+   "basis": "measured",
+   "layer": "CEN_CON",
+   "rect": [
+    -125.0,
+    3915.0,
+    1955.0,
+    4115.0
+   ]
+  },
+  {
+   "id": "W27",
+   "orient": "V",
+   "axis_coord": 10785,
+   "span": [
+    1325.0,
+    8828.4
+   ],
+   "lo": -100.0,
+   "hi": 100.0,
+   "material": "RC",
+   "basis": "measured",
+   "layer": "CEN_CON",
+   "rect": [
+    10685.0,
+    1325.0,
+    10885.0,
+    8828.4
+   ]
+  },
+  {
+   "id": "W28",
+   "orient": "H",
+   "axis_coord": 0,
+   "span": [
+    -125.0,
+    14900.0
+   ],
+   "lo": -0.0,
+   "hi": 200.0,
+   "material": "RC",
+   "basis": "measured",
+   "layer": "CEN_CON",
+   "rect": [
+    -125.0,
+    0.0,
+    14900.0,
+    200.0
+   ]
+  },
+  {
+   "id": "W29",
+   "orient": "V",
+   "axis_coord": 13400,
+   "span": [
+    0.0,
+    5860.0
+   ],
+   "lo": -15.0,
+   "hi": 175.0,
+   "material": "MAS",
+   "basis": "measured",
+   "layer": "CEN_WALL",
+   "rect": [
+    13385.0,
+    0.0,
+    13575.0,
+    5860.0
+   ]
+  },
+  {
+   "id": "W30",
+   "orient": "V",
+   "axis_coord": 14900,
+   "span": [
+    0.0,
+    8760.0
+   ],
+   "lo": -200.0,
+   "hi": 0.0,
+   "material": "RC",
+   "basis": "measured",
+   "layer": "CEN_CON",
+   "rect": [
+    14700.0,
+    0.0,
+    14900.0,
+    8760.0
+   ]
+  },
+  {
+   "id": "W31",
+   "orient": "H",
+   "axis_coord": 5555,
+   "span": [
+    10685.0,
+    13575.0
+   ],
+   "lo": -65.0,
+   "hi": 35.0,
+   "material": "DRY",
+   "basis": "measured",
+   "layer": "CEN_WALL",
+   "rect": [
+    10685.0,
+    5490.0,
+    13575.0,
+    5590.0
+   ]
+  },
+  {
+   "id": "W32",
+   "orient": "V",
+   "axis_coord": 12775,
+   "span": [
+    5490.0,
+    8760.0
+   ],
+   "lo": -10.0,
+   "hi": 180.0,
+   "material": "MAS",
+   "basis": "measured",
+   "layer": "CEN_WALL",
+   "rect": [
+    12765.0,
+    5490.0,
+    12955.0,
+    8760.0
+   ]
+  },
+  {
+   "id": "W33",
+   "orient": "V",
+   "axis_coord": 11390,
+   "span": [
+    7070.0,
+    8045.0
+   ],
+   "lo": -70.0,
+   "hi": 5.0,
+   "material": "DRY",
+   "basis": "measured",
+   "layer": "CEN_WALL",
+   "rect": [
+    11320.0,
+    7070.0,
+    11395.0,
+    8045.0
+   ]
+  },
+  {
+   "id": "W34",
+   "orient": "H",
+   "axis_coord": 7090,
+   "span": [
+    10685.0,
+    11395.0
+   ],
+   "lo": -20.0,
+   "hi": 55.0,
+   "material": "DRY",
+   "basis": "measured",
+   "layer": "CEN_WALL",
+   "rect": [
+    10685.0,
+    7070.0,
+    11395.0,
+    7145.0
+   ]
+  },
+  {
+   "id": "W35",
+   "orient": "V",
+   "axis_coord": 10880,
+   "span": [
+    8240.0,
+    11725.0
+   ],
+   "lo": -15.0,
+   "hi": 175.0,
+   "material": "MAS",
+   "basis": "measured",
+   "layer": "CEN_WALL",
+   "rect": [
+    10865.0,
+    8240.0,
+    11055.0,
+    11725.0
+   ]
+  }
+ ],
+ "version": 1,
+ "unit": {
+  "block": "U-84B(기본)",
+  "mode": "rule"
+ },
+ "openings": [
+  {
+   "kind": "door",
+   "type": "swing",
+   "room": "욕실1",
+   "to": "거실",
+   "wall": "W3",
+   "side_room": "lo",
+   "span": [
+    4103.5,
+    4903.5
+   ],
+   "width_mm": 800,
+   "hinge_t": 4103.5,
+   "swing_side": "lo",
+   "basis": "ubr_door",
+   "ubr_gap": [
+    4115,
+    4892
+   ],
+   "id": "D1",
+   "cut": [
+    1740.0,
+    4103.5,
+    1850.0,
+    4903.5
+   ],
+   "center": [
+    1780,
+    4503.5
+   ]
+  },
+  {
+   "kind": "door",
+   "type": "swing",
+   "room": "욕실2",
+   "to": "침실1",
+   "wall": "W31",
+   "side_room": "hi",
+   "span": [
+    11851.5,
+    12651.5
+   ],
+   "width_mm": 800,
+   "hinge_t": 12651.5,
+   "swing_side": "hi",
+   "basis": "ubr_door",
+   "ubr_gap": [
+    11848,
+    12655
+   ],
+   "id": "D2",
+   "cut": [
+    11851.5,
+    5485.0,
+    12651.5,
+    5595.0
+   ],
+   "center": [
+    12251.5,
+    5555
+   ]
+  },
+  {
+   "kind": "door",
+   "type": "swing",
+   "room": "현관",
+   "to": "ELEV. 홀",
+   "wall": "W7",
+   "side_room": "lo",
+   "span": [
+    2880.0,
+    3980.0
+   ],
+   "width_mm": 1100,
+   "hinge_t": 3980.0,
+   "swing_side": "hi",
+   "front_depth_mm": null,
+   "basis": "rule: 가장 긴 벽 / 위치: 벽 구간 가운데",
+   "id": "D3",
+   "cut": [
+    2880.0,
+    7020.0,
+    3980.0,
+    7280.0
+   ],
+   "center": [
+    3430.0,
+    7010
+   ]
+  },
+  {
+   "kind": "door",
+   "type": "swing",
+   "room": "침실1",
+   "to": "거실",
+   "wall": "W27",
+   "side_room": "hi",
+   "span": [
+    4490.0,
+    5390.0
+   ],
+   "width_mm": 900,
+   "hinge_t": 5390.0,
+   "swing_side": "hi",
+   "front_depth_mm": 8840,
+   "basis": "rule: 가장 긴 벽 / 위치: 실 모서리 + 문틀 여유 100",
+   "id": "D4",
+   "cut": [
+    10680.0,
+    4490.0,
+    10890.0,
+    5390.0
+   ],
+   "center": [
+    10785,
+    4940.0
+   ]
+  },
+  {
+   "kind": "door",
+   "type": "swing",
+   "room": "침실2",
+   "to": "거실",
+   "wall": "W22",
+   "side_room": "lo",
+   "span": [
+    4965.0,
+    5865.0
+   ],
+   "width_mm": 900,
+   "hinge_t": 5865.0,
+   "swing_side": "lo",
+   "front_depth_mm": 1220,
+   "basis": "rule: 복도·홀 면 우선 / 위치: 실 모서리 + 문틀 여유 100",
+   "id": "D5",
+   "cut": [
+    4965.0,
+    3910.0,
+    5865.0,
+    4020.0
+   ],
+   "center": [
+    5415.0,
+    3965
+   ]
+  },
+  {
+   "kind": "door",
+   "type": "swing",
+   "room": "침실3",
+   "to": "거실",
+   "wall": "W22",
+   "side_room": "lo",
+   "span": [
+    2145.0,
+    3045.0
+   ],
+   "width_mm": 900,
+   "hinge_t": 3045.0,
+   "swing_side": "lo",
+   "front_depth_mm": 1220,
+   "basis": "rule: 복도·홀 면 우선 / 위치: 실 모서리 + 문틀 여유 100",
+   "id": "D6",
+   "cut": [
+    2145.0,
+    3910.0,
+    3045.0,
+    4020.0
+   ],
+   "center": [
+    2595.0,
+    3965
+   ]
+  },
+  {
+   "kind": "door",
+   "type": "swing",
+   "room": "팬트리",
+   "to": "거실",
+   "wall": "W20",
+   "side_room": "hi",
+   "span": [
+    5295.0,
+    6095.0
+   ],
+   "width_mm": 800,
+   "hinge_t": 5295.0,
+   "swing_side": "hi",
+   "front_depth_mm": 1220,
+   "basis": "rule: 복도·홀 면 우선 / 위치: 벽 구간 가운데",
+   "id": "D7",
+   "cut": [
+    5295.0,
+    5230.0,
+    6095.0,
+    5340.0
+   ],
+   "center": [
+    5695.0,
+    5285
+   ]
+  },
+  {
+   "kind": "door",
+   "type": "sliding",
+   "room": "하향식피난구",
+   "to": "발코니1",
+   "wall": "W18",
+   "side_room": "hi",
+   "span": [
+    750.0,
+    1500.0
+   ],
+   "width_mm": 750,
+   "hinge_t": 1500.0,
+   "swing_side": "hi",
+   "front_depth_mm": 12800,
+   "basis": "rule: 가장 긴 벽 / 위치: 현관 쪽 끝",
+   "id": "D8",
+   "cut": [
+    12920.0,
+    750.0,
+    13050.0,
+    1500.0
+   ],
+   "center": [
+    12985,
+    1125.0
+   ]
+  },
+  {
+   "kind": "window",
+   "type": "double",
+   "room": "거실",
+   "facing": "발코니1",
+   "wall": "W25",
+   "side_room": "hi",
+   "span": [
+    6625.0,
+    10225.0
+   ],
+   "width_mm": 3600,
+   "side": "S",
+   "basis": "profile: 방위·폭",
+   "id": "WN1",
+   "cut": [
+    6625.0,
+    1320.0,
+    10225.0,
+    1520.0
+   ],
+   "center": [
+    8425.0,
+    1500
+   ]
+  },
+  {
+   "kind": "window",
+   "type": "double",
+   "room": "침실1",
+   "facing": "발코니1",
+   "wall": "W19",
+   "side_room": "hi",
+   "span": [
+    11125.0,
+    12625.0
+   ],
+   "width_mm": 1500,
+   "side": "S",
+   "basis": "profile: 방위·폭",
+   "id": "WN2",
+   "cut": [
+    11125.0,
+    1495.0,
+    12625.0,
+    1695.0
+   ],
+   "center": [
+    11875.0,
+    1675
+   ]
+  },
+  {
+   "kind": "window",
+   "type": "double",
+   "room": "침실1",
+   "facing": "발코니2",
+   "wall": "W29",
+   "side_room": "lo",
+   "span": [
+    2575.0,
+    4675.0
+   ],
+   "width_mm": 2100,
+   "side": "E",
+   "basis": "profile: 방위·폭",
+   "id": "WN3",
+   "cut": [
+    13380.0,
+    2575.0,
+    13580.0,
+    4675.0
+   ],
+   "center": [
+    13400,
+    3625.0
+   ]
+  },
+  {
+   "kind": "window",
+   "type": "double",
+   "room": "침실2",
+   "facing": "발코니1",
+   "wall": "W25",
+   "side_room": "hi",
+   "span": [
+    3725.0,
+    5525.0
+   ],
+   "width_mm": 1800,
+   "side": "S",
+   "basis": "profile: 방위·폭",
+   "id": "WN4",
+   "cut": [
+    3725.0,
+    1320.0,
+    5525.0,
+    1520.0
+   ],
+   "center": [
+    4625.0,
+    1500
+   ]
+  },
+  {
+   "kind": "window",
+   "type": "double",
+   "room": "침실3",
+   "facing": "발코니1",
+   "wall": "W25",
+   "side_room": "hi",
+   "span": [
+    675.0,
+    2475.0
+   ],
+   "width_mm": 1800,
+   "side": "S",
+   "basis": "profile: 방위·폭",
+   "id": "WN5",
+   "cut": [
+    675.0,
+    1320.0,
+    2475.0,
+    1520.0
+   ],
+   "center": [
+    1575.0,
+    1500
+   ]
+  },
+  {
+   "kind": "window",
+   "type": "double",
+   "room": "주방/식당",
+   "facing": "발코니3",
+   "wall": "W35",
+   "side_room": "lo",
+   "span": [
+    9165.0,
+    10465.0
+   ],
+   "width_mm": 1300,
+   "side": "E",
+   "basis": "profile: 방위·폭",
+   "id": "WN6",
+   "cut": [
+    10860.0,
+    9165.0,
+    11060.0,
+    10465.0
+   ],
+   "center": [
+    10880,
+    9815.0
+   ]
+  },
+  {
+   "kind": "window",
+   "type": "outdoor_unit",
+   "room": "하향식피난구",
+   "facing": "exterior",
+   "wall": "W28",
+   "side_room": "hi",
+   "span": [
+    13437.5,
+    14437.5
+   ],
+   "width_mm": 1000,
+   "side": "S",
+   "basis": "profile: 방위·폭",
+   "id": "WN7",
+   "cut": [
+    13437.5,
+    -5.0,
+    14437.5,
+    205.0
+   ],
+   "center": [
+    13937.5,
+    0
+   ]
+  }
+ ],
+ "fixtures": [
+  {
+   "kind": "ubr",
+   "space": "욕실1",
+   "block": "UBR 공용욕실 1500x2200",
+   "insert": [
+    1652.0,
+    4142.0
+   ],
+   "rotation_deg": 0,
+   "xscale": -1,
+   "outline": [
+    [
+     1679.0,
+     4115.0
+    ],
+    [
+     125.0,
+     4115.0
+    ],
+    [
+     125.0,
+     6369.0
+    ],
+    [
+     1679.0,
+     6369.0
+    ],
+    [
+     1679.0,
+     4892.0
+    ]
+   ],
+   "footprint": [
+    125.0,
+    4115.0,
+    1679.0,
+    6369.0
+   ],
+   "panel": {
+    "block": "A$C84b07bde",
+    "layer": "AA-XXXX-UBR",
+    "insert": [
+     152.0,
+     4142.0
+    ],
+    "rotation_deg": 0,
+    "xscale": 1
+   },
+   "basis": "rule: 실제 외곽선 + UBR 문이 거실 쪽"
+  },
+  {
+   "kind": "ubr",
+   "space": "욕실2",
+   "block": "UBR 부부욕실 1600x2300",
+   "insert": [
+    11528.0,
+    7943.0
+   ],
+   "rotation_deg": 0,
+   "xscale": -1,
+   "outline": [
+    [
+     12655.0,
+     5616.0
+    ],
+    [
+     12655.0,
+     7970.0
+    ],
+    [
+     11501.0,
+     7970.0
+    ],
+    [
+     11501.0,
+     7070.0
+    ],
+    [
+     11001.0,
+     7070.0
+    ],
+    [
+     11001.0,
+     5616.0
+    ],
+    [
+     11848.0,
+     5616.0
+    ]
+   ],
+   "footprint": [
+    11001.0,
+    5616.0,
+    12655.0,
+    7970.0
+   ],
+   "panel": {
+    "block": "A$C91691f5a",
+    "layer": "AA-XXXX-UBR",
+    "insert": [
+     10940.5,
+     5595.5
+    ],
+    "rotation_deg": 0,
+    "xscale": 1
+   },
+   "basis": "rule: 실제 외곽선 + UBR 문이 침실1 쪽"
+  },
+  {
+   "kind": "counter",
+   "space": "주방/식당",
+   "rect": [
+    6815.0,
+    5285.0,
+    7465.0,
+    10890.0
+   ],
+   "basis": "rule: ㄱ자 첫 번째 벽(가장 긴 벽)"
+  },
+  {
+   "kind": "counter",
+   "space": "주방/식당",
+   "rect": [
+    6815.0,
+    10240.0,
+    10678.571428571428,
+    10890.0
+   ],
+   "basis": "rule: ㄱ자 두 번째 벽(꺾이는 벽)"
+  },
+  {
+   "kind": "sink",
+   "space": "주방/식당",
+   "block": "싱크",
+   "insert": [
+    7865.0,
+    10871.7
+   ],
+   "rotation_deg": 270,
+   "xscale": 1,
+   "footprint": [
+    7865.0,
+    10240.0,
+    9215.0,
+    10890.0
+   ],
+   "basis": "rule: ㄱ자 두 번째 벽, 코너에서 400"
+  },
+  {
+   "kind": "cooktop",
+   "space": "주방/식당",
+   "block": "쿡탑",
+   "insert": [
+    196410.4,
+    470551.0
+   ],
+   "rotation_deg": 90,
+   "xscale": -1,
+   "footprint": [
+    6815.0,
+    9250.0,
+    7325.0,
+    9840.0
+   ],
+   "basis": "rule: ㄱ자 첫 번째 벽, 코너에서 400"
+  },
+  {
+   "kind": "table",
+   "space": "주방/식당",
+   "block": "식탁-1300x800",
+   "insert": [
+    8510.0,
+    6912.5
+   ],
+   "rotation_deg": 0,
+   "xscale": 1,
+   "footprint": [
+    8510.0,
+    6551.1,
+    9810.0,
+    8073.9
+   ],
+   "basis": "rule"
+  },
+  {
+   "kind": "washer",
+   "space": "발코니3",
+   "block": "세탁기-850",
+   "insert": [
+    11805.0,
+    10945.0
+   ],
+   "rotation_deg": 0,
+   "xscale": 1,
+   "footprint": [
+    11055.0,
+    10095.0,
+    11805.0,
+    10945.0
+   ],
+   "basis": "rule(exterior_first): 외벽 등대기, 수전·배수까지 317"
+  }
+ ],
+ "insulation_runs": [
+  {
+   "wall": "W4",
+   "side": "hi",
+   "exposure": "core",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W4",
+   "side": "hi",
+   "exposure": "core",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W5",
+   "side": "lo",
+   "exposure": "core",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W5",
+   "side": "lo",
+   "exposure": "core",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W6",
+   "side": "lo",
+   "exposure": "core",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W6",
+   "side": "lo",
+   "exposure": "core",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W7",
+   "side": "lo",
+   "exposure": "core",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W7",
+   "side": "lo",
+   "exposure": "core",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W7",
+   "side": "lo",
+   "exposure": "core",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W7",
+   "side": "lo",
+   "exposure": "core",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W7",
+   "side": "lo",
+   "exposure": "core",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W7",
+   "side": "lo",
+   "exposure": "core",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W7",
+   "side": "lo",
+   "exposure": "core",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W7",
+   "side": "lo",
+   "exposure": "core",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W7",
+   "side": "lo",
+   "exposure": "core",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W7",
+   "side": "lo",
+   "exposure": "core",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W7",
+   "side": "lo",
+   "exposure": "core",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W7",
+   "side": "lo",
+   "exposure": "core",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W12",
+   "side": "hi",
+   "exposure": "core",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W13",
+   "side": "lo",
+   "exposure": "core",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W13",
+   "side": "lo",
+   "exposure": "core",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W13",
+   "side": "lo",
+   "exposure": "core",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W13",
+   "side": "lo",
+   "exposure": "core",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W13",
+   "side": "lo",
+   "exposure": "core",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W13",
+   "side": "lo",
+   "exposure": "core",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W13",
+   "side": "lo",
+   "exposure": "core",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W13",
+   "side": "lo",
+   "exposure": "core",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W13",
+   "side": "lo",
+   "exposure": "core",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W14",
+   "side": "hi",
+   "exposure": "exterior_indirect",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W16",
+   "side": "hi",
+   "exposure": "core",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W16",
+   "side": "hi",
+   "exposure": "core",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W16",
+   "side": "hi",
+   "exposure": "core",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W16",
+   "side": "hi",
+   "exposure": "core",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W16",
+   "side": "hi",
+   "exposure": "core",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W16",
+   "side": "hi",
+   "exposure": "core",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W16",
+   "side": "hi",
+   "exposure": "core",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W16",
+   "side": "hi",
+   "exposure": "core",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W16",
+   "side": "hi",
+   "exposure": "core",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W17",
+   "side": "hi",
+   "exposure": "core",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W19",
+   "side": "hi",
+   "exposure": "exterior_indirect",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W19",
+   "side": "hi",
+   "exposure": "exterior_indirect",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W19",
+   "side": "hi",
+   "exposure": "exterior_indirect",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W19",
+   "side": "hi",
+   "exposure": "exterior_indirect",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W19",
+   "side": "hi",
+   "exposure": "exterior_indirect",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W19",
+   "side": "hi",
+   "exposure": "exterior_indirect",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W25",
+   "side": "hi",
+   "exposure": "exterior_indirect",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W25",
+   "side": "hi",
+   "exposure": "exterior_indirect",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W25",
+   "side": "hi",
+   "exposure": "exterior_indirect",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W25",
+   "side": "hi",
+   "exposure": "exterior_indirect",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W25",
+   "side": "hi",
+   "exposure": "exterior_indirect",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W25",
+   "side": "hi",
+   "exposure": "exterior_indirect",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W25",
+   "side": "hi",
+   "exposure": "exterior_indirect",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W25",
+   "side": "hi",
+   "exposure": "exterior_indirect",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W25",
+   "side": "hi",
+   "exposure": "exterior_indirect",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W25",
+   "side": "hi",
+   "exposure": "exterior_indirect",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W25",
+   "side": "hi",
+   "exposure": "exterior_indirect",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W25",
+   "side": "hi",
+   "exposure": "exterior_indirect",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W25",
+   "side": "hi",
+   "exposure": "exterior_indirect",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W25",
+   "side": "hi",
+   "exposure": "exterior_indirect",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W25",
+   "side": "hi",
+   "exposure": "exterior_indirect",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W25",
+   "side": "hi",
+   "exposure": "exterior_indirect",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W25",
+   "side": "hi",
+   "exposure": "exterior_indirect",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W25",
+   "side": "hi",
+   "exposure": "exterior_indirect",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W25",
+   "side": "hi",
+   "exposure": "exterior_indirect",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W25",
+   "side": "hi",
+   "exposure": "exterior_indirect",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W25",
+   "side": "hi",
+   "exposure": "exterior_indirect",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W25",
+   "side": "hi",
+   "exposure": "exterior_indirect",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W25",
+   "side": "hi",
+   "exposure": "exterior_indirect",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W25",
+   "side": "hi",
+   "exposure": "exterior_indirect",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W25",
+   "side": "hi",
+   "exposure": "exterior_indirect",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W25",
+   "side": "hi",
+   "exposure": "exterior_indirect",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W27",
+   "side": "lo",
+   "exposure": "exterior_indirect",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W27",
+   "side": "lo",
+   "exposure": "core",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W29",
+   "side": "lo",
+   "exposure": "exterior_indirect",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W29",
+   "side": "lo",
+   "exposure": "exterior_indirect",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W29",
+   "side": "lo",
+   "exposure": "exterior_indirect",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W29",
+   "side": "lo",
+   "exposure": "exterior_indirect",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W29",
+   "side": "lo",
+   "exposure": "exterior_indirect",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W29",
+   "side": "lo",
+   "exposure": "exterior_indirect",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W29",
+   "side": "lo",
+   "exposure": "exterior_indirect",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W29",
+   "side": "lo",
+   "exposure": "exterior_indirect",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W29",
+   "side": "lo",
+   "exposure": "exterior_indirect",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W32",
+   "side": "lo",
+   "exposure": "exterior_indirect",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W32",
+   "side": "lo",
+   "exposure": "exterior_indirect",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W32",
+   "side": "lo",
+   "exposure": "exterior_indirect",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W32",
+   "side": "lo",
+   "exposure": "exterior_indirect",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W32",
+   "side": "lo",
+   "exposure": "exterior_indirect",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W32",
+   "side": "lo",
+   "exposure": "exterior_indirect",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W35",
+   "side": "lo",
+   "exposure": "exterior_indirect",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W35",
+   "side": "lo",
+   "exposure": "exterior_indirect",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W35",
+   "side": "lo",
+   "exposure": "exterior_indirect",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W35",
+   "side": "lo",
+   "exposure": "exterior_indirect",
+   "thickness_mm": 110
+  },
+  {
+   "wall": "W35",
+   "side": "lo",
+   "exposure": "exterior_indirect",
+   "thickness_mm": 110
+  }
+ ],
+ "finish": [
+  {
+   "space": "S1",
+   "name": "침실2",
+   "loops": [
+    [
+     [
+      3245.0,
+      1625.0
+     ],
+     [
+      5965.0,
+      1625.0
+     ],
+     [
+      5965.0,
+      3915.0
+     ],
+     [
+      3245.0,
+      3915.0
+     ]
+    ]
+   ]
+  },
+  {
+   "space": "S2",
+   "name": "침실3",
+   "loops": [
+    [
+     [
+      125.0,
+      1625.0
+     ],
+     [
+      3145.0,
+      1625.0
+     ],
+     [
+      3145.0,
+      3915.0
+     ],
+     [
+      125.0,
+      3915.0
+     ]
+    ]
+   ]
+  },
+  {
+   "space": "S3",
+   "name": "거실",
+   "loops": [
+    [
+     [
+      1845.0,
+      4115.0
+     ],
+     [
+      1955.0,
+      4115.0
+     ],
+     [
+      1955.0,
+      4015.0
+     ],
+     [
+      6165.0,
+      4015.0
+     ],
+     [
+      6165.0,
+      1625.0
+     ],
+     [
+      10575.0,
+      1625.0
+     ],
+     [
+      10575.0,
+      1800.0
+     ],
+     [
+      10685.0,
+      1800.0
+     ],
+     [
+      10685.0,
+      5285
+     ],
+     [
+      6815.0,
+      5285
+     ],
+     [
+      6815.0,
+      5235.0
+     ],
+     [
+      1845.0,
+      5235.0
+     ]
+    ]
+   ]
+  },
+  {
+   "space": "S4",
+   "name": "주방/식당",
+   "loops": [
+    [
+     [
+      6690,
+      10900.0
+     ],
+     [
+      6785.0,
+      10900.0
+     ],
+     [
+      6785.0,
+      7375.0
+     ],
+     [
+      6925.0,
+      7375.0
+     ],
+     [
+      6925.0,
+      6947.0
+     ],
+     [
+      6815.0,
+      6947.0
+     ],
+     [
+      6815.0,
+      5285
+     ],
+     [
+      10685.0,
+      5285
+     ],
+     [
+      10685.0,
+      7160.977777777777
+     ],
+     [
+      10575.0,
+      7160.977777777777
+     ],
+     [
+      10575.0,
+      7550.0
+     ],
+     [
+      10065.0,
+      7550.0
+     ],
+     [
+      10065.0,
+      7660.0
+     ],
+     [
+      9955.0,
+      7660.0
+     ],
+     [
+      9955.0,
+      8760.0
+     ],
+     [
+      10065.0,
+      8760.0
+     ],
+     [
+      10065.0,
+      8870.0
+     ],
+     [
+      10755.0,
+      8870.0
+     ],
+     [
+      10755.0,
+      10853.75
+     ],
+     [
+      10865.0,
+      10853.75
+     ],
+     [
+      10865.0,
+      10945
+     ],
+     [
+      10678.571428571428,
+      10945
+     ],
+     [
+      10678.571428571428,
+      10890.0
+     ],
+     [
+      6850.357142857143,
+      10890.0
+     ],
+     [
+      6850.357142857143,
+      10945
+     ],
+     [
+      6690,
+      10945
+     ]
+    ]
+   ]
+  },
+  {
+   "space": "S5",
+   "name": "욕실2",
+   "loops": [
+    [
+     [
+      10885.0,
+      5590.0
+     ],
+     [
+      12655.0,
+      5590.0
+     ],
+     [
+      12655.0,
+      7942.5
+     ],
+     [
+      12765.0,
+      7942.5
+     ],
+     [
+      12765.0,
+      7970.0
+     ],
+     [
+      11395.0,
+      7970.0
+     ],
+     [
+      11395.0,
+      7070.0
+     ],
+     [
+      10885.0,
+      7070.0
+     ]
+    ]
+   ]
+  },
+  {
+   "space": "S6",
+   "name": "침실1",
+   "loops": [
+    [
+     [
+      10885.0,
+      1800.0
+     ],
+     [
+      12925.0,
+      1800.0
+     ],
+     [
+      12925.0,
+      1980.0
+     ],
+     [
+      13045.0,
+      1980.0
+     ],
+     [
+      13045.0,
+      1800.0
+     ],
+     [
+      13275.0,
+      1800.0
+     ],
+     [
+      13275.0,
+      5441.428571428572
+     ],
+     [
+      13385.0,
+      5441.428571428572
+     ],
+     [
+      13385.0,
+      5490.0
+     ],
+     [
+      10885.0,
+      5490.0
+     ]
+    ]
+   ]
+  },
+  {
+   "space": "S7",
+   "name": "현관",
+   "loops": [
+    [
+     [
+      2225.0,
+      5335.0
+     ],
+     [
+      4645.0,
+      5335.0
+     ],
+     [
+      4645.0,
+      6915.0
+     ],
+     [
+      2225.0,
+      6915.0
+     ]
+    ]
+   ]
+  },
+  {
+   "space": "S8",
+   "name": "욕실1",
+   "loops": [
+    [
+     [
+      125.0,
+      4115.0
+     ],
+     [
+      1745.0,
+      4115.0
+     ],
+     [
+      1745.0,
+      6405.0
+     ],
+     [
+      125.0,
+      6405.0
+     ]
+    ]
+   ]
+  },
+  {
+   "space": "S9",
+   "name": "발코니1",
+   "loops": [
+    [
+     [
+      125.0,
+      200.0
+     ],
+     [
+      12925.0,
+      200.0
+     ],
+     [
+      12925.0,
+      1490.0
+     ],
+     [
+      12910.0,
+      1490.0
+     ],
+     [
+      12910.0,
+      1500
+     ],
+     [
+      10995.0,
+      1500
+     ],
+     [
+      10995.0,
+      1325.0
+     ],
+     [
+      125.0,
+      1325.0
+     ]
+    ]
+   ]
+  },
+  {
+   "space": "S10",
+   "name": "하향식피난구",
+   "loops": [
+    [
+     [
+      13045.0,
+      200.0
+     ],
+     [
+      13385.0,
+      200.0
+     ],
+     [
+      13385.0,
+      1490.0
+     ],
+     [
+      13045.0,
+      1490.0
+     ]
+    ],
+    [
+     [
+      13575.0,
+      200.0
+     ],
+     [
+      14700.0,
+      200.0
+     ],
+     [
+      14700.0,
+      1490.0
+     ],
+     [
+      13575.0,
+      1490.0
+     ]
+    ]
+   ]
+  },
+  {
+   "space": "S11",
+   "name": "발코니2",
+   "loops": [
+    [
+     [
+      12955.0,
+      5590.0
+     ],
+     [
+      13385.0,
+      5590.0
+     ],
+     [
+      13385.0,
+      5860.0
+     ],
+     [
+      13575.0,
+      5860.0
+     ],
+     [
+      13575.0,
+      1690.0
+     ],
+     [
+      14700.0,
+      1690.0
+     ],
+     [
+      14700.0,
+      8560.0
+     ],
+     [
+      12955.0,
+      8560.0
+     ]
+    ]
+   ]
+  },
+  {
+   "space": "S12",
+   "name": "발코니3",
+   "loops": [
+    [
+     [
+      11055.0,
+      8760.0
+     ],
+     [
+      12180.0,
+      8760.0
+     ],
+     [
+      12180.0,
+      10945
+     ],
+     [
+      11055.0,
+      10945
+     ]
+    ]
+   ]
+  },
+  {
+   "space": "S14",
+   "name": "팬트리",
+   "loops": [
+    [
+     [
+      4745.0,
+      5335.0
+     ],
+     [
+      6615.0,
+      5335.0
+     ],
+     [
+      6615.0,
+      6775.0
+     ],
+     [
+      6425.0,
+      6775.0
+     ],
+     [
+      6425.0,
+      6915.0
+     ],
+     [
+      4745.0,
+      6915.0
+     ]
+    ]
+   ]
+  }
+ ],
+ "dimensions": [
+  {
+   "chain": "mc_overall",
+   "side": "S",
+   "a": 0,
+   "b": 14900
+  },
+  {
+   "chain": "mc_segment",
+   "side": "S",
+   "a": 0,
+   "b": 12985
+  },
+  {
+   "chain": "mc_segment",
+   "side": "S",
+   "a": 12985,
+   "b": 13400
+  },
+  {
+   "chain": "mc_segment",
+   "side": "S",
+   "a": 13400,
+   "b": 14900
+  },
+  {
+   "chain": "mc_overall",
+   "side": "E",
+   "a": 0,
+   "b": 8660
+  },
+  {
+   "chain": "mc_segment",
+   "side": "E",
+   "a": 0,
+   "b": 1680
+  },
+  {
+   "chain": "mc_segment",
+   "side": "E",
+   "a": 1680,
+   "b": 8660
+  },
+  {
+   "space": "침실2",
+   "dir": "h",
+   "a": [
+    3245.0,
+    2571.0
+   ],
+   "b": [
+    5965.0,
+    2571.0
+   ]
+  },
+  {
+   "space": "침실2",
+   "dir": "v",
+   "a": [
+    5000.0,
+    1625.0
+   ],
+   "b": [
+    5000.0,
+    3915.0
+   ]
+  },
+  {
+   "space": "침실3",
+   "dir": "h",
+   "a": [
+    125.0,
+    2571.0
+   ],
+   "b": [
+    3145.0,
+    2571.0
+   ]
+  },
+  {
+   "space": "침실3",
+   "dir": "v",
+   "a": [
+    2158.0,
+    1625.0
+   ],
+   "b": [
+    2158.0,
+    3915.0
+   ]
+  },
+  {
+   "space": "거실",
+   "dir": "h",
+   "a": [
+    6165.0,
+    2569.0
+   ],
+   "b": [
+    10685.0,
+    2569.0
+   ]
+  },
+  {
+   "space": "거실",
+   "dir": "v",
+   "a": [
+    8862.0,
+    1625.0
+   ],
+   "b": [
+    8862.0,
+    5285
+   ]
+  },
+  {
+   "space": "주방/식당",
+   "dir": "h",
+   "a": [
+    6785.0,
+    9384.0
+   ],
+   "b": [
+    10755.0,
+    9384.0
+   ]
+  },
+  {
+   "space": "주방/식당",
+   "dir": "v",
+   "a": [
+    9534.0,
+    5285
+   ],
+   "b": [
+    9534.0,
+    10890.0
+   ]
+  },
+  {
+   "space": "침실1",
+   "dir": "h",
+   "a": [
+    10885.0,
+    3339.0
+   ],
+   "b": [
+    13275.0,
+    3339.0
+   ]
+  },
+  {
+   "space": "침실1",
+   "dir": "v",
+   "a": [
+    12906.0,
+    1800.0
+   ],
+   "b": [
+    12906.0,
+    5490.0
+   ]
+  }
+ ],
+ "annotations": [
+  {
+   "text": "침실2",
+   "at": [
+    4250.0,
+    2871.0
+   ]
+  },
+  {
+   "text": "침실3",
+   "at": [
+    1408.0,
+    2871.0
+   ]
+  },
+  {
+   "text": "거실",
+   "at": [
+    8112.0,
+    2869.0
+   ]
+  },
+  {
+   "text": "주방/식당",
+   "at": [
+    8784.0,
+    9684.0
+   ]
+  },
+  {
+   "text": "욕실2",
+   "at": [
+    11752.0,
+    6543.0
+   ]
+  },
+  {
+   "text": "침실1",
+   "at": [
+    12156.0,
+    3639.0
+   ]
+  },
+  {
+   "text": "현관",
+   "at": [
+    3061.0,
+    6176.0
+   ]
+  },
+  {
+   "text": "욕실1",
+   "at": [
+    803.0,
+    5134.0
+   ]
+  },
+  {
+   "text": "발코니1",
+   "at": [
+    6319.0,
+    900.0
+   ]
+  },
+  {
+   "text": "하향식피난구",
+   "at": [
+    13280.0,
+    896.0
+   ]
+  },
+  {
+   "text": "발코니2",
+   "at": [
+    13812.0,
+    4714.0
+   ]
+  },
+  {
+   "text": "발코니3",
+   "at": [
+    11394.0,
+    10200.0
+   ]
+  },
+  {
+   "text": "ELEV. 홀",
+   "at": [
+    859.0,
+    8055.0
+   ]
+  },
+  {
+   "text": "팬트리",
+   "at": [
+    5436.0,
+    6083.0
+   ]
+  }
+ ],
+ "ubr_lib": {
+  "UBR 공용욕실 1500x2200|A$C84b07bde": {
+   "body": "UBR 공용욕실 1500x2200",
+   "panel": "A$C84b07bde",
+   "panel_layer": "AA-XXXX-UBR",
+   "panel_rel": [
+    0,
+    -1,
+    [
+     1500.0,
+     0.0
+    ]
+   ],
+   "outline": [
+    [
+     -27.0,
+     -27.0
+    ],
+    [
+     1527.0,
+     -27.0
+    ],
+    [
+     1527.0,
+     2227.0
+    ],
+    [
+     -27.0,
+     2227.0
+    ],
+    [
+     -27.0,
+     750.0
+    ]
+   ],
+   "install_outline": [
+    [
+     -35.0,
+     2235.0
+    ],
+    [
+     1535.0,
+     2235.0
+    ],
+    [
+     1535.0,
+     -35.0
+    ],
+    [
+     -35.0,
+     -35.0
+    ]
+   ],
+   "door_gap": [
+    [
+     -27.0,
+     -27.0
+    ],
+    [
+     -27.0,
+     750.0
+    ]
+   ],
+   "ref": {
+    "rot": 0,
+    "xs": -1
+   }
+  },
+  "UBR 부부욕실 1600x2300|A$C91691f5a": {
+   "body": "UBR 부부욕실 1600x2300",
+   "panel": "A$C91691f5a",
+   "panel_layer": "AA-XXXX-UBR",
+   "panel_rel": [
+    0,
+    -1,
+    [
+     587.5,
+     -2347.5
+    ]
+   ],
+   "outline": [
+    [
+     -1127.0,
+     -2327.0
+    ],
+    [
+     -1127.0,
+     27.0
+    ],
+    [
+     27.0,
+     27.0
+    ],
+    [
+     27.0,
+     -873.0
+    ],
+    [
+     527.0,
+     -873.0
+    ],
+    [
+     527.0,
+     -2327.0
+    ],
+    [
+     -320.0,
+     -2327.0
+    ]
+   ],
+   "install_outline": [
+    [
+     -1070.0,
+     -2335.0
+    ],
+    [
+     -1135.0,
+     -2335.0
+    ],
+    [
+     -1135.0,
+     35.0
+    ],
+    [
+     35.0,
+     35.0
+    ],
+    [
+     35.0,
+     -865.0
+    ],
+    [
+     535.0,
+     -865.0
+    ],
+    [
+     535.0,
+     -2335.0
+    ],
+    [
+     -320.0,
+     -2335.0
+    ]
+   ],
+   "door_gap": [
+    [
+     -1127.0,
+     -2327.0
+    ],
+    [
+     -320.0,
+     -2327.0
+    ]
+   ],
+   "ref": {
+    "rot": 0,
+    "xs": -1
+   }
+  }
+ },
+ "issues": {
+  "walls": [],
+  "doors": [],
+  "windows": [],
+  "bathroom": [
+   "욕실1: 실제 패널은 들어가지만 설치 여유선(패널+35)이 안목을 최대 11mm 넘음 — 시공 여유 확인",
+   "욕실2: 실제 패널은 들어가지만 설치 여유선(패널+35)이 안목을 최대 8mm 넘음 — 시공 여유 확인"
+  ],
+  "kitchen": [
+   "냉장고: 프로파일상 조리대 밖 — 자리 미작도(위치 미정)"
+  ]
+ }
+}

@@ -1,0 +1,709 @@
+MS			2476
+L	0	c=7 lt=Continuous lw=-3	0
+L	AA-XXXX-DIMS	c=7 lt=Continuous lw=-3	0
+L	AA-XXXX-SYMB	c=7 lt=Continuous lw=-3	0
+L	defpoints	c=139 lt=Continuous lw=-3	0
+L	AA-XXXX-TEXT	c=3 lt=Continuous lw=-3	0
+L	00-FORM TEX	c=3 lt=Continuous lw=-3	0
+L	DIM	c=7 lt=AUDIT_D_220706163347-0 lw=-3	0
+L	ROM	c=7 lt=AUDIT_D_220706163347-0 lw=-3	0
+L	실명	c=3 lt=AUDIT_D_220706163347-0 lw=-3	0
+L	실명박스	c=7 lt=AUDIT_D_220706163347-0 lw=-3	0
+L	AA-XXXX-MC	c=153 lt=AUDIT_D_220706163347-0 lw=-3	0
+L	A-창호부호	c=4 lt=Continuous lw=-3	0
+L	Defpoint	c=135 lt=Continuous lw=-3	0
+L	CEN_CON	c=1 lt=CEN lw=-3	0
+L	ELE4	c=4 lt=Continuous lw=-3	0
+L	ETC	c=7 lt=Continuous lw=-3	0
+L	Def-PrintX	c=147 lt=Continuous lw=-3	0
+L	FUR	c=4 lt=Continuous lw=-3	0
+L	MC	c=135 lt=Continuous lw=-3	0
+L	CONC	c=2 lt=Continuous lw=-3	0
+L	CEN_WALL	c=12 lt=CEN lw=-3	0
+L	WAL	c=3 lt=Continuous lw=-3	0
+L	WIN	c=4 lt=Continuous lw=-3	0
+L	DOOR	c=4 lt=Continuous lw=-3	0
+L	FIN	c=6 lt=Continuous lw=-3	0
+L	FUR_가구	c=8 lt=HD lw=-3	0
+L	FUR_가전	c=8 lt=HID lw=-3	0
+L	INS	c=8 lt=Continuous lw=-3	0
+L	바닥타일	c=8 lt=Continuous lw=-3	0
+L	수전	c=4 lt=Continuous lw=-3	0
+L	ELE3_CON	c=7 lt=Continuous lw=-3	0
+L	WAL_DRY	c=7 lt=Continuous lw=-3	0
+L	X - 단위세대$0$0_임시	c=134 lt=Continuous lw=-3	0
+L	X - 단위세대$0$ETC	c=6 lt=Continuous lw=-3	0
+L	A-ELE8	c=8 lt=Continuous lw=-3	0
+L	AA-XXXX-UBR	c=4 lt=Continuous lw=-3	0
+L	확장	c=8 lt=HIDDEN lw=-3	0
+L	dan1	c=7 lt=HID lw=-3	0
+L	커튼박스	c=6 lt=Continuous lw=-3	0
+L	A_HAT	c=8 lt=Continuous lw=-3	0
+L	A-SOL252	c=252 lt=Continuous lw=-3	0
+L	점형블럭	c=252 lt=Continuous lw=-3	0
+L	WID	c=4 lt=Continuous lw=-3	0
+L	ELEV-ER	c=4 lt=Continuous lw=-3	0
+L	A-STEEL	c=4 lt=Continuous lw=-3	0
+L	HAT	c=5 lt=Continuous lw=-3	0
+L	A-레벨	c=7 lt=AUDIT_D_220706163347-0 lw=-3	0
+L	INSUL	c=8 lt=Continuous lw=-3	0
+L	ARDM	c=7 lt=Continuous lw=-3	0
+L	A-치수	c=7 lt=AUDIT_D_220706163347-0 lw=-3	0
+L	1006 수정	c=10 lt=Continuous lw=-3	0
+L	A-text	c=3 lt=Continuous lw=-3	0
+L	AA-BORD-FORM	c=7 lt=Continuous lw=-3	0
+L	AA-BORD-TEXT	c=3 lt=Continuous lw=-3	0
+L	1019 수정	c=30 lt=Continuous lw=-3	0
+L	논슬립	c=251 lt=Continuous lw=-3	0
+L	STAIR	c=4 lt=Continuous lw=-3	0
+L	U-76A(확장)$0$FUR_가구	c=8 lt=U-76A(확장)$0$HD lw=-3	0
+L	U-76B(확장)$0$FUR_가구	c=8 lt=U-76B(확장)$0$HD lw=-3	0
+L	U-84A(확장)$0$FUR_가구	c=8 lt=U-84A(확장)$0$HD lw=-3	0
+L	평면도(기준)$0$1.EC-F-DOOR	c=4 lt=Continuous lw=-3	0
+L	평면도(기준)$0$1.EC-F-DOOR-F	c=4 lt=Continuous lw=-3	0
+L	SINA-F-FRAME	c=4 lt=Continuous lw=-3	0
+L	84 A$0$0 TILE LINE & HATCH	c=8 lt=Continuous lw=-3	0
+L	SINA-F-DOOR	c=5 lt=Continuous lw=-3	0
+L	SINA-F-단표시	c=8 lt=Continuous lw=-3	0
+L	U-84B(확장)$0$FUR_가구	c=8 lt=U-84B(확장)$0$HD lw=-3	0
+L	가구	c=94 lt=Continuous lw=-3	0
+L	U-121B(확장)1$0$X-단위세대-76A(확장) - 테라스3$0$FUR_가구	c=8 lt=U-121B(확장)1$0$X-단위세대-76A(확장) - 테라스3$0$HD lw=-3	0
+L	U-121B(확장)1$0$커튼박스	c=6 lt=Continuous lw=-3	0
+L	U-131A(확장)2$0$FUR	c=4 lt=Continuous lw=-3	0
+L	U-131A(확장)2$0$FUR_가구	c=8 lt=U-131A(확장)2$0$HD lw=-3	0
+L	U-131B(확장)$0$MC	c=135 lt=Continuous lw=-3	0
+L	0418_인테리어체크사항	c=10 lt=Continuous lw=-3	0
+L	F-FUR-설치	c=6 lt=Continuous lw=-3	0
+L	FR-단열재	c=8 lt=Continuous lw=-3	0
+L	U-76A(기본)$0$FUR	c=4 lt=Continuous lw=-3	0
+L	AA-XXXX-TEXT#LEV	c=3 lt=Continuous lw=-3	0
+L	xr-101_102동-2F$0$DEFPOINT	c=231 lt=Continuous lw=-3	0
+L	xr-101_102동-2F$0$AA-DWXM-DOOR(PS점검구)	c=4 lt=xr-101_102동-2F$0$HID lw=-3	0
+L	sheet-안양진흥$0$AA-BORD-TEXT	c=3 lt=Continuous lw=-3	0
+DS		SCALE 50	0
+DS		SCALE 100	0
+DS		외부80-WIN	0
+DS		DIM_40	0
+DS		MCDIM_40	0
+DS		외부100-win	0
+DS		MCDIM-50	0
+DS		DIM-50	0
+DS		ISO-25	0
+DS		HAUD-100	0
+DS		DIM-D	0
+DS		CPDIM1	0
+DS		SINA-DIM 100 (S)	0
+DS		Standard	0
+DS		HAUD-외부	0
+T	ROM	PIT |h=150 |st=HAUD01	2
+B	0	U-76A(확장)2	1
+B	0	U-76A(확장)3	2
+E	Def-PrintX	Line	8
+LT	Def-PrintX	HID	8
+T	Defpoint	102_1층_코아3 |h=50 |st=HAUD01	4
+B	0	CO-102-MF	4
+E	AA-BORD-FORM	Hatch	1568
+H	AA-BORD-FORM	SOLID s=1 a=0	1568
+E	AA-BORD-FORM	Line	1440
+LT	AA-BORD-FORM	ByLayer	1632
+E	AA-BORD-TEXT	Text	1200
+T	AA-BORD-TEXT	H |h=2.5 |st=HAUD01	32
+T	AA-BORD-TEXT	F |h=2.5 |st=HAUD01	32
+T	AA-BORD-TEXT	E |h=2.5 |st=HAUD01	32
+T	AA-BORD-TEXT	C |h=2.5 |st=HAUD01	32
+T	AA-BORD-TEXT	D |h=2.5 |st=HAUD01	32
+T	AA-BORD-TEXT	B |h=2.5 |st=HAUD01	32
+T	AA-BORD-TEXT	1 |h=2.5 |st=HAUD01	32
+T	AA-BORD-TEXT	2 |h=2.5 |st=HAUD01	32
+T	AA-BORD-TEXT	3 |h=2.5 |st=HAUD01	32
+T	AA-BORD-TEXT	4 |h=2.5 |st=HAUD01	32
+T	AA-BORD-TEXT	5 |h=2.5 |st=HAUD01	32
+T	AA-BORD-TEXT	6 |h=2.5 |st=HAUD01	32
+T	AA-BORD-TEXT	9 |h=2.5 |st=HAUD01	32
+T	AA-BORD-TEXT	I |h=2.5 |st=HAUD01	32
+T	AA-BORD-TEXT	A |h=2.5 |st=HAUD01	16
+E	AA-BORD-FORM	Polyline	192
+T	AA-BORD-TEXT	10 |h=2.5 |st=HAUD01	32
+T	AA-BORD-TEXT	11 |h=2.5 |st=HAUD01	32
+T	AA-BORD-TEXT	12 |h=2.5 |st=HAUD01	32
+T	AA-BORD-TEXT	13 |h=2.5 |st=HAUD01	32
+T	AA-BORD-TEXT	14 |h=2.5 |st=HAUD01	32
+T	AA-BORD-TEXT	8 |h=2.5 |st=HAUD01	16
+T	AA-BORD-TEXT	7 |h=2.5 |st=HAUD01	16
+T	AA-BORD-TEXT	도면번호 DRAWING NO. |h=2 |st=HAUD01	16
+T	AA-BORD-TEXT	일련번호 SHEET NO. |h=2 |st=HAUD01	16
+T	AA-BORD-TEXT	도면명 DRAWING TITLE |h=2 |st=HAUD01	16
+T	AA-BORD-TEXT	축 척 SCALE |h=2 |st=HAUD01	16
+T	AA-BORD-TEXT	설계 DESIGNED BY |h=2 |st=HAUD01	16
+T	AA-BORD-TEXT	검토 CHECKED BY |h=2 |st=HAUD01	16
+T	AA-BORD-TEXT	심사 SUMMITED BY |h=2 |st=HAUD01	16
+T	AA-BORD-TEXT	승인 APPROVED BY |h=2 |st=HAUD01	16
+T	AA-BORD-TEXT	일자 DATE |h=2 |st=HAUD01	16
+T	AA-BORD-TEXT	수정번호 |h=2 |st=HAUD01	16
+T	AA-BORD-TEXT	REV. NO. |h=2 |st=HAUD01	32
+T	AA-BORD-TEXT	NOTE |h=2 |st=HAUD01	16
+T	AA-BORD-TEXT	일 자 |h=2 |st=HAUD01	16
+T	AA-BORD-TEXT	DATE |h=2 |st=HAUD01	16
+T	AA-BORD-TEXT	내    용 |h=2 |st=HAUD01	16
+T	AA-BORD-TEXT	DESCRIPTION |h=2 |st=HAUD01	16
+T	AA-BORD-TEXT	승 인 |h=2 |st=HAUD01	16
+T	AA-BORD-TEXT	CHKD |h=2 |st=HAUD01	16
+T	AA-BORD-TEXT	G |h=2.5 |st=HAUD01	32
+T	AA-BORD-TEXT	J |h=2.5 |st=HAUD01	32
+T	AA-BORD-TEXT	사업번호 PROJECT NO. |h=2 |st=HAUD01	16
+T	AA-BORD-TEXT	사업명 PROJECT TITLE |h=2 |st=HAUD01	16
+T	AA-BORD-TEXT	KEY PLAN |h=2 |st=HAUD01	16
+T	AA-BORD-TEXT	청주 월명근린공원 조성 |h=4 |st=HAUD01	16
+T	AA-BORD-TEXT	및 공동주택 신축공사 |h=4 |st=HAUD01	16
+T	AA-BORD-TEXT	이승준 |h=3 |st=HAUD01	16
+T	AA-BORD-TEXT	2023. 08. |h=3 |st=HAUD01	16
+T	AA-BORD-TEXT	1 |h=3 |st=HAUD01	16
+T	AA-BORD-TEXT	이진수 |h=3 |st=HAUD01	16
+E	AA-BORD-FORM	Text	128
+T	AA-BORD-FORM	Architecture & Engineering |h=1.71 |st=돋움	16
+T	AA-BORD-FORM	한 |h=5.31 |st=HAUD01	16
+T	AA-BORD-FORM	진 |h=5.31 |st=HAUD01	16
+T	AA-BORD-FORM	TEL : 02) 415-3785/6 |h=1.9 |st=돋움	16
+T	AA-BORD-FORM	서울시 송파구 법원로11길7 현대지식산업센터C 921호 |h=1.9 |st=돋움	16
+T	AA-BORD-FORM	FAX : 02) 415-3787 |h=1.9 |st=돋움	16
+T	AA-BORD-FORM	건 축 사 사 무 소 |h=3.79 |st=돋움	16
+T	AA-BORD-FORM	E-MAIL : jinhangood@empal.com |h=1.9 |st=돋움	16
+T	AA-BORD-TEXT	A1: |h=3 |st=HAUD01	16
+T	AA-BORD-TEXT	A3: |h=3 |st=HAUD01	16
+E	sheet-안양진흥$0$AA-BORD-TEXT	Text	128
+T	sheet-안양진흥$0$AA-BORD-TEXT	1 |h=3 |st=sheet-안양진흥$0$HAUD01	16
+T	sheet-안양진흥$0$AA-BORD-TEXT	2023. |h=2.5 |st=sheet-안양진흥$0$HAUD01	32
+T	sheet-안양진흥$0$AA-BORD-TEXT	1차 검수용 도서 |h=3 |st=sheet-안양진흥$0$HAUD01	32
+T	sheet-안양진흥$0$AA-BORD-TEXT	08. |h=2.5 |st=sheet-안양진흥$0$HAUD01	16
+T	sheet-안양진흥$0$AA-BORD-TEXT	2 |h=3 |st=sheet-안양진흥$0$HAUD01	16
+T	sheet-안양진흥$0$AA-BORD-TEXT	10. |h=2.5 |st=sheet-안양진흥$0$HAUD01	16
+B	0	XR-FORM 청주월명	16
+T	A-text	화물용 겸용 18인승) |h=120 |st=맑은 고딕	2
+T	A-text	(장애인용, 비상용 및 |h=120 |st=맑은 고딕	2
+T	A-text	ELEV. |h=120 |st=맑은 고딕	2
+E	A-text	Text	6
+B	0	U-84A(기본)	3
+E	DIM	RotatedDimension	1652
+D	DIM	MCDIM_40 RotatedDimension	370
+D	DIM	DIM_40 RotatedDimension	266
+E	DIM	Polyline	424
+LT	DIM	ByLayer	1260
+B	A-치수	중심	418
+E	DIM	Circle	418
+E	DIM	Line	418
+D	DIM	MCDIM-50 RotatedDimension	566
+D	DIM	외부100-win RotatedDimension	102
+D	DIM	DIM-50 RotatedDimension	286
+D	DIM	외부80-WIN RotatedDimension	62
+B	0	DIM-1108	2
+E	A-레벨	Hatch	271
+H	A-레벨	SOLID s=1 a=0	271
+E	A-레벨	Line	542
+LT	A-레벨	ByLayer	813
+E	A-레벨	Circle	271
+E	A-레벨	Text	542
+T	A-레벨	FL +120 |h=100 |st=HAUD01	55
+T	A-레벨	SL %%P0 |h=100 |st=HAUD01	96
+T	A-레벨	FL +100 |h=100 |st=HAUD01	16
+T	A-레벨	SL -30 |h=100 |st=HAUD01	16
+T	A-레벨	FL +60 |h=100 |st=HAUD01	8
+T	A-레벨	FL +70 |h=100 |st=HAUD01	25
+T	A-레벨	FL +50 |h=100 |st=HAUD01	8
+T	A-레벨	FL +70 |h=125 |st=HAUD01	35
+T	A-레벨	SL %%P0 |h=125 |st=HAUD01	142
+T	A-레벨	FL +120 |h=125 |st=HAUD01	91
+T	A-레벨	FL +50 |h=125 |st=HAUD01	8
+T	A-레벨	FL +60 |h=125 |st=HAUD01	6
+T	A-레벨	FL +100 |h=125 |st=HAUD01	19
+T	A-레벨	SL -30 |h=125 |st=HAUD01	17
+B	A-창호부호	A$Cb33ca4a3	1
+T	AA-XXXX-TEXT	1.단열기준은 형별성능내역 우선할 것. |h=100 |st=HAUD01	16
+T	AA-XXXX-TEXT	2.인테리어 사항은 견본주택의 마감기준을  |h=100 |st=HAUD01	16
+T	AA-XXXX-TEXT	   우선할 것. |h=100 |st=HAUD01	16
+T	AA-XXXX-TEXT	3.실내재료마감표와 도면이 상이할 경우 |h=100 |st=HAUD01	16
+T	AA-XXXX-TEXT	   실내재료마감표 우선할 것. |h=100 |st=HAUD01	16
+T	AA-XXXX-TEXT	4.세대내 창호의 개폐방향은 실시공시 |h=100 |st=HAUD01	16
+T	AA-XXXX-TEXT	   변경될 수 있음. |h=100 |st=HAUD01	16
+T	AA-XXXX-TEXT	5.수전 및 선홈통의 개소와 위치는 |h=100 |st=HAUD01	16
+T	AA-XXXX-TEXT	   실시공시 변경될 수 있음. |h=100 |st=HAUD01	16
+T	AA-XXXX-TEXT	6.타일크기 및 나누기는 실시공시 변경될 |h=100 |st=HAUD01	16
+T	AA-XXXX-TEXT	   수 있음. |h=100 |st=HAUD01	32
+T	AA-XXXX-TEXT	7.하향식 피난구는 홀수층 좌측, 짝수층 |h=100 |st=HAUD01	16
+T	AA-XXXX-TEXT	   우측 교대로 설치되며, 실시공시 변경될 |h=100 |st=HAUD01	16
+T	AA-XXXX-TEXT	8.지상1층~3층의 하향식 피난구는 하부층  |h=100 |st=HAUD01	16
+T	AA-XXXX-TEXT	   피로티,부대시설 등으로   인해 미설치 |h=100 |st=HAUD01	16
+T	AA-XXXX-TEXT	   될 수 있으며, 실시공시 변경될 수 있음.  |h=100 |st=HAUD01	16
+B	0	note	16
+T	AA-XXXX-TEXT	P134㎡B형 단위세대 평면도(확장형) |h=350 |st=HAUD01	1
+T	AA-XXXX-TEXT	P134㎡B형 단위세대 평면도(기본형) |h=350 |st=HAUD01	1
+T	AA-XXXX-TEXT	P134㎡A형 단위세대 평면도(확장형) |h=350 |st=HAUD01	1
+T	AA-XXXX-TEXT	P134㎡A형 단위세대 평면도(기본형) |h=350 |st=HAUD01	1
+T	AA-XXXX-TEXT	P122㎡A형 단위세대 평면도(확장형) |h=350 |st=HAUD01	1
+T	AA-XXXX-TEXT	P122㎡A형 단위세대 평면도(기본형) |h=350 |st=HAUD01	1
+T	AA-XXXX-TEXT	P122㎡B형 단위세대 평면도(확장형) |h=350 |st=HAUD01	1
+T	AA-XXXX-TEXT	P122㎡B형 단위세대 평면도(기본형) |h=350 |st=HAUD01	1
+T	AA-XXXX-TEXT	1 |h=250 |st=HAUD01	8
+T	AA-XXXX-TEXT	축척 : 1/100 |h=150 |st=HAUD01	8
+T	AA-XXXX-TEXT	84㎡B형 단위세대 평면도(확장형) |h=280 |st=HAUD01	1
+T	AA-XXXX-TEXT	84㎡B형 단위세대 평면도(기본형) |h=280 |st=HAUD01	1
+T	AA-XXXX-TEXT	84㎡A형 단위세대 평면도(확장형) |h=280 |st=HAUD01	1
+T	AA-XXXX-TEXT	84㎡A형 단위세대 평면도(기본형) |h=280 |st=HAUD01	1
+T	AA-XXXX-TEXT	76㎡B형 단위세대 평면도(확장형) |h=280 |st=HAUD01	1
+T	AA-XXXX-TEXT	76㎡B형 단위세대 평면도(기본형) |h=280 |st=HAUD01	1
+T	AA-XXXX-TEXT	76㎡A형 단위세대 평면도(확장형) |h=280 |st=HAUD01	1
+T	AA-XXXX-TEXT	76㎡A형 단위세대 평면도(기본형) |h=280 |st=HAUD01	1
+T	AA-XXXX-TEXT	1 |h=200 |st=HAUD01	8
+E	AA-XXXX-TEXT	Text	304
+E	AA-XXXX-SYMB	Line	16
+LT	AA-XXXX-SYMB	ByLayer	32
+E	AA-XXXX-SYMB	Circle	16
+T	AA-XXXX-TEXT	축척 : 1/80 |h=120 |st=HAUD01	8
+E	AA-XXXX-TEXT	MText	16
+T	00-FORM TEX	A1-116 |h=150 |st=HAUD01	1
+T	00-FORM TEX	A1-115 |h=150 |st=HAUD01	1
+T	00-FORM TEX	P134㎡B형 단위세대평면도 |h=200 |st=HAUD01	2
+T	00-FORM TEX	A1-114 |h=150 |st=HAUD01	1
+T	00-FORM TEX	A1-113 |h=150 |st=HAUD01	1
+T	00-FORM TEX	P134㎡A형 단위세대평면도 |h=200 |st=HAUD01	2
+T	00-FORM TEX	A1-110 |h=150 |st=HAUD01	1
+T	00-FORM TEX	A1-109 |h=150 |st=HAUD01	1
+T	00-FORM TEX	P122㎡A형 단위세대평면도 |h=200 |st=HAUD01	2
+T	00-FORM TEX	(확장형) |h=200 |st=HAUD01	4
+T	00-FORM TEX	A1-112 |h=150 |st=HAUD01	1
+T	00-FORM TEX	P122㎡형B 단위세대평면도 |h=200 |st=HAUD01	1
+T	00-FORM TEX	(기본형) |h=200 |st=HAUD01	4
+T	00-FORM TEX	A1-111 |h=150 |st=HAUD01	1
+T	00-FORM TEX	P122㎡B형 단위세대평면도 |h=200 |st=HAUD01	1
+T	00-FORM TEX	1/100 |h=150 |st=HAUD01	8
+T	00-FORM TEX	1/50 |h=150 |st=HAUD01	8
+T	00-FORM TEX	A1-108 |h=120 |st=HAUD01	1
+T	00-FORM TEX	A1-107 |h=120 |st=HAUD01	1
+T	00-FORM TEX	84㎡B형 단위세대평면도 |h=160 |st=HAUD01	2
+T	00-FORM TEX	A1-106 |h=120 |st=HAUD01	1
+T	00-FORM TEX	A1-105 |h=120 |st=HAUD01	1
+T	00-FORM TEX	84㎡A형 단위세대평면도 |h=160 |st=HAUD01	2
+T	00-FORM TEX	A1-104 |h=120 |st=HAUD01	1
+T	00-FORM TEX	A1-103 |h=120 |st=HAUD01	1
+T	00-FORM TEX	76㎡B형 단위세대평면도 |h=160 |st=HAUD01	2
+T	00-FORM TEX	(확장형) |h=160 |st=HAUD01	4
+T	00-FORM TEX	A1-102 |h=120 |st=HAUD01	1
+T	00-FORM TEX	(기본형) |h=160 |st=HAUD01	4
+T	00-FORM TEX	A1-101 |h=120 |st=HAUD01	1
+T	00-FORM TEX	76㎡A형 단위세대평면도 |h=160 |st=HAUD01	2
+T	00-FORM TEX	1/80 |h=120 |st=HAUD01	8
+T	00-FORM TEX	1/40 |h=120 |st=HAUD01	8
+E	00-FORM TEX	Text	80
+T	실명	발코니3 |h=120 |st=HAUD01	1
+H	바닥타일	_USER s=300 a=90	6
+E	INS	Hatch	2
+H	INS	DASH s=10 a=90	2
+H	A_HAT	ANSI31 s=10 a=90	4
+B	0	U-121B(기본)1	2
+B	0	U-131B(기본)	1
+E	CONC	Polyline	2
+B	0	U-131A(기본)	2
+E	FUR_가전	Arc	8
+B	0	U-121A(기본)	2
+T	A-창호부호	1.27X2.49 |h=162.5 |st=HAUD01	1
+T	A-창호부호	3.57X2.49 |h=162.5 |st=HAUD01	3
+T	A-창호부호	WW |h=162.5 |st=HAUD01	1
+T	A-창호부호	1.47X2.2 |h=162.5 |st=HAUD01	1
+T	A-창호부호	0.97X2.49 |h=162.5 |st=HAUD01	5
+T	A-창호부호	1.17X2.49 |h=162.5 |st=HAUD01	1
+T	A-창호부호	1.77X2.49 |h=162.5 |st=HAUD01	15
+T	A-창호부호	3.27X2.49 |h=162.5 |st=HAUD01	4
+T	ROM	AV |h=150 |st=HAUD01	2
+T	실명	발코니4 |h=150 |st=HAUD01	5
+T	실명	발코니5 |h=150 |st=HAUD01	4
+T	ROM	AV/PS |h=150 |st=HAUD01	6
+T	ROM	EPS/TPS |h=150 |st=HAUD01	8
+T	A-창호부호	2.07X1.54 |h=162.5 |st=HAUD01	1
+T	A-창호부호	3.57X2.04 |h=162.5 |st=HAUD01	4
+T	A-창호부호	1.47X2.49 |h=162.5 |st=HAUD01	11
+T	A-창호부호	1.77X2.04 |h=162.5 |st=HAUD01	9
+T	A-창호부호	1.1X2.2 |h=162.5 |st=HAUD01	8
+T	A-창호부호	0.97X1.14 |h=162.5 |st=HAUD01	5
+T	A-창호부호	0.87X1.14 |h=162.5 |st=HAUD01	6
+T	A-창호부호	1.17X0.5 |h=162.5 |st=HAUD01	6
+T	A-창호부호	ABSD |h=162.5 |st=HAUD01	16
+T	A-창호부호	PD |h=162.5 |st=HAUD01	62
+T	A-창호부호	FSD |h=162.5 |st=HAUD01	16
+T	A-창호부호	0.75X2.1 |h=162.5 |st=HAUD01	24
+T	A-창호부호	AG |h=162.5 |st=HAUD01	8
+T	A-창호부호	1.0X2.21 |h=162.5 |st=HAUD01	8
+T	A-창호부호	1.47X2.04 |h=162.5 |st=HAUD01	6
+T	A-창호부호	1.77X1.54 |h=162.5 |st=HAUD01	12
+T	A-창호부호	PW |h=162.5 |st=HAUD01	44
+T	A-창호부호	3.27X2.04 |h=162.5 |st=HAUD01	4
+T	A-창호부호	WD |h=162.5 |st=HAUD01	32
+T	A-창호부호	0.9X2.2 |h=162.5 |st=HAUD01	32
+T	A-창호부호	AD |h=162.5 |st=HAUD01	6
+T	A-창호부호	0.9X2.1 |h=162.5 |st=HAUD01	19
+T	ROM	PS |h=150 |st=HAUD01	74
+T	실명	발코니3 |h=150 |st=HAUD01	6
+T	실명	알파룸 |h=150 |st=HAUD01	2
+T	ROM	화물용 겸용 18인승) |h=120 |st=HAUD01	8
+T	ROM	(장애인용, 비상용 및 |h=120 |st=HAUD01	8
+T	ROM	ELEV. |h=120 |st=HAUD01	8
+T	ROM	UP |h=150 |st=HAUD01	8
+T	ROM	DN |h=150 |st=HAUD01	8
+T	실명	욕실2 |h=150 |st=HAUD01	8
+T	실명	발코니2 |h=150 |st=HAUD01	5
+T	실명	ELEV. 홀 |h=150 |st=HAUD01	8
+T	실명	옥외공간 |h=150 |st=HAUD01	16
+T	실명	발코니1 |h=150 |st=HAUD01	7
+T	실명	하향식피난구 |h=150 |st=HAUD01	8
+T	실명	드레스룸 |h=150 |st=HAUD01	8
+T	실명	침실1 |h=150 |st=HAUD01	8
+T	실명	주방/식당 |h=150 |st=HAUD01	8
+T	실명	거실 |h=150 |st=HAUD01	8
+T	실명	현관 |h=150 |st=HAUD01	8
+T	실명	욕실1 |h=150 |st=HAUD01	8
+T	실명	펜트리 |h=150 |st=HAUD01	12
+T	실명	가족실 |h=150 |st=HAUD01	6
+T	실명	침실4 |h=150 |st=HAUD01	6
+T	실명	침실3 |h=150 |st=HAUD01	8
+T	실명	침실2 |h=150 |st=HAUD01	8
+B	DOOR	A$C7e5e6b13	1
+T	X - 단위세대$0$0_임시	900(180) |h=20 |st=HAUD02	1
+B	0	A$C747e36c8	2
+E	INSUL	Polyline	6
+LT	INSUL	ByLayer	6
+E	U-131B(확장)$0$MC	Line	2
+LT	U-131B(확장)$0$MC	ByLayer	2
+B	0	U-131B(확장)	1
+B	0	CO-101-23F	2
+H	A-SOL252	DASH s=10 a=180	4
+B	U-131A(확장)2$0$FUR_가구	U-131A(확장)2$0$식탁-1950x900	3
+E	U-131A(확장)2$0$FUR_가구	Arc	216
+E	U-131A(확장)2$0$FUR_가구	Line	216
+E	U-131A(확장)2$0$FUR_가구	Ellipse	216
+LT	U-131A(확장)2$0$FUR_가구	ByLayer	435
+E	U-131A(확장)2$0$FUR_가구	Polyline	3
+E	U-131A(확장)2$0$FUR	Line	2
+LT	U-131A(확장)2$0$FUR	U-131A(확장)2$0$HID	2
+B	0	U-131A(확장)2	2
+B	CONC	AW 1000	4
+B	0	CO-106-MF	2
+LT	CONC	ByBlock	50
+T	Def-PrintX	AV |h=100 |st=HAUD02	8
+B	0	CO-102-28F	4
+E	U-121B(확장)1$0$커튼박스	Line	2
+LT	U-121B(확장)1$0$커튼박스	U-121B(확장)1$0$H	4
+E	U-121B(확장)1$0$커튼박스	Polyline	2
+B	0	U-121B(확장)1	2
+E	HAT	Hatch	28
+H	HAT	_USER s=150 a=0	28
+E	HAT	Polyline	18
+LT	HAT	ByLayer	18
+B	AA-XXXX-UBR	펜트하우스욕실	4
+B	FUR	UBR 펜트하우스욕실 1500x2200	4
+B	DOOR	WD-900(200)	11
+T	X - 단위세대$0$0_임시	900(200) |h=20 |st=HAUD02	11
+B	FUR_가구	식탁-1950x900	14
+E	FUR_가구	Ellipse	1008
+E	커튼박스	Polyline	15
+B	U-121B(확장)1$0$X-단위세대-76A(확장) - 테라스3$0$FUR_가구	U-121B(확장)1$0$X-단위세대-76A(확장) - 테라스3$0$식탁-1300x800	4
+E	U-121B(확장)1$0$X-단위세대-76A(확장) - 테라스3$0$FUR_가구	Polyline	4
+E	U-121B(확장)1$0$X-단위세대-76A(확장) - 테라스3$0$FUR_가구	Arc	144
+LT	U-121B(확장)1$0$X-단위세대-76A(확장) - 테라스3$0$FUR_가구	ByLayer	180
+E	U-121B(확장)1$0$X-단위세대-76A(확장) - 테라스3$0$FUR_가구	Line	32
+B	0	U-121A(확장)1	2
+T	A-창호부호	1.27X2.49 |h=130 |st=HAUD01	1
+T	A-창호부호	2.07X2.49 |h=130 |st=HAUD01	1
+T	A-창호부호	3.57X2.49 |h=130 |st=HAUD01	1
+T	A-창호부호	2.07X1.54 |h=130 |st=HAUD01	1
+T	A-창호부호	0.9X2.1 |h=130 |st=HAUD01	4
+T	A-창호부호	3.57X2.04 |h=130 |st=HAUD01	2
+T	A-창호부호	1.17X2.49 |h=130 |st=HAUD01	1
+T	A-창호부호	1.77X2.49 |h=130 |st=HAUD01	8
+T	A-창호부호	3.27X2.49 |h=130 |st=HAUD01	3
+T	A-창호부호	0.97X2.49 |h=130 |st=HAUD01	2
+T	A-창호부호	AG |h=130 |st=HAUD01	8
+T	A-창호부호	1.0X2.21 |h=130 |st=HAUD01	8
+T	A-창호부호	1.1X2.2 |h=130 |st=HAUD01	8
+T	A-창호부호	1.77X1.54 |h=130 |st=HAUD01	8
+T	A-창호부호	3.27X2.04 |h=130 |st=HAUD01	2
+T	A-창호부호	1.47X2.04 |h=130 |st=HAUD01	4
+T	A-창호부호	PD |h=130 |st=HAUD01	31
+T	A-창호부호	1.47X2.49 |h=130 |st=HAUD01	10
+T	A-창호부호	FSD |h=130 |st=HAUD01	16
+T	A-창호부호	ABSD |h=130 |st=HAUD01	16
+T	A-창호부호	0.75X2.1 |h=130 |st=HAUD01	24
+T	A-창호부호	WD |h=130 |st=HAUD01	23
+T	A-창호부호	0.9X2.2 |h=130 |st=HAUD01	23
+T	A-창호부호	0.97X1.14 |h=130 |st=HAUD01	3
+T	A-창호부호	1.17X0.5 |h=130 |st=HAUD01	3
+T	A-창호부호	PW |h=130 |st=HAUD01	27
+T	A-창호부호	0.87X1.14 |h=130 |st=HAUD01	4
+E	A-창호부호	Text	612
+E	A-창호부호	Circle	306
+LT	A-창호부호	ByLayer	612
+E	A-창호부호	Line	306
+B	A-창호부호	A$C4D377245	306
+B	AA-XXXX-UBR	A$C91691f5a	1
+B	WIN	A$Cd15f0f88	2
+E	INSUL	MInsertBlock	45
+B	0	U-84B(기본)	1
+T	ROM	EPS/TPS |h=120 |st=HAUD01	4
+T	ROM	DN |h=120 |st=HAUD01	7
+T	ROM	UP |h=120 |st=HAUD01	6
+T	ROM	AV/PS |h=120 |st=HAUD01	2
+T	ROM	PS |h=120 |st=HAUD01	38
+E	ROM	Text	189
+T	실명	ELEV. 홀 |h=120 |st=HAUD01	8
+T	실명	팬트리 |h=120 |st=HAUD01	10
+T	실명	발코니2 |h=120 |st=HAUD01	8
+T	실명	거실 |h=120 |st=HAUD01	8
+T	실명	하향식피난구 |h=120 |st=HAUD01	8
+T	실명	발코니1 |h=120 |st=HAUD01	8
+T	실명	주방/식당 |h=120 |st=HAUD01	8
+T	실명	현관 |h=120 |st=HAUD01	8
+T	실명	침실3 |h=120 |st=HAUD01	8
+T	실명	침실2 |h=120 |st=HAUD01	8
+T	실명	욕실1 |h=120 |st=HAUD01	8
+T	실명	욕실2 |h=120 |st=HAUD01	8
+T	실명	드레스룸 |h=120 |st=HAUD01	7
+T	실명	침실1 |h=120 |st=HAUD01	8
+E	실명	Text	271
+LT	실명박스	ByLayer	255
+E	실명박스	Polyline	255
+LT	AA-XXXX-MC	ByLayer	194
+E	AA-XXXX-MC	Line	194
+B	FUR_가구	U-76B(확장)$0$식탁-1300x800	1
+E	U-76B(확장)$0$FUR_가구	Polyline	1
+E	U-76B(확장)$0$FUR_가구	Arc	36
+LT	U-76B(확장)$0$FUR_가구	ByLayer	45
+E	U-76B(확장)$0$FUR_가구	Line	8
+B	0	U-76B(확장)	1
+B	0	U-76A(확장)1	1
+E	바닥타일	Polyline	12
+B	U-76A(확장)$0$FUR_가구	U-76A(확장)$0$식탁-1300x800	5
+E	U-76A(확장)$0$FUR_가구	Polyline	5
+E	U-76A(확장)$0$FUR_가구	Arc	180
+LT	U-76A(확장)$0$FUR_가구	ByLayer	225
+E	U-76A(확장)$0$FUR_가구	Line	40
+B	0	U-76A(확장)	1
+T	Def-PrintX	정화조 PD |h=100 |st=HAUD02	2
+B	0	CO-103-MF	2
+B	0	U-84A(확장)2	1
+B	WIN	WIN_이중창_2100	3
+B	WIN	A$Cf0aabbe5	2
+B	FUR_가구	U-84B(확장)$0$식탁-1300x800	2
+E	U-84B(확장)$0$FUR_가구	Polyline	2
+E	U-84B(확장)$0$FUR_가구	Arc	72
+LT	U-84B(확장)$0$FUR_가구	ByLayer	90
+E	U-84B(확장)$0$FUR_가구	Line	16
+B	0	U-84B(확장)	1
+B	WIN	AW 1000	30
+T	Def-PrintX	AW 1000 |h=30 |st=Standard	34
+B	DOOR	FSD 계단문 1100	34
+T	Def-PrintX	FSD 계단문 1100 |h=30 |st=Standard	34
+T	Def-PrintX	AV/PS |h=100 |st=HAUD02	26
+E	A-STEEL	Line	364
+LT	A-STEEL	ByLayer	364
+T	Def-PrintX	EPS/TPS |h=100 |st=HAUD02	34
+T	Def-PrintX	PS |h=100 |st=HAUD02	58
+B	0	STA-1	32
+LT	논슬립	ByLayer	546
+E	논슬립	Polyline	546
+E	STAIR	Circle	68
+E	STAIR	Polyline	204
+LT	STAIR	ByLayer	1568
+E	STAIR	Line	1296
+E	WID	Line	204
+LT	WID	ByLayer	272
+B	점형블럭	점형블럭 300x300	68
+E	점형블럭	Line	272
+LT	점형블럭	ByLayer	2720
+E	점형블럭	Circle	2448
+B	0	ELE_17(비진입)	34
+T	defpoints	ELEV-18인승 |h=150 |st=맑은고딕	34
+E	defpoints	Text	34
+E	ELEV-ER	Line	1394
+LT	ELEV-ER	ByLayer	1666
+E	ELEV-ER	Polyline	272
+B	0	A$C6A5147ED	34
+E	WID	Polyline	68
+B	WIN	AW 900	24
+T	Def-PrintX	AW 900 |h=30 |st=Standard	24
+B	AA-XXXX-TEXT#LEV	A$C38A1636F	128
+E	xr-101_102동-2F$0$AA-DWXM-DOOR(PS점검구)	Arc	128
+T	xr-101_102동-2F$0$DEFPOINT	500x1000 |h=30 |st=xr-101_102동-2F$0$HAUD01	128
+E	xr-101_102동-2F$0$DEFPOINT	Text	128
+E	xr-101_102동-2F$0$AA-DWXM-DOOR(PS점검구)	Line	256
+LT	xr-101_102동-2F$0$AA-DWXM-DOOR(PS점검구)	ByLayer	768
+E	xr-101_102동-2F$0$AA-DWXM-DOOR(PS점검구)	Polyline	384
+B	0	CO-101-MF	2
+B	0	U-84A(확장)	1
+B	WIN	WIN_이중창_3600	21
+B	WIN	WIN_1500_단창2	19
+E	확장	Polyline	139
+LT	확장	ByLayer	139
+E	X - 단위세대$0$ETC	Arc	12
+B	WIN	WIN_1500_단창1	19
+B	DOOR	PD-900(140)	34
+T	X - 단위세대$0$0_임시	900(140) |h=20 |st=HAUD02	34
+B	WIN	WIN_이중창_1200	22
+B	0	WIN_900_단창2	20
+B	U-84A(확장)$0$FUR_가구	U-84A(확장)$0$식탁-1300x800	5
+E	U-84A(확장)$0$FUR_가구	Polyline	5
+E	U-84A(확장)$0$FUR_가구	Arc	180
+LT	U-84A(확장)$0$FUR_가구	ByLayer	225
+E	U-84A(확장)$0$FUR_가구	Line	40
+B	0	U-84A(확장)1	3
+B	AA-XXXX-UBR	A$C84b07bde	22
+B	FUR_가구	식탁-1300x800	13
+B	WIN	WIN_이중창_1000	33
+B	SINA-F-FRAME	A$C3C3C21E6	78
+B	0	U-76A(기본)	3
+E	CEN_CON	Line	1464
+LT	CEN_CON	ByLayer	1464
+E	INS	Polyline	120
+LT	INS	ByLayer	2788
+E	A-SOL252	Hatch	178
+H	A-SOL252	DASH s=10 a=0	174
+B	FUR_가구	A$Ca96da67e	41
+E	FUR_가구	Line	1198
+LT	FUR_가구	ByLayer	2763
+E	FUR_가구	Polyline	71
+B	수전	FD	34
+E	수전	Line	2618
+LT	수전	ByLayer	3502
+E	수전	Polyline	68
+B	수전	수전	102
+E	수전	Circle	102
+E	수전	Arc	714
+E	Defpoint	Circle	59
+LT	Defpoint	ByLayer	841
+E	INS	Line	2668
+B	AA-XXXX-UBR	A$C4e4a4905	33
+E	AA-XXXX-UBR	Line	102
+T	Defpoint	경량 |h=15 |st=HAUD01	252
+E	Defpoint	Polyline	100
+T	Defpoint	수전 |h=15 |st=HAUD01	104
+T	Defpoint	RC,조적 |h=15 |st=HAUD01	88
+E	Defpoint	Text	454
+LT	AA-XXXX-UBR	ByLayer	391
+E	AA-XXXX-UBR	Polyline	289
+D	Defpoint	HAUD-100 RotatedDimension	696
+E	Defpoint	RotatedDimension	696
+B	AA-XXXX-UBR	A$Cc7c48d2b	6
+T	Defpoint	RC |h=15 |st=HAUD01	6
+B	0	X - 단위세대$0$200207-발코니배수구	34
+E	X - 단위세대$0$ETC	Line	296
+LT	X - 단위세대$0$ETC	ByLayer	624
+E	X - 단위세대$0$ETC	Circle	102
+B	ETC	A$C24669fbc	34
+LT	ETC	HD	204
+E	ETC	Polyline	204
+B	A-ELE8	A$C8273e713	34
+E	A-ELE8	Line	68
+LT	A-ELE8	HID	102
+E	A-ELE8	Polyline	34
+E	바닥타일	Hatch	204
+H	바닥타일	_USER s=300 a=0	198
+E	바닥타일	Line	48
+LT	바닥타일	ByLayer	60
+E	MC	Line	1556
+LT	MC	ByLayer	1556
+E	WAL_DRY	Line	6218
+LT	WAL_DRY	ByLayer	6218
+E	CEN_WALL	Line	767
+LT	CEN_WALL	ByLayer	767
+E	WAL	Line	1254
+LT	WAL	ByLayer	1254
+E	FIN	Line	682
+LT	FIN	ByLayer	682
+E	ELE3_CON	Line	604
+LT	ELE3_CON	ByLayer	604
+E	ELE4	Line	289
+LT	ELE4	ByLayer	289
+E	FUR	Polyline	2417
+LT	FUR	ByLayer	31177
+E	커튼박스	Line	279
+LT	커튼박스	H	294
+B	FUR	UBR 공용욕실 1500x2200	30
+B	FUR	A$C8b7e2aca	34
+E	FUR	Circle	1014
+B	FUR	A$C26a53a47	68
+E	FUR	Arc	13174
+E	FUR	Spline	4420
+B	FUR	A$Cc42cb16b	68
+E	FUR	Line	14618
+B	FUR	UBR 부부욕실 1600x2300	34
+B	DOOR	SD_750	34
+E	DOOR	Arc	264
+T	Def-PrintX	750 |h=30 |st=Standard	34
+E	Def-PrintX	Text	254
+E	DOOR	Polyline	666
+LT	X - 단위세대$0$0_임시	ByLayer	344
+E	X - 단위세대$0$0_임시	Line	344
+LT	DOOR	ByLayer	1945
+E	DOOR	Line	1015
+B	DOOR	DOOR-800(100)	58
+T	X - 단위세대$0$0_임시	800(100) |h=20 |st=HAUD02	58
+E	X - 단위세대$0$0_임시	Text	138
+E	dan1	Line	126
+LT	dan1	ByLayer	295
+E	dan1	Polyline	169
+B	0	실외기창_1000	34
+E	WIN	Line	4552
+LT	WIN	ByLayer	9440
+E	WIN	Polyline	4888
+E	CONC	Line	5663
+LT	CONC	ByLayer	5615
+B	WIN	WIN_이중창_1500	32
+E	Defpoint	Line	682
+E	A_HAT	Hatch	292
+H	A_HAT	ANSI31 s=10 a=0	288
+B	WIN	WIN_이중창_3300-2	26
+B	WIN	WIN_이중창_1800	104
+E	INS	MInsertBlock	735
+LT	FUR	HID	46
+E	FUR_가전	Polyline	185
+LT	FUR_가전	ByLayer	471
+B	FUR_가구	식탁-900x800	1
+E	FUR_가구	Arc	1494
+B	WIN	WIN_이중창_1200(2)	1
+B	FUR_가전	세탁기-850	34
+T	FUR_가전	세탁기 |h=75 |st=맑은 고딕	34
+E	FUR_가전	Text	34
+E	FUR_가전	Circle	238
+E	FUR_가전	Line	40
+LT	defpoints	ByLayer	1024
+E	defpoints	Polyline	180
+B	DOOR	FSD-1100(100)	34
+T	X - 단위세대$0$0_임시	1100(100) |h=20 |st=HAUD02	34
+E	X - 단위세대$0$ETC	Polyline	214
+B	SINA-F-FRAME	A$C65D858C3	34
+LT	평면도(기준)$0$1.EC-F-DOOR	평면도(기준)$0$CENTER2	116
+E	평면도(기준)$0$1.EC-F-DOOR	Arc	116
+LT	평면도(기준)$0$1.EC-F-DOOR	ByLayer	580
+E	평면도(기준)$0$1.EC-F-DOOR	Polyline	580
+LT	평면도(기준)$0$1.EC-F-DOOR-F	ByLayer	928
+E	평면도(기준)$0$1.EC-F-DOOR-F	Polyline	928
+B	SINA-F-FRAME	A$C016A76E2	68
+H	SINA-F-단표시	AR-SAND s=10 a=90	68
+E	SINA-F-단표시	Hatch	68
+LT	SINA-F-DOOR	평면도(기준)$0$ACAD_ISO04W100	68
+E	SINA-F-DOOR	Arc	68
+LT	SINA-F-FRAME	ByLayer	558
+E	SINA-F-FRAME	Polyline	452
+LT	SINA-F-단표시	ByLayer	136
+E	SINA-F-단표시	Line	136
+LT	SINA-F-DOOR	ByLayer	340
+E	SINA-F-DOOR	Polyline	340
+LT	84 A$0$0 TILE LINE & HATCH	ByLayer	68
+E	84 A$0$0 TILE LINE & HATCH	Line	68
+B	SINA-F-FRAME	A$C40FE212C	2
+E	SINA-F-FRAME	Line	106
+B	SINA-F-FRAME	A$C522D3D59	2
+B	FUR	싱크	44
+LT	defpoints	-HID	132
+E	FUR	Face	1496
+B	FUR_가전	K-sink	44
+E	defpoints	Line	976
+B	F-FUR-설치	쿡탑	44
+E	FUR	Ellipse	132
+B	0	U-76B(기본)	1

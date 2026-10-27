@@ -1,0 +1,157 @@
+{
+ "windows": [
+  {
+   "room": "주방/식당",
+   "side": "E",
+   "width": 1300,
+   "block": "A$Cd15f0f88",
+   "wall": "W35"
+  },
+  {
+   "room": "침실3",
+   "side": "S",
+   "width": 1800,
+   "block": "WIN_이중창_1800",
+   "wall": "W25"
+  },
+  {
+   "room": "침실1",
+   "side": "S",
+   "width": 1500,
+   "block": "WIN_이중창_1500",
+   "wall": "W19"
+  },
+  {
+   "room": "거실",
+   "side": "S",
+   "width": 3600,
+   "block": "WIN_이중창_3600",
+   "wall": "W25"
+  },
+  {
+   "room": "침실2",
+   "side": "S",
+   "width": 1800,
+   "block": "WIN_이중창_1800",
+   "wall": "W25"
+  },
+  {
+   "room": "침실1",
+   "side": "E",
+   "width": 2100,
+   "block": "WIN_이중창_2100",
+   "wall": "W29"
+  },
+  {
+   "room": "하향식피난구",
+   "side": "S",
+   "width": 1000,
+   "block": "실외기창_1000",
+   "wall": "W28"
+  }
+ ],
+ "doors": [
+  {
+   "pair": [
+    "현관",
+    "ELEV. 홀"
+   ],
+   "width_bbox": 1120,
+   "block": "FSD-1100(100)",
+   "wall": "W7"
+  },
+  {
+   "pair": [
+    "침실2",
+    "거실"
+   ],
+   "width_bbox": 980,
+   "block": "A$C3C3C21E6",
+   "wall": "W22"
+  },
+  {
+   "pair": [
+    "침실3",
+    "거실"
+   ],
+   "width_bbox": 980,
+   "block": "A$C3C3C21E6",
+   "wall": "W22"
+  },
+  {
+   "pair": [
+    "욕실1",
+    "거실"
+   ],
+   "width_bbox": 820,
+   "block": "A$C016A76E2",
+   "wall": "W3"
+  },
+  {
+   "pair": [
+    "거실",
+    "침실1"
+   ],
+   "width_bbox": 980,
+   "block": "A$C65D858C3",
+   "wall": "W27"
+  },
+  {
+   "pair": [
+    "침실1",
+    "욕실2"
+   ],
+   "width_bbox": 820,
+   "block": "A$C016A76E2",
+   "wall": "W31"
+  },
+  {
+   "pair": [
+    "거실",
+    "팬트리"
+   ],
+   "width_bbox": 820,
+   "block": "DOOR-800(100)",
+   "wall": "W20"
+  },
+  {
+   "pair": [
+    "발코니1",
+    "하향식피난구"
+   ],
+   "width_bbox": 770,
+   "block": "SD_750",
+   "wall": "W18"
+  }
+ ],
+ "ubr": [
+  {
+   "room": "욕실1",
+   "body": "UBR 공용욕실 1500x2200",
+   "panel": "A$C84b07bde",
+   "bbox": [
+    205,
+    4165,
+    1705,
+    6365
+   ]
+  },
+  {
+   "room": "욕실2",
+   "body": "UBR 부부욕실 1600x2300",
+   "panel": "A$C91691f5a",
+   "bbox": [
+    10965,
+    5630,
+    12565,
+    7930
+   ]
+  }
+ ],
+ "kitchen_blocks": [
+  "세탁기-850",
+  "싱크",
+  "쿡탑"
+ ],
+ "walls_default": []
+}
